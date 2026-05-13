@@ -6,6 +6,7 @@ import TrustStrip from '../../components/sections/TrustStrip.astro';
 import PageBody from '../../components/sections/PageBody.astro';
 import SchemaArticle from '../../components/seo/SchemaArticle.astro';
 import SchemaFAQ from '../../components/seo/SchemaFAQ.astro';
+import { heroImageUrl } from '../../lib/heroImage.ts';
 
 const all = await getCollection('pages');
 const entry = all.find((e) => e.data.url === '/industries');
@@ -25,7 +26,7 @@ const { Content } = await entry.render();
 >
   <SchemaArticle headline={page.h1} description={page.metaDescription} url={page.canonical} keywords={page.tags} />
   <SchemaFAQ faqs={page.faq} />
-  <HeroImage eyebrow={page.heroEyebrow} h1={page.h1} subhead={page.heroSubhead} ctaPrimary={page.heroCTAPrimary} ctaSecondary={page.heroCTASecondary} stats={page.heroStats} />
+  <HeroImage bgImage={heroImageUrl({ url: page.url, tags: page.tags, pageType: page.pageType })} eyebrow={page.heroEyebrow} h1={page.h1} subhead={page.heroSubhead} ctaPrimary={page.heroCTAPrimary} ctaSecondary={page.heroCTASecondary} stats={page.heroStats} />
   <TrustStrip />
   <section class="py-12 md:py-16 bg-white"><div class="container-main"><article class="prose-vds"><Content /></article></div></section>
   <PageBody body="" faq={page.faq} finalCTAHeading={page.finalCTAHeading} finalCTABody={page.finalCTABody} finalCTAButtons={page.finalCTAButtons} />

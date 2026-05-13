@@ -1,0 +1,63 @@
+---
+// Global motion script — IntersectionObserver-based reveal + animated counter
+---
+<script is:inline>
+(function() {
+  if (typeof window === 'undefined' || !('IntersectionObserver' in window)) return;
+  const prefersReduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  if (prefersReduced) return;
+
+  // Auto-tag candidates: every section, every card, hero stat blocks
+  document.querySelectorAll('section, .reveal-auto, .grid > * ').forEach((el, idx) => {
+    if (el.closest('header, footer')) return;
+    if (el.classList.contains('reveal')) return;
+    // Skip if explicitly opted out
+    if (el.dataset.noReveal !== undefined) return;
+    el.classList.add('reveal');
+  });
+
+  // Staggered children inside grids
+  document.querySelectorAll('.grid').forEach((grid) => {
+    Array.from(grid.children).forEach((child, idx) => {
+      if (idx < 6) child.style.setProperty('--stagger-delay', (idx * 60) + 'ms');
+    });
+  });
+
+  const obs = new IntersectionObserver((entries) => {
+    entries.forEach((e) => {
+      if (e.isIntersecting) {
+        e.target.classList.add('is-visible');
+        // Trigger count-up if applicable
+        const counters = e.target.querySelectorAll('.hero-stat-value[data-target]');
+        counters.forEach(animateCounter);
+        obs.unobserve(e.target);
+      }
+    });
+  }, { threshold: 0.12, rootMargin: '0px 0px -8% 0px' });
+
+  document.querySelectorAll('.reveal').forEach((el) => obs.observe(el));
+
+  function animateCounter(el) {
+    const targetStr = el.getAttribute('data-target') || '';
+    const m = targetStr.match(/(\D*)([\d,.]+)(\D*)/);
+    if (!m) return;
+    const prefix = m[1] || '';
+    const target = parseFloat(m[2].replace(/,/g, ''));
+    const suffix = m[3] || '';
+    const decimals = (m[2].split('.')[1] || '').length;
+    if (isNaN(target)) return;
+    const dur = 1200;
+    const start = performance.now();
+    function tick(now) {
+      const t = Math.min(1, (now - start) / dur);
+      const eased = 1 - Math.pow(1 - t, 3);
+      const val = target * eased;
+      const formatted = decimals > 0 ? val.toFixed(decimals) : Math.round(val).toLocaleString('en-US');
+      el.textContent = prefix + formatted + suffix;
+      if (t < 1) requestAnimationFrame(tick);
+      else el.textContent = prefix + (decimals > 0 ? target.toFixed(decimals) : target.toLocaleString('en-US')) + suffix;
+    }
+    requestAnimationFrame(tick);
+  }
+})();
+</script>

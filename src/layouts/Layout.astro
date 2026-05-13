@@ -5,6 +5,7 @@ import Footer from '../components/sections/Footer.astro';
 import AnnouncementBar from '../components/nav/AnnouncementBar.astro';
 import SchemaOrganization from '../components/seo/SchemaOrganization.astro';
 import SchemaBreadcrumb from '../components/seo/SchemaBreadcrumb.astro';
+import MotionScript from '../components/util/MotionScript.astro';
 
 export interface Props {
   title: string;
@@ -93,5 +94,6 @@ const finalOgDesc = ogDescription || description;
       <slot />
     </main>
     {!noNav && <Footer />}
+    <MotionScript />
   </body>
 </html>

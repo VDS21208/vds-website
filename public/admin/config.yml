@@ -2,14 +2,14 @@ backend:
   name: github
   repo: VDS21208/vds-website
   branch: main
-  base_url: https://vds-website.vercel.app
+  base_url: https://vds-website-omega.vercel.app
   auth_endpoint: api/auth
 
 publish_mode: editorial_workflow
 media_folder: "public/assets/uploads"
 public_folder: "/assets/uploads"
-site_url: https://vds-website.vercel.app
-display_url: https://vds-website.vercel.app
+site_url: https://vds-website-omega.vercel.app
+display_url: https://vds-website-omega.vercel.app
 logo_url: /assets/vds-logo.svg
 
 collections:
