@@ -2,14 +2,16 @@
 url: /about-us
 collection: singletons
 pageType: About
-parent: ''
+parent: ""
 status: Launch
 seoTitle: About VDS | Mobile Security Infrastructure
-metaDescription: VDS builds solar-autonomous mobile security units, runs a camera-agnostic cloud VMS, and staffs a 24/7 US SOC
-announcementBar: ''
+metaDescription: VDS builds solar-autonomous mobile security units, runs a
+  camera-agnostic cloud VMS, and staffs a 24/7 US SOC
+announcementBar: ""
 h1: We build the infrastructure that watches sites no one else will.
 heroEyebrow: About VDS
-heroSubhead: Founded in 2017. Assembled in Pikesville, Maryland. 500+ deployments across 30+ states. NDAA Section 889 compliant. AWS Cloud Partner.
+heroSubhead: Founded in 2017. Assembled in Pikesville, Maryland. 500+
+  deployments across 30+ states. NDAA Section 889 compliant. AWS Cloud Partner.
 heroCTAPrimary:
   label: See why customers switch [/about/why-vds-exists]
   url: /request-a-quote
@@ -17,36 +19,48 @@ heroCTASecondary:
   label: Review our Trust Center [/about/trust-center]
   url: /request-a-quote
 heroStats:
-- 7 years field data
-- 500+ deployments
-- 30+ states
-- NDAA-compliant
-- AWS Partner
-- 24/7 US-staffed SOC
-heroImage: ''
+  - 7 years field data
+  - 500+ deployments
+  - 30+ states
+  - NDAA-compliant
+  - AWS Partner
+  - 24/7 US-staffed SOC
+heroImage: ""
 faq:
-- q: Where is VDS headquartered?
-  a: Pikesville, Maryland. Hardware is assembled domestically at our facility there. The SOC is US-staffed. All customer data resides in US-based AWS regions.
-- q: How long has VDS been operating?
-  a: Founded in 2017. Seven years of field deployment data across 500+ units in 30+ states.
-- q: Who owns VDS?
-  a: VDS is privately held and led by David Weingot (CEO) and Steve Weingot. See the Leadership page for full bios.
-- q: Is VDS a reseller or a manufacturer?
-  a: Both, and that is intentional. We manufacture our mobile units, we operate the VMS that runs on them, and we staff the SOC that monitors them. A single customer contract covers all three.
-- q: How do I evaluate VDS for an enterprise procurement process?
-  a: Start with the Trust Center for compliance documentation, then request a quote with deployment specifics. Most enterprise evaluations close in 14 to 21 days from first call to signed contract.
+  - q: Where is VDS headquartered?
+    a: Pikesville, Maryland. Hardware is assembled domestically at our facility
+      there. The SOC is US-staffed. All customer data resides in US-based AWS
+      regions.
+  - q: How long has VDS been operating?
+    a: Founded in 2017. Seven years of field deployment data across 500+ units in
+      30+ states.
+  - q: Who owns VDS?
+    a: VDS is privately held and led by David Weingot (CEO) and Joe Kruk (Founder &
+      CTO). See the Leadership page for full bios.
+  - q: Is VDS a reseller or a manufacturer?
+    a: Both, and that is intentional. We manufacture our mobile units, we operate
+      the VMS that runs on them, and we staff the SOC that monitors them. A
+      single customer contract covers all three.
+  - q: How do I evaluate VDS for an enterprise procurement process?
+    a: Start with the Trust Center for compliance documentation, then request a
+      quote with deployment specifics. Most enterprise evaluations close in 14
+      to 21 days from first call to signed contract.
 finalCTAHeading: Two ways to start.
-finalCTABody: If you want to see the platform, book a 30-minute demo. If you already know what you need, request a quote with deployment count and timeline.
+finalCTABody: If you want to see the platform, book a 30-minute demo. If you
+  already know what you need, request a quote with deployment count and
+  timeline.
 finalCTAButtons:
-- label: Schedule a demo [/schedule-a-demo]
-  url: Request a quote [/request-a-quote]
+  - label: Schedule a demo [/schedule-a-demo]
+    url: Request a quote [/request-a-quote]
 schemaType: Organization, AboutPage
 canonical: https://visiondetectionsystems.com/about-us
 ogTitle: We build the infrastructure that watches sites no one else will.
-ogDescription: VDS builds solar-autonomous mobile security units, runs a camera-agnostic cloud VMS, and staffs a 24/7 US SOC
+ogDescription: VDS builds solar-autonomous mobile security units, runs a
+  camera-agnostic cloud VMS, and staffs a 24/7 US SOC
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg
 ogType: website
 robots: index, follow
+author: Joe Kruk
 tags: mobile surveillance, VDS
 ---
 
