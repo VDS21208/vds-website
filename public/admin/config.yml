@@ -1,0 +1,261 @@
+backend:
+  name: github
+  repo: VDS21208/vds-website
+  branch: main
+  base_url: https://vds-website.vercel.app
+  auth_endpoint: api/auth
+
+publish_mode: editorial_workflow
+media_folder: "public/assets/uploads"
+public_folder: "/assets/uploads"
+site_url: https://vds-website.vercel.app
+display_url: https://vds-website.vercel.app
+logo_url: /assets/vds-logo.svg
+
+collections:
+  - name: "singletons"
+    label: "Top-level pages"
+    label_singular: "page"
+    folder: "src/content/pages/singletons"
+    extension: "md"
+    format: "frontmatter"
+    create: false
+    slug: "{{slug}}"
+    summary: "{{h1}} — {{url}}"
+    fields: &page_fields
+      - { label: "URL (do not change)", name: "url", widget: "string" }
+      - { label: "Collection", name: "collection", widget: "hidden" }
+      - { label: "Page type", name: "pageType", widget: "string", required: false }
+      - { label: "Parent", name: "parent", widget: "string", required: false }
+      - { label: "Status", name: "status", widget: "select", options: ["Launch", "Expansion"], default: "Launch" }
+      - { label: "SEO title (≤60 chars)", name: "seoTitle", widget: "string", pattern: ['^.{1,60}$', "Max 60 characters"] }
+      - { label: "Meta description (≤155 chars)", name: "metaDescription", widget: "text", pattern: ['^.{1,155}$', "Max 155 characters"] }
+      - { label: "Announcement bar (optional)", name: "announcementBar", widget: "string", required: false }
+      - { label: "H1", name: "h1", widget: "string" }
+      - { label: "Hero eyebrow", name: "heroEyebrow", widget: "string", required: false }
+      - { label: "Hero subhead", name: "heroSubhead", widget: "text", required: false }
+      - label: "Hero CTA — primary"
+        name: "heroCTAPrimary"
+        widget: "object"
+        required: false
+        fields:
+          - { label: "Label", name: "label", widget: "string" }
+          - { label: "URL", name: "url", widget: "string" }
+      - label: "Hero CTA — secondary"
+        name: "heroCTASecondary"
+        widget: "object"
+        required: false
+        fields:
+          - { label: "Label", name: "label", widget: "string" }
+          - { label: "URL", name: "url", widget: "string" }
+      - label: "Hero stats / badges"
+        name: "heroStats"
+        widget: "list"
+        required: false
+        field: { label: "Stat", name: "value", widget: "string", hint: "Format: 'value · label' (e.g. '$1,500/mo · Starting price')" }
+      - { label: "Hero image (uploaded)", name: "heroImage", widget: "image", required: false, allow_multiple: false }
+      - label: "FAQ items"
+        name: "faq"
+        widget: "list"
+        required: false
+        fields:
+          - { label: "Question", name: "q", widget: "string" }
+          - { label: "Answer", name: "a", widget: "markdown" }
+      - { label: "Final CTA — heading", name: "finalCTAHeading", widget: "string", required: false }
+      - { label: "Final CTA — body", name: "finalCTABody", widget: "text", required: false }
+      - label: "Final CTA — buttons"
+        name: "finalCTAButtons"
+        widget: "list"
+        required: false
+        fields:
+          - { label: "Label", name: "label", widget: "string" }
+          - { label: "URL", name: "url", widget: "string" }
+      - { label: "Schema type", name: "schemaType", widget: "select", options: ["Article", "Product", "Service", "LocalBusiness", "FAQPage", "BlogPosting", "Organization"], default: "Article" }
+      - { label: "Internal links (comma-separated)", name: "internalLinks", widget: "text", required: false }
+      - { label: "Canonical URL", name: "canonical", widget: "string", required: false }
+      - { label: "OG title", name: "ogTitle", widget: "string", required: false }
+      - { label: "OG description", name: "ogDescription", widget: "text", required: false }
+      - { label: "OG image", name: "ogImage", widget: "image", required: false }
+      - { label: "OG type", name: "ogType", widget: "select", options: ["website", "article", "product"], default: "website" }
+      - { label: "Robots meta", name: "robots", widget: "string", default: "index, follow" }
+      - { label: "Speakable selectors (AEO)", name: "speakable", widget: "string", required: false }
+      - { label: "Author", name: "author", widget: "string", default: "Vision Detection Systems" }
+      - { label: "Tags / keywords", name: "tags", widget: "text", required: false }
+      - { label: "Notes (internal — not displayed)", name: "notes", widget: "text", required: false }
+      - { label: "Body (Markdown)", name: "body", widget: "markdown" }
+
+  - name: "products"
+    label: "Products"
+    label_singular: "product"
+    folder: "src/content/pages/products"
+    extension: "md"
+    format: "frontmatter"
+    create: true
+    slug: "{{slug}}"
+    summary: "{{h1}}"
+    fields: *page_fields
+
+  - name: "industries"
+    label: "Industries"
+    label_singular: "industry"
+    folder: "src/content/pages/industries"
+    extension: "md"
+    format: "frontmatter"
+    create: true
+    slug: "{{slug}}"
+    summary: "{{h1}}"
+    fields: *page_fields
+
+  - name: "compare"
+    label: "Compare pages"
+    label_singular: "comparison"
+    folder: "src/content/pages/compare"
+    extension: "md"
+    format: "frontmatter"
+    create: true
+    slug: "{{slug}}"
+    summary: "{{h1}}"
+    fields: *page_fields
+
+  - name: "platform"
+    label: "Platform"
+    label_singular: "platform page"
+    folder: "src/content/pages/platform"
+    extension: "md"
+    format: "frontmatter"
+    create: true
+    slug: "{{slug}}"
+    summary: "{{h1}}"
+    fields: *page_fields
+
+  - name: "services"
+    label: "Services"
+    label_singular: "service"
+    folder: "src/content/pages/services"
+    extension: "md"
+    format: "frontmatter"
+    create: true
+    slug: "{{slug}}"
+    summary: "{{h1}}"
+    fields: *page_fields
+
+  - name: "solutions"
+    label: "Solutions"
+    label_singular: "solution"
+    folder: "src/content/pages/solutions"
+    extension: "md"
+    format: "frontmatter"
+    create: true
+    slug: "{{slug}}"
+    summary: "{{h1}}"
+    fields: *page_fields
+
+  - name: "guides"
+    label: "Guides"
+    label_singular: "guide"
+    folder: "src/content/pages/guides"
+    extension: "md"
+    format: "frontmatter"
+    create: true
+    slug: "{{slug}}"
+    summary: "{{h1}}"
+    fields: *page_fields
+
+  - name: "use-cases"
+    label: "Use cases"
+    label_singular: "use case"
+    folder: "src/content/pages/use-cases"
+    extension: "md"
+    format: "frontmatter"
+    create: true
+    slug: "{{slug}}"
+    summary: "{{h1}}"
+    fields: *page_fields
+
+  - name: "blog"
+    label: "Blog posts"
+    label_singular: "post"
+    folder: "src/content/pages/blog"
+    extension: "md"
+    format: "frontmatter"
+    create: true
+    slug: "{{slug}}"
+    summary: "{{h1}}"
+    fields: *page_fields
+
+  - name: "case-studies"
+    label: "Case studies"
+    label_singular: "case study"
+    folder: "src/content/pages/case-studies"
+    extension: "md"
+    format: "frontmatter"
+    create: true
+    slug: "{{slug}}"
+    summary: "{{h1}}"
+    fields: *page_fields
+
+  - name: "about-us"
+    label: "About"
+    label_singular: "about page"
+    folder: "src/content/pages/about-us"
+    extension: "md"
+    format: "frontmatter"
+    create: true
+    slug: "{{slug}}"
+    summary: "{{h1}}"
+    fields: *page_fields
+
+  - name: "integrations"
+    label: "Integrations"
+    label_singular: "integration"
+    folder: "src/content/pages/integrations"
+    extension: "md"
+    format: "frontmatter"
+    create: true
+    slug: "{{slug}}"
+    summary: "{{h1}}"
+    fields: *page_fields
+
+  - name: "partners"
+    label: "Partners"
+    label_singular: "partner page"
+    folder: "src/content/pages/partners"
+    extension: "md"
+    format: "frontmatter"
+    create: true
+    slug: "{{slug}}"
+    summary: "{{h1}}"
+    fields: *page_fields
+
+  - name: "pricing"
+    label: "Pricing"
+    label_singular: "pricing page"
+    folder: "src/content/pages/pricing"
+    extension: "md"
+    format: "frontmatter"
+    create: true
+    slug: "{{slug}}"
+    summary: "{{h1}}"
+    fields: *page_fields
+
+  - name: "locations-state"
+    label: "Locations — states"
+    label_singular: "state page"
+    folder: "src/content/pages/locations-state"
+    extension: "md"
+    format: "frontmatter"
+    create: true
+    slug: "{{slug}}"
+    summary: "{{h1}}"
+    fields: *page_fields
+
+  - name: "locations-city"
+    label: "Locations — cities"
+    label_singular: "city page"
+    folder: "src/content/pages/locations-city"
+    extension: "md"
+    format: "frontmatter"
+    create: true
+    slug: "{{slug}}"
+    summary: "{{h1}}"
+    fields: *page_fields
