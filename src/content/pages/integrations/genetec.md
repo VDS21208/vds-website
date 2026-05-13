@@ -34,7 +34,7 @@ finalCTAButtons:
 - label: Book Genetec integration call
   url: Read API + SDK docs
 schemaType: Article
-internalLinks: /integrations, /platform/ai-visionstream, /platform/api-sdk-access, /soc, /hardware/solar-trailers
+internalLinks: /integrations, /platform/platform, /platform/api-sdk-access, /platform/soc, /hardware/solar-trailers
 canonical: https://visiondetectionsystems.com/integrations/genetec
 ogTitle: VDS + Genetec Security Center
 ogDescription: VDS cameras stream to Genetec Security Center via ONVIF. SOC alerts POST in as bookmarks and alarms. Native plugin, setup in days, not months.

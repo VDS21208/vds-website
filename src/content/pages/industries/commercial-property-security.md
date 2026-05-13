@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Get a Property Assessment
   url: See Pricing
 schemaType: Article
-internalLinks: /industries/construction | /products/sky-guard | /products/swift-deploy | /platform/ai-visionstream | /pricing
+internalLinks: /industries/construction-site-security | /products/sky-guard | /products/swift-deploy-surveillance-trailer | /platform/platform | /pricing
 canonical: https://visiondetectionsystems.com/industries/commercial-property-security
 ogTitle: Surveillance for Class A Office, Multi-Family, and Mixed-Use
 ogDescription: Mobile surveillance for Class A office, multi-family, and mixed-use properties. Covers construction-to-occupancy gap. 24/7 US SOC, AI LPR, NDAA-compliant.

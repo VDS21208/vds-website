@@ -36,7 +36,7 @@ finalCTAButtons:
 - label: Download the Guide (PDF)
   url: Schedule a Demo
 schemaType: Book
-internalLinks: /platform/ai-visionstream, /industries/logistics, /industries/law-enforcement, /services/video-retrieval
+internalLinks: /platform/platform, /industries/warehouse-logistics-security, /industries/law-enforcement, /services/video-retrieval
 canonical: https://visiondetectionsystems.com/guides/license-plate-recognition
 ogTitle: 'License Plate Recognition: A Technical Guide'
 ogDescription: How LPR works, accuracy under real conditions, privacy and state-law constraints, deployment scenarios. Free 32-page technical guide from VDS.
@@ -114,9 +114,9 @@ LPR is the most misunderstood AI feature in physical security right now. Vendors
 
 ## Free excerpts
 
-- [The 8 most common LPR deployment mistakes](/guides/license-plate-recognition/common-mistakes)
-- [State-by-state LPR privacy table (2026)](/guides/license-plate-recognition/state-privacy)
-- [LPR camera spec checklist (PDF)](/guides/license-plate-recognition/camera-checklist)
+- [The 8 most common LPR deployment mistakes](/guides/license-plate-recognition)
+- [State-by-state LPR privacy table (2026)](/guides/license-plate-recognition)
+- [LPR camera spec checklist (PDF)](/guides/license-plate-recognition)
 
 ## VDS LPR at a glance
 

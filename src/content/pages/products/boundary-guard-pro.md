@@ -37,9 +37,9 @@ finalCTAButtons:
 - label: Request a Quote
   url: /request-a-quote
 - label: Talk to an Engineer
-  url: /contact
+  url: /contact-us
 schemaType: Product
-internalLinks: /products/sky-guard-msu, /products/swift-deploy-trailer, /ai-visionstream, /soc, /industries/construction, /industries/utilities, /industries/solar-farms
+internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /platform, /platform/soc, /industries/construction-site-security, /industries/utility-substation-security, /industries/solar-farms
 canonical: https://visiondetectionsystems.com/products/boundary-guard-pro
 ogTitle: Boundary Guard Pro. 500+ feet of fence line, no blind spots.
 ogDescription: 500+ linear feet of perimeter coverage with no blind spots. Solar-autonomous, AI analytics, US SOC monitoring. From $1,800/mo.

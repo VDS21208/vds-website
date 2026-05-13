@@ -36,7 +36,7 @@ finalCTAButtons:
 - label: Book the architecture call
   url: Send your site list
 schemaType: Article
-internalLinks: /compare, /platform, /soc, /verticals/commercial-real-estate
+internalLinks: /compare, /platform, /platform/soc, /verticals/commercial-real-estate
 canonical: https://visiondetectionsystems.com/compare/vds-vs-pro-vigil
 ogTitle: VDS vs. Pro-Vigil
 ogDescription: Pro-Vigil runs virtual guards with 24-second response claim. VDS combines hardware, VMS, and SOC under one roof with <60s escalation and 97% false alarm

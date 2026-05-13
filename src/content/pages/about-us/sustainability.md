@@ -14,7 +14,7 @@ heroCTAPrimary:
   label: See the platform [/platform]
   url: /request-a-quote
 heroCTASecondary:
-  label: Request unit-level energy data [/contact]
+  label: Request unit-level energy data [/contact-us]
   url: /request-a-quote
 heroStats:
 - 100% solar-primary
@@ -34,7 +34,7 @@ faq:
 finalCTAHeading: The math is on the operations report, not on a poster.
 finalCTABody: For sustainability-driven procurement, request unit-level energy data for your specific deployment count and duration.
 finalCTAButtons:
-- label: Request energy data [/contact]
+- label: Request energy data [/contact-us]
   url: See pricing [/pricing]
 schemaType: AboutPage
 internalLinks: /about, /platform, /products/sky-guard, /pricing

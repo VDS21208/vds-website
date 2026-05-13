@@ -41,9 +41,9 @@ finalCTAButtons:
 - label: Request a Quote
   url: /request-a-quote
 - label: Talk to an Engineer
-  url: /contact
+  url: /contact-us
 schemaType: Product
-internalLinks: /products/swift-deploy-trailer, /products/boundary-guard-pro, /ai-visionstream, /soc, /case-studies/mid-atlantic-gc, /industries/construction, /industries/utilities
+internalLinks: /products/swift-deploy-surveillance-trailer, /products/boundary-guard-pro, /platform, /platform/soc, /resources/case-studies/mid-atlantic-gc, /industries/construction-site-security, /industries/utility-substation-security
 canonical: https://visiondetectionsystems.com/products/sky-guard-mobile-surveillance-trailer
 ogTitle: Sky Guard MSU. Thermal, radar, and 4K on one solar mast.
 ogDescription: Thermal LWIR + 500ft ground radar + 4K + LPR + active deterrence. 600W solar, 48+ hr battery. From $2,200/mo or $38,000 purchase.

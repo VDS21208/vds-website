@@ -40,7 +40,7 @@ finalCTAButtons:
 - label: Request Privacy Documentation
   url: Read Privacy Policy
 schemaType: WebPage (Trust Center sub-page)
-internalLinks: /about-us/trust-center, /about-us/trust-center/cybersecurity, /about-us/trust-center/sla-uptime, /privacy-policy, /contact
+internalLinks: /about-us/trust-center, /about-us/trust-center/cybersecurity, /about-us/trust-center/sla-uptime, /privacy-policy, /contact-us
 canonical: https://visiondetectionsystems.com/about-us/trust-center/data-privacy
 ogTitle: Data Privacy and Handling
 ogDescription: How Vision Detection Systems handles customer data. AWS US-only residency, tenant isolation, no biometrics or facial recognition, CCPA-compliant

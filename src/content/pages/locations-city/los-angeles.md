@@ -1,5 +1,5 @@
 ---
-url: /locations/mobile-surveillance-trailers/los-angeles
+url: /locations/products/mobile-surveillance-trailerslos-angeles
 collection: locations-city
 pageType: City Detail
 parent: /locations/mobile-surveillance-trailers
@@ -38,7 +38,7 @@ finalCTAButtons:
   url: Read the CCPA framing
 schemaType: LocalBusiness
 internalLinks: /locations/mobile-surveillance-trailers, /locations/california, /products/boundary-guard-pro, /industries/construction-security, /industries/cannabis, /industries/port-logistics, /industries/film-event, /compliance/ccpa
-canonical: https://visiondetectionsystems.com/locations/mobile-surveillance-trailers/los-angeles
+canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailerslos-angeles
 ogTitle: Mobile surveillance trailers in Los Angeles, CA
 ogDescription: Mobile surveillance trailers in LA metro. Ports of LA/Long Beach, film/event production, cannabis, auto dealers. CCPA and SB 1186 compliant
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg

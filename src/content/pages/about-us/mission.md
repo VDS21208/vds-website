@@ -34,7 +34,7 @@ finalCTAButtons:
 - label: Book a Consult
   url: See Our Hardware
 schemaType: Organization
-internalLinks: /about-us, /about-us/why-vision-detection-systems, /about-us/our-plant, /soc, /products/sky-guard-msu, /platform/ai-visionstream
+internalLinks: /about-us, /about-us/why-vision-detection-systems, /about-us/our-plant, /platform/soc, /products/sky-guard-mobile-surveillance-trailer, /platform/platform
 canonical: https://visiondetectionsystems.com/about-us/mission
 ogTitle: Close the three gaps in site security.
 ogDescription: 'VDS exists to close three gaps in site security: cost, blind spots, and response time. Built in Maryland since 2017 — 500+ deployments across 30+ states.'

@@ -34,7 +34,7 @@ finalCTAButtons:
 - label: Book Bold Group integration call
   url: Read API + SDK docs
 schemaType: Article
-internalLinks: /integrations, /platform/ai-visionstream, /platform/api-sdk-access, /soc
+internalLinks: /integrations, /platform/platform, /platform/api-sdk-access, /platform/soc
 canonical: https://visiondetectionsystems.com/integrations/bold
 ogTitle: VDS + Bold Group Manitou
 ogDescription: VDS forwards verified video alerts to Bold Group Manitou central stations with pre/post clips, detection metadata, and SOC verification.

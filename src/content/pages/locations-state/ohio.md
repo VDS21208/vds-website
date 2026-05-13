@@ -37,7 +37,7 @@ finalCTAButtons:
 - label: Get an Ohio quote
   url: See logistics case study
 schemaType: LocalBusiness
-internalLinks: /industries/logistics, /industries/utilities, /procurement/sourcewell, /products/boundary-guard-pro
+internalLinks: /industries/warehouse-logistics-security, /industries/utility-substation-security, /procurement/sourcewell, /products/boundary-guard-pro
 canonical: https://visiondetectionsystems.com/locations/ohio
 ogTitle: Mobile surveillance for Ohio's logistics and semiconductor boom
 ogDescription: Mobile surveillance for Ohio's Intel chip plant construction, Columbus-Cincinnati logistics hubs, and AEP utility infrastructure

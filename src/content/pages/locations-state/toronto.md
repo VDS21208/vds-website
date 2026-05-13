@@ -36,7 +36,7 @@ finalCTAButtons:
 - label: Talk about cross-border
   url: Join Toronto waitlist
 schemaType: LocalBusiness
-internalLinks: /locations/canada, /locations/canada/vancouver, /guides/mobile-surveillance-canada, /products/sky-guard-msu, /industries/construction
+internalLinks: /locations/canada, /locations/canada/vancouver, /guides/mobile-surveillance-canada, /products/sky-guard-mobile-surveillance-trailer, /industries/construction-site-security
 canonical: https://visiondetectionsystems.com/locations/canada/toronto
 ogTitle: Toronto
 ogDescription: VDS operates in 30+ US states, not yet Toronto. Honest guidance for GTA buyers, plus US/Canada cross-border coverage for North American portfolios.

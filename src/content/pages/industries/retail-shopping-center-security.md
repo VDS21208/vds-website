@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Get a multi-store quote
   url: Talk to a retail specialist
 schemaType: Service
-internalLinks: /products/swift-deploy, /products/solar-camera-poles, /platform/lpr, /soc, /pricing
+internalLinks: /products/swift-deploy-surveillance-trailer, /products/solar-camera-poles, /platform/lpr, /platform/soc, /pricing
 canonical: https://visiondetectionsystems.com/industries/retail-shopping-center-security
 ogTitle: Retail & Shopping Center Security
 ogDescription: Parking lot surveillance and LPR for multi-store retail. 95%+ LPR accuracy, <3-second alerts. Counter ORC and flash-mob events with 24/7 US SOC monitoring.

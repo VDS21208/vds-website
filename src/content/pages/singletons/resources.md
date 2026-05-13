@@ -52,7 +52,7 @@ Verified outcomes from named deployments. Each case study includes the threat pr
 
 Technical analysis on the questions security directors and operations leaders actually ask. NDAA Section 889 compliance, organized retail crime trends, NERC CIP for substation perimeters, SOC operational economics, and a cost model comparing mobile surveillance against trenched fixed-camera builds.
 
-**[Open the white paper library](/resources/white-papers)**
+**[Open the white paper library](/resources)**
 
 ## Video library
 

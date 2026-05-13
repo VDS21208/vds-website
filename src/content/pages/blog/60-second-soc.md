@@ -28,7 +28,7 @@ finalCTAButtons:
 - label: Schedule a tour
   url: Watch the SOC walkthrough
 schemaType: Article
-internalLinks: /platform/soc, /resources/videos, /resources/blog/construction-security-numbers-2026, /resources/case-studies, /resources/white-papers
+internalLinks: /platform/soc, /resources/videos, /resources/blog/construction-security-numbers-2026, /resources/case-studies, /resources
 canonical: https://visiondetectionsystems.com/resources/blog/60-second-soc
 ogTitle: 'The 60-second SOC: why human verification is the missing layer in AI surveillance'
 ogDescription: AI surveillance is fast but not accurate. Why 60 seconds — not 10, not 5 minutes — is the right escalation window

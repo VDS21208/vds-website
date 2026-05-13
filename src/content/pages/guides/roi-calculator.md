@@ -15,7 +15,7 @@ heroCTAPrimary:
   url: /request-a-quote
 heroCTASecondary:
   label: Talk to a deployment engineer
-  url: /contact
+  url: /contact-us
 heroStats:
 - No email gate
 - Real deployment data
@@ -36,9 +36,9 @@ finalCTAHeading: Get the configuration that matches your math
 finalCTABody: Once the calculator returns a payback that works, book 20 minutes with a deployment engineer to lock in the unit mix and start date.
 finalCTAButtons:
 - label: Book deployment review
-  url: /contact ; Download the Pricing Guide
+  url: /contact-us the Pricing Guide
 schemaType: Article
-internalLinks: /products/sky-guard-msu, /products/swift-deploy, /products/boundary-guard-pro, /guides/pricing-guide-2026, /guides/construction-theft-prevention, /case-studies/mid-atlantic-gc, /contact
+internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /products/boundary-guard-pro, /guides/pricing-guide-2026, /guides/construction-theft-prevention, /resources/case-studies/mid-atlantic-gc, /contact-us
 canonical: https://visiondetectionsystems.com/guides/roi-calculator
 ogTitle: Mobile Surveillance ROI Calculator
 ogDescription: Calculate 12-month and 36-month ROI for solar-autonomous mobile surveillance with 24/7 SOC monitoring. Free, no email required.
@@ -128,6 +128,6 @@ Anyone defending a security line item to a CFO. Use the calculator output as the
 
 ## Related products
 
-- **[Sky Guard MSU](/products/sky-guard-msu)** — $2,200/mo
-- **[Swift Deploy](/products/swift-deploy)** — $1,500/mo
+- **[Sky Guard MSU](/products/sky-guard-mobile-surveillance-trailer)** — $2,200/mo
+- **[Swift Deploy](/products/swift-deploy-surveillance-trailer)** — $1,500/mo
 - **[Boundary Guard Pro](/products/boundary-guard-pro)** — $1,800/mo

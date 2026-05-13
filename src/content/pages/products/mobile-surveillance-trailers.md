@@ -41,7 +41,7 @@ finalCTAButtons:
 - label: Request a Quote
   url: Book a 15-Min Call
 schemaType: CollectionPage + Product (x3)
-internalLinks: /products/sky-guard-msu, /products/swift-deploy-trailer, /products/boundary-guard-pro, /platform, /soc, /case-studies, /pricing
+internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /products/boundary-guard-pro, /platform, /platform/soc, /case-studies, /pricing
 canonical: https://visiondetectionsystems.com/products/mobile-surveillance-trailers
 ogTitle: Remote Surveillance Trailer Solutions for Rapid Site Security
 ogDescription: Remote surveillance trailer solutions for construction, parking lots, retail, and more. Rapid deployment, 24/7 monitoring options, and fast quotes.

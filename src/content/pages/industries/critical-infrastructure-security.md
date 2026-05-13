@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Get a Site Assessment
   url: Download Compliance Brief
 schemaType: Article
-internalLinks: /products/sky-guard | /products/solar-camera-poles | /products/boundary-guard-pro | /platform/ai-visionstream | /compliance/ndaa | /trust
+internalLinks: /products/sky-guard | /products/solar-camera-poles | /products/boundary-guard-pro | /platform/platform | /compliance/ndaa | /about-us/trust-center
 canonical: https://visiondetectionsystems.com/industries/critical-infrastructure-security
 ogTitle: Surveillance Infrastructure for Water, Telecom, and Transmission Sites Where Compliance Is Not
 ogDescription: Mobile surveillance for water, telecom, and transmission corridor sites. NDAA Section 889, US-only AWS, immutable audit log. NERC CIP and TSA-aligned.

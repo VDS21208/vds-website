@@ -1,5 +1,5 @@
 ---
-url: /locations/mobile-surveillance-trailers/philadelphia
+url: /locations/products/mobile-surveillance-trailersphiladelphia
 collection: locations-city
 pageType: City Detail
 parent: /locations/mobile-surveillance-trailers
@@ -37,8 +37,8 @@ finalCTAButtons:
 - label: Request a Philly quote
   url: Schedule a site walk
 schemaType: LocalBusiness
-internalLinks: /locations/mobile-surveillance-trailers, /locations/pennsylvania, /products/sky-guard-msu, /industries/construction-security, /industries/port-logistics, /industries/university-campus, /compliance/pa-costars
-canonical: https://visiondetectionsystems.com/locations/mobile-surveillance-trailers/philadelphia
+internalLinks: /locations/mobile-surveillance-trailers, /locations/pennsylvania, /products/sky-guard-mobile-surveillance-trailer, /industries/construction-security, /industries/port-logistics, /industries/university-campus, /compliance/pa-costars
+canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailersphiladelphia
 ogTitle: Mobile surveillance trailers in Philadelphia, PA
 ogDescription: Mobile surveillance trailers across Philadelphia metro. PA COSTARS cooperative purchasing eligible. Next-day deployment. Center City, Navy Yard
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg

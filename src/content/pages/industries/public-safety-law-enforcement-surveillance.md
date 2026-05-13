@@ -41,7 +41,7 @@ finalCTAButtons:
 - label: Request a procurement package
   url: Talk to a government account executive
 schemaType: Service
-internalLinks: /products/swift-deploy, /products/sky-guard-msu, /products/solar-camera-poles, /products/boundary-guard-pro, /compliance/ndaa, /procurement/sourcewell, /procurement/gsa, /soc
+internalLinks: /products/swift-deploy-surveillance-trailer, /products/sky-guard-mobile-surveillance-trailer, /products/solar-camera-poles, /products/boundary-guard-pro, /compliance/ndaa, /procurement/sourcewell, /procurement/gsa, /platform/soc
 canonical: https://visiondetectionsystems.com/industries/public-safety-law-enforcement-surveillance
 ogTitle: Public Safety & Law Enforcement Surveillance
 ogDescription: Mobile surveillance for government property — parks, motor pools, public works yards. NDAA Section 889 compliant. Sourcewell & GSA cooperative purchasing.

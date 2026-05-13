@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Get an Event Quote
   url: See Rental Terms
 schemaType: Article
-internalLinks: /products/sky-guard | /products/swift-deploy | /products/boundary-guard-pro | /platform/ai-visionstream | /pricing
+internalLinks: /products/sky-guard | /products/swift-deploy-surveillance-trailer | /products/boundary-guard-pro | /platform/platform | /pricing
 canonical: https://visiondetectionsystems.com/industries/event-security
 ogTitle: Event Surveillance That Deploys in 24 Hours and Demobilizes the Day After Load-Out
 ogDescription: Mobile surveillance for festivals, vendor villages, and event parking lots. 24-hour deployment, 3-day to 3-month rentals, 24/7 US SOC verification.

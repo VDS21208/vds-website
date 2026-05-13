@@ -38,7 +38,7 @@ finalCTAButtons:
 - label: Scope my site
   url: Book a 20-min call
 schemaType: Article
-internalLinks: /products/swift-deploy, /products/sky-guard, /soc, /compliance/ndaa, /industries/construction, /industries/utility, /compare
+internalLinks: /products/swift-deploy-surveillance-trailer, /products/sky-guard, /platform/soc, /compliance/ndaa, /industries/construction-site-security, /industries/utility-substation-security, /compare
 canonical: https://visiondetectionsystems.com/compare/vds-vs-deep-sentinel
 ogTitle: VDS vs. Deep Sentinel
 ogDescription: Deep Sentinel is great for homes and small storefronts. VDS is built for commercial mobile, solar-autonomous coverage. Here is which one fits which buyer.

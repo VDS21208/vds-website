@@ -37,7 +37,7 @@ finalCTAButtons:
 - label: Get an NJ quote
   url: See cargo theft brief
 schemaType: LocalBusiness
-internalLinks: /industries/cargo-logistics, /industries/utilities, /procurement/sourcewell, /products/sky-guard-msu
+internalLinks: /industries/cargo-logistics, /industries/utility-substation-security, /procurement/sourcewell, /products/sky-guard-mobile-surveillance-trailer
 canonical: https://visiondetectionsystems.com/locations/new-jersey
 ogTitle: Mobile surveillance for New Jersey's cargo theft problem
 ogDescription: Mobile surveillance for Port Newark logistics, NJ cargo theft response, construction, and PSEG infrastructure. 24-72 hour deployment from Pikesville HQ.

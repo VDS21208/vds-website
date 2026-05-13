@@ -36,7 +36,7 @@ finalCTAButtons:
 - label: Download the Guide (PDF)
   url: Talk to Compliance Engineering
 schemaType: Book
-internalLinks: /platform/cloud-video-surveillance, /services/video-retrieval, /industries/healthcare, /industries/financial-services
+internalLinks: /platform/cloud-video-surveillance, /services/video-retrieval, /industries/hospitality-healthcare-security, /industries/financial-services
 canonical: https://visiondetectionsystems.com/guides/security-video-retention
 ogTitle: 'Security Video Retention: A Regulatory Reference'
 ogDescription: How long to retain security video by industry — HIPAA, GLBA, PCI-DSS, state laws. Retention policy framework. Free 26-page reference from VDS.

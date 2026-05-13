@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Book the architecture call
   url: Send us the site address
 schemaType: Article
-internalLinks: /compare, /platform, /soc, /security/architecture, /verticals/municipal
+internalLinks: /compare, /platform, /platform/soc, /security/architecture, /verticals/municipal
 canonical: https://visiondetectionsystems.com/compare/vds-vs-flock-safety
 ogTitle: VDS vs. Flock Safety
 ogDescription: Flock had 67 cameras exposed without passwords in January 2026 and 30+ city contract cancellations since 2025. VDS is private-site, US-only AWS

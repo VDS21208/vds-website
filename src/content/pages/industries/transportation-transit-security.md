@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Get a Yard Assessment
   url: Download Transit Compliance Brief
 schemaType: Article
-internalLinks: /products/sky-guard | /products/boundary-guard-pro | /products/swift-deploy | /platform/ai-visionstream | /compliance/ndaa
+internalLinks: /products/sky-guard | /products/boundary-guard-pro | /products/swift-deploy-surveillance-trailer | /platform/platform | /compliance/ndaa
 canonical: https://visiondetectionsystems.com/industries/transportation-transit-security
 ogTitle: Rail Yards, Bus Depots, and Port Terminals — Continuous Surveillance Across Acreage and Federal
 ogDescription: Mobile surveillance for rail yards, bus depots, port terminals, and vehicle lots. NDAA-compliant, TSA-aligned, 24/7 US SOC, AI LPR on every gate.

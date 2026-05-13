@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Get the side-by-side
   url: Book a 20-min call
 schemaType: Article
-internalLinks: /products/sky-guard, /products/swift-deploy, /platform/ai-visionstream, /soc, /compliance/ndaa, /case-studies/mid-atlantic-gc, /compare
+internalLinks: /products/sky-guard, /products/swift-deploy-surveillance-trailer, /platform/platform, /platform/soc, /compliance/ndaa, /resources/case-studies/mid-atlantic-gc, /compare
 canonical: https://visiondetectionsystems.com/compare/vds-vs-deploy-surveillance
 ogTitle: VDS vs. Deploy Surveillance
 ogDescription: VDS vs. Deploy Surveillance side-by-side. 500+ deployments, NDAA, 24/7 SOC, AI VisionStream vs. a smaller US mobile vendor. Honest comparison with pricing.

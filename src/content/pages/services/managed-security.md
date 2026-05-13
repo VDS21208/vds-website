@@ -40,7 +40,7 @@ finalCTAButtons:
 - label: Get managed quote
   url: Read full case study
 schemaType: Service
-internalLinks: /services/monitoring, /services/rapid-deployment, /services/installation-maintenance, /case-studies/mid-atlantic-340k, /pricing
+internalLinks: /services/monitoring, /services/rapid-deployment, /services/installation-maintenance, /resources/case-studies/mid-atlantic-340k, /pricing
 canonical: https://visiondetectionsystems.com/services/managed-security
 ogTitle: Hardware, monitoring, maintenance. One monthly fee.
 ogDescription: 'Turnkey monthly contract: hardware, 24/7 SOC monitoring, maintenance, and reports for one fee. Clients average $340K saved per year vs. guard service.'
@@ -50,7 +50,7 @@ robots: index, follow
 speakable: .hero-h1, .hero-subhead, h2
 author: Vision Detection Systems
 tags: mobile surveillance, VDS
-notes: Pricing transparency is unusual for this market — keep the numbers public unless sales pushes back. Case study NDA gate handled on /case-studies/mid-atlantic-340k.
+notes: Pricing transparency is unusual for this market — keep the numbers public unless sales pushes back. Case study NDA gate handled on /resources/case-studies/mid-atlantic-340k.
 ---
 
 Capex is dead weight on a project budget. Multi-vendor opex is a finger-pointing exercise. Managed services from a vertically integrated provider is the only model that makes the math and the accountability work.

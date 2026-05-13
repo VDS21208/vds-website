@@ -37,7 +37,7 @@ finalCTAButtons:
 - label: Get a Florida quote
   url: Download hurricane redeploy plan
 schemaType: LocalBusiness
-internalLinks: /industries/construction, /industries/hospitality, /resources/hurricane-protocol, /products/sky-guard-msu
+internalLinks: /industries/construction-site-security, /industries/hospitality-healthcare-security, /resources/hurricane-protocol, /products/sky-guard-mobile-surveillance-trailer
 canonical: https://visiondetectionsystems.com/locations/florida
 ogTitle: Mobile surveillance for Florida construction, events, and storm response
 ogDescription: Florida mobile surveillance for construction, hospitality, and event security. Hurricane-redeploy capable units. 5-7 day deployment across Miami, Orlando

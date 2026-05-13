@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Get a Facility Assessment
   url: Download SOC 2 Control Mapping
 schemaType: Article
-internalLinks: /products/sky-guard | /products/solar-camera-poles | /products/boundary-guard-pro | /platform/ai-visionstream | /compliance | /trust
+internalLinks: /products/sky-guard | /products/solar-camera-poles | /products/boundary-guard-pro | /platform/platform | /compliance | /about-us/trust-center
 canonical: https://visiondetectionsystems.com/industries/data-center-security
 ogTitle: Data Center Perimeter, Fence-Line, and Construction-Phase Surveillance Aligned With SOC 2 and
 ogDescription: Mobile surveillance for data center perimeters, fence lines, and construction phases. SOC 2 and ISO 27001 aligned. NDAA-compliant, US-only AWS, audit log.

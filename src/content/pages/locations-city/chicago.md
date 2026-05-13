@@ -1,5 +1,5 @@
 ---
-url: /locations/mobile-surveillance-trailers/chicago
+url: /locations/products/mobile-surveillance-trailerschicago
 collection: locations-city
 pageType: City Detail
 parent: /locations/mobile-surveillance-trailers
@@ -37,8 +37,8 @@ finalCTAButtons:
 - label: Request a Chicago quote
   url: Read the BIPA framing
 schemaType: LocalBusiness
-internalLinks: /locations/mobile-surveillance-trailers, /locations/illinois, /products/swift-deploy, /industries/retail-orc, /industries/construction-security, /industries/transit, /industries/rail-intermodal, /compliance/bipa
-canonical: https://visiondetectionsystems.com/locations/mobile-surveillance-trailers/chicago
+internalLinks: /locations/mobile-surveillance-trailers, /locations/illinois, /products/swift-deploy-surveillance-trailer, /industries/retail-orc, /industries/construction-security, /industries/transit, /industries/rail-intermodal, /compliance/bipa
+canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailerschicago
 ogTitle: Mobile surveillance trailers in Chicago, IL
 ogDescription: Mobile surveillance trailers across Chicagoland. BIPA compliant. No biometrics, no facial recognition. Mag Mile retail, CTA/Metra transit
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg

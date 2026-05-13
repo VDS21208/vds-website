@@ -15,7 +15,7 @@ heroCTAPrimary:
   url: /request-a-quote
 heroCTASecondary:
   label: Talk to an Engineer
-  url: /contact
+  url: /contact-us
 heroStats:
 - LED standard
 - Solar or diesel
@@ -37,9 +37,9 @@ finalCTAButtons:
 - label: Request a Quote
   url: /request-a-quote
 - label: Talk to an Engineer
-  url: /contact
+  url: /contact-us
 schemaType: Product
-internalLinks: /products/swift-deploy-trailer, /products/medical-cooling-stations, /ai-visionstream
+internalLinks: /products/swift-deploy-surveillance-trailer, /products/medical-cooling-stations, /platform
 canonical: https://visiondetectionsystems.com/products/light-trailers
 ogTitle: Light trailers that also see what they are lighting.
 ogDescription: Solar and diesel LED light trailers for night work. Optional VDS camera integration ties lighting to surveillance on one chassis.

@@ -36,7 +36,7 @@ finalCTAButtons:
 - label: Request API Access
   url: View Developer Docs
 schemaType: TechArticle
-internalLinks: /platform/ai-visionstream, /platform/cloud-video-surveillance, /industries/construction, /platform/integrations
+internalLinks: /platform/platform, /platform/cloud-video-surveillance, /industries/construction-site-security, /platform/integrations
 canonical: https://visiondetectionsystems.com/platform/api-sdk-access
 ogTitle: REST API, Webhooks, and SDK for AI VisionStream
 ogDescription: REST API, webhooks, mobile SDK, and Postman collection for AI VisionStream. OAuth2 + API keys. Build ITSM, BIM, and PSIM integrations.

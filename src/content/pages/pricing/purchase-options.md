@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Get a Purchase Quote
   url: Talk to Sales
 schemaType: WebPage + Offer
-internalLinks: /pricing, /pricing/leasing-rentals, /pricing/subscription-plans, /products/sky-guard-msu, /products/mobile-surveillance-trailers
+internalLinks: /pricing, /pricing/leasing-rentals, /pricing/subscription-plans, /products/sky-guard-mobile-surveillance-trailer, /products/mobile-surveillance-trailers
 canonical: https://visiondetectionsystems.com/pricing/purchase-options
 ogTitle: Buy Outright When the Math Works
 ogDescription: Buy a VDS trailer outright. Sky Guard MSU at $38,000. Capex vs opex breakdown, warranty terms, and post-sale service plans.

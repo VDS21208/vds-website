@@ -1,5 +1,5 @@
 ---
-url: /locations/mobile-surveillance-trailers/charlotte
+url: /locations/products/mobile-surveillance-trailerscharlotte
 collection: locations-city
 pageType: City Detail
 parent: /locations/mobile-surveillance-trailers
@@ -37,8 +37,8 @@ finalCTAButtons:
 - label: Request a Charlotte quote
   url: Talk to a deployment engineer
 schemaType: LocalBusiness
-internalLinks: /locations/mobile-surveillance-trailers, /locations/north-carolina, /products/sky-guard-msu, /industries/construction-security, /industries/utility-substation-security, /industries/auto-dealer-security
-canonical: https://visiondetectionsystems.com/locations/mobile-surveillance-trailers/charlotte
+internalLinks: /locations/mobile-surveillance-trailers, /locations/north-carolina, /products/sky-guard-mobile-surveillance-trailer, /industries/construction-security, /industries/utility-substation-security, /industries/auto-dealer-security
+canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailerscharlotte
 ogTitle: Mobile surveillance trailers in Charlotte, NC
 ogDescription: Mobile surveillance trailers across Charlotte metro — uptown, South End, University City. Banking, construction, utility substations. NC eVA eligible.
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg

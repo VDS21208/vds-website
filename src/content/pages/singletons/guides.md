@@ -34,7 +34,7 @@ finalCTAHeading: Pick the guide that matches your risk
 finalCTABody: Or skip the reading and book a 20-minute deployment review with a senior engineer.
 finalCTAButtons:
 - label: Book deployment review
-  url: /contact ; Open ROI Calculator
+  url: /contact-us ROI Calculator
 schemaType: Article
 canonical: https://visiondetectionsystems.com/guides
 ogTitle: Guides built from 10,000+ deployment hours

@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Book the architecture call
   url: Send your guard cost
 schemaType: Article
-internalLinks: /compare, /soc, /case-studies/mid-atlantic-gc, /hardware/sky-guard-msu
+internalLinks: /compare, /platform/soc, /resources/case-studies/mid-atlantic-gc, /hardware/sky-guard-msu
 canonical: https://visiondetectionsystems.com/compare/vds-vs-security-guards
 ogTitle: VDS vs. Security Guards
 ogDescription: 24/7 guard coverage costs $60K-$110K/yr per FTE. A VDS trailer covers the same perimeter at $1,500-$2,200/mo with documented video evidence and zero

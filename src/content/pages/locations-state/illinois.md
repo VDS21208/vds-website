@@ -37,7 +37,7 @@ finalCTAButtons:
 - label: Get an Illinois quote
   url: See ORC retail brief
 schemaType: LocalBusiness
-internalLinks: /industries/retail-orc, /compliance/bipa, /procurement/omnia-sourcewell, /products/swift-deploy
+internalLinks: /industries/retail-orc, /compliance/bipa, /procurement/omnia-sourcewell, /products/swift-deploy-surveillance-trailer
 canonical: https://visiondetectionsystems.com/locations/illinois
 ogTitle: Mobile surveillance for Chicago retail loss and construction
 ogDescription: Mobile surveillance for Chicago metro ORC response, construction, transit-adjacent projects, and ComEd infrastructure. 5-7 day deployment across Illinois.

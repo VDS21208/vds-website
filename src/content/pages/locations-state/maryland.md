@@ -37,7 +37,7 @@ finalCTAButtons:
 - label: Schedule a Maryland deployment
   url: Visit Pikesville HQ
 schemaType: LocalBusiness
-internalLinks: /case-studies/mid-atlantic-gc, /products/sky-guard-msu, /industries/construction, /soc
+internalLinks: /resources/case-studies/mid-atlantic-gc, /products/sky-guard-mobile-surveillance-trailer, /industries/construction-site-security, /platform/soc
 canonical: https://visiondetectionsystems.com/locations/maryland
 ogTitle: Mobile surveillance in Maryland, from our home state
 ogDescription: VDS is headquartered in Pikesville, MD. Same-day to 48-hour deployment across Baltimore, DC corridor, and Eastern Shore. Construction, utilities

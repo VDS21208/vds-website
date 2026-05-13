@@ -1,5 +1,5 @@
 ---
-url: /locations/mobile-surveillance-trailers/new-york
+url: /locations/products/mobile-surveillance-trailersnew-york
 collection: locations-city
 pageType: City Detail
 parent: /locations/mobile-surveillance-trailers
@@ -37,8 +37,8 @@ finalCTAButtons:
 - label: Request a NYC quote
   url: Talk to a deployment engineer
 schemaType: LocalBusiness
-internalLinks: /locations/mobile-surveillance-trailers, /locations/new-york, /products/sky-guard-msu, /industries/construction-security, /industries/retail-orc, /compliance/post-act
-canonical: https://visiondetectionsystems.com/locations/mobile-surveillance-trailers/new-york
+internalLinks: /locations/mobile-surveillance-trailers, /locations/new-york, /products/sky-guard-mobile-surveillance-trailer, /industries/construction-security, /industries/retail-orc, /compliance/post-act
+canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailersnew-york
 ogTitle: Mobile surveillance trailers in New York, NY
 ogDescription: Mobile surveillance trailers across NYC, Long Island, and Westchester. POST Act compliant, no facial recognition, private property only. 24/7 SOC.
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg

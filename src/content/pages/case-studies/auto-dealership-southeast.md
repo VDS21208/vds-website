@@ -29,7 +29,7 @@ finalCTAButtons:
 - label: Request an assessment
   url: Download the PDF
 schemaType: Article
-internalLinks: /products/swift-deploy, /platform/lpr, /industries/auto-dealership, /platform/soc, /resources/case-studies/mid-atlantic-gc-340k-saved
+internalLinks: /products/swift-deploy-surveillance-trailer, /platform/lpr, /industries/auto-dealership, /platform/soc, /resources/case-studies/mid-atlantic-gc
 canonical: https://visiondetectionsystems.com/resources/case-studies/auto-dealership-southeast
 ogTitle: Seven lots, four catalytic converter thefts per month, zero in 90 days
 ogDescription: A Southeast auto dealer group eliminated catalytic converter theft across 7 lots in 90 days with Swift Deploy and LPR integration

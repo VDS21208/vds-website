@@ -38,7 +38,7 @@ finalCTAButtons:
 - label: I need a fixed-site quote
   url: Open the top-10 shortlist
 schemaType: Article
-internalLinks: /products/sky-guard, /products/swift-deploy, /products/boundary-guard-pro, /platform/ai-visionstream, /soc, /compare/top-mobile-surveillance-companies, /compare
+internalLinks: /products/sky-guard, /products/swift-deploy-surveillance-trailer, /products/boundary-guard-pro, /platform/platform, /platform/soc, /compare/top-mobile-surveillance-companies, /compare
 canonical: https://visiondetectionsystems.com/compare/fixed-site-vs-fleet-surveillance
 ogTitle: Fixed-Site Mobile Surveillance vs. Fleet, In-Car, and Body-Worn Video
 ogDescription: Mobile surveillance trailers and fleet/in-car video are different markets. Here is how to tell which one you need, and the vendors that lead each.

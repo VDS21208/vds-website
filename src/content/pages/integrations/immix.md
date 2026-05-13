@@ -34,7 +34,7 @@ finalCTAButtons:
 - label: Book Immix integration call
   url: Read API + SDK docs
 schemaType: Article
-internalLinks: /integrations, /platform/ai-visionstream, /platform/api-sdk-access, /soc
+internalLinks: /integrations, /platform/platform, /platform/api-sdk-access, /platform/soc
 canonical: https://visiondetectionsystems.com/integrations/immix
 ogTitle: VDS + Immix CC
 ogDescription: VDS forwards verified alerts with video and metadata to your Immix-running central station. Operators dispatch from one console.

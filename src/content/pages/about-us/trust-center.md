@@ -11,10 +11,10 @@ h1: Trust is documented. Not asserted.
 heroEyebrow: Trust Center
 heroSubhead: Every compliance posture, encryption standard, data residency commitment, and audit timeline is published here with version dates and points of contact. If your procurement team needs evidence, this is where it lives.
 heroCTAPrimary:
-  label: Request security documentation [/contact]
+  label: Request security documentation [/contact-us]
   url: /request-a-quote
 heroCTASecondary:
-  label: Review NDAA compliance detail [/about/ndaa-compliance]
+  label: Review NDAA compliance detail [/about-us/ndaa-compliance]
   url: /request-a-quote
 heroStats:
 - NDAA Section 889
@@ -38,10 +38,10 @@ faq:
 finalCTAHeading: Procurement needs evidence. Send the questionnaire.
 finalCTABody: Most security questionnaires close in 5 business days. Send yours to security@visiondetectionsystems.com or use the contact form below.
 finalCTAButtons:
-- label: Request security docs [/contact]
-  url: Read NDAA detail [/about/ndaa-compliance]
+- label: Request security docs [/contact-us]
+  url: Read NDAA detail [/about-us/ndaa-compliance]
 schemaType: AboutPage, WebPage
-internalLinks: /about, /about/ndaa-compliance, /platform, /soc, /legal/privacy, /legal/terms, /contact
+internalLinks: /about, /about-us/ndaa-compliance, /platform, /platform/soc, /privacy-policy, /terms-of-service, /contact-us
 canonical: https://visiondetectionsystems.com/about-us/trust-center
 ogTitle: Trust is documented. Not asserted.
 ogDescription: 'VDS Trust Center: NDAA Section 889, AWS Cloud Partner, TLS 1.3, AES-256, RBAC/MFA, US-only data residency, SOC 2 Type II in progress'

@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Get a lot quote
   url: Talk to a parking specialist
 schemaType: Service
-internalLinks: /products/sky-guard-msu, /products/solar-camera-poles, /platform/lpr, /soc, /pricing
+internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/solar-camera-poles, /platform/lpr, /platform/soc, /pricing
 canonical: https://visiondetectionsystems.com/industries/parking-lot-garage-security
 ogTitle: Parking Lot & Garage Security
 ogDescription: Solar-powered surveillance for parking operators. Center-of-lot Sky Guard MSU plus perimeter Solar Camera Poles. 24/7 US SOC. No trenching required.

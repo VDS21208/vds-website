@@ -1,5 +1,5 @@
 ---
-url: /locations/mobile-surveillance-trailers/seattle
+url: /locations/products/mobile-surveillance-trailersseattle
 collection: locations-city
 pageType: City Detail
 parent: /locations/mobile-surveillance-trailers
@@ -37,8 +37,8 @@ finalCTAButtons:
 - label: Request a Seattle quote
   url: Talk to a deployment engineer
 schemaType: LocalBusiness
-internalLinks: /locations/mobile-surveillance-trailers, /locations/washington, /products/sky-guard-msu, /industries/construction-security, /industries/retail-orc, /industries/port-logistics
-canonical: https://visiondetectionsystems.com/locations/mobile-surveillance-trailers/seattle
+internalLinks: /locations/mobile-surveillance-trailers, /locations/washington, /products/sky-guard-mobile-surveillance-trailer, /industries/construction-security, /industries/retail-orc, /industries/port-logistics
+canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailersseattle
 ogTitle: Mobile surveillance trailers in Seattle, WA
 ogDescription: Mobile surveillance trailers across Seattle metro — downtown, South Lake Union, Eastside tech campuses, Bellevue retail, Port of Seattle
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg

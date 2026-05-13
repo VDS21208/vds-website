@@ -15,7 +15,7 @@ heroCTAPrimary:
   url: gated-form
 heroCTASecondary:
   label: See the case study
-  url: /case-studies/mid-atlantic-gc
+  url: /resources/case-studies/mid-atlantic-gc
 heroStats:
 - 73% theft reduction
 - $340,800 saved in 12 months
@@ -38,7 +38,7 @@ finalCTAButtons:
 - label: Download the guide
   url: gated-form ; Book site walkthrough
 schemaType: Article
-internalLinks: /products/sky-guard-msu, /products/boundary-guard-pro, /products/swift-deploy, /case-studies/mid-atlantic-gc, /guides/temporary-surveillance, /guides/ndaa-compliance, /contact
+internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/boundary-guard-pro, /products/swift-deploy-surveillance-trailer, /resources/case-studies/mid-atlantic-gc, /guides/temporary-surveillance, /guides/ndaa-compliance, /contact-us
 canonical: https://visiondetectionsystems.com/guides/construction-theft-prevention
 ogTitle: Construction Theft Prevention Guide
 ogDescription: 'FBI: construction theft tops $1B/year, recovery under 7%. Get the threat model, deployment playbook, and Mid-Atlantic GC case study (73% reduction'
@@ -96,6 +96,6 @@ GC project executives, risk managers, CFOs reviewing insurance lines, and site s
 
 ## Related products
 
-- **[Sky Guard MSU](/products/sky-guard-msu)** — $2,200/mo. Solar-autonomous, 30-day deployment to teardown.
+- **[Sky Guard MSU](/products/sky-guard-mobile-surveillance-trailer)** — $2,200/mo. Solar-autonomous, 30-day deployment to teardown.
 - **[Boundary Guard Pro](/products/boundary-guard-pro)** — $1,800/mo. Perimeter analytics for lay-down yards.
-- **[Swift Deploy](/products/swift-deploy)** — $1,500/mo. Short-duration coverage for finishes phase.
+- **[Swift Deploy](/products/swift-deploy-surveillance-trailer)** — $1,500/mo. Short-duration coverage for finishes phase.

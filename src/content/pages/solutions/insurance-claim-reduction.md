@@ -36,7 +36,7 @@ finalCTAButtons:
 - label: Run the Numbers
   url: Talk to an Engineer
 schemaType: Article
-internalLinks: /case-studies/mid-atlantic-gc, /solutions/construction/copper-theft, /solutions/construction/equipment-theft, /products/sky-guard-msu, /compliance/ndaa
+internalLinks: /resources/case-studies/mid-atlantic-gc, /solutions/copper-theft-prevention, /solutions/construction/equipment-theft, /products/sky-guard-mobile-surveillance-trailer, /compliance/ndaa
 canonical: https://visiondetectionsystems.com/solutions/construction/insurance-claim-reduction
 ogTitle: Cut Construction Insurance Premiums by Documenting Theft Prevention
 ogDescription: Documented theft prevention earns 8-15% builder's risk premium reductions. VDS provides the evidence package insurers credit

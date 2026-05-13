@@ -1,5 +1,5 @@
 ---
-url: /locations/mobile-surveillance-trailers/boston
+url: /locations/products/mobile-surveillance-trailersboston
 collection: locations-city
 pageType: City Detail
 parent: /locations/mobile-surveillance-trailers
@@ -37,8 +37,8 @@ finalCTAButtons:
 - label: Request a Boston quote
   url: Talk to a deployment engineer
 schemaType: LocalBusiness
-internalLinks: /locations/mobile-surveillance-trailers, /locations/massachusetts, /products/sky-guard-msu, /industries/construction-security, /industries/university-campus-security, /industries/retail-orc
-canonical: https://visiondetectionsystems.com/locations/mobile-surveillance-trailers/boston
+internalLinks: /locations/mobile-surveillance-trailers, /locations/massachusetts, /products/sky-guard-mobile-surveillance-trailer, /industries/construction-security, /industries/university-campus-security, /industries/retail-orc
+canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailersboston
 ogTitle: Mobile surveillance trailers in Boston, MA
 ogDescription: Mobile surveillance trailers across Greater Boston — Seaport, Allston, Kendall biotech, university campuses. 24-72 hour deployment. NDAA 889 compliant.
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg

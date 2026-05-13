@@ -136,7 +136,7 @@ Schema markup (JSON-LD — add to page head or CMS schema field):
 
 "@type": "WebPage",
 
-"@id": "https://visiondetectionsystems.com/blog-posts/how-long-should-security-cameras-keep-footage"
+"@id": "https://visiondetectionsystems.com/resources/blog-posts/how-long-should-security-cameras-keep-footage"
 
 },
 

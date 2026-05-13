@@ -41,7 +41,7 @@ finalCTAButtons:
 - label: Request Rental Quote
   url: See Trailer Specs
 schemaType: Article
-internalLinks: /solutions, /solutions/mobile-surveillance-trailer-cost, /solutions/buy-vs-rent-mobile-surveillance-trailer, /products/sky-guard-msu, /products/swift-deploy-trailer, /products/boundary-guard-pro
+internalLinks: /solutions, /solutions/mobile-surveillance-trailer-cost, /solutions/buy-vs-rent-mobile-surveillance-trailer, /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /products/boundary-guard-pro
 canonical: https://visiondetectionsystems.com/solutions/mobile-surveillance-trailer-rental-cost
 ogTitle: 'Mobile Surveillance Trailer Rental Cost: Short-Term and Long-Term Rates'
 ogDescription: Mobile surveillance trailer rentals run $1,500-$2,200/mo at VDS. Short-term, long-term, deposit, lead time, redeployment fees. Full rental cost breakdown.

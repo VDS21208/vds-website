@@ -95,7 +95,7 @@ For credentialed press inquiries, analyst questions, and media kit requests.
 **Email:** press@visiondetectionsystems.com
 **Response SLA:** 1 business day for credentialed press
 
-For self-service: see /about/press for the press kit and boilerplate.
+For self-service: see /about-us/press for the press kit and boilerplate.
 
 ## Careers and HR
 
@@ -104,7 +104,7 @@ For job applications, recruiter inquiries (only if VDS has an existing agreement
 **Email:** careers@visiondetectionsystems.com
 **Response SLA:** 5 business days
 
-For self-service: see /about/careers for open roles.
+For self-service: see /about-us/careers for open roles.
 
 ## Finance and billing
 

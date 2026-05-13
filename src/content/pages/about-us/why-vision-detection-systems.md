@@ -34,7 +34,7 @@ finalCTAButtons:
 - label: Request a Quote
   url: See the Hardware
 schemaType: Organization
-internalLinks: /about-us, /about-us/mission, /about-us/our-plant, /soc, /platform/ai-visionstream, /products, /compliance/ndaa
+internalLinks: /about-us, /about-us/mission, /about-us/our-plant, /platform/soc, /platform/platform, /products, /compliance/ndaa
 canonical: https://visiondetectionsystems.com/about-us/why-vision-detection-systems
 ogTitle: Eight reasons VDS is built differently.
 ogDescription: Full-stack ownership, in-house US SOC, genuine NDAA, MD-assembled, transparent pricing, 7 years of field data

@@ -37,7 +37,7 @@ finalCTAButtons:
 - label: Book the architecture call
   url: Send your site list
 schemaType: Article
-internalLinks: /compare, /soc, /platform, /verticals/multi-site
+internalLinks: /compare, /platform/soc, /platform, /verticals/multi-site
 canonical: https://visiondetectionsystems.com/compare/vds-vs-stealth-ecam
 ogTitle: VDS vs. Stealth Monitoring / ECAM
 ogDescription: ECAM (post-Stealth, ECAMSECURE, GardaWorld merger) monitors 140,000+ cameras. VDS owns hardware + VMS + SOC end-to-end

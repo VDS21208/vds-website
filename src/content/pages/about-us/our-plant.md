@@ -34,7 +34,7 @@ finalCTAButtons:
 - label: Schedule a Plant Tour
   url: View Open Roles
 schemaType: Organization
-internalLinks: /about-us, /about-us/mission, /about-us/why-vision-detection-systems, /careers, /compliance/ndaa, /products/sky-guard-msu, /products/swift-deploy
+internalLinks: /about-us, /about-us/mission, /about-us/why-vision-detection-systems, /careers, /compliance/ndaa, /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer
 canonical: https://visiondetectionsystems.com/about-us/our-plant
 ogTitle: We build it here.
 ogDescription: Every VDS unit is assembled, programmed, and inspected in Pikesville, Maryland. Inside the facility that builds Sky Guard, Swift Deploy

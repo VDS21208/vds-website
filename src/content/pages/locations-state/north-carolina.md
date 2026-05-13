@@ -37,7 +37,7 @@ finalCTAButtons:
 - label: Get an NC quote
   url: Talk to utilities sales
 schemaType: LocalBusiness
-internalLinks: /industries/utilities, /industries/construction, /procurement/duke-energy, /products/boundary-guard-pro
+internalLinks: /industries/utility-substation-security, /industries/construction-site-security, /procurement/duke-energy, /products/boundary-guard-pro
 canonical: https://visiondetectionsystems.com/locations/north-carolina
 ogTitle: Mobile surveillance for North Carolina's growth corridor
 ogDescription: Mobile surveillance for Research Triangle Park construction, Duke Energy substations, NC manufacturing, and auto dealerships

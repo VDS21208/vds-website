@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Start a Subscription
   url: Talk to Sales
 schemaType: WebPage + Offer (x3 tiers)
-internalLinks: /pricing, /pricing/leasing-rentals, /pricing/purchase-options, /platform, /soc, /products/license-plate-recognition
+internalLinks: /pricing, /pricing/leasing-rentals, /pricing/purchase-options, /platform, /platform/soc, /products/license-plate-recognition
 canonical: https://visiondetectionsystems.com/pricing/subscription-plans
 ogTitle: Platform Subscriptions, Per Camera, Per Month
 ogDescription: VDS platform pricing — Standard $39, Pro $69, Enterprise custom. Camera-agnostic VMS with 30/60/90-day retention. SOC add-on $399/site/mo.

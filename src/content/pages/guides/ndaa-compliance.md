@@ -15,7 +15,7 @@ heroCTAPrimary:
   url: gated-form
 heroCTASecondary:
   label: Talk to a compliance engineer
-  url: /contact
+  url: /contact-us
 heroStats:
 - NDAA Section 889 Part B compliant
 - TAA-compliant supply chain
@@ -38,7 +38,7 @@ finalCTAButtons:
 - label: Download the guide
   url: gated-form ; Book compliance review
 schemaType: Article
-internalLinks: /products/sky-guard-msu, /products/swift-deploy, /products/boundary-guard-pro, /guides/utility-substation-security, /compliance, /contact
+internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /products/boundary-guard-pro, /guides/utility-substation-security, /compliance, /contact-us
 canonical: https://visiondetectionsystems.com/guides/ndaa-compliance
 ogTitle: NDAA Section 889 Compliance Guide
 ogDescription: Section 889 prohibits federal use of Dahua, Hikvision, and covered telecom gear. Get the compliance checklist, audit language, and approved substitutions.
@@ -84,6 +84,6 @@ Federal procurement officers, GSA Schedule contracting officers, utility securit
 
 ## Related products
 
-- **[Sky Guard MSU](/products/sky-guard-msu)** — $2,200/mo. NDAA-compliant cameras, radios, and modems.
-- **[Swift Deploy](/products/swift-deploy)** — $1,500/mo. Same compliance, smaller footprint.
+- **[Sky Guard MSU](/products/sky-guard-mobile-surveillance-trailer)** — $2,200/mo. NDAA-compliant cameras, radios, and modems.
+- **[Swift Deploy](/products/swift-deploy-surveillance-trailer)** — $1,500/mo. Same compliance, smaller footprint.
 - **[Boundary Guard Pro](/products/boundary-guard-pro)** — $1,800/mo. Perimeter analytics, NDAA stack.

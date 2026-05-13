@@ -12,10 +12,10 @@ heroEyebrow: Mobile app
 heroSubhead: Live multi-camera grid, push alerts with one-tap acknowledge, two-way audio talk-down, and incident clip sharing. iOS and Android. The same software stack as the SOC console.
 heroCTAPrimary:
   label: Book a demo
-  url: /demo
+  url: /schedule-a-demo
 heroCTASecondary:
   label: See the alert engine
-  url: /platform/alerts
+  url: /platform/alerts-reporting
 heroStats:
 - iOS + Android
 - Multi-camera live
@@ -35,9 +35,9 @@ finalCTAHeading: See the app on real cameras.
 finalCTABody: We will install a sandbox tenant on your phone during the demo with a live alert flow.
 finalCTAButtons:
 - label: Book a demo
-  url: /demo
+  url: /schedule-a-demo
 schemaType: MobileApplication
-internalLinks: /platform, /platform/soc, /platform/alerts, /platform/security
+internalLinks: /platform, /platform/soc, /platform/alerts-reporting, /platform/cloud-security
 canonical: https://visiondetectionsystems.com/platform/mobile-app
 ogTitle: Your site, your operators, your phone.
 ogDescription: iOS and Android app with live multi-camera view, alert acknowledgement, two-way audio talk-down, and incident clip sharing.
@@ -67,7 +67,7 @@ Site supervisors. Property managers. On-call security directors. The app is not 
 
 ## Same security posture as the web console
 
-MFA. RBAC. Session expiration. Device registration. Push notifications go through APNs and FCM; alert payloads are never sent in clear text. Every action taken in the app is logged to the [12-month audit trail](/platform/security).
+MFA. RBAC. Session expiration. Device registration. Push notifications go through APNs and FCM; alert payloads are never sent in clear text. Every action taken in the app is logged to the [12-month audit trail](/platform/cloud-security).
 
 ## Works with or without the SOC
 

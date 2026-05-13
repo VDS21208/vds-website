@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Get a Quote
   url: Book a 15-Min Demo
 schemaType: Product
-internalLinks: /platform/lpr, /soc, /pricing, /pricing/dealers, /products
+internalLinks: /platform/lpr, /platform/soc, /pricing, /pricing/dealers, /products
 canonical: https://visiondetectionsystems.com/products/license-plate-recognition
 ogTitle: License Plate Recognition Cameras for Accurate Vehicle Identification
 ogDescription: License plate recognition camera solutions for accurate plate capture, real-time alerts, reporting, and integrations
@@ -357,7 +357,7 @@ Locations without ready infrastructure
 
 Fast deployment needs after incidents
 
-Internal link: mobile surveillance trailers → /products/mobile-surveillance-trailers/
+Internal link: mobile surveillance trailers → /products/products/mobile-surveillance-trailers
 
 
 

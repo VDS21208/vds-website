@@ -41,7 +41,7 @@ finalCTAButtons:
 - label: Get Both Quotes
   url: Download Decision Matrix
 schemaType: Article
-internalLinks: /solutions, /solutions/mobile-surveillance-trailer-cost, /solutions/mobile-surveillance-trailer-rental-cost, /products/sky-guard-msu
+internalLinks: /solutions, /solutions/mobile-surveillance-trailer-cost, /solutions/mobile-surveillance-trailer-rental-cost, /products/sky-guard-mobile-surveillance-trailer
 canonical: https://visiondetectionsystems.com/solutions/buy-vs-rent-mobile-surveillance-trailer
 ogTitle: 'Buy vs Rent a Mobile Surveillance Trailer: The Decision Framework'
 ogDescription: Buy a mobile surveillance trailer at $38K or rent at $2,200/mo. Break-even hits at 24 months. Full decision framework with capex/opex math from VDS.

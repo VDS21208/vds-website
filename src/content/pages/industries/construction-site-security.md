@@ -41,7 +41,7 @@ finalCTAButtons:
 - label: Get a project quote
   url: Read the Mid-Atlantic GC case study
 schemaType: Service
-internalLinks: /products/swift-deploy, /products/solar-camera-poles, /products/sky-guard-msu, /case-studies/mid-atlantic-gc, /soc, /pricing
+internalLinks: /products/swift-deploy-surveillance-trailer, /products/solar-camera-poles, /products/sky-guard-mobile-surveillance-trailer, /resources/case-studies/mid-atlantic-gc, /platform/soc, /pricing
 canonical: https://visiondetectionsystems.com/industries/construction-site-security
 ogTitle: Construction Site Security
 ogDescription: Solar-powered surveillance for construction sites. 73% theft reduction, $340,800 saved in 12 months. NDAA compliant. 24/7 US SOC. 4-hour deployment.

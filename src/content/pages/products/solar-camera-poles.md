@@ -15,7 +15,7 @@ heroCTAPrimary:
   url: /request-a-quote
 heroCTASecondary:
   label: Talk to an Engineer
-  url: /contact
+  url: /contact-us
 heroStats:
 - Solar-autonomous
 - No trenching
@@ -37,9 +37,9 @@ finalCTAButtons:
 - label: Request a Quote
   url: /request-a-quote
 - label: Talk to an Engineer
-  url: /contact
+  url: /contact-us
 schemaType: Product
-internalLinks: /products/sky-guard-msu, /products/swift-deploy-trailer, /ai-visionstream, /soc, /industries/utilities, /industries/solar-farms
+internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /platform, /platform/soc, /industries/utility-substation-security, /industries/solar-farms
 canonical: https://visiondetectionsystems.com/products/solar-camera-poles
 ogTitle: Solar Camera Poles. Permanent coverage without trenching.
 ogDescription: Fixed solar-autonomous camera poles for long-term sites. ONVIF/RTSP, AI VisionStream cloud VMS, US SOC monitoring. NDAA compliant.

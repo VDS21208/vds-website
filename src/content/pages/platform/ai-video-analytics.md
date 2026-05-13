@@ -12,7 +12,7 @@ heroEyebrow: Analytics & detection
 heroSubhead: Draw a polygon. Set a schedule. Get a verified alert when a human, vehicle, or object crosses the line. Models trained on 7 years of field footage from 500+ active sites.
 heroCTAPrimary:
   label: Book a demo
-  url: /demo
+  url: /schedule-a-demo
 heroCTASecondary:
   label: See the SOC workflow
   url: /platform/soc
@@ -35,9 +35,9 @@ finalCTAHeading: Watch a rule fire on your own camera.
 finalCTABody: Send us an RTSP URL. We will configure an intrusion zone live during the demo.
 finalCTAButtons:
 - label: Book a demo
-  url: /demo
+  url: /schedule-a-demo
 schemaType: SoftwareApplication
-internalLinks: /platform, /platform/lpr, /platform/soc, /platform/alerts, /platform/security
+internalLinks: /platform, /platform/lpr, /platform/soc, /platform/alerts-reporting, /platform/cloud-security
 canonical: https://visiondetectionsystems.com/platform/ai-video-analytics
 ogTitle: Rules you draw. Alerts that fire in under 3 seconds.
 ogDescription: Intrusion zones, virtual tripwires, loitering, crowd, and time-of-day rules running on 7 years of field-tuned models. Sub-3-second alerts.
@@ -79,4 +79,4 @@ Every analytic alert is reviewed by a SOC operator before it escalates to the cu
 
 ## Built for the platform, not bolted on
 
-Analytics rules are configured in the same console as users, retention, and SOC routing. Changes apply in seconds. Every rule edit is logged in the [12-month audit trail](/platform/security).
+Analytics rules are configured in the same console as users, retention, and SOC routing. Changes apply in seconds. Every rule edit is logged in the [12-month audit trail](/platform/cloud-security).

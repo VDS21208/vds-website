@@ -36,7 +36,7 @@ finalCTAButtons:
 - label: Request CIP-014 Assessment
   url: Talk to an Engineer
 schemaType: Article
-internalLinks: /products/sky-guard-msu, /products/boundary-guard-pro, /solutions/utility, /solutions/utility/copper-theft-prevention, /compliance/nerc-cip
+internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/boundary-guard-pro, /solutions/utility, /solutions/utility/copper-theft-prevention, /compliance/nerc-cip
 canonical: https://visiondetectionsystems.com/solutions/utility/substation-intrusion
 ogTitle: Detect Substation Perimeter Intrusion Before It Becomes a NERC CIP-014 Incident
 ogDescription: Detect substation intrusion before it becomes a CIP-014 incident. Thermal + radar + 24/7 US SOC. Audit-ready documentation pack for compliance.

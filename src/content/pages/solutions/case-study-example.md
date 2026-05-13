@@ -37,7 +37,7 @@ finalCTAButtons:
 - label: Read the Hero Case Study
   url: Request Your Vertical
 schemaType: Article
-internalLinks: /solutions, /resources/case-studies, /resources/case-studies/mid-atlantic-gc, /resources/case-studies/grocery-southeast, /resources/case-studies/logistics-tx, /resources/case-studies/utility-pnw, /resources/case-studies/disaster-response
+internalLinks: /solutions, /resources/case-studies, /resources/case-studies/mid-atlantic-gc, /resources/case-studies, /resources/case-studies, /resources/case-studies, /resources/case-studies
 canonical: https://visiondetectionsystems.com/solutions/case-study-example
 ogTitle: 'Case Studies: Measured Outcomes from Real Deployments'
 ogDescription: Real deployments, measured outcomes. 73% theft reduction, $340,800 saved, $0 insurance claims. Case studies across construction, retail, logistics
@@ -76,22 +76,22 @@ This is the case study we cite most often because it spans the full stack — ha
 **Tier 2 grocery chain, 14-store retail rollout (Southeast)**
 - Configuration: Boundary Guard Pro at each store perimeter + Pro platform
 - Outcomes: 61% shrinkage reduction in parking-lot incidents, 4-month payback
-- [Full case study →](/resources/case-studies/grocery-southeast)
+- [Full case study →](/resources/case-studies)
 
 **Last-mile logistics yard (Texas)**
 - Configuration: 2x Sky Guard MSU + 8 fixed-camera additions to VMS
 - Outcomes: $180K in prevented cargo theft over 9 months, 1.8x ROI in year one
-- [Full case study →](/resources/case-studies/logistics-tx)
+- [Full case study →](/resources/case-studies)
 
 **Municipal utility substation network (Pacific Northwest)**
 - Configuration: 5x Boundary Guard Pro + Enterprise platform
 - Outcomes: Two prevented copper-theft attempts, $0 substation damage in 18 months
-- [Full case study →](/resources/case-studies/utility-pnw)
+- [Full case study →](/resources/case-studies)
 
 **Disaster response / FEMA staging site (Gulf Coast)**
 - Configuration: 4x Swift Deploy Trailer, 72-hour deployment
 - Outcomes: Continuous coverage of $4M in equipment staging, zero loss events
-- [Full case study →](/resources/case-studies/disaster-response)
+- [Full case study →](/resources/case-studies)
 
 ## Methodology
 

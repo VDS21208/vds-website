@@ -1,0 +1,68 @@
+---
+import Icon from '../icons/Icon.astro';
+import FAQAccordion from './FAQAccordion.astro';
+import FinalCTAStrip from './FinalCTAStrip.astro';
+
+export interface Props {
+  Content: any;
+  page: any;
+  related?: Array<{ url: string; title: string; description?: string }>;
+}
+
+const { Content, page, related = [] } = Astro.props;
+
+const statSplitter = new RegExp('\\s+\\u00B7\\s+|\\s{2,}');
+const parsedStats = (page.heroStats || []).slice(0, 4).map((s) => {
+  const parts = s.split(statSplitter);
+  return { value: parts[0] || '', label: parts.slice(1).join(' ') };
+});
+
+const relatedTop = related.slice(0, 3);
+const finalButtons = page.finalCTAButtons || [];
+const hasFAQ = page.faq && page.faq.length > 0;
+const ctaHeading = page.finalCTAHeading;
+const ctaBody = page.finalCTABody;
+---
+<section class="relative bg-white">
+  <div class="absolute inset-0 dot-pattern-light opacity-30 pointer-events-none"></div>
+  <div class="container-main py-16 md:py-24 relative">
+    <div class="max-w-3xl mx-auto">
+      <article class="prose-vds">
+        <Content />
+      </article>
+
+      {parsedStats.length > 0 && (
+        <aside class="my-12 grid grid-cols-2 md:grid-cols-4 gap-4 not-prose">
+          {parsedStats.map((stat) => (
+            <div class="border-l-2 border-orange pl-4 py-2">
+              <div class="font-display text-2xl md:text-3xl text-orange leading-none" data-target={stat.value}>{stat.value}</div>
+              {stat.label && <div class="text-xs uppercase tracking-wider text-slate-500 mt-1.5">{stat.label}</div>}
+            </div>
+          ))}
+        </aside>
+      )}
+    </div>
+  </div>
+</section>
+
+{hasFAQ && <FAQAccordion faqs={page.faq} />}
+
+{relatedTop.length > 0 && (
+  <section class="bg-offwhite py-16 md:py-20">
+    <div class="container-main">
+      <div class="eyebrow mb-3">Related</div>
+      <h2 class="font-display mb-8 text-navy">Continue reading</h2>
+      <div class="grid md:grid-cols-3 gap-5">
+        {relatedTop.map((r) => (
+          <a href={r.url} class="card-hover bg-white border border-slate-200 rounded-lg p-6 group block">
+            <h3 class="font-display text-lg text-navy mb-2">{r.title}</h3>
+            <p class="text-sm text-slate-600 leading-relaxed mb-3">{r.description}</p>
+            <span class="inline-flex items-center gap-1 text-sm text-orange font-medium">Read more <Icon name="arrow-right" size={14} /></span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+)}
+
+{ctaHeading && <FinalCTAStrip heading={ctaHeading} body={ctaBody} buttons={finalButtons} />}

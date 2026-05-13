@@ -52,7 +52,7 @@ tags: mobile surveillance, VDS
 
 A $28M general contractor running three concurrent commercial sites lost copper wire, generators, and small equipment at a rate that threatened margin on two of the three jobs. Two Swift Deploy units and three Solar Camera Poles, monitored 24/7 by the VDS SOC, cut theft incidents 73% and produced $0 in insurance claims across the measurement year.
 
-**[Read the full case study](/resources/case-studies/mid-atlantic-gc-340k-saved)**
+**[Read the full case study](/resources/case-studies/mid-atlantic-gc)**
 
 ### Utility Substation Network — Copper theft halted in 9 months
 **Utility & Energy | Sky Guard MSU | Mid-Atlantic**

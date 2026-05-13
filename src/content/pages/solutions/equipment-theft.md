@@ -36,7 +36,7 @@ finalCTAButtons:
 - label: Get a Design
   url: Talk to an Engineer
 schemaType: Article
-internalLinks: /products/swift-deploy, /products/sky-guard-msu, /solutions/construction/copper-theft, /solutions/construction/insurance-claim-reduction, /case-studies/mid-atlantic-gc
+internalLinks: /products/swift-deploy-surveillance-trailer, /products/sky-guard-mobile-surveillance-trailer, /solutions/copper-theft-prevention, /solutions/construction/insurance-claim-reduction, /resources/case-studies/mid-atlantic-gc
 canonical: https://visiondetectionsystems.com/solutions/construction/equipment-theft
 ogTitle: Prevent Heavy Equipment and Tool Theft on Construction Sites
 ogDescription: Prevent excavator, skid steer, generator, and tool theft. Solar-powered AI cameras with LPR at site entry. 24/7 US SOC. <60s response.
@@ -57,7 +57,7 @@ What gets taken:
 - **Compact track loaders and mini excavators** — $45,000-$85,000 each, towable behind a 3/4-ton truck
 - **Tier 4 generators (20-60 kW)** — $18,000-$40,000, ready to plug in at another site
 - **Plate compactors, walk-behind saws, laser levels** — $2,000-$8,000 each, untraceable, cash sale
-- **Copper, wire, plumbing rough-in** — covered in detail at [/solutions/construction/copper-theft](/solutions/construction/copper-theft)
+- **Copper, wire, plumbing rough-in** — covered in detail at [/solutions/copper-theft-prevention](/solutions/copper-theft-prevention)
 - **Fuel** — 200-gallon diesel pulls overnight, $700+ per incident
 
 The thieves rarely climb the fence. They drive through the gate, often after cutting the chain or following the last subcontractor out. **Every theft begins with a license plate at the entry.**

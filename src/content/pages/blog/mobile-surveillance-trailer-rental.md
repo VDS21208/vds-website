@@ -82,7 +82,7 @@ H1 heading: Mobile Surveillance Trailer Rental vs. Purchase: What's Right for Yo
 
 Internal links to add after publishing:
 
-/mobile-surveillance-trailers/
+/products/mobile-surveillance-trailers
 
 /industries/construction-site-security/
 
@@ -136,7 +136,7 @@ Schema markup (JSON-LD — add to page head or CMS schema field):
 
 "@type": "WebPage",
 
-"@id": "https://visiondetectionsystems.com/blog-posts/mobile-surveillance-trailer-rental-vs-purchase"
+"@id": "https://visiondetectionsystems.com/resources/blog-posts/mobile-surveillance-trailer-rental-vs-purchase"
 
 },
 

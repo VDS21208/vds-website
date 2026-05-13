@@ -29,7 +29,7 @@ finalCTAButtons:
 - label: Request an assessment
   url: Download the PDF
 schemaType: Article
-internalLinks: /products/sky-guard-msu, /industries/utility-energy, /platform/soc, /compliance/ndaa-889, /resources/white-papers/nerc-cip-perimeter
+internalLinks: /products/sky-guard-mobile-surveillance-trailer, /industries/utility-energy, /platform/soc, /compliance/ndaa-889, /resources/nerc-cip-perimeter
 canonical: https://visiondetectionsystems.com/resources/case-studies/utility-substation-copper-theft
 ogTitle: Three substations, six copper thefts, then nine months at zero
 ogDescription: A Mid-Atlantic electric utility eliminated copper theft at three substations in 9 months with Sky Guard MSU. Six incidents to zero. $180K copper protected

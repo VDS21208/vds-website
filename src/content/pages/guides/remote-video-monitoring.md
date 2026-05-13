@@ -36,7 +36,7 @@ finalCTAButtons:
 - label: Download the Guide (PDF)
   url: Schedule a SOC Tour
 schemaType: Book
-internalLinks: /services/24-7-soc, /services/video-retrieval, /platform/ai-visionstream, /guides/mobile-surveillance-trailers
+internalLinks: /services/24-7-soc, /services/video-retrieval, /platform/platform, /guides/mobile-surveillance-trailers
 canonical: https://visiondetectionsystems.com/guides/remote-video-monitoring
 ogTitle: 'Remote Video Monitoring: How It Works and What to Expect'
 ogDescription: How remote video monitoring works, what to expect from a 24/7 SOC, false-alarm reduction math, and a 3-year ROI model. Free 28-page PDF.
@@ -111,9 +111,9 @@ We sell monitoring. Most monitoring vendors hide their response times, their sta
 
 ## Free excerpts
 
-- [The 12 questions to ask a remote video monitoring provider](/guides/remote-video-monitoring/12-questions)
-- [How to read a "verified response" claim](/guides/remote-video-monitoring/verified-response)
-- [3-year ROI template (Excel)](/guides/remote-video-monitoring/roi-template)
+- [The 12 questions to ask a remote video monitoring provider](/guides/remote-video-monitoring)
+- [How to read a "verified response" claim](/guides/remote-video-monitoring)
+- [3-year ROI template (Excel)](/guides/remote-video-monitoring)
 
 ## Audience
 

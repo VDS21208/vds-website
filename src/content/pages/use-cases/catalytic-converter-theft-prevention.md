@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Get a Quote
   url: Book a Lot Walk
 schemaType: Article
-internalLinks: /products/swift-deploy, /products/sky-guard-msu, /platform/ai-visionstream, /soc, /industries/auto-dealerships, /industries/fleet, /industries/healthcare, /industries/hospitality, /industries/multifamily
+internalLinks: /products/swift-deploy-surveillance-trailer, /products/sky-guard-mobile-surveillance-trailer, /platform/platform, /platform/soc, /industries/automotive-dealership-security, /industries/warehouse-logistics-security, /industries/hospitality-healthcare-security, /industries/hospitality-healthcare-security, /industries/commercial-property-security
 canonical: https://visiondetectionsystems.com/use-cases/catalytic-converter-theft-prevention
 ogTitle: Catalytic converter theft prevention for dealer lots and fleet parking.
 ogDescription: Stop catalytic converter theft in 90 seconds or less. Thermal + PTZ + 24/7 US SOC audio talk-down before the cut completes
@@ -75,7 +75,7 @@ The moment the rule fires, the SOC operator has live video on screen. Live audio
 
 ## Industries most affected
 
-[Auto Dealerships](/industries/auto-dealerships) · [Fleet & Transportation](/industries/fleet) · [Hospitals & Medical Campuses](/industries/healthcare) · [Hotels & Hospitality](/industries/hospitality) · [Multi-Family Residential](/industries/multifamily)
+[Auto Dealerships](/industries/automotive-dealership-security) · [Fleet & Transportation](/industries/warehouse-logistics-security) · [Hospitals & Medical Campuses](/industries/hospitality-healthcare-security) · [Hotels & Hospitality](/industries/hospitality-healthcare-security) · [Multi-Family Residential](/industries/commercial-property-security)
 
 ## ROI math
 

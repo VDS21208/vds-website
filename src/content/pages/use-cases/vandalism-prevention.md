@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Get a Quote
   url: Book a Site Walk
 schemaType: Article
-internalLinks: /products/sky-guard-msu, /products/swift-deploy, /platform/ai-visionstream, /soc, /industries/construction, /industries/retail, /industries/education, /industries/parks, /industries/municipal, /industries/commercial-real-estate
+internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /platform/platform, /platform/soc, /industries/construction-site-security, /industries/retail-shopping-center-security, /industries/school-campus-security, /industries/community-safety, /industries/community-safety, /industries/commercial-property-security
 canonical: https://visiondetectionsystems.com/use-cases/vandalism-prevention
 ogTitle: Vandalism prevention for construction, retail, schools, and public property.
 ogDescription: Stop graffiti, broken windows, and sabotage before they happen. AI loitering detection, thermal night vision, 24/7 US SOC audio talk-down
@@ -77,7 +77,7 @@ Repeat offender identification is part of the value. VDS preserves evidence acro
 
 ## Industries most affected
 
-[Construction](/industries/construction) · [Retail & Strip Centers](/industries/retail) · [Schools & Education](/industries/education) · [Parks & Recreation](/industries/parks) · [Municipal](/industries/municipal) · [Commercial Real Estate](/industries/commercial-real-estate)
+[Construction](/industries/construction-site-security) · [Retail & Strip Centers](/industries/retail-shopping-center-security) · [Schools & Education](/industries/school-campus-security) · [Parks & Recreation](/industries/community-safety) · [Municipal](/industries/community-safety) · [Commercial Real Estate](/industries/commercial-property-security)
 
 ## ROI math
 

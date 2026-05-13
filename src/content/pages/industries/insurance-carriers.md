@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Talk to Our Channel Team
   url: Download Carrier Program Brief
 schemaType: Service
-internalLinks: /case-studies, /soc, /about-us/trust-center, /try-vds-pilot, /products/sky-guard-msu
+internalLinks: /case-studies, /platform/soc, /about-us/trust-center, /try-vds-pilot, /products/sky-guard-mobile-surveillance-trailer
 canonical: https://visiondetectionsystems.com/industries/insurance-carriers
 ogTitle: Insurance Carrier Partnerships
 ogDescription: Carrier-program partnerships for risk engineering teams and brokers. VDS provides the documented monitoring evidence carriers use to credit premiums on

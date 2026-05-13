@@ -1,5 +1,5 @@
 ---
-url: /locations/mobile-surveillance-trailers/nashville
+url: /locations/products/mobile-surveillance-trailersnashville
 collection: locations-city
 pageType: City Detail
 parent: /locations/mobile-surveillance-trailers
@@ -37,8 +37,8 @@ finalCTAButtons:
 - label: Request a Nashville quote
   url: Talk to a deployment engineer
 schemaType: LocalBusiness
-internalLinks: /locations/mobile-surveillance-trailers, /locations/tennessee, /products/sky-guard-msu, /industries/construction-security, /industries/healthcare-security, /industries/data-center-security
-canonical: https://visiondetectionsystems.com/locations/mobile-surveillance-trailers/nashville
+internalLinks: /locations/mobile-surveillance-trailers, /locations/tennessee, /products/sky-guard-mobile-surveillance-trailer, /industries/construction-security, /industries/healthcare-security, /industries/data-center-security
+canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailersnashville
 ogTitle: Mobile surveillance trailers in Nashville, TN
 ogDescription: Mobile surveillance trailers across Nashville metro — downtown high-rise, Music Row, Vanderbilt expansion, data center growth, healthcare HQs
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg

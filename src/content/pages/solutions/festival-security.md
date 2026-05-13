@@ -36,7 +36,7 @@ finalCTAButtons:
 - label: Quote My Event
   url: Talk to an Engineer
 schemaType: Article
-internalLinks: /products/sky-guard-msu, /products/swift-deploy, /features/lpr, /features/rapid-deploy, /solutions/events
+internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /features/lpr, /features/rapid-deploy, /solutions/events
 canonical: https://visiondetectionsystems.com/solutions/events/festival-security
 ogTitle: Mobile Surveillance for Festivals, Concerts, and Special Events
 ogDescription: Mobile surveillance for festivals, concerts, and special events. <72hr deploy, thermal cameras, LPR for credentialed vehicles, 24/7 US SOC.

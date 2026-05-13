@@ -1,5 +1,5 @@
 ---
-url: /locations/mobile-surveillance-trailers/las-vegas
+url: /locations/products/mobile-surveillance-trailerslas-vegas
 collection: locations-city
 pageType: City Detail
 parent: /locations/mobile-surveillance-trailers
@@ -37,8 +37,8 @@ finalCTAButtons:
 - label: Request a Vegas quote
   url: Talk to a deployment engineer
 schemaType: LocalBusiness
-internalLinks: /locations/mobile-surveillance-trailers, /locations/nevada, /products/sky-guard-msu, /products/boundary-guard-pro, /industries/construction-security, /industries/event-security, /industries/parking-garage-security
-canonical: https://visiondetectionsystems.com/locations/mobile-surveillance-trailers/las-vegas
+internalLinks: /locations/mobile-surveillance-trailers, /locations/nevada, /products/sky-guard-mobile-surveillance-trailer, /products/boundary-guard-pro, /industries/construction-security, /industries/event-security, /industries/parking-garage-security
+canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailerslas-vegas
 ogTitle: Mobile surveillance trailers in Las Vegas, NV
 ogDescription: Mobile surveillance trailers across Las Vegas metro — Strip and downtown construction, new arenas and casinos, trade-show staging, parking garages
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg

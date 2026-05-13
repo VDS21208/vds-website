@@ -37,7 +37,7 @@ finalCTAButtons:
 - label: Get a direct quote
   url: Apply to partner program
 schemaType: Article
-internalLinks: /products/sky-guard, /products/swift-deploy, /products/boundary-guard-pro, /partners, /soc, /compliance/ndaa, /compare
+internalLinks: /products/sky-guard, /products/swift-deploy-surveillance-trailer, /products/boundary-guard-pro, /partners, /platform/soc, /compliance/ndaa, /compare
 canonical: https://visiondetectionsystems.com/compare/vds-vs-using-an-integrator
 ogTitle: Manufacturer vs. Integrator — Buying Direct vs. Buying through Security 101
 ogDescription: When does Security 101 or a multi-brand integrator make sense vs. buying mobile surveillance direct from a manufacturer like VDS? Honest decision

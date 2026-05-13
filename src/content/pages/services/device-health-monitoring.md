@@ -36,7 +36,7 @@ finalCTAButtons:
 - label: Schedule Walkthrough
   url: Download Service Brief
 schemaType: Service
-internalLinks: /services/24-7-soc, /services/network-connectivity, /platform/ai-visionstream, /hardware/mobile-surveillance-trailers
+internalLinks: /services/24-7-soc, /services/network-connectivity, /platform/platform, /hardware/mobile-surveillance-trailers
 canonical: https://visiondetectionsystems.com/services/device-health-monitoring
 ogTitle: Device Health Monitoring Before Failure, Not After
 ogDescription: 24/7 telemetry on battery, solar, cellular, camera uptime, and tamper. Failures predicted and dispatched before downtime

@@ -34,7 +34,7 @@ finalCTAButtons:
 - label: Book Milestone integration call
   url: Read API + SDK docs
 schemaType: Article
-internalLinks: /integrations, /platform/ai-visionstream, /platform/api-sdk-access, /hardware/solar-trailers, /platform/lpr
+internalLinks: /integrations, /platform/platform, /platform/api-sdk-access, /hardware/solar-trailers, /platform/lpr
 canonical: https://visiondetectionsystems.com/integrations/milestone
 ogTitle: VDS + Milestone XProtect
 ogDescription: VDS cameras and AI events ingest as Milestone XProtect drivers. LPR reads appear on the XProtect timeline. Bidirectional alerting via MIP SDK.

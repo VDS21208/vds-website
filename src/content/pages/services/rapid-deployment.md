@@ -41,7 +41,7 @@ finalCTAButtons:
 - label: Schedule deployment
   url: See unit specs
 schemaType: Service
-internalLinks: /services/monitoring, /services/managed, /products/mobile-trailer, /case-studies/mid-atlantic-340k, /industries/construction
+internalLinks: /services/monitoring, /services/managed, /products/mobile-trailer, /resources/case-studies/mid-atlantic-340k, /industries/construction-site-security
 canonical: https://visiondetectionsystems.com/services/rapid-deployment
 ogTitle: 72 hours from signature to live feed.
 ogDescription: Solar-autonomous mobile security trailers deployed within 72 hours. One-person setup under 20 minutes. No power, no network, no permits. 500+ deployments.

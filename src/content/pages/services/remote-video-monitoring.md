@@ -41,7 +41,7 @@ finalCTAButtons:
 - label: Schedule SOC tour
   url: Get monitoring quote
 schemaType: Service
-internalLinks: /services/rapid-deployment, /services/managed, /soc, /about/team, /case-studies/mid-atlantic-340k
+internalLinks: /services/rapid-deployment, /services/managed, /platform/soc, /about-us/team, /resources/case-studies/mid-atlantic-340k
 canonical: https://visiondetectionsystems.com/services/remote-video-monitoring
 ogTitle: Remote Video Monitoring for 24/7 Commercial Site Security
 ogDescription: Remote video monitoring for commercial sites with 24/7 coverage, verified response workflows, and incident reporting. Improve response and reduce risk.

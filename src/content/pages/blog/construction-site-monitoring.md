@@ -86,7 +86,7 @@ Internal links to add after publishing:
 
 /construction-live-monitoring/
 
-/mobile-surveillance-trailers/
+/products/mobile-surveillance-trailers
 
 /solutions/remote-monitoring-vs-security-guards/
 
@@ -152,7 +152,7 @@ Schema markup (JSON-LD — add to page head or CMS schema field):
 
 "@type": "WebPage",
 
-"@id": "https://vds.com/blog-posts/construction-site-monitoring-complete-guide-general-contractors"
+"@id": "https://vds.com/resources/blog-posts/construction-site-monitoring-complete-guide-general-contractors"
 
 }
 

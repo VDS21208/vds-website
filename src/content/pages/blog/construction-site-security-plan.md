@@ -86,7 +86,7 @@ Internal links to add after publishing:
 
 /construction-live-monitoring/
 
-/mobile-surveillance-trailers/
+/products/mobile-surveillance-trailers
 
 /request-a-quote
 
@@ -132,7 +132,7 @@ Schema markup (JSON-LD — add to page head or CMS schema field):
 
 "@type": "WebPage",
 
-"@id": "https://visiondetectionsystems.com/blog-posts/construction-site-security-plan-guide"
+"@id": "https://visiondetectionsystems.com/resources/blog-posts/construction-site-security-plan-guide"
 
 }
 

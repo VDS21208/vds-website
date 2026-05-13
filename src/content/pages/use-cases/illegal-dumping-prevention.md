@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Get a Quote
   url: Book a Site Walk
 schemaType: Article
-internalLinks: /products/swift-deploy, /platform/ai-visionstream, /soc, /industries/construction, /industries/municipal, /industries/commercial-real-estate, /industries/parks
+internalLinks: /products/swift-deploy-surveillance-trailer, /platform/platform, /platform/soc, /industries/construction-site-security, /industries/community-safety, /industries/commercial-property-security, /industries/community-safety
 canonical: https://visiondetectionsystems.com/use-cases/illegal-dumping-prevention
 ogTitle: Illegal dumping prevention for construction, municipal, and commercial property.
 ogDescription: Stop illegal dumping at construction sites, vacant lots, and alley dumpsters. LPR captures every plate, SOC audio talk-down ends 90%+ of incidents
@@ -75,7 +75,7 @@ The SOC operator pulls live video the moment a rule fires. Audio talk-down throu
 
 ## Industries most affected
 
-[Construction](/industries/construction) · [Municipal & Public Works](/industries/municipal) · [Commercial Real Estate](/industries/commercial-real-estate) · [Parks & Recreation](/industries/parks)
+[Construction](/industries/construction-site-security) · [Municipal & Public Works](/industries/community-safety) · [Commercial Real Estate](/industries/commercial-property-security) · [Parks & Recreation](/industries/community-safety)
 
 ## ROI math
 

@@ -15,7 +15,7 @@ heroCTAPrimary:
   url: /request-a-quote
 heroCTASecondary:
   label: Talk to an Engineer
-  url: /contact
+  url: /contact-us
 heroStats:
 - OSHA-compliant
 - HVAC standard
@@ -37,9 +37,9 @@ finalCTAButtons:
 - label: Request a Quote
   url: /request-a-quote
 - label: Talk to an Engineer
-  url: /contact
+  url: /contact-us
 schemaType: Product
-internalLinks: /products/guard-booths, /products/light-trailers, /industries/construction
+internalLinks: /products/guard-booths, /products/light-trailers, /industries/construction-site-security
 canonical: https://visiondetectionsystems.com/products/medical-cooling-stations
 ogTitle: Welfare units that keep crews compliant and on the clock.
 ogDescription: OSHA-compliant cooling and medical stations for outdoor crews. Power, HVAC, seating, and first-aid integration. Pairs with VDS site infrastructure.

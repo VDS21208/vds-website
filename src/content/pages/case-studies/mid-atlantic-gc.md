@@ -29,7 +29,7 @@ finalCTAButtons:
 - label: Request an assessment
   url: Download the PDF
 schemaType: Article
-internalLinks: /products/swift-deploy, /products/solar-camera-pole, /industries/construction, /platform/soc, /contact
+internalLinks: /products/swift-deploy-surveillance-trailer, /products/solar-camera-pole, /industries/construction-site-security, /platform/soc, /contact-us
 canonical: https://visiondetectionsystems.com/resources/case-studies/mid-atlantic-gc
 ogTitle: How a $28M Mid-Atlantic GC cut jobsite theft 73% and saved $340,800
 ogDescription: A $28M Mid-Atlantic general contractor cut jobsite theft 73% and saved $340,800 in 12 months with two Swift Deploy units and three Solar Camera Poles

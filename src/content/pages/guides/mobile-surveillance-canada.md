@@ -38,7 +38,7 @@ finalCTAButtons:
 - label: Talk about cross-border
   url: See Canada operations page
 schemaType: Article
-internalLinks: /locations/canada, /locations/canada/toronto, /locations/canada/vancouver, /products/sky-guard-msu, /products/swift-deploy, /products/boundary-guard-pro, /company/about
+internalLinks: /locations/canada, /locations/canada/toronto, /locations/canada/vancouver, /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /products/boundary-guard-pro, /company/about
 canonical: https://visiondetectionsystems.com/guides/mobile-surveillance-canada
 ogTitle: Mobile Surveillance in Canada — Regulatory and Operational Guide
 ogDescription: A practical guide to mobile surveillance in Canada — PIPEDA, provincial privacy law, cold-weather operations, NDAA equivalence, and vendor selection.

@@ -37,7 +37,7 @@ finalCTAButtons:
 - label: Get a New York quote
   url: Download NY privacy framework
 schemaType: LocalBusiness
-internalLinks: /compliance/privacy-framework, /industries/construction, /procurement/nys-ogs, /products/swift-deploy
+internalLinks: /compliance/privacy-framework, /industries/construction-site-security, /procurement/nys-ogs, /products/swift-deploy-surveillance-trailer
 canonical: https://visiondetectionsystems.com/locations/new-york
 ogTitle: Mobile surveillance for New York construction and infrastructure
 ogDescription: Mobile surveillance for NYC metro construction, ConEd substations, NYS DOT infrastructure, and parking enforcement. Privacy-aware deployment

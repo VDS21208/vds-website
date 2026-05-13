@@ -36,7 +36,7 @@ finalCTAButtons:
 - label: Download the Guide (PDF)
   url: Schedule an Engineer Call
 schemaType: Book
-internalLinks: /hardware/mobile-surveillance-trailers, /platform/ai-visionstream, /services/24-7-soc, /guides/remote-video-monitoring
+internalLinks: /hardware/mobile-surveillance-trailers, /platform/platform, /services/24-7-soc, /guides/remote-video-monitoring
 canonical: https://visiondetectionsystems.com/guides/mobile-surveillance-trailers
 ogTitle: 'Mobile Surveillance Trailers: The Complete Buyer''s Guide'
 ogDescription: 'The buyer''s guide to mobile surveillance trailers: solar power, AI cameras, monitoring, deployment, total cost. Free 42-page PDF from VDS.'
@@ -96,9 +96,9 @@ We use this exact framework with prospects in pre-sales engagements. Publishing 
 
 A few of the more useful excerpts, free, no form:
 
-- [The 6 questions to ask before you start specifying](/guides/mobile-surveillance-trailers/six-questions)
-- [How to read an AI accuracy claim without getting taken](/guides/mobile-surveillance-trailers/ai-accuracy)
-- [A 3-year TCO template for a 4-camera trailer](/guides/mobile-surveillance-trailers/tco-template)
+- [The 6 questions to ask before you start specifying](/guides/mobile-surveillance-trailers-questions)
+- [How to read an AI accuracy claim without getting taken](/guides/mobile-surveillance-trailers-accuracy)
+- [A 3-year TCO template for a 4-camera trailer](/guides/mobile-surveillance-trailers-template)
 
 ## Who wrote it
 

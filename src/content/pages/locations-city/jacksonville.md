@@ -1,5 +1,5 @@
 ---
-url: /locations/mobile-surveillance-trailers/jacksonville
+url: /locations/products/mobile-surveillance-trailersjacksonville
 collection: locations-city
 pageType: City Detail
 parent: /locations/mobile-surveillance-trailers
@@ -37,8 +37,8 @@ finalCTAButtons:
 - label: Request a Jacksonville quote
   url: Talk to a deployment engineer
 schemaType: LocalBusiness
-internalLinks: /locations/mobile-surveillance-trailers, /locations/florida, /products/sky-guard-msu, /products/boundary-guard-pro, /industries/port-logistics, /industries/auto-dealer-security, /compliance/ndaa-889
-canonical: https://visiondetectionsystems.com/locations/mobile-surveillance-trailers/jacksonville
+internalLinks: /locations/mobile-surveillance-trailers, /locations/florida, /products/sky-guard-mobile-surveillance-trailer, /products/boundary-guard-pro, /industries/port-logistics, /industries/auto-dealer-security, /compliance/ndaa-889
+canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailersjacksonville
 ogTitle: Mobile surveillance trailers in Jacksonville, FL
 ogDescription: Mobile surveillance trailers across Jacksonville metro — Port of Jacksonville, Navy-adjacent sites, construction, auto dealer clusters. Hurricane redeploy.
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg

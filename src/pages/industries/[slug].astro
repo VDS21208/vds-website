@@ -3,7 +3,7 @@ import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 import HeroImage from '../../components/hero/HeroImage.astro';
 import TrustStrip from '../../components/sections/TrustStrip.astro';
-import PageBody from '../../components/sections/PageBody.astro';
+import PageBodyEnhanced from '../../components/sections/PageBodyEnhanced.astro';
 import SchemaArticle from '../../components/seo/SchemaArticle.astro';
 import SchemaFAQ from '../../components/seo/SchemaFAQ.astro';
 import { heroImageUrl } from '../../lib/heroImage.ts';
@@ -14,12 +14,18 @@ export async function getStaticPaths() {
     .filter((e) => e.data.collection === 'industries')
     .map((entry) => ({
       params: { slug: entry.data.url.split('/').pop() },
-      props: { entry }
+      props: { entry, allEntries: all }
     }));
 }
-const { entry } = Astro.props;
+const { entry, allEntries } = Astro.props;
 const page = entry.data;
 const { Content } = await entry.render();
+
+// Find 3 related pages in the same collection (excluding current)
+const related = allEntries
+  .filter((e: any) => e.data.collection === 'industries' && e.data.url !== page.url)
+  .slice(0, 3)
+  .map((e: any) => ({ url: e.data.url, title: e.data.h1, description: e.data.metaDescription }));
 ---
 <Layout
   title={page.seoTitle}
@@ -36,10 +42,5 @@ const { Content } = await entry.render();
   <SchemaFAQ faqs={page.faq} />
   <HeroImage bgImage={heroImageUrl({ url: page.url, tags: page.tags, pageType: page.pageType, heroImage: page.heroImage })} eyebrow={page.heroEyebrow} h1={page.h1} subhead={page.heroSubhead} ctaPrimary={page.heroCTAPrimary} ctaSecondary={page.heroCTASecondary} stats={page.heroStats} />
   <TrustStrip />
-  <section class="py-12 md:py-16 bg-white">
-    <div class="container-main">
-      <article class="prose-vds"><Content /></article>
-    </div>
-  </section>
-  <PageBody body="" faq={page.faq} finalCTAHeading={page.finalCTAHeading} finalCTABody={page.finalCTABody} finalCTAButtons={page.finalCTAButtons} />
+  <PageBodyEnhanced Content={Content} page={page} related={related} />
 </Layout>

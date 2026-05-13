@@ -15,7 +15,7 @@ heroCTAPrimary:
   url: gated-form
 heroCTASecondary:
   label: Get an event quote
-  url: /contact
+  url: /contact-us
 heroStats:
 - 3-day to 3-month rentals
 - 200+ events covered
@@ -38,7 +38,7 @@ finalCTAButtons:
 - label: Download the guide
   url: gated-form ; Get event quote
 schemaType: Article
-internalLinks: /products/sky-guard-msu, /products/swift-deploy, /products/boundary-guard-pro, /guides/temporary-surveillance, /contact
+internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /products/boundary-guard-pro, /guides/temporary-surveillance, /contact-us
 canonical: https://visiondetectionsystems.com/guides/event-security
 ogTitle: Event Security Playbook
 ogDescription: Festival, fair, and event surveillance. Parking lot coverage, vendor zone monitoring, and crowd flow analytics. 3-day to 3-month rentals.
@@ -100,6 +100,6 @@ Event producers, festival operations directors, fair board security committees, 
 
 ## Related products
 
-- **[Sky Guard MSU](/products/sky-guard-msu)** — $2,200/mo, rental rates for events. Primary event deployment unit.
-- **[Swift Deploy](/products/swift-deploy)** — $1,500/mo. Compact, fast deployment for vendor zones and gates.
+- **[Sky Guard MSU](/products/sky-guard-mobile-surveillance-trailer)** — $2,200/mo, rental rates for events. Primary event deployment unit.
+- **[Swift Deploy](/products/swift-deploy-surveillance-trailer)** — $1,500/mo. Compact, fast deployment for vendor zones and gates.
 - **[Boundary Guard Pro](/products/boundary-guard-pro)** — $1,800/mo. Perimeter analytics for large festival footprints.

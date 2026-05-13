@@ -12,10 +12,10 @@ heroEyebrow: Platform security & privacy
 heroSubhead: NDAA 889 compliant. AWS US-only data residency. TLS 1.3 in transit, AES-256 at rest. RBAC, MFA, and a 12-month immutable audit log. We publish it because we built it that way.
 heroCTAPrimary:
   label: Request security packet
-  url: /contact
+  url: /contact-us
 heroCTASecondary:
   label: See compliance details
-  url: /trust
+  url: /about-us/trust-center
 heroStats:
 - NDAA Section 889
 - AWS Cloud Partner
@@ -30,16 +30,16 @@ faq:
 - q: How long is the audit log retained?
   a: 12 months by default, with extended retention available on request. Exports can be archived indefinitely by the customer.
 - q: Have you had a security incident?
-  a: No customer-facing breach to date. We publish an annual transparency report at /trust.
+  a: No customer-facing breach to date. We publish an annual transparency report at /about-us/trust-center.
 - q: How does this compare to other VMS platforms?
   a: We publish our posture. Several large competitors have had public breaches in the last 5 years — see /compare for specifics.
 finalCTAHeading: Get the 28-page security packet.
 finalCTABody: We will send the full architecture diagram, encryption posture, RBAC model, and pen-test summary under NDA.
 finalCTAButtons:
 - label: Request packet
-  url: /contact
+  url: /contact-us
 schemaType: WebPage
-internalLinks: /platform, /trust, /compare, /platform/integrations
+internalLinks: /platform, /about-us/trust-center, /compare, /platform/integrations
 canonical: https://visiondetectionsystems.com/platform/cloud-security
 ogTitle: Security posture, written down. Verifiable on audit day.
 ogDescription: NDAA Section 889 compliant. AWS US-only. TLS 1.3 in transit, AES-256 at rest. RBAC, MFA, and an immutable 12-month audit log.

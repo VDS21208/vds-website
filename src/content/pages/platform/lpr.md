@@ -12,10 +12,10 @@ heroEyebrow: License plate recognition
 heroSubhead: 95%+ read accuracy on US plates from any compatible camera. Hotlist alerts route directly to the SOC. No public camera feed. No pattern-of-life database.
 heroCTAPrimary:
   label: Book a demo
-  url: /demo
+  url: /schedule-a-demo
 heroCTASecondary:
   label: Read our privacy posture
-  url: /platform/security
+  url: /platform/cloud-security
 heroStats:
 - 95%+ accuracy
 - Sub-3-second read
@@ -35,9 +35,9 @@ finalCTAHeading: Run a live plate read during the demo.
 finalCTABody: We will point a test camera at a parking lot during the call and walk through hotlist setup end-to-end.
 finalCTAButtons:
 - label: Book a demo
-  url: /demo
+  url: /schedule-a-demo
 schemaType: SoftwareApplication
-internalLinks: /platform, /platform/soc, /platform/security, /platform/alerts
+internalLinks: /platform, /platform/soc, /platform/cloud-security, /platform/alerts-reporting
 canonical: https://visiondetectionsystems.com/platform/lpr
 ogTitle: Plate reads in under 3 seconds. Hotlist match to operator in under 60.
 ogDescription: ALPR with 95%+ read accuracy and sub-3-second hotlist alerts. US-only data, 12-month audit log, no public camera feeds.
@@ -77,7 +77,7 @@ Measured on US plates, at angles up to 30 degrees, at speeds up to 35 mph, in mi
 - We will not publish your camera feed to the open internet
 - We will not store plate data outside US AWS regions
 
-If those sentences sound pointed, it is because several "public safety camera" platforms do the opposite. Read our [security and privacy posture](/platform/security).
+If those sentences sound pointed, it is because several "public safety camera" platforms do the opposite. Read our [security and privacy posture](/platform/cloud-security).
 
 ## Works with the cameras you have
 

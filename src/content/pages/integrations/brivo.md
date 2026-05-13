@@ -34,7 +34,7 @@ finalCTAButtons:
 - label: Book Brivo integration call
   url: Read API + SDK docs
 schemaType: Article
-internalLinks: /integrations, /platform/ai-visionstream, /platform/api-sdk-access, /verticals/commercial-real-estate, /verticals/multi-family
+internalLinks: /integrations, /platform/platform, /platform/api-sdk-access, /verticals/commercial-real-estate, /verticals/multi-family
 canonical: https://visiondetectionsystems.com/integrations/brivo
 ogTitle: VDS + Brivo Access
 ogDescription: VDS perimeter events trigger Brivo door lockdowns; Brivo unlock events appear in the AI VisionStream timeline for chain-of-custody. Sub-second latency.

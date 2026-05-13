@@ -15,7 +15,7 @@ heroCTAPrimary:
   url: /request-a-quote
 heroCTASecondary:
   label: Compare Trailers
-  url: /products/compare
+  url: /compare
 heroStats:
 - 8 hardware lines
 - 1 cloud VMS
@@ -37,7 +37,7 @@ finalCTAButtons:
 - label: Request a Quote
   url: /request-a-quote
 - label: Compare Trailers
-  url: /products/compare
+  url: /compare
 schemaType: ItemList
 canonical: https://visiondetectionsystems.com/products
 ogTitle: Eight hardware lines. One platform. One SOC.
@@ -55,10 +55,10 @@ Every product on this page connects to the same platform. The same operators see
 ## Mobile units
 
 ### Sky Guard MSU — flagship
-22ft mast, thermal LWIR, 500ft ground radar, 4K multi-sensor, LPR, active deterrence. 600W solar, 48+ hr battery, IP66, -20F to 120F. From $2,200/mo or $38,000 purchase. [Spec sheet](/products/sky-guard-msu)
+22ft mast, thermal LWIR, 500ft ground radar, 4K multi-sensor, LPR, active deterrence. 600W solar, 48+ hr battery, IP66, -20F to 120F. From $2,200/mo or $38,000 purchase. [Spec sheet](/products/sky-guard-mobile-surveillance-trailer)
 
 ### Swift Deploy Trailer — most popular
-HD PTZ with 30x zoom, dual-spectrum full-color night vision, AI analytics, optional LPR, 300ft detection. 20ft mast, 400W solar, 36+ hr battery, strobe + PA. Deploys in under 20 minutes by one person with no tools. From $1,500/mo. [Spec sheet](/products/swift-deploy-trailer)
+HD PTZ with 30x zoom, dual-spectrum full-color night vision, AI analytics, optional LPR, 300ft detection. 20ft mast, 400W solar, 36+ hr battery, strobe + PA. Deploys in under 20 minutes by one person with no tools. From $1,500/mo. [Spec sheet](/products/swift-deploy-surveillance-trailer)
 
 ### Boundary Guard Pro
 500+ linear feet of fence-line coverage. No blind spots. Built for perimeters where a single PTZ leaves gaps. From $1,800/mo. [Spec sheet](/products/boundary-guard-pro)

@@ -36,7 +36,7 @@ finalCTAButtons:
 - label: Quote My Property
   url: Talk to an Engineer
 schemaType: Article
-internalLinks: /products/sky-guard-msu, /products/swift-deploy, /solutions/retail, /solutions/retail/orc-flash-mob-prevention, /solutions/parking/after-hours-coverage
+internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /solutions/retail, /solutions/retail/orc-flash-mob-prevention, /solutions/parking/after-hours-coverage
 canonical: https://visiondetectionsystems.com/solutions/retail/parking-lot-crime
 ogTitle: Reduce Parking Lot Crime, Assault Risk, and Customer-Vehicle Incidents at Retail Centers
 ogDescription: Reduce parking lot crime, assault risk, and premises liability at retail centers. 360-degree coverage, after-hours audio talk-down, 24/7 US SOC.

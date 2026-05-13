@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Get a Lease Quote
   url: Talk to Sales
 schemaType: WebPage
-internalLinks: /pricing, /pricing/purchase-options, /pricing/subscription-plans, /products/mobile-surveillance-trailers, /soc
+internalLinks: /pricing, /pricing/purchase-options, /pricing/subscription-plans, /products/mobile-surveillance-trailers, /platform/soc
 canonical: https://visiondetectionsystems.com/pricing/leasing-rentals
 ogTitle: Lease a Trailer Without Surprise Charges
 ogDescription: VDS trailer leasing terms — 3-month minimum, month-to-month after, includes platform, SOC optional. Short-term event rentals and multi-year fleet leases.

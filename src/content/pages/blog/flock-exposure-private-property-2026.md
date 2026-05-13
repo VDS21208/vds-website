@@ -28,7 +28,7 @@ finalCTAButtons:
 - label: Request a consultation
   url: Read the NDAA white paper
 schemaType: Article
-internalLinks: /compliance/ndaa-889, /resources/white-papers, /platform/soc, /resources/faq, /resources/blog/60-second-soc
+internalLinks: /compliance/ndaa-889, /resources, /platform/soc, /resources/faq, /resources/blog/60-second-soc
 canonical: https://visiondetectionsystems.com/resources/blog/flock-exposure-private-property-2026
 ogTitle: What the Flock camera exposure means for private-property security buyers in 2026
 ogDescription: The 2025-26 Flock camera exposure raised three questions every private-property buyer should ask their surveillance vendor. What to ask, what to expect

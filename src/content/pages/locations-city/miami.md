@@ -1,5 +1,5 @@
 ---
-url: /locations/mobile-surveillance-trailers/miami
+url: /locations/products/mobile-surveillance-trailersmiami
 collection: locations-city
 pageType: City Detail
 parent: /locations/mobile-surveillance-trailers
@@ -37,8 +37,8 @@ finalCTAButtons:
 - label: Request a Miami quote
   url: Read the hurricane protocol
 schemaType: LocalBusiness
-internalLinks: /locations/mobile-surveillance-trailers, /locations/florida, /products/sky-guard-msu, /industries/construction-security, /industries/hospitality, /industries/port-logistics
-canonical: https://visiondetectionsystems.com/locations/mobile-surveillance-trailers/miami
+internalLinks: /locations/mobile-surveillance-trailers, /locations/florida, /products/sky-guard-mobile-surveillance-trailer, /industries/construction-security, /industries/hospitality-healthcare-security, /industries/port-logistics
+canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailersmiami
 ogTitle: Mobile surveillance trailers in Miami, FL
 ogDescription: Mobile surveillance trailers in Miami and South Florida. Brickell high-rise, PortMiami, hospitality, hurricane-season redeployment. 24/7 US SOC monitoring.
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg

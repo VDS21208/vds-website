@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Get a Quote
   url: Book a Site Walk
 schemaType: Article
-internalLinks: /products/boundary-guard-pro, /products/swift-deploy, /platform/ai-visionstream, /soc, /industries/warehouse, /industries/logistics, /industries/ports
+internalLinks: /products/boundary-guard-pro, /products/swift-deploy-surveillance-trailer, /platform/platform, /platform/soc, /industries/warehouse-logistics-security, /industries/warehouse-logistics-security, /industries/warehouse-logistics-security
 canonical: https://visiondetectionsystems.com/use-cases/cargo-theft-prevention
 ogTitle: Cargo theft prevention for yards, docks, and distribution centers.
 ogDescription: Stop cargo theft at warehouses, logistics yards, and ports. LPR on every dock, perimeter detection, 24/7 US SOC dispatch
@@ -75,7 +75,7 @@ AI VisionStream rules catch the patterns static cameras miss. Trailer-hookup det
 
 ## Industries most affected
 
-[Warehouse & Distribution](/industries/warehouse) · [Logistics & 3PL](/industries/logistics) · [Ports & Intermodal](/industries/ports) · [Trucking Yards](/industries/trucking)
+[Warehouse & Distribution](/industries/warehouse-logistics-security) · [Logistics & 3PL](/industries/warehouse-logistics-security) · [Ports & Intermodal](/industries/warehouse-logistics-security) · [Trucking Yards](/industries/warehouse-logistics-security)
 
 ## ROI math
 

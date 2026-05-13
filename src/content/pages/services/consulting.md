@@ -40,7 +40,7 @@ finalCTAButtons:
 - label: Book an assessment
   url: See sample deliverable
 schemaType: Service
-internalLinks: /services/managed, /resources/ndaa-section-889, /insights/insurance-premium-credits, /about/team
+internalLinks: /services/managed, /resources/ndaa-section-889, /insights/insurance-premium-credits, /about-us/team
 canonical: https://visiondetectionsystems.com/services/consulting
 ogTitle: Perimeter risk. NDAA compliance. Insurance posture. Three reports your CFO and CSO will both
 ogDescription: Perimeter risk assessment, NDAA Section 889 compliance audit, and insurance optimization review. Senior engineers, not deck-only consultants.

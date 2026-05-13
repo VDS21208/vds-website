@@ -12,10 +12,10 @@ heroEyebrow: Security Operations Center
 heroSubhead: VDS-employed operators, working from our facility, watching your alerts 24/7. They verify the event, talk down through the trailer PA, and dispatch police with live video when it is real.
 heroCTAPrimary:
   label: Book a demo
-  url: /demo
+  url: /schedule-a-demo
 heroCTASecondary:
   label: See the alert engine
-  url: /platform/alerts
+  url: /platform/alerts-reporting
 heroStats:
 - Under 60s escalation
 - 24/7/365
@@ -37,9 +37,9 @@ finalCTAHeading: Tour the SOC during your demo.
 finalCTABody: We can patch a live feed from our console into the call so you see how an alert actually moves.
 finalCTAButtons:
 - label: Book a demo
-  url: /demo
+  url: /schedule-a-demo
 schemaType: Service
-internalLinks: /platform, /platform/alerts, /platform/mobile-app, /platform/pricing
+internalLinks: /platform, /platform/alerts-reporting, /platform/mobile-app, /platform/pricing
 canonical: https://visiondetectionsystems.com/platform/soc
 ogTitle: A US operator on every alert. Under 60 seconds. Every time.
 ogDescription: In-house US operators, under 60-second escalation, live audio talk-down, direct LE dispatch with video. 97% false-alarm reduction.

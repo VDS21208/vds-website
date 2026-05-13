@@ -36,7 +36,7 @@ finalCTAButtons:
 - label: Search dealers [#dealer-search]
   url: Request a quote directly [/request-a-quote]
 schemaType: WebPage
-internalLinks: /partners, /partners/become-a-dealer, /request-a-quote, /contact
+internalLinks: /partners, /partners/become-a-dealer, /request-a-quote, /contact-us
 canonical: https://visiondetectionsystems.com/partners/find-a-dealer
 ogTitle: Find an authorized VDS dealer.
 ogDescription: Locate an authorized VDS dealer in your state. Search by state, region, or specialty. Active dealers in 30+ states across construction, perimeter

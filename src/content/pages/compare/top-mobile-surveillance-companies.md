@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Request scorecard
   url: Book a 20-min call
 schemaType: Article
-internalLinks: /products/sky-guard, /products/swift-deploy, /products/boundary-guard-pro, /platform/ai-visionstream, /soc, /compliance/ndaa, /case-studies/mid-atlantic-gc, /compare
+internalLinks: /products/sky-guard, /products/swift-deploy-surveillance-trailer, /products/boundary-guard-pro, /platform/platform, /platform/soc, /compliance/ndaa, /resources/case-studies/mid-atlantic-gc, /compare
 canonical: https://visiondetectionsystems.com/compare/top-mobile-surveillance-companies
 ogTitle: Top Mobile Surveillance Companies in North America (2026)
 ogDescription: A ranked, honest comparison of the 10 largest mobile surveillance and remote video monitoring companies in North America. Hardware, AI, SOC, NDAA, pricing.
@@ -126,4 +126,4 @@ Field data: 500+ deployments across 30+ states. Hero case study with a $28M Mid-
 
 ## Switching / next step
 
-If you are running an RFP and need a structured side-by-side, request the VDS comparison pack at /demo. Include your current vendor — we will populate the matrix above with your live SLA terms, retention policy, NDAA status, and SOC location.
+If you are running an RFP and need a structured side-by-side, request the VDS comparison pack at /schedule-a-demo. Include your current vendor — we will populate the matrix above with your live SLA terms, retention policy, NDAA status, and SOC location.

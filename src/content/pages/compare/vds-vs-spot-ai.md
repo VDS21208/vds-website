@@ -37,7 +37,7 @@ finalCTAButtons:
 - label: Book the architecture call
   url: Send your gap list
 schemaType: Article
-internalLinks: /compare, /platform, /soc, /hardware
+internalLinks: /compare, /platform, /platform/soc, /hardware
 canonical: https://visiondetectionsystems.com/compare/vds-vs-spot-ai
 ogTitle: VDS vs. Spot AI
 ogDescription: Spot AI has the best-designed indoor video AI in the category, G2 4.8/5. VDS adds solar mobile hardware and a 24/7 in-house SOC. Different fit

@@ -37,7 +37,7 @@ finalCTAButtons:
 - label: Find my city
   url: Request a quote
 schemaType: LocalBusiness
-internalLinks: /locations/mobile-surveillance-trailers/baltimore, /locations/mobile-surveillance-trailers/new-york, /locations/mobile-surveillance-trailers/washington-dc, /locations/mobile-surveillance-trailers/philadelphia, /locations/mobile-surveillance-trailers/richmond, /locations/mobile-surveillance-trailers/miami, /locations/mobile-surveillance-trailers/dallas, /locations/mobile-surveillance-trailers/los-angeles, /locations/mobile-surveillance-trailers/chicago, /products/sky-guard-msu, /products/swift-deploy, /products/boundary-guard-pro
+internalLinks: /locations/products/mobile-surveillance-trailersbaltimore, /locations/products/mobile-surveillance-trailersnew-york, /locations/products/mobile-surveillance-trailerswashington-dc, /locations/products/mobile-surveillance-trailersphiladelphia, /locations/products/mobile-surveillance-trailersrichmond, /locations/products/mobile-surveillance-trailersmiami, /locations/products/mobile-surveillance-trailersdallas, /locations/products/mobile-surveillance-trailerslos-angeles, /locations/products/mobile-surveillance-trailerschicago, /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /products/boundary-guard-pro
 canonical: https://visiondetectionsystems.com/locations/mobile-surveillance-trailers
 ogTitle: Mobile surveillance trailers, city by city
 ogDescription: Find mobile surveillance trailer rentals in your city. VDS operates in 30+ states with 500+ deployments and 24/7 US-based SOC monitoring.

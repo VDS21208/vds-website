@@ -15,7 +15,7 @@ heroCTAPrimary:
   url: /request-a-quote
 heroCTASecondary:
   label: Talk to an Engineer
-  url: /contact
+  url: /contact-us
 heroStats:
 - Field-tested
 - NDAA compliant
@@ -37,9 +37,9 @@ finalCTAButtons:
 - label: Request a Quote
   url: /request-a-quote
 - label: Talk to an Engineer
-  url: /contact
+  url: /contact-us
 schemaType: Product
-internalLinks: /products/sky-guard-msu, /products/swift-deploy-trailer, /products/boundary-guard-pro, /products/solar-camera-poles, /ai-visionstream
+internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /products/boundary-guard-pro, /products/solar-camera-poles, /platform
 canonical: https://visiondetectionsystems.com/products/accessories
 ogTitle: The parts that make a deployment last past month 18.
 ogDescription: Anti-tamper kits, battery upgrades, LPR add-ons, signage, K-rail mounts, and the parts that make a deployment last past month 18.

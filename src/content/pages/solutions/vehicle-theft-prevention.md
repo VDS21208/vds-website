@@ -36,7 +36,7 @@ finalCTAButtons:
 - label: Quote My Lot
   url: Talk to an Engineer
 schemaType: Article
-internalLinks: /products/sky-guard-msu, /products/swift-deploy, /products/solar-camera-poles, /solutions/auto/catalytic-converter-theft, /features/lpr
+internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /products/solar-camera-poles, /solutions/catalytic-converter-theft-prevention, /features/lpr
 canonical: https://visiondetectionsystems.com/solutions/auto/vehicle-theft-prevention
 ogTitle: Stop Vehicle Theft from Dealer Lots and Storage Yards
 ogDescription: Stop vehicle theft from dealer lots and storage yards. Thermal + radar + LPR captures every plate. 24/7 US SOC with audio talk-down. <60s response.

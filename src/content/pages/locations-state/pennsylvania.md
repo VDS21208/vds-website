@@ -37,7 +37,7 @@ finalCTAButtons:
 - label: Get a PA quote
   url: Talk to municipal sales
 schemaType: LocalBusiness
-internalLinks: /industries/oil-and-gas, /industries/municipal, /procurement/costars, /products/sky-guard-msu
+internalLinks: /industries/oil-and-gas, /industries/community-safety, /procurement/costars, /products/sky-guard-mobile-surveillance-trailer
 canonical: https://visiondetectionsystems.com/locations/pennsylvania
 ogTitle: Mobile surveillance for Pennsylvania construction, energy, and infrastructure
 ogDescription: Mobile surveillance for Pennsylvania construction, Marcellus oil & gas, PPL and FirstEnergy infrastructure, and municipal contracts

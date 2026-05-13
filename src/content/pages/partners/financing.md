@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Talk to finance [mailto:finance@visiondetectionsystems.com]
   url: Request a quote [/request-a-quote]
 schemaType: WebPage
-internalLinks: /partners, /pricing, /request-a-quote, /case-studies/mid-atlantic-gc
+internalLinks: /partners, /pricing, /request-a-quote, /resources/case-studies/mid-atlantic-gc
 canonical: https://visiondetectionsystems.com/partners/financing
 ogTitle: Financing structures that match how your customers buy.
 ogDescription: 'VDS financing options: 36/48/60-month operating lease, multi-year service agreements with locked pricing, and dealer pricing for end-customer programs'

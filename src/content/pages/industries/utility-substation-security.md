@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Request a substation assessment
   url: Talk to a security engineer
 schemaType: Service
-internalLinks: /products/sky-guard-msu, /products/boundary-guard-pro, /compliance/ndaa, /soc, /security/aws-partner
+internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/boundary-guard-pro, /compliance/ndaa, /platform/soc, /security/aws-partner
 canonical: https://visiondetectionsystems.com/industries/utility-substation-security
 ogTitle: Substation surveillance that doesn't need a utility hookup
 ogDescription: Solar-autonomous surveillance for substations and utility yards. NERC CIP-014 aligned, NDAA Section 889 compliant, AWS Partner. 24/7 US SOC.

@@ -36,7 +36,7 @@ finalCTAButtons:
 - label: Contact the SOC
   url: Schedule a Demo
 schemaType: Service
-internalLinks: /services/24-7-soc, /platform/ai-visionstream, /industries/law-enforcement, /guides/security-video-retention
+internalLinks: /services/24-7-soc, /platform/platform, /industries/law-enforcement, /guides/security-video-retention
 canonical: https://visiondetectionsystems.com/services/video-retrieval
 ogTitle: Managed Video Retrieval With Chain of Custody
 ogDescription: SOC-managed video retrieval. Law enforcement requests, insurance evidence, internal investigations. SHA-256 chain of custody, secure portal delivery.

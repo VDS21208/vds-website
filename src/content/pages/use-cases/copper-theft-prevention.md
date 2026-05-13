@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Get a Quote
   url: Book a Site Walk
 schemaType: Article
-internalLinks: /products/sky-guard-msu, /products/boundary-guard-pro, /platform/ai-visionstream, /soc, /industries/utilities, /industries/construction, /industries/telecom
+internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/boundary-guard-pro, /platform/platform, /platform/soc, /industries/utility-substation-security, /industries/construction-site-security, /industries/utility-substation-security
 canonical: https://visiondetectionsystems.com/use-cases/copper-theft-prevention
 ogTitle: Copper theft prevention for substations, construction, and telecom.
 ogDescription: Stop copper theft at substations, construction sites, and telecom huts. Thermal + radar + 24/7 US SOC audio challenge
@@ -77,7 +77,7 @@ In our case data, audio talk-down ends the incident before any wire is touched i
 
 ## Industries most affected
 
-[Utilities & Substations](/industries/utilities) · [Construction](/industries/construction) · [Telecom & Wireless](/industries/telecom) · [Oil & Gas](/industries/oil-gas)
+[Utilities & Substations](/industries/utility-substation-security) · [Construction](/industries/construction-site-security) · [Telecom & Wireless](/industries/utility-substation-security) · [Oil & Gas](/industries/oil-gas-security)
 
 ## ROI math
 

@@ -36,7 +36,7 @@ finalCTAButtons:
 - label: Schedule Demo
   url: Download Platform Brief
 schemaType: Product
-internalLinks: /platform/ai-visionstream, /platform/api-sdk-access, /services/24-7-soc, /guides/security-video-retention
+internalLinks: /platform/platform, /platform/api-sdk-access, /services/24-7-soc, /guides/security-video-retention
 canonical: https://visiondetectionsystems.com/platform/cloud-video-surveillance
 ogTitle: Cloud Video Surveillance Without an On-Site Recorder
 ogDescription: Cloud video surveillance built on AWS. Camera-agnostic ONVIF/RTSP, 30/60/90-day retention, multi-site single pane, TLS 1.3, AES-256, US-only.

@@ -34,7 +34,7 @@ finalCTAButtons:
 - label: Book LenelS2 integration call
   url: Read API + SDK docs
 schemaType: Article
-internalLinks: /integrations, /platform/ai-visionstream, /platform/api-sdk-access, /soc, /verticals/healthcare, /verticals/federal
+internalLinks: /integrations, /platform/platform, /platform/api-sdk-access, /platform/soc, /verticals/healthcare, /verticals/federal
 canonical: https://visiondetectionsystems.com/integrations/lenel
 ogTitle: VDS + LenelS2 OnGuard and NetBox
 ogDescription: VDS perimeter detections trigger LenelS2 access decisions; OnGuard and NetBox door events feed back into the AI VisionStream timeline

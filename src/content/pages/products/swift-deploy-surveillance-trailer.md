@@ -41,9 +41,9 @@ finalCTAButtons:
 - label: Request a Quote
   url: /request-a-quote
 - label: Talk to an Engineer
-  url: /contact
+  url: /contact-us
 schemaType: Product
-internalLinks: /products/sky-guard-msu, /products/boundary-guard-pro, /ai-visionstream, /soc, /case-studies/mid-atlantic-gc, /industries/construction, /industries/retail
+internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/boundary-guard-pro, /platform, /platform/soc, /resources/case-studies/mid-atlantic-gc, /industries/construction-site-security, /industries/retail-shopping-center-security
 canonical: https://visiondetectionsystems.com/products/swift-deploy-surveillance-trailer
 ogTitle: Swift Deploy. On site, on solar, on camera in under 20 minutes.
 ogDescription: HD PTZ 30x zoom, dual-spectrum night vision, 300ft detection, AI analytics, strobe + PA. Deploy in under 20 min, one person, no tools. From $1,500/mo.

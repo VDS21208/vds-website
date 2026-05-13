@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Get a Yard Coverage Plan
   url: See Pricing
 schemaType: Article
-internalLinks: /products/sky-guard | /products/boundary-guard-pro | /products/swift-deploy | /platform/ai-visionstream | /industries
+internalLinks: /products/sky-guard | /products/boundary-guard-pro | /products/swift-deploy-surveillance-trailer | /platform/platform | /industries
 canonical: https://visiondetectionsystems.com/industries/warehouse-logistics-security
 ogTitle: Warehouse & Logistics Security
 ogDescription: Mobile surveillance for warehouses, distribution centers, and dock yards. Solar-autonomous, AI LPR, 24/7 US SOC. Cargo theft loss >$15B/yr.

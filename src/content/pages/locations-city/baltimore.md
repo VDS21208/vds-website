@@ -1,5 +1,5 @@
 ---
-url: /locations/mobile-surveillance-trailers/baltimore
+url: /locations/products/mobile-surveillance-trailersbaltimore
 collection: locations-city
 pageType: City Detail
 parent: /locations/mobile-surveillance-trailers
@@ -37,8 +37,8 @@ finalCTAButtons:
 - label: Request same-day deployment
   url: Schedule a site walk
 schemaType: LocalBusiness
-internalLinks: /locations/mobile-surveillance-trailers, /locations/maryland, /products/sky-guard-msu, /industries/construction-security, /industries/port-logistics, /industries/auto-dealer-security
-canonical: https://visiondetectionsystems.com/locations/mobile-surveillance-trailers/baltimore
+internalLinks: /locations/mobile-surveillance-trailers, /locations/maryland, /products/sky-guard-mobile-surveillance-trailer, /industries/construction-security, /industries/port-logistics, /industries/auto-dealer-security
+canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailersbaltimore
 ogTitle: Mobile surveillance trailers in Baltimore, MD
 ogDescription: VDS is headquartered 15 minutes from downtown Baltimore. Same-day mobile surveillance trailer deployment for construction, ports, auto, and parking.
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg

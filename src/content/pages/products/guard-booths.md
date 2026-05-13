@@ -37,9 +37,9 @@ finalCTAButtons:
 - label: Request a Quote
   url: /request-a-quote
 - label: Talk to an Engineer
-  url: /contact
+  url: /contact-us
 schemaType: Product
-internalLinks: /products/sky-guard-msu, /products/swift-deploy-trailer, /ai-visionstream, /soc, /industries/construction, /industries/critical-infrastructure
+internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /platform, /platform/soc, /industries/construction-site-security, /industries/critical-infrastructure
 canonical: https://visiondetectionsystems.com/products/guard-booths
 ogTitle: Guard booths built for the climate and the threat profile.
 ogDescription: Heavy-gauge steel guard booths with HVAC and bullet-resistant options. Pairs with VDS hardware and AI VisionStream for manned or unmanned access points.

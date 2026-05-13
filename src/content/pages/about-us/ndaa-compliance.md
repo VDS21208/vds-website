@@ -11,10 +11,10 @@ h1: NDAA Section 889 Compliance
 heroEyebrow: NDAA Compliance
 heroSubhead: Every VDS unit shipped since 2022 is Section 889 Part A and Part B compliant. Bill-of-materials traceability is maintained quarterly. Procurement attestation package available on request.
 heroCTAPrimary:
-  label: Request attestation package [/contact]
+  label: Request attestation package [/contact-us]
   url: /request-a-quote
 heroCTASecondary:
-  label: Return to Trust Center [/about/trust-center]
+  label: Return to Trust Center [/about-us/trust-center]
   url: /request-a-quote
 heroStats:
 - Part A + Part B compliant
@@ -34,10 +34,10 @@ faq:
 finalCTAHeading: Federal procurement needs paperwork. We have the paperwork.
 finalCTABody: Request the standard Section 889 attestation package or send your project-specific requirements. Standard turnaround is 3 business days.
 finalCTAButtons:
-- label: Request attestation [/contact]
-  url: Return to Trust Center [/about/trust-center]
+- label: Request attestation [/contact-us]
+  url: Return to Trust Center [/about-us/trust-center]
 schemaType: AboutPage
-internalLinks: /about/trust-center, /products/sky-guard, /products/swift-deploy, /products/boundary-guard-pro, /contact
+internalLinks: /about-us/trust-center, /products/sky-guard, /products/swift-deploy-surveillance-trailer, /products/boundary-guard-pro, /contact-us
 canonical: https://visiondetectionsystems.com/about-us/ndaa-compliance
 ogTitle: NDAA Section 889 Compliance
 ogDescription: VDS mobile units are fully compliant with NDAA Section 889 Parts A and B. Bill-of-materials traceability, supplier attestations
@@ -147,7 +147,7 @@ resolve correctly on the new site before publishing.
 
 ### AI VisionStream Software Platform
 
-<p>The <a href="/ai-visionstream">AI VisionStream platform</a> operates on Amazon Web Services (AWS) infrastructure with no restricted software manufacturers in the technology stack. Video analytics, cloud storage, user management, and API integrations utilize only compliant software libraries and services. AWS GovCloud deployment options are available for highest-classification government installations requiring additional security controls.</p>
+<p>The <a href="/platform">AI VisionStream platform</a> operates on Amazon Web Services (AWS) infrastructure with no restricted software manufacturers in the technology stack. Video analytics, cloud storage, user management, and API integrations utilize only compliant software libraries and services. AWS GovCloud deployment options are available for highest-classification government installations requiring additional security controls.</p>
 
 <p>All software development, cloud hosting, and data processing occurs within compliant infrastructure, ensuring that video data, AI processing, and user access management meet Section 889 requirements from capture through evidence export.</p>
 
@@ -185,7 +185,7 @@ resolve correctly on the new site before publishing.
 
 </table>
 
-<p>Compliance extends across all service offerings including <a href="/services/remote-monitoring">remote video monitoring</a>, deployment logistics, video retrieval support, and technical assistance. Our Security Operations Center (SOC) utilizes only compliant hardware and software for incident verification and escalation processes.</p>
+<p>Compliance extends across all service offerings including <a href="/services/remote-video-monitoring">remote video monitoring</a>, deployment logistics, video retrieval support, and technical assistance. Our Security Operations Center (SOC) utilizes only compliant hardware and software for incident verification and escalation processes.</p>
 
 
 

@@ -13,10 +13,10 @@ heroEyebrow: About VDS
 heroSubhead: Founded in 2017. Assembled in Pikesville, Maryland. 500+
   deployments across 30+ states. NDAA Section 889 compliant. AWS Cloud Partner.
 heroCTAPrimary:
-  label: See why customers switch [/about/why-vds-exists]
+  label: See why customers switch [/about-us/why-vision-detection-systems]
   url: /request-a-quote
 heroCTASecondary:
-  label: Review our Trust Center [/about/trust-center]
+  label: Review our Trust Center [/about-us/trust-center]
   url: /request-a-quote
 heroStats:
   - 7 years field data

@@ -1,5 +1,5 @@
 ---
-url: /locations/mobile-surveillance-trailers/phoenix
+url: /locations/products/mobile-surveillance-trailersphoenix
 collection: locations-city
 pageType: City Detail
 parent: /locations/mobile-surveillance-trailers
@@ -37,8 +37,8 @@ finalCTAButtons:
 - label: Request a Phoenix quote
   url: Talk to a deployment engineer
 schemaType: LocalBusiness
-internalLinks: /locations/mobile-surveillance-trailers, /locations/arizona, /products/sky-guard-msu, /products/boundary-guard-pro, /industries/construction-security, /industries/data-center-security, /industries/copper-theft-prevention
-canonical: https://visiondetectionsystems.com/locations/mobile-surveillance-trailers/phoenix
+internalLinks: /locations/mobile-surveillance-trailers, /locations/arizona, /products/sky-guard-mobile-surveillance-trailer, /products/boundary-guard-pro, /industries/construction-security, /industries/data-center-security, /industries/copper-theft-prevention
+canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailersphoenix
 ogTitle: Mobile surveillance trailers in Phoenix, AZ
 ogDescription: Mobile surveillance trailers across Phoenix metro — TSMC fab, Chandler/Mesa data centers, suburban housing, copper theft hotspot. Rated to 120F solar.
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg

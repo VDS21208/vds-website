@@ -28,7 +28,7 @@ finalCTAButtons:
 - label: Request an assessment
   url: Read the case study
 schemaType: Article
-internalLinks: /resources/case-studies/mid-atlantic-gc-340k-saved, /industries/construction, /products/swift-deploy, /platform/soc, /resources/blog/60-second-soc
+internalLinks: /resources/case-studies/mid-atlantic-gc, /industries/construction-site-security, /products/swift-deploy-surveillance-trailer, /platform/soc, /resources/blog/60-second-soc
 canonical: https://visiondetectionsystems.com/resources/blog/construction-security-numbers-2026
 ogTitle: Why your construction site security keeps failing — and the four numbers to look at next
 ogDescription: Most construction security programs fail for the same four reasons. The four numbers — approach rate, response time, false alarm rate

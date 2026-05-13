@@ -34,7 +34,7 @@ finalCTAButtons:
 - label: Book ServiceNow integration call
   url: Read API + SDK docs
 schemaType: Article
-internalLinks: /integrations, /platform/ai-visionstream, /platform/api-sdk-access, /soc
+internalLinks: /integrations, /platform/platform, /platform/api-sdk-access, /platform/soc
 canonical: https://visiondetectionsystems.com/integrations/servicenow
 ogTitle: VDS + ServiceNow ITSM
 ogDescription: VDS critical alerts auto-open ServiceNow incidents with video, detection metadata, and SOC analyst notes. ITSM teams track and close in their own queue.

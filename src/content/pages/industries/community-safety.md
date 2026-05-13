@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Get HOA Pricing
   url: Schedule a Site Walk
 schemaType: Article
-internalLinks: /products/sky-guard-msu, /products/swift-deploy, /products/boundary-guard-pro, /soc, /privacy-by-design, /industries
+internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /products/boundary-guard-pro, /platform/soc, /privacy-by-design, /industries
 canonical: https://visiondetectionsystems.com/industries/community-safety
 ogTitle: Community Safety on Private Property
 ogDescription: Mobile surveillance for HOAs, condos, and gated communities. Solar-autonomous units for amenity areas, construction stages, and post-storm coverage

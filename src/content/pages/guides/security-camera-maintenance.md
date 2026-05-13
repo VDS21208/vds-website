@@ -36,7 +36,7 @@ finalCTAButtons:
 - label: Download the Guide (PDF)
   url: Request a Maintenance Audit
 schemaType: Book
-internalLinks: /services/device-health-monitoring, /platform/ai-visionstream, /services/deployment-logistics, /guides/mobile-surveillance-trailers
+internalLinks: /services/device-health-monitoring, /platform/platform, /services/deployment-logistics, /guides/mobile-surveillance-trailers
 canonical: https://visiondetectionsystems.com/guides/security-camera-maintenance
 ogTitle: 'Security Camera Maintenance: The Field Engineer''s Guide'
 ogDescription: Preventive maintenance schedule, common failure modes, lens cleaning, firmware updates, replacement criteria. Practical guide from VDS field engineers.

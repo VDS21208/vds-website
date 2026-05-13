@@ -37,7 +37,7 @@ finalCTAButtons:
 - label: Submit resume [mailto:careers@visiondetectionsystems.com]
   url: About VDS [/about]
 schemaType: JobPosting (per role), AboutPage
-internalLinks: /about, /about/leadership, /about/trust-center
+internalLinks: /about, /about-us/leadership, /about-us/trust-center
 canonical: https://visiondetectionsystems.com/about-us/careers
 ogTitle: We hire people who build things and answer the phone.
 ogDescription: Open roles at Vision Detection Systems. Hardware Assembly Technician, Administrative Coordinator, and ongoing hiring across engineering and SOC operations

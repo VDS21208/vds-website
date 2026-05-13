@@ -36,7 +36,7 @@ finalCTAButtons:
 - label: Talk about cross-border
   url: Join Vancouver waitlist
 schemaType: LocalBusiness
-internalLinks: /locations/canada, /locations/canada/toronto, /guides/mobile-surveillance-canada, /products/sky-guard-msu, /products/swift-deploy, /industries/construction, /industries/ports-logistics
+internalLinks: /locations/canada, /locations/canada/toronto, /guides/mobile-surveillance-canada, /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /industries/construction-site-security, /industries/warehouse-logistics-security-logistics
 canonical: https://visiondetectionsystems.com/locations/canada/vancouver
 ogTitle: Vancouver
 ogDescription: VDS operates in 30+ US states, not yet Vancouver. Honest guidance for BC buyers, plus US/Canada cross-border coverage for Pacific Northwest portfolios.

@@ -37,7 +37,7 @@ finalCTAButtons:
 - label: Request a Virginia quote
   url: Download 889 attestation template
 schemaType: LocalBusiness
-internalLinks: /industries/data-centers, /compliance/ndaa-889, /procurement/gsa-sourcewell, /products/sky-guard-msu
+internalLinks: /industries/data-centers, /compliance/ndaa-889, /procurement/gsa-sourcewell, /products/sky-guard-mobile-surveillance-trailer
 canonical: https://visiondetectionsystems.com/locations/virginia
 ogTitle: Mobile surveillance for Virginia data centers and federal-adjacent sites
 ogDescription: NDAA Section 889 compliant mobile surveillance for Virginia data centers, federal-adjacent construction, and Dominion utilities

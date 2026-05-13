@@ -37,7 +37,7 @@ finalCTAButtons:
 - label: Book the architecture call
   url: Send us your site list
 schemaType: Article
-internalLinks: /compare, /platform, /soc, /security/architecture, /hardware
+internalLinks: /compare, /platform, /platform/soc, /security/architecture, /hardware
 canonical: https://visiondetectionsystems.com/compare/vds-vs-verkada
 ogTitle: VDS vs. Verkada
 ogDescription: Verkada has the best UX in the category. They also paid $2.95M to the FTC in 2024 and had 150,000+ cameras hacked in 2021. VDS is open, audited

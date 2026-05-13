@@ -37,7 +37,7 @@ finalCTAButtons:
 - label: Get a California quote
   url: Download CA MSA template
 schemaType: LocalBusiness
-internalLinks: /compliance/ccpa, /industries/retail-orc, /industries/cannabis, /products/swift-deploy
+internalLinks: /compliance/ccpa, /industries/retail-orc, /industries/cannabis, /products/swift-deploy-surveillance-trailer
 canonical: https://visiondetectionsystems.com/locations/california
 ogTitle: Mobile surveillance for California's loss problem
 ogDescription: California mobile surveillance for ORC retail, construction, and cannabis. CCPA-aligned data retention. 7-10 day deployment across Bay Area, LA, San Diego

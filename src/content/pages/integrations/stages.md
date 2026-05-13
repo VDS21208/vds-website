@@ -34,7 +34,7 @@ finalCTAButtons:
 - label: Book Stages integration call
   url: Read API + SDK docs
 schemaType: Article
-internalLinks: /integrations, /platform/ai-visionstream, /platform/api-sdk-access, /soc
+internalLinks: /integrations, /platform/platform, /platform/api-sdk-access, /platform/soc
 canonical: https://visiondetectionsystems.com/integrations/stages
 ogTitle: VDS + Stages Software
 ogDescription: VDS verified video alerts flow as signals into Stages Software-running central stations with pre/post clips and detection metadata attached.

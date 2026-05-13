@@ -37,7 +37,7 @@ finalCTAButtons:
 - label: Get a Georgia quote
   url: See port logistics case study
 schemaType: LocalBusiness
-internalLinks: /industries/logistics, /industries/construction, /industries/film-production, /products/sky-guard-msu
+internalLinks: /industries/warehouse-logistics-security, /industries/construction-site-security, /industries/film-production, /products/sky-guard-mobile-surveillance-trailer
 canonical: https://visiondetectionsystems.com/locations/georgia
 ogTitle: Mobile surveillance for Georgia construction, port logistics, and production
 ogDescription: Mobile surveillance for Atlanta metro construction, Port of Savannah logistics, Georgia Power infrastructure, and film production

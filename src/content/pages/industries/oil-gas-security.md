@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Get a Wellsite Coverage Plan
   url: See Pricing
 schemaType: Article
-internalLinks: /products/sky-guard | /products/solar-camera-poles | /products/boundary-guard-pro | /compliance/ndaa | /platform/ai-visionstream
+internalLinks: /products/sky-guard | /products/solar-camera-poles | /products/boundary-guard-pro | /compliance/ndaa | /platform/platform
 canonical: https://visiondetectionsystems.com/industries/oil-gas-security
 ogTitle: Wellsite and Pipeline Surveillance That Operates Off-Grid and Stands Up in Federal Contracts
 ogDescription: Solar-autonomous surveillance for wellsites, pipeline rights-of-way, and remote oilfield assets. NDAA-compliant, 24/7 US SOC, copper theft deterrence.

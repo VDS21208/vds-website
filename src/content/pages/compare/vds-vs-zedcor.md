@@ -38,7 +38,7 @@ finalCTAButtons:
 - label: Scope a US program
   url: Cross-border intro
 schemaType: Article
-internalLinks: /products/sky-guard, /soc, /compliance/ndaa, /platform/ai-visionstream, /partners, /compare
+internalLinks: /products/sky-guard, /platform/soc, /compliance/ndaa, /platform/platform, /partners, /compare
 canonical: https://visiondetectionsystems.com/compare/vds-vs-zedcor
 ogTitle: VDS vs. Zedcor
 ogDescription: 'VDS is the US mobile surveillance operator. Zedcor is Canada''s largest. Side-by-side: NDAA, AWS US-only data residency, pricing, cross-border programs.'

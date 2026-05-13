@@ -41,7 +41,7 @@ finalCTAButtons:
 - label: Get a dealership quote
   url: Talk to an account executive
 schemaType: Service
-internalLinks: /products/swift-deploy, /platform/lpr, /soc, /pricing, /case-studies
+internalLinks: /products/swift-deploy-surveillance-trailer, /platform/lpr, /platform/soc, /pricing, /case-studies
 canonical: https://visiondetectionsystems.com/industries/automotive-dealership-security
 ogTitle: Automotive Dealership Security
 ogDescription: Mobile surveillance for auto dealerships. LPR at every entry/exit, 24/7 US SOC, after-hours coverage. Catalytic converter, vehicle theft

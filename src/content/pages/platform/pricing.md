@@ -12,10 +12,10 @@ heroEyebrow: Platform pricing
 heroSubhead: Three tiers. No activation fees. No connector seats. SOC monitoring as an optional add-on. Volume discounts kick in at 25 cameras.
 heroCTAPrimary:
   label: Get a quote
-  url: /contact
+  url: /contact-us
 heroCTASecondary:
   label: Book a demo
-  url: /demo
+  url: /schedule-a-demo
 heroStats:
 - 3 tiers
 - No setup fees
@@ -37,9 +37,9 @@ finalCTAHeading: Get a quote with your actual camera count.
 finalCTABody: Send us your camera list and site map. We will return a line-item quote in 24 hours.
 finalCTAButtons:
 - label: Get a quote
-  url: /contact
+  url: /contact-us
 schemaType: Product
-internalLinks: /platform, /platform/soc, /platform/integrations, /hardware/pricing, /demo
+internalLinks: /platform, /platform/soc, /platform/integrations, /pricing, /schedule-a-demo
 canonical: https://visiondetectionsystems.com/platform/pricing
 ogTitle: Per camera. Per site. Published rates.
 ogDescription: Transparent per-camera and per-site pricing. Three tiers. No activation fees. SOC monitoring optional. NDAA 889 compliant.
@@ -94,7 +94,7 @@ See the [SOC page](/platform/soc) for the operating model.
 
 ## Hardware
 
-The platform runs on any compatible ONVIF/RTSP camera. If you need hardware too — solar-autonomous mobile trailers, fixed-site cameras, network infrastructure — see [hardware pricing](/hardware/pricing).
+The platform runs on any compatible ONVIF/RTSP camera. If you need hardware too — solar-autonomous mobile trailers, fixed-site cameras, network infrastructure — see [hardware pricing](/pricing).
 
 ## Volume discounts
 

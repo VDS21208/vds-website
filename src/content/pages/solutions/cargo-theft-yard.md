@@ -36,7 +36,7 @@ finalCTAButtons:
 - label: Quote My Yard
   url: Talk to an Engineer
 schemaType: Article
-internalLinks: /products/boundary-guard-pro, /products/swift-deploy, /products/sky-guard-msu, /features/lpr, /solutions/warehouse
+internalLinks: /products/boundary-guard-pro, /products/swift-deploy-surveillance-trailer, /products/sky-guard-mobile-surveillance-trailer, /features/lpr, /solutions/warehouse
 canonical: https://visiondetectionsystems.com/solutions/warehouse/cargo-theft-yard
 ogTitle: Stop Cargo Theft at the Warehouse Yard and Loading Docks
 ogDescription: Stop cargo theft at warehouse yards and loading docks. Boundary Guard Pro fence-line + LPR on every truck. SOC monitors unauthorized trailer hookups 24/7.

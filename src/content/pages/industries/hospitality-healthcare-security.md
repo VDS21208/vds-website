@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Get a Quote
   url: Schedule a Site Walk
 schemaType: Article
-internalLinks: /products/sky-guard-msu, /products/boundary-guard-pro, /soc, /privacy-by-design, /industries/hospitality-hotel-security, /industries
+internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/boundary-guard-pro, /platform/soc, /privacy-by-design, /industries/hospitality-hotel-security, /industries
 canonical: https://visiondetectionsystems.com/industries/hospitality-healthcare-security
 ogTitle: Exterior Security for Healthcare and Hospitality Sites
 ogDescription: Exterior perimeter and parking lot surveillance for hospitals, behavioral health, and adjacent hospitality sites. HIPAA-aware retention. 24/7 US SOC.

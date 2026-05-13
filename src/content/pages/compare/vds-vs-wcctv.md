@@ -37,7 +37,7 @@ finalCTAButtons:
 - label: Book the architecture call
   url: Send the site address
 schemaType: Article
-internalLinks: /compare, /hardware/sky-guard-msu, /verticals/construction, /soc
+internalLinks: /compare, /hardware/sky-guard-msu, /verticals/construction, /platform/soc
 canonical: https://visiondetectionsystems.com/compare/vds-vs-wcctv
 ogTitle: VDS vs. WCCTV
 ogDescription: WCCTV brought UK mobile surveillance to US construction. VDS is US-assembled, AWS US-only, with a 24/7 in-house SOC and modern AI. Side-by-side compared.

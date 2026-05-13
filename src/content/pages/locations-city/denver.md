@@ -1,5 +1,5 @@
 ---
-url: /locations/mobile-surveillance-trailers/denver
+url: /locations/products/mobile-surveillance-trailersdenver
 collection: locations-city
 pageType: City Detail
 parent: /locations/mobile-surveillance-trailers
@@ -37,8 +37,8 @@ finalCTAButtons:
 - label: Request a Denver quote
   url: Talk to a deployment engineer
 schemaType: LocalBusiness
-internalLinks: /locations/mobile-surveillance-trailers, /locations/colorado, /products/sky-guard-msu, /products/boundary-guard-pro, /industries/construction-security, /industries/oil-gas-security, /industries/cannabis-security
-canonical: https://visiondetectionsystems.com/locations/mobile-surveillance-trailers/denver
+internalLinks: /locations/mobile-surveillance-trailers, /locations/colorado, /products/sky-guard-mobile-surveillance-trailer, /products/boundary-guard-pro, /industries/construction-security, /industries/oil-gas-security, /industries/cannabis-security
+canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailersdenver
 ogTitle: Mobile surveillance trailers in Denver, CO
 ogDescription: Mobile surveillance trailers across Denver metro — downtown construction, suburban data centers, dispensary parking lots, Niobrara oil & gas
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg

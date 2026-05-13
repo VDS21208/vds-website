@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Get Campus Pricing
   url: Schedule a Site Walk
 schemaType: Article
-internalLinks: /products/sky-guard-msu, /products/swift-deploy, /products/boundary-guard-pro, /procurement/cooperative-contracts, /soc, /industries
+internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /products/boundary-guard-pro, /procurement/cooperative-contracts, /platform/soc, /industries
 canonical: https://visiondetectionsystems.com/industries/school-campus-security
 ogTitle: Security for K-12 and Higher-Ed Campuses
 ogDescription: Mobile surveillance for school parking lots, athletic complexes, stadium parking, and campus construction zones. NDAA compliant, FERPA-aware, 24/7 US SOC.

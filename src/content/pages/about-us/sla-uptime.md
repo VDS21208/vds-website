@@ -37,7 +37,7 @@ finalCTAButtons:
 - label: View Status Page
   url: Download SLA Document
 schemaType: WebPage (Trust Center sub-page)
-internalLinks: /about-us/trust-center, /about-us/trust-center/cybersecurity, /about-us/trust-center/data-privacy, /soc, /contact
+internalLinks: /about-us/trust-center, /about-us/trust-center/cybersecurity, /about-us/trust-center/data-privacy, /platform/soc, /contact-us
 canonical: https://visiondetectionsystems.com/about-us/trust-center/sla-uptime
 ogTitle: Service Level Agreement and Uptime
 ogDescription: 'Vision Detection Systems service-level commitments: 99.9% AI VisionStream platform uptime, sub-60-second SOC alert acknowledgement, hardware MTTR targets'

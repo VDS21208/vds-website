@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Get Cooperative Pricing
   url: Schedule a Site Walk
 schemaType: Article
-internalLinks: /products/sky-guard-msu, /products/boundary-guard-pro, /procurement/cooperative-contracts, /compliance/ndaa-889, /industries/public-safety-law-enforcement-surveillance, /industries
+internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/boundary-guard-pro, /procurement/cooperative-contracts, /compliance/ndaa-889, /industries/public-safety-law-enforcement-surveillance, /industries
 canonical: https://visiondetectionsystems.com/industries/government-facility-security
 ogTitle: Security for Government Facilities
 ogDescription: NDAA Section 889 mobile surveillance for federal, state, and local government facilities. Motor pools, public works yards, transfer stations. Sourcewell

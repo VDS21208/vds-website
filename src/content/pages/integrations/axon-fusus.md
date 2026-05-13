@@ -34,7 +34,7 @@ finalCTAButtons:
 - label: Book Axon-Fusus integration call
   url: Read the privacy model
 schemaType: Article
-internalLinks: /integrations, /platform/ai-visionstream, /platform/api-sdk-access, /trust/privacy, /soc
+internalLinks: /integrations, /platform/platform, /platform/api-sdk-access, /about-us/trust-center/privacy, /platform/soc
 canonical: https://visiondetectionsystems.com/integrations/axon-fusus
 ogTitle: VDS + Axon-Fusus
 ogDescription: VDS customers share specific incident clips with local law enforcement running Axon-Fusus. Opt-in per incident — never standing access to your cameras.

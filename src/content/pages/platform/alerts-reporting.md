@@ -12,7 +12,7 @@ heroEyebrow: Alerts engine
 heroSubhead: Every alert flows through detection, verification, and escalation. Tiered routing sends informational events to dashboards, action events to your phone, and critical events to a SOC operator who is already watching.
 heroCTAPrimary:
   label: Book a demo
-  url: /demo
+  url: /schedule-a-demo
 heroCTASecondary:
   label: See the SOC workflow
   url: /platform/soc
@@ -35,9 +35,9 @@ finalCTAHeading: See alert routing on your own rules.
 finalCTABody: We will configure a Tier 3 rule and trigger it live during the demo.
 finalCTAButtons:
 - label: Book a demo
-  url: /demo
+  url: /schedule-a-demo
 schemaType: SoftwareApplication
-internalLinks: /platform, /platform/analytics, /platform/soc, /platform/integrations, /platform/mobile-app
+internalLinks: /platform, /platform/ai-video-analytics, /platform/soc, /platform/integrations, /platform/mobile-app
 canonical: https://visiondetectionsystems.com/platform/alerts-reporting
 ogTitle: Three tiers. One workflow. 97% fewer false alarms.
 ogDescription: Three-tier alert engine with rule-based escalation, SOC verification, and 97% false-positive reduction. Sub-3-second detection, under-60-second response.

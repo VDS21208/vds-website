@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Get a License-Aligned Quote
   url: Talk to a Specialist
 schemaType: Article
-internalLinks: /products/sky-guard | /products/swift-deploy | /products/boundary-guard-pro | /platform/ai-visionstream | /compliance
+internalLinks: /products/sky-guard | /products/swift-deploy-surveillance-trailer | /products/boundary-guard-pro | /platform/platform | /compliance
 canonical: https://visiondetectionsystems.com/industries/cannabis-dispensary-security
 ogTitle: Dispensary Parking, Cultivation Perimeters, and After-Hours Coverage Built for a State-Licensed
 ogDescription: Mobile surveillance for dispensary parking lots, cultivation perimeters, and after-hours coverage. State license compliance, 24/7 US SOC

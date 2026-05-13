@@ -37,7 +37,7 @@ finalCTAButtons:
 - label: Request Tactical Deployment
   url: Call Deployment Ops
 schemaType: Service
-internalLinks: /service-areas, /products/sky-guard-msu, /soc, /industries/government-municipal, /industries/utilities
+internalLinks: /service-areas, /products/sky-guard-mobile-surveillance-trailer, /platform/soc, /industries/government-municipal, /industries/utility-substation-security
 canonical: https://visiondetectionsystems.com/use-cases/tactical-deployments
 ogTitle: Tactical Deployments
 ogDescription: Emergency response, post-incident surge coverage, severe-weather redeployment, special events, government temporary operations

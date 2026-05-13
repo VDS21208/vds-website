@@ -1,5 +1,5 @@
 ---
-url: /locations/mobile-surveillance-trailers/dallas
+url: /locations/products/mobile-surveillance-trailersdallas
 collection: locations-city
 pageType: City Detail
 parent: /locations/mobile-surveillance-trailers
@@ -37,8 +37,8 @@ finalCTAButtons:
 - label: Request a DFW quote
   url: Talk to a deployment engineer
 schemaType: LocalBusiness
-internalLinks: /locations/mobile-surveillance-trailers, /locations/texas, /products/boundary-guard-pro, /industries/construction-security, /industries/data-center, /industries/auto-dealer-security, /industries/oil-gas
-canonical: https://visiondetectionsystems.com/locations/mobile-surveillance-trailers/dallas
+internalLinks: /locations/mobile-surveillance-trailers, /locations/texas, /products/boundary-guard-pro, /industries/construction-security, /industries/data-center, /industries/auto-dealer-security, /industries/oil-gas-security
+canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailersdallas
 ogTitle: Mobile surveillance trailers in Dallas, TX
 ogDescription: Mobile surveillance trailers across DFW. Largest construction market in Texas, Plano data center corridor, auto dealer clusters, oil & gas HQ operations
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg

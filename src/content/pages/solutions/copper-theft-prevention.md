@@ -36,7 +36,7 @@ finalCTAButtons:
 - label: Send Substation List
   url: Talk to an Engineer
 schemaType: Article
-internalLinks: /products/sky-guard-msu, /products/boundary-guard-pro, /solutions/utility, /solutions/utility/substation-intrusion, /compliance/nerc-cip
+internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/boundary-guard-pro, /solutions/utility, /solutions/utility/substation-intrusion, /compliance/nerc-cip
 canonical: https://visiondetectionsystems.com/solutions/utility/copper-theft-prevention
 ogTitle: Stop Utility Copper Theft at Substations, Transmission, and Distribution Yards
 ogDescription: Stop copper theft at substations, transmission yards, and distribution. Solar-autonomous thermal + radar + 24/7 US SOC. <60s response

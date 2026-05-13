@@ -15,7 +15,7 @@ heroCTAPrimary:
   url: /request-a-quote
 heroCTASecondary:
   label: See Sky Guard MSU
-  url: /products/sky-guard-msu
+  url: /products/sky-guard-mobile-surveillance-trailer
 heroStats:
 - 500+ deployments
 - 30+ states
@@ -41,7 +41,7 @@ finalCTAButtons:
 - label: Request a Quote
   url: /request-a-quote
 - label: Talk to an Engineer
-  url: /contact
+  url: /contact-us
 schemaType: Organization
 canonical: https://visiondetectionsystems.com/
 ogTitle: America's integrated mobile security infrastructure company.

@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Get Hotel Pricing
   url: Schedule a Site Walk
 schemaType: Article
-internalLinks: /products/sky-guard-msu, /products/boundary-guard-pro, /soc, /industries/hospitality-healthcare-security, /industries
+internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/boundary-guard-pro, /platform/soc, /industries/hospitality-healthcare-security, /industries
 canonical: https://visiondetectionsystems.com/industries/hospitality-hotel-security
 ogTitle: Hotel Parking and Perimeter Security
 ogDescription: Mobile surveillance for hotel parking lots, valet zones, pool decks, and vendor delivery areas. Cut guest theft, vehicle break-ins, and vendor liability

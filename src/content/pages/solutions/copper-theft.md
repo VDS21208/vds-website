@@ -1,5 +1,5 @@
 ---
-url: /solutions/construction/copper-theft
+url: /solutions/copper-theft-prevention
 collection: solutions
 pageType: Solution Intersection
 parent: /solutions
@@ -36,8 +36,8 @@ finalCTAButtons:
 - label: Schedule Site Walk
   url: Talk to an Engineer
 schemaType: Article
-internalLinks: /products/sky-guard-msu, /products/boundary-guard-pro, /solutions/construction, /case-studies/mid-atlantic-gc, /solutions/construction/insurance-claim-reduction
-canonical: https://visiondetectionsystems.com/solutions/construction/copper-theft
+internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/boundary-guard-pro, /solutions/construction, /resources/case-studies/mid-atlantic-gc, /solutions/construction/insurance-claim-reduction
+canonical: https://visiondetectionsystems.com/solutions/copper-theft-prevention
 ogTitle: Stop Construction Site Copper Theft Before It Happens
 ogDescription: Stop copper wire and pipe theft on active construction sites. Solar-powered thermal + radar + 24/7 SOC audio talk-down. $2,200/mo Sky Guard MSU.
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg

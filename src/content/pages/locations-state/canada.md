@@ -36,7 +36,7 @@ finalCTAButtons:
 - label: Talk to sales about cross-border
   url: Notify me at Canadian launch
 schemaType: Article
-internalLinks: /locations, /locations/canada/toronto, /locations/canada/vancouver, /guides/mobile-surveillance-canada, /products/sky-guard-msu, /company/about
+internalLinks: /locations, /locations/canada/toronto, /locations/canada/vancouver, /guides/mobile-surveillance-canada, /products/sky-guard-mobile-surveillance-trailer, /company/about
 canonical: https://visiondetectionsystems.com/locations/canada
 ogTitle: Canada
 ogDescription: VDS operates in 30+ US states. Canadian deployments are planned. Honest guidance for Canadian buyers today, plus US/Canada cross-border programs.

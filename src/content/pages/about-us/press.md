@@ -34,7 +34,7 @@ finalCTAButtons:
 - label: Email press desk [mailto:press@visiondetectionsystems.com]
   url: Download press kit [/assets/vds-press-kit.zip]
 schemaType: AboutPage
-internalLinks: /about, /about/leadership, /case-studies
+internalLinks: /about, /about-us/leadership, /case-studies
 canonical: https://visiondetectionsystems.com/about-us/press
 ogTitle: Press desk. Kit, contacts, and on-record quotes.
 ogDescription: 'VDS press desk: press kit, logo files, executive headshots, award announcements, and media contact'

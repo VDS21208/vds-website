@@ -37,7 +37,7 @@ finalCTAButtons:
 - label: Book the architecture call
   url: Email three addresses
 schemaType: Article
-internalLinks: /compare, /platform, /soc, /hardware/sky-guard-msu, /case-studies/mid-atlantic-gc
+internalLinks: /compare, /platform, /platform/soc, /hardware/sky-guard-msu, /resources/case-studies/mid-atlantic-gc
 canonical: https://visiondetectionsystems.com/compare/vds-vs-lvt
 ogTitle: VDS vs. LiveView Technologies (LVT)
 ogDescription: LVT has ~5,000 units deployed. VDS is camera-agnostic with a 24/7 US SOC and no hardware lock-in. Side-by-side matrix, TCO math, migration plan.

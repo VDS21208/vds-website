@@ -84,7 +84,7 @@ High-value assets sit in open-air zones (laydown yards, containers, staging area
 
 Access points shift, creating new entry routes and escape routes
 
-Mobile surveillance trailers are designed for rapid deployment and relocation so coverage stays aligned to the jobsite as it evolves. For the core solution overview, use /products/mobile-surveillance-trailers/.
+Mobile surveillance trailers are designed for rapid deployment and relocation so coverage stays aligned to the jobsite as it evolves. For the core solution overview, use /products/products/mobile-surveillance-trailers.
 
 
 

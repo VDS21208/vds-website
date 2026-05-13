@@ -1,5 +1,5 @@
 ---
-url: /locations/mobile-surveillance-trailers/richmond
+url: /locations/products/mobile-surveillance-trailersrichmond
 collection: locations-city
 pageType: City Detail
 parent: /locations/mobile-surveillance-trailers
@@ -38,7 +38,7 @@ finalCTAButtons:
   url: Download the procurement packet
 schemaType: LocalBusiness
 internalLinks: /locations/mobile-surveillance-trailers, /locations/virginia, /products/boundary-guard-pro, /industries/government, /industries/university-campus, /compliance/ndaa-889
-canonical: https://visiondetectionsystems.com/locations/mobile-surveillance-trailers/richmond
+canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailersrichmond
 ogTitle: Mobile surveillance trailers in Richmond, VA
 ogDescription: Mobile surveillance trailers in Richmond, VA. Virginia state procurement ready, Capitol corridor coverage, VCU and Port of Virginia adjacent
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg

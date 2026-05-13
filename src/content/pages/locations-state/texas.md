@@ -37,7 +37,7 @@ finalCTAButtons:
 - label: Get a Texas quote
   url: See the oil & gas case study
 schemaType: LocalBusiness
-internalLinks: /industries/oil-and-gas, /industries/auto-dealerships, /products/sky-guard-msu, /case-studies/permian-operator
+internalLinks: /industries/oil-and-gas, /industries/automotive-dealership-security, /products/sky-guard-mobile-surveillance-trailer, /resources/case-studies/permian-operator
 canonical: https://visiondetectionsystems.com/locations/texas
 ogTitle: Mobile surveillance built for Texas conditions
 ogDescription: Solar-autonomous mobile surveillance for Permian Basin oil & gas, Texas metro construction, and auto dealerships. 5-10 day deployment, SOC-monitored 24/7.

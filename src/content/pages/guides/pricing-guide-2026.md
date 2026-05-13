@@ -15,7 +15,7 @@ heroCTAPrimary:
   url: gated-form
 heroCTASecondary:
   label: Book a deployment review
-  url: /contact
+  url: /contact-us
 heroStats:
 - Sky Guard MSU $2,200/mo
 - Swift Deploy $1,500/mo
@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Download the pricing guide
   url: gated-form ; Book deployment review
 schemaType: Article
-internalLinks: /products/sky-guard-msu, /products/swift-deploy, /products/boundary-guard-pro, /guides/roi-calculator, /guides/ndaa-compliance, /contact
+internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /products/boundary-guard-pro, /guides/roi-calculator, /guides/ndaa-compliance, /contact-us
 canonical: https://visiondetectionsystems.com/guides/pricing-guide-2026
 ogTitle: 2026 Mobile Surveillance Pricing Guide
 ogDescription: 2026 pricing for VDS Sky Guard MSU ($2,200/mo), Swift Deploy ($1,500/mo), and Boundary Guard Pro ($1,800/mo). Cooperative purchasing rates included.
@@ -121,6 +121,6 @@ Procurement officers, CFOs, security directors building budgets, and any buyer b
 
 ## Related products
 
-- **[Sky Guard MSU](/products/sky-guard-msu)** — Full spec sheet
-- **[Swift Deploy](/products/swift-deploy)** — Full spec sheet
+- **[Sky Guard MSU](/products/sky-guard-mobile-surveillance-trailer)** — Full spec sheet
+- **[Swift Deploy](/products/swift-deploy-surveillance-trailer)** — Full spec sheet
 - **[Boundary Guard Pro](/products/boundary-guard-pro)** — Full spec sheet

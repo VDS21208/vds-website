@@ -36,7 +36,7 @@ finalCTAButtons:
 - label: Request a Site Survey
   url: View Coverage Map
 schemaType: Service
-internalLinks: /services/network-connectivity, /services/device-health-monitoring, /hardware/mobile-surveillance-trailers, /about/coverage
+internalLinks: /services/network-connectivity, /services/device-health-monitoring, /hardware/mobile-surveillance-trailers, /about-us/coverage
 canonical: https://visiondetectionsystems.com/services/deployment-logistics
 ogTitle: National Deployment Logistics, Managed End-to-End
 ogDescription: Site survey, transport, install, redeploy. Managed end-to-end across 30+ states. Same-day to 72-hour deployment. 500+ deployments completed.

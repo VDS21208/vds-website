@@ -12,7 +12,7 @@ heroEyebrow: Platform overview
 heroSubhead: AWS-backed video management software, AI analytics, and a 24/7 US Security Operations Center — wired together by the same company that builds the trailers. Bring your ONVIF/RTSP cameras or ours.
 heroCTAPrimary:
   label: Book a 20-minute demo
-  url: /demo
+  url: /schedule-a-demo
 heroCTASecondary:
   label: See pricing
   url: /platform/pricing
@@ -37,7 +37,7 @@ finalCTAHeading: See AI VisionStream on your own cameras.
 finalCTABody: 20 minutes. Live operator demo. We ingest one of your existing camera feeds during the call.
 finalCTAButtons:
 - label: Book a demo
-  url: /demo
+  url: /schedule-a-demo
 schemaType: SoftwareApplication
 canonical: https://visiondetectionsystems.com/platform
 ogTitle: AI VisionStream. One platform. Every camera. Verified humans.
@@ -83,4 +83,4 @@ Construction yards, multi-family developments, auto dealerships, logistics yards
 
 [Diagram placeholder: Cameras → AI VisionStream cloud (AWS US) → Analytics + LPR → SOC operator → Mobile app + LE dispatch + Integrations]
 
-Start with the [analytics engine](/platform/analytics). Layer on [LPR](/platform/lpr). Route the alerts through the [SOC](/platform/soc) or your own team via the [mobile app](/platform/mobile-app). Wire it into your stack through [integrations](/platform/integrations). Lock it down with [platform security](/platform/security).
+Start with the [analytics engine](/platform/ai-video-analytics). Layer on [LPR](/platform/lpr). Route the alerts through the [SOC](/platform/soc) or your own team via the [mobile app](/platform/mobile-app). Wire it into your stack through [integrations](/platform/integrations). Lock it down with [platform security](/platform/cloud-security).

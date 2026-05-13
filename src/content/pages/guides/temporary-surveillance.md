@@ -15,7 +15,7 @@ heroCTAPrimary:
   url: gated-form
 heroCTASecondary:
   label: Get a short-term quote
-  url: /contact
+  url: /contact-us
 heroStats:
 - 3-day to 11-month rentals
 - 14-month rent-vs-buy break-even
@@ -38,7 +38,7 @@ finalCTAButtons:
 - label: Download the guide
   url: gated-form ; Get short-term quote
 schemaType: Article
-internalLinks: /products/sky-guard-msu, /products/swift-deploy, /products/boundary-guard-pro, /guides/pricing-guide-2026, /guides/event-security, /guides/construction-theft-prevention, /contact
+internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /products/boundary-guard-pro, /guides/pricing-guide-2026, /guides/event-security, /guides/construction-theft-prevention, /contact-us
 canonical: https://visiondetectionsystems.com/guides/temporary-surveillance
 ogTitle: Temporary Surveillance Guide
 ogDescription: When to rent mobile surveillance vs commit to annual contract. Break-even math, short-term rates, and 30-day to 6-month deployment playbook.
@@ -109,6 +109,6 @@ Project managers running multi-phase work, event producers, retail asset protect
 
 ## Related products
 
-- **[Sky Guard MSU](/products/sky-guard-msu)** — $2,200/mo contract, rental rates available
-- **[Swift Deploy](/products/swift-deploy)** — $1,500/mo contract, rental rates available
+- **[Sky Guard MSU](/products/sky-guard-mobile-surveillance-trailer)** — $2,200/mo contract, rental rates available
+- **[Swift Deploy](/products/swift-deploy-surveillance-trailer)** — $1,500/mo contract, rental rates available
 - **[Boundary Guard Pro](/products/boundary-guard-pro)** — $1,800/mo contract, rental rates available

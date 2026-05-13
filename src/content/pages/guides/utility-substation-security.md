@@ -15,7 +15,7 @@ heroCTAPrimary:
   url: gated-form
 heroCTASecondary:
   label: Talk to a utility engineer
-  url: /contact
+  url: /contact-us
 heroStats:
 - NERC CIP-014 R5 aligned
 - NDAA Section 889 compliant
@@ -38,7 +38,7 @@ finalCTAButtons:
 - label: Download the guide
   url: gated-form ; Book utility engineering call
 schemaType: Article
-internalLinks: /products/sky-guard-msu, /products/boundary-guard-pro, /guides/ndaa-compliance, /compliance, /contact
+internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/boundary-guard-pro, /guides/ndaa-compliance, /compliance, /contact-us
 canonical: https://visiondetectionsystems.com/guides/utility-substation-security
 ogTitle: Utility Substation Security Guide
 ogDescription: Substation physical security under NERC CIP-014 R5. Threat actor profiles, camera placement, and the post-Moore County deployment playbook for cooperatives
@@ -95,6 +95,6 @@ Utility security directors, NERC compliance officers, transmission planners, coo
 
 ## Related products
 
-- **[Sky Guard MSU](/products/sky-guard-msu)** — $2,200/mo. Primary substation deployment unit.
+- **[Sky Guard MSU](/products/sky-guard-mobile-surveillance-trailer)** — $2,200/mo. Primary substation deployment unit.
 - **[Boundary Guard Pro](/products/boundary-guard-pro)** — $1,800/mo. Fence-line and perimeter analytics.
-- **[Swift Deploy](/products/swift-deploy)** — $1,500/mo. Construction phase or temporary supplement during permanent installation.
+- **[Swift Deploy](/products/swift-deploy-surveillance-trailer)** — $1,500/mo. Construction phase or temporary supplement during permanent installation.

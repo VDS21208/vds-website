@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Get a Quote
   url: See the Case Study
 schemaType: Article
-internalLinks: /products/sky-guard-msu, /products/swift-deploy, /platform/ai-visionstream, /soc, /case-studies/mid-atlantic-gc, /industries/construction, /industries/retail, /industries/auto-dealerships, /industries/warehouse, /industries/industrial
+internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /platform/platform, /platform/soc, /resources/case-studies/mid-atlantic-gc, /industries/construction-site-security, /industries/retail-shopping-center-security, /industries/automotive-dealership-security, /industries/warehouse-logistics-security, /industries/critical-infrastructure-security
 canonical: https://visiondetectionsystems.com/use-cases/after-hours-intrusion-detection
 ogTitle: After-hours intrusion detection with active SOC response.
 ogDescription: Detect and stop after-hours intruders between 10pm and 5am. AI loitering rules, thermal detection, <60s US SOC response, audio talk-down, LE dispatch
@@ -77,7 +77,7 @@ Our Mid-Atlantic GC case study site saw a 73% reduction in theft incidents over 
 
 ## Industries most affected
 
-[Construction](/industries/construction) · [Retail & Strip Centers](/industries/retail) · [Auto Dealerships](/industries/auto-dealerships) · [Warehouse & Distribution](/industries/warehouse) · [Parking Lots](/industries/parking) · [Industrial](/industries/industrial)
+[Construction](/industries/construction-site-security) · [Retail & Strip Centers](/industries/retail-shopping-center-security) · [Auto Dealerships](/industries/automotive-dealership-security) · [Warehouse & Distribution](/industries/warehouse-logistics-security) · [Parking Lots](/industries/parking-lot-garage-security) · [Industrial](/industries/critical-infrastructure-security)
 
 ## ROI math
 

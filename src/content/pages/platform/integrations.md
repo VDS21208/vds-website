@@ -15,7 +15,7 @@ heroCTAPrimary:
   url: '#integrations'
 heroCTASecondary:
   label: Talk to an engineer
-  url: /contact
+  url: /contact-us
 heroStats:
 - 4 ACS platforms
 - 2 alarm centrals
@@ -35,9 +35,9 @@ finalCTAHeading: Tell us what is in your stack.
 finalCTABody: We will pull up your ACS, alarm, and ITSM platform during the demo and show the wiring live.
 finalCTAButtons:
 - label: Book a demo
-  url: /demo
+  url: /schedule-a-demo
 schemaType: SoftwareApplication
-internalLinks: /platform, /platform/soc, /platform/alerts, /platform/security
+internalLinks: /platform, /platform/soc, /platform/alerts-reporting, /platform/cloud-security
 canonical: https://visiondetectionsystems.com/platform/integrations
 ogTitle: Wired into the stack you already run.
 ogDescription: Native integrations with Lenel, Genetec, Brivo, Bold, Stages, ServiceNow, Jira, PagerDuty, Slack, and email/SMS gateways.
@@ -85,7 +85,7 @@ Every verified SOC event opens a ticket in your system with the incident report,
 
 REST API for camera management, rule configuration, alert retrieval, and user provisioning. Webhooks for every event class. OAuth 2.0 with scoped tokens. Rate limits documented per endpoint.
 
-Full reference at [api.visiondetectionsystems.com](/docs).
+Full reference at [api.visiondetectionsystems.com](/resources).
 
 ## What we do not do
 

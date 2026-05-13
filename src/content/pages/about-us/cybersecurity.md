@@ -40,7 +40,7 @@ finalCTAButtons:
 - label: Request Security Documentation
   url: Talk to Security Engineering
 schemaType: WebPage (Trust Center sub-page, breadcrumbed under Organization)
-internalLinks: /about-us/trust-center, /about-us/trust-center/data-privacy, /about-us/trust-center/sla-uptime, /soc, /contact
+internalLinks: /about-us/trust-center, /about-us/trust-center/data-privacy, /about-us/trust-center/sla-uptime, /platform/soc, /contact-us
 canonical: https://visiondetectionsystems.com/about-us/trust-center/cybersecurity
 ogTitle: Cybersecurity Controls
 ogDescription: 'Vision Detection Systems cybersecurity controls: TLS 1.3 in transit, AES-256 at rest, RBAC with MFA, SAML/OIDC SSO, IP allowlisting'

@@ -40,7 +40,7 @@ finalCTAButtons:
 - label: Get the side-by-side
   url: Book a 20-min call
 schemaType: Article
-internalLinks: /products/swift-deploy, /products/sky-guard, /platform/ai-visionstream, /soc, /compliance/ndaa, /compare
+internalLinks: /products/swift-deploy-surveillance-trailer, /products/sky-guard, /platform/platform, /platform/soc, /compliance/ndaa, /compare
 canonical: https://visiondetectionsystems.com/compare/vds-vs-goview
 ogTitle: VDS vs. GoView
 ogDescription: VDS vs. GoView side-by-side. AI platform depth, 24/7 US SOC, NDAA, 500+ deployments vs. a smaller rent/purchase vendor. Pricing and migration included.

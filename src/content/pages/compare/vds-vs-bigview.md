@@ -30,7 +30,7 @@ faq:
 - q: Where is the data stored?
   a: VDS stores all AI VisionStream footage in US AWS regions only. AES-256 at rest, TLS 1.3 in transit. Confirm BIGView's data residency directly with them.
 - q: Does VDS offer a free pilot?
-  a: We offer structured 30-day pilots for qualified opportunities. Request via /demo.
+  a: We offer structured 30-day pilots for qualified opportunities. Request via /schedule-a-demo.
 - q: Is BIGView NDAA Section 889 compliant?
   a: Confirm directly with BIGView. VDS provides written 889 compliance with a component bill of materials.
 finalCTAHeading: Run a 30-day pilot
@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Request a pilot
   url: Book a 20-min call
 schemaType: Article
-internalLinks: /platform/ai-visionstream, /products/sky-guard, /soc, /compliance/ndaa, /case-studies/mid-atlantic-gc, /compare
+internalLinks: /platform/platform, /products/sky-guard, /platform/soc, /compliance/ndaa, /resources/case-studies/mid-atlantic-gc, /compare
 canonical: https://visiondetectionsystems.com/compare/vds-vs-bigview
 ogTitle: VDS vs. BIGView
 ogDescription: BIGView leans AI-forward branding. VDS runs a 7-year-mature AI platform on AWS US-only, with a 24/7 SOC and 500+ deployments. Side-by-side comparison.

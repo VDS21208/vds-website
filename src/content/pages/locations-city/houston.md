@@ -1,5 +1,5 @@
 ---
-url: /locations/mobile-surveillance-trailers/houston
+url: /locations/products/mobile-surveillance-trailershouston
 collection: locations-city
 pageType: City Detail
 parent: /locations/mobile-surveillance-trailers
@@ -37,8 +37,8 @@ finalCTAButtons:
 - label: Request a Houston quote
   url: Talk to a deployment engineer
 schemaType: LocalBusiness
-internalLinks: /locations/mobile-surveillance-trailers, /locations/texas, /products/sky-guard-msu, /products/boundary-guard-pro, /industries/oil-gas-security, /industries/port-logistics, /industries/petrochemical-security
-canonical: https://visiondetectionsystems.com/locations/mobile-surveillance-trailers/houston
+internalLinks: /locations/mobile-surveillance-trailers, /locations/texas, /products/sky-guard-mobile-surveillance-trailer, /products/boundary-guard-pro, /industries/oil-gas-security, /industries/port-logistics, /industries/petrochemical-security
+canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailershouston
 ogTitle: Mobile surveillance trailers in Houston, TX
 ogDescription: Mobile surveillance trailers across Houston — oil & gas, Port of Houston, petrochem, construction. Hurricane redeploy. Rated to 120F. NDAA 889 compliant.
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg

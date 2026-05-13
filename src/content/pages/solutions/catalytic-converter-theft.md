@@ -1,5 +1,5 @@
 ---
-url: /solutions/auto/catalytic-converter-theft
+url: /solutions/catalytic-converter-theft-prevention
 collection: solutions
 pageType: Solution Intersection
 parent: /solutions
@@ -36,8 +36,8 @@ finalCTAButtons:
 - label: Quote My Lot
   url: Talk to an Engineer
 schemaType: Article
-internalLinks: /products/swift-deploy, /products/sky-guard-msu, /solutions/auto, /solutions/auto/vehicle-theft-prevention, /features/lpr
-canonical: https://visiondetectionsystems.com/solutions/auto/catalytic-converter-theft
+internalLinks: /products/swift-deploy-surveillance-trailer, /products/sky-guard-mobile-surveillance-trailer, /solutions/auto, /solutions/auto/vehicle-theft-prevention, /features/lpr
+canonical: https://visiondetectionsystems.com/solutions/catalytic-converter-theft-prevention
 ogTitle: Catalytic Converter Theft Protection for Auto Dealerships
 ogDescription: Stop catalytic converter theft from dealer lots. Thermal cameras + LPR + 24/7 SOC audio talk-down. Theft takes 90 seconds — we respond in under 60.
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg

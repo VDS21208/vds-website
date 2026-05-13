@@ -36,7 +36,7 @@ finalCTAButtons:
 - label: Quote My Stores
   url: Talk to an Engineer
 schemaType: Article
-internalLinks: /products/swift-deploy, /products/sky-guard-msu, /features/lpr, /solutions/retail, /solutions/retail/parking-lot-crime
+internalLinks: /products/swift-deploy-surveillance-trailer, /products/sky-guard-mobile-surveillance-trailer, /features/lpr, /solutions/retail, /solutions/retail/parking-lot-crime
 canonical: https://visiondetectionsystems.com/solutions/retail/orc-flash-mob-prevention
 ogTitle: Document Organized Retail Crime Flash Mobs for Evidence and Recovery
 ogDescription: Document organized retail crime flash mobs for evidence and recovery. Parking lot cameras + LPR captures getaway plates. SOC dispatches LE with live video.

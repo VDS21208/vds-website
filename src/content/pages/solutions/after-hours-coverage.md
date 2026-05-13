@@ -36,7 +36,7 @@ finalCTAButtons:
 - label: Quote My Property
   url: Talk to an Engineer
 schemaType: Article
-internalLinks: /products/swift-deploy, /products/sky-guard-msu, /features/ai-visionstream, /solutions/parking, /solutions/auto/catalytic-converter-theft
+internalLinks: /products/swift-deploy-surveillance-trailer, /products/sky-guard-mobile-surveillance-trailer, /features/platform, /solutions/parking, /solutions/catalytic-converter-theft-prevention
 canonical: https://visiondetectionsystems.com/solutions/parking/after-hours-coverage
 ogTitle: After-Hours Surveillance for Parking Lots and Garages
 ogDescription: After-hours surveillance for parking lots and garages. Thermal cameras, LPR, time-of-day arming, 24/7 US SOC response. <60s intervention.
@@ -55,7 +55,7 @@ Open-air lots, structured garages, park-and-ride facilities, and event parking a
 
 - **Vehicle break-ins** — opportunistic, often serial (one crew works a row of vehicles in 20 minutes)
 - **Encampment** — unauthorized overnight occupation, with associated trespass, sanitation, and tenant-relations costs
-- **Catalytic converter theft** — covered in detail at [/solutions/auto/catalytic-converter-theft](/solutions/auto/catalytic-converter-theft)
+- **Catalytic converter theft** — covered in detail at [/solutions/catalytic-converter-theft-prevention](/solutions/catalytic-converter-theft-prevention)
 - **Vehicle theft** — flatbed pulls, key-cloning attacks
 - **Assault and robbery** — drives premises-liability exposure
 - **Vandalism and graffiti** — recurring cost in structures particularly
