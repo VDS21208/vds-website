@@ -1,0 +1,34 @@
+---
+import Icon from '../icons/Icon.astro';
+const badges = [
+  { name: "NDAA Section 889", note: "Federal procurement compliant", icon: "shield" },
+  { name: "AWS Cloud Partner", note: "US-only data residency", icon: "cloud" },
+  { name: "TLS 1.3 + AES-256", note: "Encryption in transit + at rest", icon: "lock" },
+  { name: "NERC CIP-014", note: "Substation security documentation", icon: "zap" },
+  { name: "Sourcewell Awarded", note: "Cooperative purchasing contract", icon: "check" },
+  { name: "Camera Agnostic", note: "Bring your own ONVIF/RTSP cameras", icon: "camera" },
+  { name: "Made in Pikesville, MD", note: "100% US-assembled hardware", icon: "shield" },
+  { name: "SOC 2 Type II", note: "Audit in progress · Late 2026", icon: "target" },
+];
+---
+<section class="py-20 md:py-24 bg-white relative">
+  <div class="container-wide">
+    <div class="max-w-3xl mb-12 reveal">
+      <div class="eyebrow mb-3">Trust signals</div>
+      <h2 class="font-display text-navy mb-4">Built to pass procurement.<br><span class="gradient-text-dark">Survives every security questionnaire.</span></h2>
+      <p class="text-lg text-slate-600">Eight credentials your IT, security, and procurement teams will check. We pre-answer all of them.</p>
+    </div>
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-4 reveal reveal-children">
+      {badges.map((b) => (
+        <div class="border border-slate-200 rounded-xl p-5 hover:border-orange hover:bg-orange/3 transition-all duration-200 cursor-spotlight">
+          <div class="text-orange mb-3"><Icon name={b.icon} size={24} /></div>
+          <div class="font-display text-base text-navy mb-1 leading-tight">{b.name}</div>
+          <div class="text-xs text-slate-500 leading-relaxed">{b.note}</div>
+        </div>
+      ))}
+    </div>
+    <div class="text-center mt-10">
+      <a href="/about-us/trust-center" class="inline-flex items-center gap-2 text-orange hover:gap-3 transition-all font-medium">See full Trust Center <span aria-hidden="true">→</span></a>
+    </div>
+  </div>
+</section>

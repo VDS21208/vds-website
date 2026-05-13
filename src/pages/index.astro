@@ -7,6 +7,8 @@ import MagazineIndustries from '../components/sections/MagazineIndustries.astro'
 import ProcessSteps from '../components/sections/ProcessSteps.astro';
 import NumberMarquee from '../components/sections/NumberMarquee.astro';
 import CaseStudyApple from '../components/sections/CaseStudyApple.astro';
+import DeploymentMap from '../components/sections/DeploymentMap.astro';
+import TrustWall from '../components/sections/TrustWall.astro';
 import FAQAccordion from '../components/sections/FAQAccordion.astro';
 import FinalCTAStrip from '../components/sections/FinalCTAStrip.astro';
 import SchemaFAQ from '../components/seo/SchemaFAQ.astro';
@@ -139,8 +141,14 @@ const home = entry?.data || { seoTitle: "VDS — Mobile Security Infrastructure"
   <!-- APPLE-STYLE BIG CASE STUDY -->
   <CaseStudyApple />
 
+  <!-- LIVE DEPLOYMENT MAP -->
+  <DeploymentMap />
+
   <!-- MAGAZINE INDUSTRIES -->
   <MagazineIndustries />
+
+  <!-- TRUST WALL -->
+  <TrustWall />
 
   <!-- COMPARISON PREVIEW -->
   <section class="py-24 md:py-32 bg-navy text-white relative overflow-hidden" data-no-reveal>

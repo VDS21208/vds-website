@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 320" fill="none" aria-label="AI VisionStream">
+  <!-- Eye outline (two arcs) -->
+  <g transform="translate(0,0)">
+    <!-- Top arc -->
+    <path d="M 30 160 Q 165 60 300 160" stroke="#8FB89A" stroke-width="9" stroke-linecap="round" fill="none"/>
+    <!-- Bottom arc -->
+    <path d="M 30 160 Q 165 260 300 160" stroke="#8FB89A" stroke-width="9" stroke-linecap="round" fill="none"/>
+    <!-- Inner triangular "play" shape — dark teal-green -->
+    <path d="M 95 100 L 95 220 Q 230 200 260 160 Q 230 120 95 100 Z" fill="#0E2818" opacity="0.85"/>
+    <!-- "AI" text inside the play shape -->
+    <text x="125" y="180" font-family="'Orbitron', 'Barlow Condensed', sans-serif" font-size="60" font-weight="700" fill="#FFFFFF" letter-spacing="-0.02em">AI</text>
+  </g>
+  <!-- VISION STREAM wordmark — futuristic letter spacing -->
+  <g transform="translate(320, 0)">
+    <text x="0" y="155" font-family="'Orbitron', 'Barlow Condensed', sans-serif" font-size="64" font-weight="500" fill="#FFFFFF" letter-spacing="0.05em">VISION</text>
+    <text x="0" y="225" font-family="'Orbitron', 'Barlow Condensed', sans-serif" font-size="64" font-weight="500" fill="#8FB89A" letter-spacing="0.18em">STREAM</text>
+  </g>
+</svg>

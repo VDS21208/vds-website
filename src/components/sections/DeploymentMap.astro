@@ -1,0 +1,79 @@
+---
+// Active VDS states + key cities — for the "live deployment" map section
+const activeStates = [
+  "MD", "VA", "DC", "DE", "NJ", "PA", "NY", "MA", "CT", "RI",
+  "NC", "SC", "GA", "FL", "TN", "KY", "OH", "WV",
+  "TX", "OK", "AR", "LA", "MS", "AL",
+  "IL", "IN", "MI", "WI", "MN",
+  "CA", "AZ", "CO", "NV", "WA", "OR"
+];
+const featuredCities = [
+  { name: "Baltimore", x: 75.5, y: 38, lead: "Same-day" },
+  { name: "DC", x: 73, y: 39, lead: "Same-day" },
+  { name: "NYC", x: 78, y: 33, lead: "24hr" },
+  { name: "Boston", x: 82, y: 30, lead: "48hr" },
+  { name: "Miami", x: 73, y: 75, lead: "48hr" },
+  { name: "Dallas", x: 48, y: 65, lead: "48hr" },
+  { name: "Houston", x: 50, y: 71, lead: "48hr" },
+  { name: "LA", x: 16, y: 56, lead: "72hr" },
+  { name: "Chicago", x: 56, y: 38, lead: "48hr" },
+  { name: "Denver", x: 35, y: 47, lead: "72hr" },
+  { name: "Seattle", x: 14, y: 22, lead: "72hr" },
+  { name: "Atlanta", x: 65, y: 60, lead: "48hr" },
+];
+---
+<section class="bg-navy text-white py-24 md:py-32 relative overflow-hidden">
+  <div class="dot-pattern absolute inset-0 opacity-20"></div>
+  <div class="hero-orb-layer">
+    <div class="gradient-orb gradient-orb-orange" style="width: 600px; height: 600px; bottom: -200px; right: 5%; opacity: 0.2;"></div>
+  </div>
+  <div class="container-wide relative z-10">
+    <div class="grid lg:grid-cols-12 gap-12 items-center">
+      <div class="lg:col-span-5">
+        <div class="eyebrow mb-3">Live deployments</div>
+        <h2 class="font-display mb-5">500+ sites.<br>30+ states.<br><span class="gradient-text">One operating standard.</span></h2>
+        <p class="text-lg text-white/65 mb-8 leading-relaxed">Every active VDS deployment runs the same hardware, the same AI VisionStream platform, and is monitored by the same Pikesville, MD-based SOC.</p>
+        <div class="grid grid-cols-2 gap-4 mb-8">
+          <div class="border-l-2 border-orange pl-4">
+            <div class="font-display text-3xl text-orange mb-1" data-target="500+">500+</div>
+            <div class="text-xs uppercase tracking-wider text-white/55">Active sites</div>
+          </div>
+          <div class="border-l-2 border-orange pl-4">
+            <div class="font-display text-3xl text-orange mb-1" data-target="30+">30+</div>
+            <div class="text-xs uppercase tracking-wider text-white/55">States</div>
+          </div>
+          <div class="border-l-2 border-orange pl-4">
+            <div class="font-display text-3xl text-orange mb-1" data-target="72hr">72hr</div>
+            <div class="text-xs uppercase tracking-wider text-white/55">Max lead time</div>
+          </div>
+          <div class="border-l-2 border-orange pl-4">
+            <div class="font-display text-3xl text-orange mb-1" data-target="24/7">24/7</div>
+            <div class="text-xs uppercase tracking-wider text-white/55">US SOC</div>
+          </div>
+        </div>
+        <a href="/service-areas" class="inline-flex items-center gap-2 text-orange hover:gap-3 transition-all font-medium">See coverage map <span aria-hidden="true">→</span></a>
+      </div>
+      <div class="lg:col-span-7 reveal">
+        <div class="relative aspect-[16/10] bg-navy-light/40 rounded-xl border border-white/8 overflow-hidden">
+          <!-- Stylized US map (simplified outline) -->
+          <svg viewBox="0 0 100 60" preserveAspectRatio="xMidYMid meet" class="absolute inset-0 w-full h-full">
+            <!-- Simple US outline as decorative shape -->
+            <path d="M 5 20 L 15 16 L 25 17 L 40 14 L 55 14 L 70 15 L 80 18 L 90 22 L 95 28 L 92 38 L 88 45 L 80 50 L 72 52 L 65 53 L 55 52 L 48 53 L 40 51 L 32 48 L 25 45 L 18 42 L 12 38 L 7 33 L 5 27 Z" fill="rgba(255,255,255,0.04)" stroke="rgba(232,98,26,0.3)" stroke-width="0.3"/>
+            <!-- City dots with pulse for featured -->
+            {featuredCities.map((city, i) => (
+              <g style={`animation-delay: ${i * 150}ms;`}>
+                <circle cx={city.x} cy={city.y} r="2.5" fill="#E8621A" opacity="0.4" class="pulse-element" />
+                <circle cx={city.x} cy={city.y} r="1.2" fill="#E8621A" />
+              </g>
+            ))}
+          </svg>
+          <!-- Legend -->
+          <div class="absolute bottom-4 left-4 right-4 flex items-center justify-between text-[0.625rem] uppercase tracking-[0.2em] text-white/55">
+            <span class="inline-flex items-center gap-1.5"><span class="pulse-dot"></span> Active deployment</span>
+            <span>VDS coverage map · Q2 2026</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

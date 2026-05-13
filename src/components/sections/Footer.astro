@@ -9,10 +9,16 @@ import Icon from '../icons/Icon.astro';
   <div class="container-wide relative z-10">
     <div class="grid grid-cols-2 md:grid-cols-6 gap-10 mb-14">
       <div class="col-span-2 md:col-span-2">
-        <div class="text-orange font-display text-2xl font-semibold mb-4 tracking-wider">VDS</div>
+        <a href="/" class="inline-flex items-center gap-3 mb-5 group">
+          <img src="/assets/vds-mark.svg" alt="" class="h-12 w-auto" style="filter: invert(1) brightness(2);" />
+          <div class="flex flex-col leading-tight">
+            <span class="text-[0.625rem] uppercase tracking-[0.2em] text-white/55 font-medium">Vision Detection</span>
+            <span class="text-xl text-orange font-display font-semibold tracking-wide -mt-1">Systems</span>
+          </div>
+        </a>
         <p class="text-sm text-white/70 leading-relaxed mb-6 max-w-xs">America's integrated mobile security infrastructure company. Solar-autonomous hardware. Cloud VMS. 24/7 US SOC.</p>
-        <a href="tel:+14104011986" class="block text-base text-white hover:text-orange mb-1 font-medium inline-flex items-center gap-2"><Icon name="phone" size={16} /> (410) 401-1986</a>
-        <a href="mailto:info@visiondetectionsystems.com" class="block text-sm text-white/70 hover:text-white inline-flex items-center gap-2 mt-2"><Icon name="mail" size={14} /> info@visiondetectionsystems.com</a>
+        <a href="tel:+14104011986" class="block text-base text-white hover:text-orange mb-2 font-medium inline-flex items-center gap-2"><Icon name="phone" size={16} /> (410) 401-1986</a>
+        <a href="mailto:info@visiondetectionsystems.com" class="block text-sm text-white/70 hover:text-white inline-flex items-center gap-2"><Icon name="mail" size={14} /> info@visiondetectionsystems.com</a>
       </div>
       {nav.map(section => (
         <div>

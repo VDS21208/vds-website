@@ -6,7 +6,6 @@ import Icon from '../icons/Icon.astro';
 
 const activeUrl = Astro.url.pathname;
 
-// Icon mapping for each nav section
 const NAV_ICONS: Record<string, string> = {
   'Products': 'camera',
   'Platform': 'cpu',
@@ -18,12 +17,15 @@ const NAV_ICONS: Record<string, string> = {
 ---
 <header class="sticky top-0 z-40 bg-navy/95 backdrop-blur-md text-white transition-all duration-200" data-sticky-nav transition:persist>
   <div class="relative">
-    <div class="container-wide flex items-center justify-between py-3.5 border-b border-white/5">
-      <a href="/" class="flex items-center gap-2.5 group">
-        <span class="text-orange font-display font-semibold tracking-wider text-xl group-hover:opacity-80 transition-opacity">VDS</span>
-        <span class="hidden sm:inline text-sm text-white/85 font-medium">Vision Detection Systems</span>
+    <div class="container-wide flex items-center justify-between py-3 border-b border-white/5">
+      <a href="/" class="flex items-center gap-3 group" aria-label="Vision Detection Systems home">
+        <img src="/assets/vds-mark.svg" alt="VDS" class="h-10 w-auto text-white" style="filter: invert(1) brightness(2);" />
+        <div class="hidden sm:flex flex-col leading-tight">
+          <span class="text-[0.625rem] uppercase tracking-[0.2em] text-white/55 font-medium">Vision Detection</span>
+          <span class="text-base text-white font-display font-semibold tracking-wide -mt-0.5">Systems</span>
+        </div>
       </a>
-      <nav class="hidden lg:flex items-center gap-1.5" aria-label="Primary">
+      <nav class="hidden lg:flex items-center gap-1" aria-label="Primary">
         {nav.map(section => {
           const icon = NAV_ICONS[section.label] || 'shield';
           const isActive = activeUrl.startsWith(section.url);
@@ -38,7 +40,7 @@ const NAV_ICONS: Record<string, string> = {
                 <Icon name={icon} size={16} strokeWidth={2} />
               </span>
               <span>{section.label}</span>
-              <Icon name="chevron-down" size={12} class="opacity-50 group-hover:opacity-80 transition-opacity" />
+              <Icon name="chevron-down" size={11} class="opacity-50 group-hover:opacity-80 transition-opacity" />
             </button>
           );
         })}

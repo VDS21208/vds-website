@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 200" fill="none" aria-label="VDS">
+  <path d="M 35 100 A 100 100 0 0 1 235 100 L 210 100 A 75 75 0 0 0 60 100 Z" fill="currentColor" opacity="0.85"/>
+  <path d="M 235 100 A 100 100 0 0 1 35 100 L 60 100 A 75 75 0 0 0 190 118 L 0 118 L 0 145 L 186 145 A 100 100 0 0 1 35 100 Z" fill="#E8621A"/>
+  <circle cx="135" cy="100" r="40" fill="none" stroke="currentColor" stroke-width="4" opacity="0.85"/>
+  <circle cx="135" cy="100" r="20" fill="none" stroke="#E8621A" stroke-width="4"/>
+  <circle cx="135" cy="100" r="9" fill="#E8621A"/>
+</svg>

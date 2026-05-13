@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" fill="none" aria-label="AI VisionStream">
+  <path d="M 30 100 Q 165 0 300 100" stroke="#8FB89A" stroke-width="10" stroke-linecap="round" fill="none"/>
+  <path d="M 30 100 Q 165 200 300 100" stroke="#8FB89A" stroke-width="10" stroke-linecap="round" fill="none"/>
+  <path d="M 95 40 L 95 160 Q 230 140 260 100 Q 230 60 95 40 Z" fill="#0E2818" opacity="0.85"/>
+  <text x="125" y="120" font-family="'Orbitron', sans-serif" font-size="60" font-weight="700" fill="#FFFFFF" letter-spacing="-0.02em">AI</text>
+</svg>

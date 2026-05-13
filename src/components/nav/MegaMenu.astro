@@ -1,53 +1,49 @@
 ---
 import nav from '../../data/nav.json';
+import Icon from '../icons/Icon.astro';
 export interface Props { activeUrl?: string }
 const { activeUrl } = Astro.props;
 ---
 <div class="hidden lg:block">
   {nav.map((section) => (
-    <div class="absolute left-0 right-0 top-full bg-navy-light text-white shadow-2xl border-t border-orange opacity-0 invisible pointer-events-none transition-all duration-200" data-megamenu={section.label}>
-      <div class="container-main py-6">
-        <div class="grid grid-cols-12 gap-6">
-          <div class="col-span-3">
-            <div class="eyebrow mb-3">Primary</div>
-            <ul class="space-y-2">
-              {section.primary.map((item: any) => (
-                <li>
-                  <a href={item.url} class="text-sm text-white/90 hover:text-white transition-colors">{item.label}</a>
-                </li>
-              ))}
-            </ul>
+    <div class="absolute left-0 right-0 top-full bg-navy-light text-white shadow-2xl border-t border-orange/30 opacity-0 invisible pointer-events-none transition-all duration-200" data-megamenu={section.label}>
+      <div class="container-wide py-8">
+        <div class="grid grid-cols-12 gap-10">
+          <!-- Left section: Primary + Supporting links (merged, no labels) -->
+          <div class="col-span-7 grid grid-cols-2 gap-x-12 gap-y-2">
+            {[...section.primary, ...section.supporting].map((item: any, i: number) => (
+              <a href={item.url} class="group flex items-start gap-3 py-2 px-3 -mx-3 rounded-md hover:bg-white/5 transition-colors">
+                <span class="text-orange/40 group-hover:text-orange transition-colors mt-0.5">
+                  <Icon name="arrow-right" size={14} />
+                </span>
+                <div class="flex-1">
+                  <div class="text-sm font-medium text-white group-hover:text-orange transition-colors">{item.label}</div>
+                </div>
+              </a>
+            ))}
           </div>
-          <div class="col-span-3">
-            <div class="eyebrow mb-3">Supporting</div>
-            <ul class="space-y-2">
-              {section.supporting.map((item: any) => (
-                <li>
-                  <a href={item.url} class="text-sm text-white/75 hover:text-white transition-colors">{item.label}</a>
-                </li>
-              ))}
-            </ul>
-          </div>
-          <div class="col-span-4">
+          <!-- Right: Featured + CTA -->
+          <div class="col-span-5 border-l border-white/10 pl-10">
             {section.featured.length > 0 && (
-              <div class="bg-navy border border-white/10 border-l-4 border-l-orange rounded-md p-4">
-                <div class="eyebrow mb-2">Featured</div>
-                <div class="text-base font-medium mb-1">{section.featured[0]?.label}</div>
-                <p class="text-xs text-white/70 leading-relaxed">{section.featured[0]?.notes || ''}</p>
-                <a href={section.featured[0]?.url} class="inline-block mt-3 text-xs text-gold hover:text-orange transition-colors">Learn more →</a>
+              <div class="bg-navy rounded-lg p-5 border border-white/10 border-l-4 border-l-orange mb-5">
+                <div class="text-[0.625rem] uppercase tracking-[0.2em] text-orange font-medium mb-2">Featured</div>
+                <div class="text-base font-display font-medium text-white mb-1.5">{section.featured[0]?.label}</div>
+                <p class="text-xs text-white/65 leading-relaxed mb-3">{section.featured[0]?.notes || ''}</p>
+                <a href={section.featured[0]?.url} class="inline-flex items-center gap-1 text-xs text-gold hover:text-orange font-medium transition-all hover:gap-2">
+                  Learn more <Icon name="arrow-right" size={12} />
+                </a>
               </div>
             )}
-          </div>
-          <div class="col-span-2 flex flex-col gap-2">
-            <div class="eyebrow mb-1">Take action</div>
-            {section.cta.map((item: any) => (
-              <a
-                href={item.url}
-                class={item.type === 'cta-primary'
-                  ? 'block text-center bg-orange hover:bg-orange-dark text-white text-xs font-medium py-2 px-3 rounded-sm transition-colors'
-                  : 'block text-center border border-white/40 hover:bg-white/10 text-white text-xs py-2 px-3 rounded-sm transition-colors'}
-              >{item.label}</a>
-            ))}
+            <div class="flex flex-col gap-2">
+              {section.cta.map((item: any) => (
+                <a
+                  href={item.url}
+                  class={item.type === 'cta-primary'
+                    ? 'block text-center bg-orange hover:bg-orange-dark text-white text-xs font-medium py-2.5 px-4 rounded-sm transition-all'
+                    : 'block text-center border border-white/30 hover:border-white/50 hover:bg-white/5 text-white text-xs py-2.5 px-4 rounded-sm transition-all'}
+                >{item.label}</a>
+              ))}
+            </div>
           </div>
         </div>
       </div>
@@ -68,7 +64,6 @@ const { activeUrl } = Astro.props;
     });
     activeDrawer = null;
   };
-
   const open = (label: string) => {
     closeAll();
     const drawer = document.querySelector(`[data-megamenu="${label}"]`) as HTMLElement;
@@ -78,7 +73,6 @@ const { activeUrl } = Astro.props;
       activeDrawer = drawer;
     }
   };
-
   navItems.forEach(item => {
     const label = item.getAttribute('data-nav-trigger');
     if (!label) return;
@@ -92,14 +86,8 @@ const { activeUrl } = Astro.props;
     item.addEventListener('focus', () => open(label));
   });
   drawers.forEach(d => {
-    d.addEventListener('mouseenter', () => {
-      if (closeTimer) window.clearTimeout(closeTimer);
-    });
-    d.addEventListener('mouseleave', () => {
-      closeTimer = window.setTimeout(closeAll, 400);
-    });
+    d.addEventListener('mouseenter', () => { if (closeTimer) window.clearTimeout(closeTimer); });
+    d.addEventListener('mouseleave', () => { closeTimer = window.setTimeout(closeAll, 400); });
   });
-  document.addEventListener('keydown', (e) => {
-    if (e.key === 'Escape') closeAll();
-  });
+  document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeAll(); });
 </script>
