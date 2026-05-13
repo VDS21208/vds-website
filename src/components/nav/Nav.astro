@@ -3,34 +3,54 @@ import nav from '../../data/nav.json';
 import MegaMenu from './MegaMenu.astro';
 import MobileDrawer from './MobileDrawer.astro';
 import Icon from '../icons/Icon.astro';
+
 const activeUrl = Astro.url.pathname;
+
+// Icon mapping for each nav section
+const NAV_ICONS: Record<string, string> = {
+  'Products': 'camera',
+  'Platform': 'cpu',
+  'Industries': 'construction',
+  'Why VDS': 'shield',
+  'Resources': 'eye',
+  'Partners': 'target',
+};
 ---
-<header class="sticky top-0 z-40 bg-navy/95 backdrop-blur-md text-white transition-all duration-200" data-sticky-nav>
+<header class="sticky top-0 z-40 bg-navy/95 backdrop-blur-md text-white transition-all duration-200" data-sticky-nav transition:persist>
   <div class="relative">
     <div class="container-wide flex items-center justify-between py-3.5 border-b border-white/5">
       <a href="/" class="flex items-center gap-2.5 group">
-        <span class="text-orange font-display font-semibold tracking-wider text-xl">VDS</span>
+        <span class="text-orange font-display font-semibold tracking-wider text-xl group-hover:opacity-80 transition-opacity">VDS</span>
         <span class="hidden sm:inline text-sm text-white/85 font-medium">Vision Detection Systems</span>
       </a>
-      <nav class="hidden lg:flex items-center gap-8" aria-label="Primary">
-        {nav.map(section => (
-          <button
-            type="button"
-            class={`text-sm font-medium transition-colors py-1 inline-flex items-center gap-1 ${activeUrl.startsWith(section.url) ? 'text-orange border-b-2 border-orange' : 'text-white/85 hover:text-white'}`}
-            data-nav-trigger={section.label}
-            aria-haspopup="true"
-          >
-            {section.label}
-            <Icon name="chevron-down" size={14} />
-          </button>
-        ))}
+      <nav class="hidden lg:flex items-center gap-1.5" aria-label="Primary">
+        {nav.map(section => {
+          const icon = NAV_ICONS[section.label] || 'shield';
+          const isActive = activeUrl.startsWith(section.url);
+          return (
+            <button
+              type="button"
+              class={`text-sm font-medium transition-all duration-200 py-2 px-3 rounded-md inline-flex items-center gap-2 group ${isActive ? 'text-orange bg-white/5' : 'text-white/85 hover:text-white hover:bg-white/5'}`}
+              data-nav-trigger={section.label}
+              aria-haspopup="true"
+            >
+              <span class={`transition-transform duration-200 ${isActive ? 'text-orange' : 'text-orange/60 group-hover:text-orange'}`}>
+                <Icon name={icon} size={16} strokeWidth={2} />
+              </span>
+              <span>{section.label}</span>
+              <Icon name="chevron-down" size={12} class="opacity-50 group-hover:opacity-80 transition-opacity" />
+            </button>
+          );
+        })}
       </nav>
       <div class="flex items-center gap-3">
-        <a href="tel:+14104011986" class="hidden md:inline-flex items-center gap-1.5 text-xs text-white/85 hover:text-white">
+        <a href="tel:+14104011986" class="hidden md:inline-flex items-center gap-1.5 text-xs text-white/85 hover:text-white transition-colors">
           <Icon name="phone" size={14} />
           <span>(410) 401-1986</span>
         </a>
-        <a href="/request-a-quote" class="hidden sm:inline-flex items-center gap-2 bg-orange hover:bg-orange-dark text-white text-xs font-medium py-2.5 px-4 rounded-sm transition-all hover:gap-3">Request a quote <Icon name="arrow-right" size={14} /></a>
+        <a href="/request-a-quote" class="hidden sm:inline-flex items-center gap-2 bg-orange hover:bg-orange-dark text-white text-xs font-medium py-2.5 px-4 rounded-sm transition-all hover:gap-3">
+          Request a quote <Icon name="arrow-right" size={14} />
+        </a>
         <button type="button" class="lg:hidden p-2 text-white" aria-label="Open menu" data-mobile-toggle>
           <Icon name="menu" size={24} />
         </button>
@@ -44,12 +64,10 @@ const activeUrl = Astro.url.pathname;
   const nav = document.querySelector('[data-sticky-nav]') as HTMLElement;
   const onScroll = () => {
     if (window.scrollY > 40) {
-      nav?.classList.add('shadow-xl');
+      nav?.classList.add('shadow-xl', 'bg-navy/98');
       nav?.classList.remove('bg-navy/95');
-      nav?.classList.add('bg-navy/98');
     } else {
-      nav?.classList.remove('shadow-xl');
-      nav?.classList.remove('bg-navy/98');
+      nav?.classList.remove('shadow-xl', 'bg-navy/98');
       nav?.classList.add('bg-navy/95');
     }
   };

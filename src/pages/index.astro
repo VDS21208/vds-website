@@ -28,7 +28,9 @@ const home = entry?.data || { seoTitle: "VDS — Mobile Security Infrastructure"
 
   <!-- CINEMATIC HERO -->
   <section class="relative overflow-hidden bg-navy text-white min-h-[92vh] flex items-center" data-hero-spotlight data-no-reveal>
-    <div class="hero-bg-image" style="background-image: url(/assets/webflow/hero-security-1.avif)"></div>
+    <div class="hero-mesh"></div>
+    <div class="hero-bg-image" style="background-image: url(/assets/webflow/hero-security-1.avif); opacity: 0.45;"></div>
+    <div class="hud-scanline"></div>
     <div class="hero-orb-layer">
       <div class="gradient-orb gradient-orb-orange float-slow" style="width: 700px; height: 700px; top: -200px; right: -200px;"></div>
       <div class="gradient-orb gradient-orb-blue" style="width: 500px; height: 500px; bottom: -150px; left: -150px; animation-delay: -8s;"></div>
@@ -158,12 +160,12 @@ const home = entry?.data || { seoTitle: "VDS — Mobile Security Infrastructure"
           { competitor: "vs. Flock", angle: "Private security. Not public surveillance.", body: "Jan 2026: 67 Flock cameras exposed publicly. 30+ city contract cancellations since. VDS cameras stream to your account on AWS US-only.", url: "/compare/vds-vs-flock-safety" },
           { competitor: "vs. Verkada", angle: "No $1,799/cam/yr. No 2021 hack record.", body: "Cloud security questionnaires don't survive Verkada's track record. VDS is camera-agnostic with NDAA from day one.", url: "/compare/vds-vs-verkada" },
         ].map((c) => (
-          <a href={c.url} class="card-hover cursor-spotlight group relative glass rounded-xl p-7">
+          <a href={c.url} data-tilt data-tilt-max="6" class="card-hover cursor-spotlight group relative glass rounded-xl p-7"><div class="tilt-card-inner">
             <div class="text-xs uppercase tracking-[0.15em] text-orange font-medium mb-4">{c.competitor}</div>
             <h3 class="font-display text-2xl text-white mb-4 leading-tight">{c.angle}</h3>
             <p class="text-sm text-white/70 mb-6 leading-relaxed">{c.body}</p>
             <div class="text-sm text-orange font-medium inline-flex items-center gap-2 group-hover:gap-3 transition-all">See comparison <Icon name="arrow-right" size={16} /></div>
-          </a>
+          </div></a>
         ))}
       </div>
       <div class="text-center mt-14 reveal">

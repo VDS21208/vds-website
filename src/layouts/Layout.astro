@@ -5,6 +5,7 @@ import Footer from '../components/sections/Footer.astro';
 import AnnouncementBar from '../components/nav/AnnouncementBar.astro';
 import SchemaOrganization from '../components/seo/SchemaOrganization.astro';
 import SchemaBreadcrumb from '../components/seo/SchemaBreadcrumb.astro';
+import { ViewTransitions } from 'astro:transitions';
 import MotionScript from '../components/util/MotionScript.astro';
 import StickyMobileCTA from '../components/util/StickyMobileCTA.astro';
 import ScrollProgress from '../components/util/ScrollProgress.astro';
@@ -52,6 +53,7 @@ const finalOgDesc = ogDescription || description;
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <ViewTransitions />
     <title>{title}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonicalUrl} />

@@ -1,31 +1,112 @@
 ---
 import Icon from '../icons/Icon.astro';
 const steps = [
-  { n: 1, icon: "truck", title: "Deploy", body: "VDS rolls a solar-autonomous trailer onto your site. Setup in under 20 minutes — one operator, no tools.", time: "< 72hr" },
-  { n: 2, icon: "eye", title: "Detect", body: "AI VisionStream watches every camera with intrusion zones, virtual tripwires, LPR, and time-of-day rules.", time: "24/7" },
-  { n: 3, icon: "shield", title: "Verify", body: "Our 24/7 US SOC operator confirms the threat with a human eye before escalation. 97% false alarm reduction.", time: "< 60s" },
-  { n: 4, icon: "zap", title: "Deter", body: "Audio talk-down through the trailer PA. Direct LE dispatch with live video. Full incident report filed.", time: "Real-time" },
+  { n: 1, title: "Deploy", body: "VDS rolls a solar-autonomous trailer onto your site. Setup in under 20 minutes — one operator, no tools.", time: "< 72hr" },
+  { n: 2, title: "Detect", body: "AI VisionStream watches every camera with intrusion zones, virtual tripwires, LPR, and time-of-day rules.", time: "24/7" },
+  { n: 3, title: "Verify", body: "Our 24/7 US SOC operator confirms the threat with a human eye before escalation. 97% false alarm reduction.", time: "< 60s" },
+  { n: 4, title: "Deter", body: "Audio talk-down through the trailer PA. Direct LE dispatch with live video. Full incident report filed.", time: "Real-time" },
 ];
 ---
-<section class="py-20 md:py-28 bg-white">
-  <div class="container-main">
+<section class="py-24 md:py-32 bg-white" data-scroll-bg="#FFFFFF">
+  <div class="container-wide">
     <div class="max-w-3xl mb-14 text-center mx-auto reveal">
       <div class="eyebrow mb-3 justify-center" style="display:inline-flex">How it works</div>
       <h2 class="font-display mb-4 text-navy">Deploy. Detect. Verify. Deter.</h2>
       <p class="text-lg text-slate-600">Four steps. One stack. Built and operated by VDS end-to-end.</p>
     </div>
-    <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-5 reveal">
-      {steps.map((s) => (
-        <div class="process-step group">
-          <div class="flex items-center gap-3 mb-3">
-            <div class="process-step-number">{s.n}</div>
-            <div class="text-orange"><Icon name={s.icon} size={28} /></div>
+    <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-5 reveal reveal-children">
+
+      <!-- Step 1: DEPLOY — animated truck rolling in -->
+      <div class="process-step group" data-tilt data-tilt-max="6">
+        <div class="tilt-card-inner">
+          <div class="process-illustration mb-5">
+            <svg viewBox="0 0 200 100" fill="none" stroke="#E8621A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M10 75 L190 75" class="draw-line" style="stroke: #CBD5E1; stroke-width: 1.5;"/>
+              <g class="trailer-group" style="transition: transform 800ms cubic-bezier(0.16, 1, 0.3, 1);">
+                <rect x="30" y="40" width="80" height="35" rx="2" fill="none"/>
+                <rect x="115" y="50" width="40" height="25" rx="2" fill="none"/>
+                <circle cx="50" cy="80" r="5" fill="#E8621A" opacity="0.3"/>
+                <circle cx="95" cy="80" r="5" fill="#E8621A" opacity="0.3"/>
+                <circle cx="135" cy="80" r="5" fill="#E8621A" opacity="0.3"/>
+                <line x1="120" y1="20" x2="120" y2="50"/>
+                <circle cx="120" cy="18" r="3" fill="#E8621A" class="pulse-element"/>
+              </g>
+            </svg>
           </div>
-          <h3 class="font-display text-2xl mb-2 text-navy">{s.title}</h3>
-          <p class="text-sm text-slate-600 leading-relaxed mb-3">{s.body}</p>
-          <div class="text-xs uppercase tracking-wider text-orange font-medium">{s.time}</div>
+          <div class="flex items-center gap-3 mb-3">
+            <div class="process-step-number">1</div>
+            <div class="text-xs uppercase tracking-wider text-orange font-medium">{steps[0].time}</div>
+          </div>
+          <h3 class="font-display text-2xl mb-2 text-navy">{steps[0].title}</h3>
+          <p class="text-sm text-slate-600 leading-relaxed">{steps[0].body}</p>
         </div>
-      ))}
+      </div>
+
+      <!-- Step 2: DETECT — animated radar sweep -->
+      <div class="process-step group" data-tilt data-tilt-max="6">
+        <div class="tilt-card-inner">
+          <div class="process-illustration mb-5">
+            <svg viewBox="0 0 200 100" fill="none" stroke="#E8621A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <circle cx="100" cy="60" r="45" stroke="#CBD5E1" stroke-width="1" fill="none"/>
+              <circle cx="100" cy="60" r="30" stroke="#CBD5E1" stroke-width="1" fill="none"/>
+              <circle cx="100" cy="60" r="15" stroke="#CBD5E1" stroke-width="1" fill="none"/>
+              <line x1="100" y1="60" x2="100" y2="15" class="draw-line" style="stroke-dasharray: 60; stroke-dashoffset: 0;">
+                <animateTransform attributeName="transform" type="rotate" from="0 100 60" to="360 100 60" dur="3s" repeatCount="indefinite"/>
+              </line>
+              <circle cx="135" cy="40" r="3" fill="#E8621A" class="pulse-element"/>
+              <circle cx="70" cy="75" r="2.5" fill="#E8621A" class="pulse-element" style="animation-delay: 0.5s;"/>
+              <circle cx="120" cy="80" r="2" fill="#E8621A" class="pulse-element" style="animation-delay: 1s;"/>
+            </svg>
+          </div>
+          <div class="flex items-center gap-3 mb-3">
+            <div class="process-step-number">2</div>
+            <div class="text-xs uppercase tracking-wider text-orange font-medium">{steps[1].time}</div>
+          </div>
+          <h3 class="font-display text-2xl mb-2 text-navy">{steps[1].title}</h3>
+          <p class="text-sm text-slate-600 leading-relaxed">{steps[1].body}</p>
+        </div>
+      </div>
+
+      <!-- Step 3: VERIFY — animated eye/check -->
+      <div class="process-step group" data-tilt data-tilt-max="6">
+        <div class="tilt-card-inner">
+          <div class="process-illustration mb-5">
+            <svg viewBox="0 0 200 100" fill="none" stroke="#E8621A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M40 60 Q100 25, 160 60 Q100 95, 40 60 Z" stroke="#CBD5E1" stroke-width="1.5" fill="none"/>
+              <circle cx="100" cy="60" r="15" fill="none" stroke="#E8621A"/>
+              <circle cx="100" cy="60" r="6" fill="#E8621A" class="pulse-element"/>
+              <path d="M85 60 L95 70 L115 50" stroke="#E8621A" stroke-width="2.5" fill="none" class="draw-line" style="stroke-dasharray: 50;"/>
+            </svg>
+          </div>
+          <div class="flex items-center gap-3 mb-3">
+            <div class="process-step-number">3</div>
+            <div class="text-xs uppercase tracking-wider text-orange font-medium">{steps[2].time}</div>
+          </div>
+          <h3 class="font-display text-2xl mb-2 text-navy">{steps[2].title}</h3>
+          <p class="text-sm text-slate-600 leading-relaxed">{steps[2].body}</p>
+        </div>
+      </div>
+
+      <!-- Step 4: DETER — animated megaphone + audio waves -->
+      <div class="process-step group" data-tilt data-tilt-max="6">
+        <div class="tilt-card-inner">
+          <div class="process-illustration mb-5">
+            <svg viewBox="0 0 200 100" fill="none" stroke="#E8621A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <polygon points="60 50, 110 25, 110 95, 60 70" stroke="#CBD5E1" stroke-width="1.5" fill="none"/>
+              <line x1="50" y1="50" x2="50" y2="70" stroke="#CBD5E1" stroke-width="1.5"/>
+              <path d="M125 35 Q145 60, 125 85" class="pulse-element" stroke="#E8621A"/>
+              <path d="M140 25 Q170 60, 140 95" class="pulse-element" style="animation-delay: 0.3s;" stroke="#E8621A"/>
+              <path d="M155 15 Q195 60, 155 105" class="pulse-element" style="animation-delay: 0.6s;" stroke="#E8621A"/>
+            </svg>
+          </div>
+          <div class="flex items-center gap-3 mb-3">
+            <div class="process-step-number">4</div>
+            <div class="text-xs uppercase tracking-wider text-orange font-medium">{steps[3].time}</div>
+          </div>
+          <h3 class="font-display text-2xl mb-2 text-navy">{steps[3].title}</h3>
+          <p class="text-sm text-slate-600 leading-relaxed">{steps[3].body}</p>
+        </div>
+      </div>
     </div>
   </div>
 </section>
