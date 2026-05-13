@@ -1,0 +1,34 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import HeroImage from '../../components/hero/HeroImage.astro';
+import TrustStrip from '../../components/sections/TrustStrip.astro';
+import PageBody from '../../components/sections/PageBody.astro';
+import SchemaArticle from '../../components/seo/SchemaArticle.astro';
+import SchemaFAQ from '../../components/seo/SchemaFAQ.astro';
+import collection from '../../data/collection-services.json';
+
+export async function getStaticPaths() {
+  return collection.map((p) => ({
+    params: { slug: p.url.split('/').pop() },
+    props: { page: p }
+  }));
+}
+const { page } = Astro.props;
+---
+<Layout
+  title={page.seoTitle}
+  description={page.metaDescription}
+  ogTitle={page.ogTitle}
+  ogDescription={page.ogDescription}
+  ogImage={page.ogImage}
+  ogType={page.ogType || "article"}
+  robots={page.robots}
+  parent="Services"
+  h1={page.h1}
+>
+  <SchemaArticle headline={page.h1} description={page.metaDescription} url={page.canonical} keywords={page.tags} />
+  <SchemaFAQ faqs={page.faq} />
+  <HeroImage eyebrow={page.heroEyebrow} h1={page.h1} subhead={page.heroSubhead} ctaPrimary={page.heroCTAPrimary} ctaSecondary={page.heroCTASecondary} stats={page.heroStats} />
+  <TrustStrip />
+  <PageBody body={page.body} faq={page.faq} finalCTAHeading={page.finalCTAHeading} finalCTABody={page.finalCTABody} finalCTAButtons={page.finalCTAButtons} />
+</Layout>

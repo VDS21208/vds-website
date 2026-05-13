@@ -1,0 +1,26 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import HeroImage from '../../../components/hero/HeroImage.astro';
+import TrustStrip from '../../../components/sections/TrustStrip.astro';
+import PageBody from '../../../components/sections/PageBody.astro';
+import SchemaLocalBusiness from '../../../components/seo/SchemaLocalBusiness.astro';
+import SchemaFAQ from '../../../components/seo/SchemaFAQ.astro';
+import collection from '../../../data/collection-city-locations.json';
+
+export async function getStaticPaths() {
+  return collection.map((p) => ({
+    params: { city: p.url.split('/').pop() },
+    props: { page: p }
+  }));
+}
+const { page } = Astro.props;
+const parts = page.url.split('/');
+const city = parts[parts.length - 1].replace(/-/g, ' ').replace(/\b\w/g, (l) => l.toUpperCase());
+---
+<Layout title={page.seoTitle} description={page.metaDescription} ogImage={page.ogImage} robots={page.robots} parent="City locations" h1={page.h1}>
+  <SchemaLocalBusiness name={`VDS — ${city}`} description={page.metaDescription} url={page.canonical} locality={city} region="US" />
+  <SchemaFAQ faqs={page.faq} />
+  <HeroImage eyebrow={page.heroEyebrow} h1={page.h1} subhead={page.heroSubhead} ctaPrimary={page.heroCTAPrimary} ctaSecondary={page.heroCTASecondary} stats={page.heroStats} />
+  <TrustStrip />
+  <PageBody body={page.body} faq={page.faq} finalCTAHeading={page.finalCTAHeading} finalCTABody={page.finalCTABody} finalCTAButtons={page.finalCTAButtons} />
+</Layout>

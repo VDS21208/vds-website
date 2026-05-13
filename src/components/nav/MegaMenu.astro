@@ -1,0 +1,105 @@
+---
+import nav from '../../data/nav.json';
+export interface Props { activeUrl?: string }
+const { activeUrl } = Astro.props;
+---
+<div class="hidden lg:block">
+  {nav.map((section) => (
+    <div class="absolute left-0 right-0 top-full bg-navy-light text-white shadow-2xl border-t border-orange opacity-0 invisible pointer-events-none transition-all duration-200" data-megamenu={section.label}>
+      <div class="container-main py-6">
+        <div class="grid grid-cols-12 gap-6">
+          <div class="col-span-3">
+            <div class="eyebrow mb-3">Primary</div>
+            <ul class="space-y-2">
+              {section.primary.map((item: any) => (
+                <li>
+                  <a href={item.url} class="text-sm text-white/90 hover:text-white transition-colors">{item.label}</a>
+                </li>
+              ))}
+            </ul>
+          </div>
+          <div class="col-span-3">
+            <div class="eyebrow mb-3">Supporting</div>
+            <ul class="space-y-2">
+              {section.supporting.map((item: any) => (
+                <li>
+                  <a href={item.url} class="text-sm text-white/75 hover:text-white transition-colors">{item.label}</a>
+                </li>
+              ))}
+            </ul>
+          </div>
+          <div class="col-span-4">
+            {section.featured.length > 0 && (
+              <div class="bg-navy border border-white/10 border-l-4 border-l-orange rounded-md p-4">
+                <div class="eyebrow mb-2">Featured</div>
+                <div class="text-base font-medium mb-1">{section.featured[0]?.label}</div>
+                <p class="text-xs text-white/70 leading-relaxed">{section.featured[0]?.notes || ''}</p>
+                <a href={section.featured[0]?.url} class="inline-block mt-3 text-xs text-gold hover:text-orange transition-colors">Learn more →</a>
+              </div>
+            )}
+          </div>
+          <div class="col-span-2 flex flex-col gap-2">
+            <div class="eyebrow mb-1">Take action</div>
+            {section.cta.map((item: any) => (
+              <a
+                href={item.url}
+                class={item.type === 'cta-primary'
+                  ? 'block text-center bg-orange hover:bg-orange-dark text-white text-xs font-medium py-2 px-3 rounded-sm transition-colors'
+                  : 'block text-center border border-white/40 hover:bg-white/10 text-white text-xs py-2 px-3 rounded-sm transition-colors'}
+              >{item.label}</a>
+            ))}
+          </div>
+        </div>
+      </div>
+    </div>
+  ))}
+</div>
+<script>
+  const navItems = document.querySelectorAll('[data-nav-trigger]');
+  const drawers = document.querySelectorAll('[data-megamenu]');
+  let activeDrawer: HTMLElement | null = null;
+  let closeTimer: number | undefined;
+
+  const closeAll = () => {
+    drawers.forEach(d => {
+      const el = d as HTMLElement;
+      el.classList.remove('opacity-100', 'visible', 'pointer-events-auto');
+      el.classList.add('opacity-0', 'invisible', 'pointer-events-none');
+    });
+    activeDrawer = null;
+  };
+
+  const open = (label: string) => {
+    closeAll();
+    const drawer = document.querySelector(`[data-megamenu="${label}"]`) as HTMLElement;
+    if (drawer) {
+      drawer.classList.remove('opacity-0', 'invisible', 'pointer-events-none');
+      drawer.classList.add('opacity-100', 'visible', 'pointer-events-auto');
+      activeDrawer = drawer;
+    }
+  };
+
+  navItems.forEach(item => {
+    const label = item.getAttribute('data-nav-trigger');
+    if (!label) return;
+    item.addEventListener('mouseenter', () => {
+      if (closeTimer) window.clearTimeout(closeTimer);
+      open(label);
+    });
+    item.addEventListener('mouseleave', () => {
+      closeTimer = window.setTimeout(closeAll, 400);
+    });
+    item.addEventListener('focus', () => open(label));
+  });
+  drawers.forEach(d => {
+    d.addEventListener('mouseenter', () => {
+      if (closeTimer) window.clearTimeout(closeTimer);
+    });
+    d.addEventListener('mouseleave', () => {
+      closeTimer = window.setTimeout(closeAll, 400);
+    });
+  });
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') closeAll();
+  });
+</script>

@@ -1,0 +1,24 @@
+---
+export interface Props {
+  pageName: string;
+  pageUrl: string;
+  parentName?: string;
+  parentUrl?: string;
+}
+const { pageName, pageUrl, parentName, parentUrl } = Astro.props;
+const items: any[] = [
+  { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://visiondetectionsystems.com/" }
+];
+if (parentName && parentUrl) {
+  items.push({ "@type": "ListItem", "position": 2, "name": parentName, "item": `https://visiondetectionsystems.com${parentUrl}` });
+  items.push({ "@type": "ListItem", "position": 3, "name": pageName, "item": pageUrl });
+} else {
+  items.push({ "@type": "ListItem", "position": 2, "name": pageName, "item": pageUrl });
+}
+const json = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": items
+};
+---
+<script type="application/ld+json" set:html={JSON.stringify(json)} />

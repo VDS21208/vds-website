@@ -1,0 +1,54 @@
+---
+import nav from '../../data/nav.json';
+import MegaMenu from './MegaMenu.astro';
+import MobileDrawer from './MobileDrawer.astro';
+const activeUrl = Astro.url.pathname;
+---
+<header class="sticky top-0 z-40 bg-navy text-white transition-all duration-200" data-sticky-nav>
+  <div class="relative">
+    <div class="container-main flex items-center justify-between py-3 border-b border-white/5">
+      <a href="/" class="flex items-center gap-2 group">
+        <span class="text-orange font-display font-medium tracking-wider text-lg">VDS</span>
+        <span class="hidden sm:inline text-sm text-white/85 font-medium">Vision Detection Systems</span>
+      </a>
+      <nav class="hidden lg:flex items-center gap-7" aria-label="Primary">
+        {nav.map(section => (
+          <button
+            type="button"
+            class={`text-sm font-medium transition-colors py-1 ${activeUrl.startsWith(section.url) ? 'text-orange border-b-2 border-orange' : 'text-white/85 hover:text-white'}`}
+            data-nav-trigger={section.label}
+            aria-haspopup="true"
+          >
+            {section.label}
+            <span class="ml-1 text-[0.625rem] opacity-70">▾</span>
+          </button>
+        ))}
+      </nav>
+      <div class="flex items-center gap-3">
+        <a href="tel:+14104011986" class="hidden md:flex items-center gap-1 text-xs text-white/85 hover:text-white">
+          <span class="opacity-70">📞</span>
+          <span>(410) 401-1986</span>
+        </a>
+        <a href="/request-a-quote" class="hidden sm:inline-flex bg-orange hover:bg-orange-dark text-white text-xs font-medium py-2 px-3 rounded-sm transition-colors">Request a quote</a>
+        <button type="button" class="lg:hidden p-2 text-white" aria-label="Open menu" data-mobile-toggle>
+          <span class="block w-5 h-0.5 bg-current mb-1"></span>
+          <span class="block w-5 h-0.5 bg-current mb-1"></span>
+          <span class="block w-5 h-0.5 bg-current"></span>
+        </button>
+      </div>
+    </div>
+    <MegaMenu />
+  </div>
+</header>
+<MobileDrawer />
+<script>
+  const nav = document.querySelector('[data-sticky-nav]') as HTMLElement;
+  const onScroll = () => {
+    if (window.scrollY > 40) {
+      nav?.classList.add('shadow-lg', 'backdrop-blur-sm', 'bg-navy/95');
+    } else {
+      nav?.classList.remove('shadow-lg', 'backdrop-blur-sm', 'bg-navy/95');
+    }
+  };
+  window.addEventListener('scroll', onScroll, { passive: true });
+</script>

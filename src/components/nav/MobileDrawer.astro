@@ -1,0 +1,83 @@
+---
+import nav from '../../data/nav.json';
+---
+<div class="fixed inset-0 bg-navy text-white z-50 transform translate-x-full transition-transform duration-300 ease-out-expo overflow-y-auto invisible lg:hidden" data-mobile-drawer aria-hidden="true">
+  <div class="container-main py-6">
+    <div class="flex items-center justify-between mb-8">
+      <span class="text-orange font-display text-lg">VDS</span>
+      <button type="button" class="text-3xl leading-none" aria-label="Close menu" data-mobile-close>×</button>
+    </div>
+    <a href="tel:+14104011986" class="block bg-orange text-white text-center font-medium py-3 px-4 rounded-sm mb-3">Call (410) 401-1986</a>
+    <a href="/request-a-quote" class="block border border-white/40 text-white text-center font-medium py-3 px-4 rounded-sm mb-6">Request a quote</a>
+    <nav aria-label="Mobile primary">
+      {nav.map(section => (
+        <details class="border-b border-white/10 py-3">
+          <summary class="flex items-center justify-between cursor-pointer text-base font-medium">
+            <span>{section.label}</span>
+            <span class="text-orange">+</span>
+          </summary>
+          <div class="pt-4 pb-2 space-y-3">
+            {section.featured.length > 0 && (
+              <div class="bg-navy-light border-l-2 border-orange rounded-sm p-3 mb-2">
+                <div class="eyebrow mb-1">Featured</div>
+                <div class="text-sm font-medium">{section.featured[0]?.label}</div>
+                <a href={section.featured[0]?.url} class="text-xs text-gold mt-1 inline-block">Learn more →</a>
+              </div>
+            )}
+            <div>
+              <div class="eyebrow mb-2">Primary</div>
+              <ul class="space-y-2">
+                {section.primary.map((item: any) => (
+                  <li><a href={item.url} class="text-sm text-white/90 block py-1">{item.label}</a></li>
+                ))}
+              </ul>
+            </div>
+            {section.supporting.length > 0 && (
+              <div>
+                <div class="eyebrow mb-2">Supporting</div>
+                <ul class="space-y-2">
+                  {section.supporting.map((item: any) => (
+                    <li><a href={item.url} class="text-sm text-white/75 block py-1">{item.label}</a></li>
+                  ))}
+                </ul>
+              </div>
+            )}
+            <div class="pt-2 space-y-2">
+              {section.cta.map((item: any) => (
+                <a
+                  href={item.url}
+                  class={item.type === 'cta-primary'
+                    ? 'block text-center bg-orange text-white text-sm font-medium py-2 px-3 rounded-sm'
+                    : 'block text-center border border-white/40 text-white text-sm py-2 px-3 rounded-sm'}
+                >{item.label}</a>
+              ))}
+            </div>
+          </div>
+        </details>
+      ))}
+    </nav>
+  </div>
+</div>
+<script>
+  const drawer = document.querySelector('[data-mobile-drawer]') as HTMLElement;
+  const toggle = document.querySelector('[data-mobile-toggle]');
+  const close = document.querySelector('[data-mobile-close]');
+  const openDrawer = () => {
+    if (!drawer) return;
+    drawer.classList.remove('translate-x-full', 'invisible');
+    drawer.setAttribute('aria-hidden', 'false');
+    document.body.style.overflow = 'hidden';
+  };
+  const closeDrawer = () => {
+    if (!drawer) return;
+    drawer.classList.add('translate-x-full');
+    drawer.setAttribute('aria-hidden', 'true');
+    document.body.style.overflow = '';
+    setTimeout(() => drawer.classList.add('invisible'), 300);
+  };
+  toggle?.addEventListener('click', openDrawer);
+  close?.addEventListener('click', closeDrawer);
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') closeDrawer();
+  });
+</script>

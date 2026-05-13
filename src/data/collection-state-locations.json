@@ -1,0 +1,1061 @@
+[
+  {
+    "url": "/locations/california",
+    "slug": "california",
+    "parent": "/locations",
+    "pageType": "Location Detail",
+    "status": "Expansion",
+    "seoTitle": "Mobile Surveillance California | ORC, Construction",
+    "metaDescription": "California mobile surveillance for ORC retail, construction, and cannabis. CCPA-aligned data retention. 7-10 day deployment across Bay Area, LA, San Diego",
+    "announcementBar": "",
+    "h1": "Mobile surveillance for California's loss problem",
+    "heroEyebrow": "California coverage",
+    "heroSubhead": "45+ active units across Bay Area ORC response, SoCal construction, and licensed cannabis cultivation. CCPA-aligned retention and access controls. NDAA 889 compliant.",
+    "heroCTAPrimary": {
+      "label": "Get a California quote",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "See ORC retail brief",
+      "url": "/request-a-quote"
+    },
+    "heroStats": [
+      "45+ CA units",
+      "7-10 day lead time",
+      "CCPA-aligned retention",
+      "NDAA 889 compliant"
+    ],
+    "body": "## Mobile surveillance in California\n\nCalifornia carries the country's most public organized retail crime problem and one of its strictest privacy regimes. Both are operational considerations for us, not slogans. We deploy with default 30-day rolling retention, customer-controlled access logs, and zero third-party data sharing. CCPA, CPRA, and AB 2273 considerations are documented in our standard California MSA.\n\nWe're active across the Bay Area, Los Angeles, San Diego, the Inland Empire, and Sacramento with 45+ units.\n\n## Industries we protect in California\n\n**Retail and ORC response.** Bay Area smash-and-grab incidents that hit national news in 2023 didn't stop in 2024. We deploy Swift Deploy and Sky Guard MSU around parking decks, distribution centers, and high-loss store locations for several national retail chains. SOC-monitored voice-down deterrent reduces 97% of false alarm escalation and gets PD on real incidents faster.\n\n**Construction.** LA County multifamily, Inland Empire industrial, Bay Area infrastructure. Material theft (copper, lumber, equipment) is the baseline driver, with after-hours encampment response on urban sites in SF and LA proper.\n\n**Licensed cannabis.** California's licensed cultivation and retail sector requires extensive video surveillance under CCR Title 16 and local jurisdiction rules. We deploy NDAA-compliant Boundary Guard Pro for cultivation perimeters and Swift Deploy for retail dispensary lots, with retention configured to license requirements (typically 90 days for cannabis, longer than our default).\n\n## Coverage and lead time\n\n- **Bay Area, LA County, Orange County, San Diego:** 7-10 business days\n- **Inland Empire, Sacramento, Central Valley:** 7-10 business days\n- **Far Northern California, Eastern Sierra:** 10-14 business days\n\nCalifornia inventory pre-stages in Ontario (Inland Empire) for SoCal and Stockton for NorCal coverage.\n\n## A California-area deployment\n\nA Bay Area-based developer running two podium-construction multifamily projects in Oakland and Hayward was losing roughly $11,000/month between copper, lumber, and tool theft, plus periodic encampment-related vandalism. Four Sky Guard MSUs deployed in 8 business days. Twelve-month coverage: 67 deterred entry attempts, four arrests via SOC-dispatched Oakland PD and Hayward PD, an 84% reduction in successful theft incidents. The developer extended the contract to a third Concord site.\n\n## California compliance and procurement\n\nCCPA and CPRA compliance is documented in our standard California MSA. Default video retention is 30 days rolling \u2014 customers can extend with documented business purpose, never via casual request. ALPR features, where deployed, comply with California Civil Code \u00a71798.90.5 retention and disclosure requirements.\n\nNDAA Section 889 compliant for federally-funded California work. We hold California state cooperative purchasing credentials and Sourcewell is widely accepted by California municipalities and special districts.",
+    "faq": [
+      {
+        "q": "How does VDS handle CCPA data subject requests?",
+        "a": "Customer controls access. If an individual identified in video footage submits a data subject request to you, we provide the technical assistance needed to locate, export, or delete the relevant footage. We don't field DSR requests independently."
+      },
+      {
+        "q": "Are your units compliant with California cannabis surveillance rules?",
+        "a": "Yes. We configure retention to local jurisdiction requirements (90 days is typical), provide license-holder access controls, and document chain of custody for any footage pulled."
+      },
+      {
+        "q": "Can you deploy ALPR in California?",
+        "a": "Yes, with the contractual framework that satisfies \u00a71798.90.5 \u2014 retention limits, access logs, no third-party sharing. We will not deploy ALPR without that framework executed."
+      },
+      {
+        "q": "Do you work with California state procurement?",
+        "a": "Yes. We hold California cooperative purchasing credentials and Sourcewell is accepted by most California cities, counties, and special districts."
+      }
+    ],
+    "finalCTAHeading": "California-grade privacy posture, US-staffed SOC",
+    "finalCTABody": "We won't argue the privacy framework with you. We documented it because customers asked. Get a California-specific quote with the MSA attached.",
+    "finalCTAButtons": [
+      {
+        "label": "Get a California quote",
+        "url": "Download CA MSA template"
+      }
+    ],
+    "schemaType": "LocalBusiness",
+    "internalLinks": "/compliance/ccpa, /industries/retail-orc, /industries/cannabis, /products/swift-deploy",
+    "notes": "Privacy framing is the credibility play in CA. Don't bury it.",
+    "canonical": "https://visiondetectionsystems.com/locations/california",
+    "ogTitle": "Mobile surveillance for California's loss problem",
+    "ogDescription": "California mobile surveillance for ORC retail, construction, and cannabis. CCPA-aligned data retention. 7-10 day deployment across Bay Area, LA, San Diego",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .hero-subhead, h2",
+    "tags": "service area, mobile surveillance near me",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/locations/florida",
+    "slug": "florida",
+    "parent": "/locations",
+    "pageType": "Location Detail",
+    "status": "Expansion",
+    "seoTitle": "Mobile Surveillance Florida | Construction, Hospitality",
+    "metaDescription": "Florida mobile surveillance for construction, hospitality, and event security. Hurricane-redeploy capable units. 5-7 day deployment across Miami, Orlando",
+    "announcementBar": "",
+    "h1": "Mobile surveillance for Florida construction, events, and storm response",
+    "heroEyebrow": "Florida coverage",
+    "heroSubhead": "50+ active units across South Florida construction, Orlando hospitality and event security, and Tampa-area logistics. Hurricane-redeploy capable \u2014 units secure or relocate inside the cone in 12-24 hours.",
+    "heroCTAPrimary": {
+      "label": "Get a Florida quote",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "See hurricane redeploy plan",
+      "url": "/request-a-quote"
+    },
+    "heroStats": [
+      "50+ FL units",
+      "5-7 day lead time",
+      "Hurricane redeploy capable",
+      "NDAA + Sourcewell"
+    ],
+    "body": "## Mobile surveillance in Florida\n\nFlorida is a deployment environment with two seasons: build season and storm season. Our units are rated for sustained 80mph winds and we have a documented hurricane response protocol \u2014 when a named storm enters the 5-day cone, the SOC works with you to either secure units on site (anchored tie-downs, deployment trailer secured) or relocate them inland to pre-staged yards.\n\nWe've executed this protocol four times since 2022. Zero unit losses.\n\n## Industries we protect in Florida\n\n**Construction.** South Florida multifamily, Orlando hospitality build-outs, Tampa industrial and logistics, Jacksonville port-adjacent industrial. We're active across all four metros with both Sky Guard MSU perimeter coverage and Swift Deploy interior asset protection.\n\n**Hospitality and events.** Orlando theme park adjacency, Miami event venues, large parking deployments around beach communities and special event venues. The use cases are vehicle theft, vandalism, and after-hours intrusion. Our event template handles short-duration high-density deployment without permanent infrastructure.\n\n**Marina, port, and logistics.** Jacksonville and Port Everglades container yards, fuel terminals, and the warehouses along I-4 and I-95. SOC-dispatched response is the differentiator \u2014 local PD response time on container yards is measured in tens of minutes; our voice-down deterrent is measured in seconds.\n\n## Coverage and lead time\n\n- **Miami-Dade, Broward, Palm Beach:** 5-7 business days\n- **Orlando, Tampa, Jacksonville:** 5-7 business days\n- **Tallahassee, Panhandle, Keys:** 7-10 business days\n\nFlorida inventory pre-stages in Orlando. Hurricane-season secondary cache in Atlanta for redeploy support.\n\n## A Florida-area deployment\n\nA South Florida multifamily developer with three concurrent garden-style projects in Broward and Palm Beach counties asked us to cover all three after a string of HVAC condenser thefts ($14,000-$22,000 per incident). Five Sky Guard MSUs and two Swift Deploys went out in 6 business days. Nine months: 31 deterred entries, one arrest, zero successful condenser thefts after week two. Insurance carrier reduced project premium by 8% the following policy year on documented loss reduction.\n\n## Florida compliance and procurement\n\nFlorida has no statewide ALPR restriction affecting our typical deployments. We're active on Sourcewell and on the Florida State Term Contracts where applicable. For Disney-, Universal-, and theme-park-adjacent deployments, we navigate FAA airspace concerns for any tower-elevated camera mast (our Sky Guard MSU at 22 feet sits below most thresholds, but documentation is on file).\n\nHurricane response protocol is part of every Florida contract. Redeploy fees are pre-negotiated, not invented in the moment.",
+    "faq": [
+      {
+        "q": "What happens to my unit when a hurricane is forecast?",
+        "a": "SOC contacts you 96 hours pre-landfall. We either secure on site with documented tie-down protocol or redeploy inland to pre-staged yards in Orlando or Atlanta. Cost is pre-quoted in your contract."
+      },
+      {
+        "q": "Can you cover special events in Orlando or Miami?",
+        "a": "Yes. We have an event template that handles 3-30 day deployments with installation in 24 hours of arrival. Used for music festivals, sporting events, and convention parking."
+      },
+      {
+        "q": "Do you work with Florida HOAs and property management companies?",
+        "a": "Yes. Boundary Guard Pro is common for HOA common areas, pool deck monitoring, and parking lot coverage. Monthly rate, no installation capex."
+      },
+      {
+        "q": "How do your units handle Florida humidity?",
+        "a": "Enclosures are IP66-rated. We've run units continuously in South Florida since 2019 with no humidity-related failures."
+      }
+    ],
+    "finalCTAHeading": "Build season and storm season, one provider",
+    "finalCTABody": "We've executed four hurricane redeploys without losing a unit. Tell us the site and we'll quote coverage that survives both seasons.",
+    "finalCTAButtons": [
+      {
+        "label": "Get a Florida quote",
+        "url": "Download hurricane redeploy plan"
+      }
+    ],
+    "schemaType": "LocalBusiness",
+    "internalLinks": "/industries/construction, /industries/hospitality, /resources/hurricane-protocol, /products/sky-guard-msu",
+    "notes": "Hurricane redeploy is a strong differentiator. Lead with it for any storm-adjacent prospect.",
+    "canonical": "https://visiondetectionsystems.com/locations/florida",
+    "ogTitle": "Mobile surveillance for Florida construction, events, and storm response",
+    "ogDescription": "Florida mobile surveillance for construction, hospitality, and event security. Hurricane-redeploy capable units. 5-7 day deployment across Miami, Orlando",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .hero-subhead, h2",
+    "tags": "service area, mobile surveillance near me",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/locations/georgia",
+    "slug": "georgia",
+    "parent": "/locations",
+    "pageType": "Location Detail",
+    "status": "Expansion",
+    "seoTitle": "Mobile Surveillance Georgia | Atlanta Construction",
+    "metaDescription": "Mobile surveillance for Atlanta metro construction, Port of Savannah logistics, Georgia Power infrastructure, and film production",
+    "announcementBar": "",
+    "h1": "Mobile surveillance for Georgia construction, port logistics, and production",
+    "heroEyebrow": "Georgia coverage",
+    "heroSubhead": "30+ active units across Atlanta metro construction, Port of Savannah container yards, Georgia Power substations, and active film and event production. 5-7 day deployment.",
+    "heroCTAPrimary": {
+      "label": "Get a Georgia quote",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "See port logistics brief",
+      "url": "/request-a-quote"
+    },
+    "heroStats": [
+      "30+ GA units",
+      "5-7 day lead time",
+      "NDAA 889 compliant",
+      "Sourcewell + state cooperative"
+    ],
+    "body": "## Mobile surveillance in Georgia\n\nGeorgia is a four-vertical state for us: Atlanta-metro construction, Port of Savannah logistics, Georgia Power utility infrastructure, and the active film production sector around Atlanta and Savannah. Each has distinct deployment patterns. We staff one regional lead who knows all four.\n\nWe pre-stage inventory near Atlanta for statewide same-week coverage and maintain a secondary cache in Savannah for port and coastal work.\n\n## Industries we protect in Georgia\n\n**Construction.** Atlanta multifamily, BeltLine-adjacent commercial, north metro industrial, and the rapid growth around Hartsfield-Jackson logistics. Standard Sky Guard MSU perimeter with Swift Deploy interior coverage for high-value materials and equipment lay-down.\n\n**Port of Savannah and logistics.** GPA-adjacent container yards, third-party warehousing, and the I-16 logistics corridor between Savannah and Atlanta. Cargo theft is the steady-state driver; SOC-dispatched response into the Savannah Port complex and Chatham County is documented and routine.\n\n**Film, event, and Georgia Power.** Production lots and on-location shoots across metro Atlanta and the Savannah coast \u2014 short-duration, high-density deployments with our event template. Georgia Power substations and transmission projects under utility-sector standard deployment patterns.\n\n## Coverage and lead time\n\n- **Atlanta metro, Savannah:** 5-7 business days\n- **Columbus, Augusta, Macon:** 5-7 business days\n- **Far South Georgia, mountain region:** 7-10 business days\n\nAtlanta pre-stage covers most of the state in 48 hours from yard release.\n\n## A Georgia-area deployment\n\nA Savannah-based logistics operator running a 60-acre container yard adjacent to GPA was losing roughly $12,000/month to cargo and equipment theft across approximately 14 active incidents. Four Sky Guard MSUs deployed in 6 business days. Nine-month coverage: 41 deterred entries, three arrests via SOC-dispatched Chatham County and Savannah PD, an 87% reduction in successful theft incidents. Customer extended to a second Pooler-area yard.\n\n## Georgia compliance and procurement\n\nGeorgia has no statewide ALPR restriction affecting our deployments. We hold Sourcewell and the Georgia Statewide Contract for relevant security categories. NDAA Section 889 compliant for federally-funded work, including TSA and federal port-adjacent deployments.\n\nFor film and event production, we coordinate with the Georgia Film Office and individual studio security teams on access protocols and footage handling.",
+    "faq": [
+      {
+        "q": "Can you cover Port of Savannah-adjacent yards?",
+        "a": "Yes. Multiple active deployments in the GPA-adjacent and Pooler logistics corridor."
+      },
+      {
+        "q": "Do you work with Georgia film productions?",
+        "a": "Yes. Short-duration, high-density deployments with 24-hour install on arrival. Used for production lots, set perimeters, and equipment yards."
+      },
+      {
+        "q": "Are you on the Georgia Statewide Contract?",
+        "a": "Yes, for the security categories we fall under. We'll confirm the specific line item pre-quote."
+      },
+      {
+        "q": "How does Georgia Power vendor approval work?",
+        "a": "We hold the standard insurance, bonding, and safety qualifications. Specific project assignments go through their procurement process \u2014 we'll provide the documentation packet on request."
+      }
+    ],
+    "finalCTAHeading": "Atlanta to Savannah, construction to port to production",
+    "finalCTABody": "Four verticals, one regional lead, one quote. Tell us the site and we'll come back with unit count, lead time, and procurement path.",
+    "finalCTAButtons": [
+      {
+        "label": "Get a Georgia quote",
+        "url": "See port logistics case study"
+      }
+    ],
+    "schemaType": "LocalBusiness",
+    "internalLinks": "/industries/logistics, /industries/construction, /industries/film-production, /products/sky-guard-msu",
+    "notes": "Port of Savannah is the strongest SEO hook. Film production is a softer secondary play.",
+    "canonical": "https://visiondetectionsystems.com/locations/georgia",
+    "ogTitle": "Mobile surveillance for Georgia construction, port logistics, and production",
+    "ogDescription": "Mobile surveillance for Atlanta metro construction, Port of Savannah logistics, Georgia Power infrastructure, and film production",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .hero-subhead, h2",
+    "tags": "service area, mobile surveillance near me",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/locations/illinois",
+    "slug": "illinois",
+    "parent": "/locations",
+    "pageType": "Location Detail",
+    "status": "Expansion",
+    "seoTitle": "Mobile Surveillance Illinois | Chicago ORC, Construction",
+    "metaDescription": "Mobile surveillance for Chicago metro ORC response, construction, transit-adjacent projects, and ComEd infrastructure. 5-7 day deployment across Illinois.",
+    "announcementBar": "",
+    "h1": "Mobile surveillance for Chicago retail loss and construction",
+    "heroEyebrow": "Illinois coverage",
+    "heroSubhead": "25+ active units across Chicago metro retail ORC response, north and west suburban construction, ComEd substations, and CTA-adjacent infrastructure projects. 5-7 day deployment.",
+    "heroCTAPrimary": {
+      "label": "Get an Illinois quote",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "See ORC retail brief",
+      "url": "/request-a-quote"
+    },
+    "heroStats": [
+      "25+ IL units",
+      "5-7 day lead time",
+      "NDAA 889 compliant",
+      "Sourcewell + Omnia Partners"
+    ],
+    "body": "## Mobile surveillance in Illinois\n\nIllinois has one of the country's most-publicized organized retail crime environments and an active commercial and infrastructure construction pipeline. Both drive our Chicago metro deployments. ComEd substation work and CTA-adjacent infrastructure projects add a utility and transit layer.\n\nWe pre-stage inventory near Chicago O'Hare for metro coverage and use Indianapolis secondary inventory for far-southern Illinois work.\n\n## Industries we protect in Illinois\n\n**Retail and ORC response.** National retailers operating in Chicago metro asked us to deploy around distribution centers, high-loss store parking lots, and last-mile delivery hubs. SOC-monitored voice-down deterrent moves PD response priority on real incidents.\n\n**Construction.** North and west suburban multifamily, downtown commercial, and industrial builds along I-80/I-88. Standard perimeter deployments with copper and equipment theft as the steady-state driver.\n\n**Utilities and transit.** ComEd substations and transmission work, plus CTA-adjacent infrastructure projects where the construction zone needs after-hours monitoring. NDAA 889 compliance matters here for federally-funded transit work.\n\n## Coverage and lead time\n\n- **Chicago metro, north and west suburbs:** 5-7 business days\n- **Rockford, Peoria, Champaign-Urbana:** 5-7 business days\n- **Southern Illinois (Carbondale, Cairo):** 7-10 business days\n\nO'Hare pre-stage covers most of the metro in 24 hours from yard release.\n\n## An Illinois-area deployment\n\nA national retailer's Chicago metro distribution center was logging an average of nine after-hours intrusion attempts per month, with three escalating to successful entry and goods loss. Two Sky Guard MSUs and one Boundary Guard Pro fixed deployment went in over 6 business days. Eight-month coverage: 71 deterred entries (SOC voice-down triggered), four arrests via SOC-dispatched Cook County Sheriff, zero successful intrusions after week three. Retailer extended to two additional Midwest DCs.\n\n## Illinois compliance and procurement\n\nIllinois has specific privacy considerations for ALPR and biometric data under BIPA (Biometric Information Privacy Act). Our standard deployments do not use facial recognition or biometric identification \u2014 analytics are object and behavior based. We document this in the Illinois MSA.\n\nWe hold Sourcewell and Omnia Partners cooperative contracts, both widely accepted by Illinois counties, municipalities, and school systems. NDAA Section 889 compliant for federally-funded work, including CTA federal funding.",
+    "faq": [
+      {
+        "q": "Does VDS use facial recognition in Illinois?",
+        "a": "No. Our analytics are object and behavior based, not biometric. We document this in the Illinois MSA to address BIPA considerations directly."
+      },
+      {
+        "q": "Can you support ORC response for national retailers operating in Chicago?",
+        "a": "Yes. Multiple active deployments at Chicago metro DCs, high-loss stores, and last-mile hubs."
+      },
+      {
+        "q": "Do you work with ComEd?",
+        "a": "Yes, on substation construction-phase and storm response work. We hold the standard insurance and qualifications."
+      },
+      {
+        "q": "Is Omnia Partners accepted by Illinois local governments?",
+        "a": "Yes, broadly. Sourcewell is also accepted by most counties, municipalities, and school districts."
+      }
+    ],
+    "finalCTAHeading": "Chicago retail loss to ComEd substation, one provider",
+    "finalCTABody": "BIPA-aware deployment, US-staffed SOC, 5-7 day lead time. Tell us the site and we'll quote unit count, monthly cost, and procurement path.",
+    "finalCTAButtons": [
+      {
+        "label": "Get an Illinois quote",
+        "url": "See ORC retail brief"
+      }
+    ],
+    "schemaType": "LocalBusiness",
+    "internalLinks": "/industries/retail-orc, /compliance/bipa, /procurement/omnia-sourcewell, /products/swift-deploy",
+    "notes": "BIPA framing is critical for IL credibility. Don't soft-pedal.",
+    "canonical": "https://visiondetectionsystems.com/locations/illinois",
+    "ogTitle": "Mobile surveillance for Chicago retail loss and construction",
+    "ogDescription": "Mobile surveillance for Chicago metro ORC response, construction, transit-adjacent projects, and ComEd infrastructure. 5-7 day deployment across Illinois.",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .hero-subhead, h2",
+    "tags": "service area, mobile surveillance near me",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/locations/maryland",
+    "slug": "maryland",
+    "parent": "/locations",
+    "pageType": "Location Detail",
+    "status": "Expansion",
+    "seoTitle": "Mobile Surveillance Trailer Rental Maryland | VDS HQ",
+    "metaDescription": "VDS is headquartered in Pikesville, MD. Same-day to 48-hour deployment across Baltimore, DC corridor, and Eastern Shore. Construction, utilities",
+    "announcementBar": "",
+    "h1": "Mobile surveillance in Maryland, from our home state",
+    "heroEyebrow": "Maryland coverage",
+    "heroSubhead": "We build every unit in Pikesville. Same-day to 48-hour deployment anywhere in Maryland, DC, and Northern Virginia. 180+ active units in the state.",
+    "heroCTAPrimary": {
+      "label": "Schedule a same-week deployment",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "Visit our Pikesville facility",
+      "url": "/request-a-quote"
+    },
+    "heroStats": [
+      "180+ MD units",
+      "Same-day to 48hr lead time",
+      "Pikesville HQ since 2017",
+      "MD MBE-eligible primes"
+    ],
+    "body": "## Mobile surveillance in Maryland\n\nVision Detection Systems was founded in Pikesville in 2017 and we've never moved. Every Sky Guard MSU, Swift Deploy, and Boundary Guard Pro unit in our 500+ fleet was assembled here. That makes Maryland our fastest deployment state by a wide margin \u2014 same-day delivery is routine inside the Baltimore-DC corridor, and 48 hours covers everything from Cumberland to Ocean City.\n\nThe Mid-Atlantic GC case study on our homepage ($340,800 saved in 12 months, 73% theft reduction) was a Maryland deployment. We can introduce you to the project superintendent if you want to talk to them directly.\n\n## Industries we protect in Maryland\n\n**Construction.** The Baltimore-DC corridor runs hot \u2014 Port Covington redevelopment, Howard County data centers, Frederick warehouse builds. We have 90+ units active on Maryland construction sites today, ranging from single-tower jobsites to 12-unit perimeters around 200-acre lay-down yards.\n\n**Utilities.** BGE substations, Pepco service yards, and water treatment facilities across the state. Our Boundary Guard Pro fixed-mount cameras handle critical infrastructure where solar-autonomous trailers don't fit the threat model.\n\n**Port of Baltimore and logistics.** Container yards, intermodal facilities, and the warehouses along I-95 between Baltimore and Aberdeen. Cargo theft is a measurable problem and SOC-monitored escalation reduces it.\n\n## Coverage and lead time\n\n- **Baltimore metro, DC, and Northern Virginia:** same-day to 48 hours\n- **Frederick, Hagerstown, Eastern Shore:** 24-72 hours\n- **Western Maryland (Cumberland, Garrett County):** 48-96 hours\n\nPre-staged inventory at the Pikesville facility. Tech support and SOC are both in-state.\n\n## A Maryland-area deployment\n\nA Bethesda-based general contractor running a $180M mixed-use build in Howard County asked us to cover an 11-acre site with active copper theft hits running roughly $9,000 per incident. We deployed three Sky Guard MSUs in 48 hours from contract signature. Twelve months of monitored coverage: 47 deterred entry attempts, two arrests via SOC-dispatched local PD, zero successful theft incidents after week three. Total spend $79,200 versus an extrapolated loss exposure north of $200,000.\n\n## Maryland compliance and procurement\n\nWe're an MD-registered business, MBE-eligible prime on several active state contracts, and we hold the cooperative purchasing vehicles most MD counties and municipalities use. NDAA Section 889 compliant for any federally-funded work \u2014 relevant for FEMA, DOT, and DoD-adjacent projects.\n\nMaryland has no statewide ALPR restriction that affects our typical deployments, but Baltimore City has specific camera-placement rules near schools and parks that we navigate routinely.",
+    "faq": [
+      {
+        "q": "Can I visit your Pikesville facility before signing?",
+        "a": "Yes. We host site walks Tuesday and Thursday afternoons. You can inspect a fully built Sky Guard MSU, meet the SOC team, and see assembly in progress."
+      },
+      {
+        "q": "Do you work with Maryland state and county procurement?",
+        "a": "Yes. Active on MD state cooperative contracts and registered for procurement with Baltimore City, Baltimore County, Howard, Montgomery, Anne Arundel, and Frederick counties."
+      },
+      {
+        "q": "What's your fastest documented Maryland deployment?",
+        "a": "Four hours from purchase order to unit on site, for a utility emergency response in Anne Arundel County in 2024."
+      },
+      {
+        "q": "Do you cover DC and Northern Virginia under Maryland lead times?",
+        "a": "Yes. Anything inside the Beltway gets Maryland-tier response. NoVA out to Manassas is 24-hour standard."
+      }
+    ],
+    "finalCTAHeading": "Maryland deployments ship from a yard 20 minutes from your jobsite",
+    "finalCTABody": "Same-day delivery is routine. Tell us where the site is and we'll quote a unit count, lead time, and monthly rate in one call.",
+    "finalCTAButtons": [
+      {
+        "label": "Schedule a Maryland deployment",
+        "url": "Visit Pikesville HQ"
+      }
+    ],
+    "schemaType": "LocalBusiness",
+    "internalLinks": "/case-studies/mid-atlantic-gc, /products/sky-guard-msu, /industries/construction, /soc",
+    "notes": "This is the flagship state page. Lean into \"home state\" framing. Form should route to MD regional lead.",
+    "canonical": "https://visiondetectionsystems.com/locations/maryland",
+    "ogTitle": "Mobile surveillance in Maryland, from our home state",
+    "ogDescription": "VDS is headquartered in Pikesville, MD. Same-day to 48-hour deployment across Baltimore, DC corridor, and Eastern Shore. Construction, utilities",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .hero-subhead, h2",
+    "tags": "service area, mobile surveillance near me",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/locations/mobile-surveillance-trailers",
+    "slug": "mobile-surveillance-trailers",
+    "parent": "/locations/mobile-surveillance-trailers",
+    "pageType": "City Locations Hub",
+    "status": "Expansion",
+    "seoTitle": "Mobile Surveillance Trailers Near Me | VDS City Coverage",
+    "metaDescription": "Find mobile surveillance trailer rentals in your city. VDS operates in 30+ states with 500+ deployments and 24/7 US-based SOC monitoring.",
+    "announcementBar": "",
+    "h1": "Mobile surveillance trailers, city by city",
+    "heroEyebrow": "City coverage",
+    "heroSubhead": "500+ active deployments across 30+ states. Find lead times, local compliance notes, and named-customer deployments for your metro.",
+    "heroCTAPrimary": {
+      "label": "Find my city",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "Talk to a deployment engineer",
+      "url": "/request-a-quote"
+    },
+    "heroStats": [
+      "9 metros profiled",
+      "30+ states served",
+      "<60s SOC escalation",
+      "NDAA Section 889 compliant"
+    ],
+    "body": "## Mobile surveillance trailers near me\n\nVDS is headquartered in Pikesville, MD, and dispatches solar-autonomous mobile surveillance units (MSUs) across 30+ states from regional staging hubs. We've published city-specific pages for the nine metros where we run the most active deployments, with lead times measured from our nearest hub, local compliance notes, and the industries we cover most often in each market.\n\nIf you don't see your city listed, check the state-level page \u2014 we serve every state from Maine to California \u2014 or request a quote and we'll quote a lead time from the closest hub.\n\n## What changes city to city\n\nThree things vary by metro and matter when you're choosing a vendor:\n\n**Lead time.** Same-day in Baltimore. Next-day in Philadelphia, DC, and Richmond. 2\u20134 days for most other listed metros depending on unit availability and staging hub.\n\n**Local compliance.** New York POST Act, Illinois BIPA, California CCPA + SB 1186, DC federal procurement rules, and city-specific permit requirements all shape how a deployment is configured. We default to the strictest applicable rule and document it in writing.\n\n**Industry mix.** Construction is the largest category in every city. Beyond that, the mix shifts: ports in Baltimore, LA, and Miami. Federal in DC. Refineries in Philadelphia. Film and event production in LA. Logistics in Chicago and Dallas. Retail and hospitality in NYC and Miami.\n\n## Cities we cover\n\n- **Baltimore, MD** \u2014 Home market. Same-day deployment. Pikesville HQ 15 minutes from downtown.\n- **New York, NY** \u2014 Five boroughs, Long Island, Westchester. POST Act compliant.\n- **Washington, DC** \u2014 Federal market. GSA Schedule active. NDAA Section 889 mandatory.\n- **Philadelphia, PA** \u2014 Center City, Navy Yard, refineries, university campuses. PA COSTARS.\n- **Richmond, VA** \u2014 State capitol corridor, Port of Virginia adjacent, VCU.\n- **Miami, FL** \u2014 Brickell high-rise boom, PortMiami, hospitality, hurricane-season redeployment.\n- **Dallas, TX** \u2014 DFW construction, Plano data center corridor, auto dealer clusters.\n- **Los Angeles, CA** \u2014 Ports of LA/Long Beach, film production, cannabis, CCPA framing.\n- **Chicago, IL** \u2014 Mag Mile retail, CTA/Metra transit, inland rail logistics, BIPA framing.\n\n## What every city page tells you\n\n- Hero stat (crime rate, construction starts, port volume, etc.)\n- Top three to five industries we protect locally\n- Coverage zone and lead time from nearest VDS hub\n- An anonymized local deployment example\n- City or state compliance note (POST Act, BIPA, CCPA, NDAA, etc.)\n- City-specific FAQ\n- A lead form pre-filtered for your metro",
+    "faq": [
+      {
+        "q": "Do you serve cities not listed here?",
+        "a": "Yes. We've deployed in 30+ states and quote lead time from the nearest staging hub. Listed cities are where we run the most consistent deployment volume and where we publish lead times publicly."
+      },
+      {
+        "q": "What's the fastest you can deploy?",
+        "a": "Same-day in Baltimore. Next-day in DC, Philadelphia, and Richmond. 2\u20134 days for most other listed metros. Faster on existing customer redeployments."
+      },
+      {
+        "q": "Do you bill per city or per unit?",
+        "a": "Per unit, per month. Sky Guard MSU $2,200/mo, Swift Deploy $1,500/mo, Boundary Guard Pro $1,800/mo. Lead time and travel are included."
+      },
+      {
+        "q": "Can I see units in another customer's deployment before signing?",
+        "a": "Yes. We arrange site walks at active customer deployments in most listed metros. Ask your deployment engineer."
+      }
+    ],
+    "finalCTAHeading": "Find a unit in your city",
+    "finalCTABody": "Pick your metro or request a quote and we'll route you to the nearest deployment engineer.",
+    "finalCTAButtons": [
+      {
+        "label": "Find my city",
+        "url": "Request a quote"
+      }
+    ],
+    "schemaType": "LocalBusiness",
+    "internalLinks": "/locations/mobile-surveillance-trailers/baltimore, /locations/mobile-surveillance-trailers/new-york, /locations/mobile-surveillance-trailers/washington-dc, /locations/mobile-surveillance-trailers/philadelphia, /locations/mobile-surveillance-trailers/richmond, /locations/mobile-surveillance-trailers/miami, /locations/mobile-surveillance-trailers/dallas, /locations/mobile-surveillance-trailers/los-angeles, /locations/mobile-surveillance-trailers/chicago, /products/sky-guard-msu, /products/swift-deploy, /products/boundary-guard-pro",
+    "notes": "City hub. Word count ~420. Each city link should resolve to its detail page.",
+    "canonical": "https://visiondetectionsystems.com/locations/mobile-surveillance-trailers",
+    "ogTitle": "Mobile surveillance trailers, city by city",
+    "ogDescription": "Find mobile surveillance trailer rentals in your city. VDS operates in 30+ states with 500+ deployments and 24/7 US-based SOC monitoring.",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .hero-subhead, h2",
+    "tags": "mobile surveillance trailer, MSU, service area, mobile surveillance near me",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/locations/new-jersey",
+    "slug": "new-jersey",
+    "parent": "/locations",
+    "pageType": "Location Detail",
+    "status": "Expansion",
+    "seoTitle": "Mobile Surveillance New Jersey | Port Newark, Cargo Theft",
+    "metaDescription": "Mobile surveillance for Port Newark logistics, NJ cargo theft response, construction, and PSEG infrastructure. 24-72 hour deployment from Pikesville HQ.",
+    "announcementBar": "",
+    "h1": "Mobile surveillance for New Jersey's cargo theft problem",
+    "heroEyebrow": "New Jersey coverage",
+    "heroSubhead": "40+ active units across Port Newark-Elizabeth container yards, NJ logistics warehouses, north Jersey construction, and PSEG infrastructure. 24-72 hour deployment from Pikesville.",
+    "heroCTAPrimary": {
+      "label": "Get a New Jersey quote",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "See cargo theft brief",
+      "url": "/request-a-quote"
+    },
+    "heroStats": [
+      "40+ NJ units",
+      "24-72hr lead time",
+      "Cargo theft specialty",
+      "NDAA + Sourcewell"
+    ],
+    "body": "## Mobile surveillance in New Jersey\n\nNew Jersey is consistently among the top three US states for cargo theft by incident count. Port Newark-Elizabeth is the largest container port on the East Coast and the surrounding warehouse and trucking ecosystem operates 24/7. We have 40+ active units in NJ, concentrated around the port, the Meadowlands, and the I-78 and I-95 logistics corridors.\n\nPikesville is 180 miles from Newark. Same-week deployment is standard, 24-48 hours for fleet redeploy.\n\n## Industries we protect in New Jersey\n\n**Port and cargo logistics.** Port Newark-Elizabeth-adjacent yards, container drayage operations, and the warehouse cluster along I-78 between Newark and Allentown. Cargo theft is the primary driver \u2014 both organized crews and opportunistic incidents. SOC-dispatched response into the Port Authority and Newark PD is documented.\n\n**Construction.** North Jersey commercial and multifamily, Hudson County waterfront redevelopment, and the active industrial construction along I-287. Copper, equipment, and tool theft are the steady-state drivers.\n\n**Utilities.** PSEG substations and transmission projects across the state. We hold the standard vendor qualifications and have multiple active deployments on PSEG-adjacent work.\n\n## Coverage and lead time\n\n- **North Jersey (Newark, Jersey City, Bergen, Hudson, Essex):** 24-48 hours\n- **Central Jersey (Trenton, New Brunswick, Princeton corridor):** 24-72 hours\n- **South Jersey (Camden, Atlantic City, Cape May):** 48-96 hours\n\nPikesville inventory covers all of NJ in same-week. Limited pre-stage in Carteret for emergency port response.\n\n## A New Jersey-area deployment\n\nA drayage operator running a 22-acre container staging yard adjacent to Port Newark was losing roughly $24,000/month to cargo theft across an average of 11 incidents \u2014 primarily after-hours entries cutting trailer seals and pulling specific high-value containers. Three Sky Guard MSUs and one Boundary Guard Pro fixed deployment went in over 4 business days (NJ priority lane). Seven-month coverage: 53 deterred entries, five arrests via SOC-dispatched Port Authority PD, an 89% reduction in successful theft incidents. Customer extended to a Newark-area sister yard.\n\n## New Jersey compliance and procurement\n\nNew Jersey has specific data retention considerations for surveillance footage near port and federally-regulated facilities. We document chain of custody, retention windows, and access controls in the NJ MSA. NDAA Section 889 compliant for federally-funded port and infrastructure work \u2014 relevant for TSA, Coast Guard, and Port Authority projects.\n\nWe hold Sourcewell and the NJ State Contract for relevant security categories.",
+    "faq": [
+      {
+        "q": "How fast can you respond to a Port Newark-area cargo theft event?",
+        "a": "New unit on site in 4-7 business days. Redeploy from existing NJ fleet inventory in 24-48 hours."
+      },
+      {
+        "q": "Do you coordinate with Port Authority PD?",
+        "a": "Yes. Multiple active SOC-dispatch relationships with PA PD and Newark PD for port-adjacent deployments."
+      },
+      {
+        "q": "Can you cover NJ Turnpike and Parkway service area construction?",
+        "a": "Yes. NJTA-adjacent work runs under standard NDAA-compliant deployment patterns."
+      },
+      {
+        "q": "Is the NJ State Contract a valid procurement path?",
+        "a": "Yes, for state agencies and many local governments. Sourcewell is also accepted by most NJ counties and school districts."
+      }
+    ],
+    "finalCTAHeading": "Port Newark to PSEG, US-staffed SOC, 24-72 hour deployment",
+    "finalCTABody": "Cargo theft is measurable. We've reduced it by 87-89% in three published NJ deployments. Tell us the yard and we'll quote.",
+    "finalCTAButtons": [
+      {
+        "label": "Get an NJ quote",
+        "url": "See cargo theft brief"
+      }
+    ],
+    "schemaType": "LocalBusiness",
+    "internalLinks": "/industries/cargo-logistics, /industries/utilities, /procurement/sourcewell, /products/sky-guard-msu",
+    "notes": "Cargo theft is the strongest hook. Lead with it.",
+    "canonical": "https://visiondetectionsystems.com/locations/new-jersey",
+    "ogTitle": "Mobile surveillance for New Jersey's cargo theft problem",
+    "ogDescription": "Mobile surveillance for Port Newark logistics, NJ cargo theft response, construction, and PSEG infrastructure. 24-72 hour deployment from Pikesville HQ.",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .hero-subhead, h2",
+    "tags": "service area, mobile surveillance near me",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/locations/new-york",
+    "slug": "new-york",
+    "parent": "/locations",
+    "pageType": "Location Detail",
+    "status": "Expansion",
+    "seoTitle": "Mobile Surveillance New York | NYC Construction, ConEd",
+    "metaDescription": "Mobile surveillance for NYC metro construction, ConEd substations, NYS DOT infrastructure, and parking enforcement. Privacy-aware deployment",
+    "announcementBar": "",
+    "h1": "Mobile surveillance for New York construction and infrastructure",
+    "heroEyebrow": "New York coverage",
+    "heroSubhead": "30+ active units across NYC metro construction, NYS DOT infrastructure projects, ConEd substations, and Long Island and upstate municipal work. Privacy-aware deployment patterns.",
+    "heroCTAPrimary": {
+      "label": "Get a New York quote",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "See privacy framework",
+      "url": "/request-a-quote"
+    },
+    "heroStats": [
+      "30+ NY units",
+      "48-96hr lead time",
+      "Privacy-aware deployment",
+      "NDAA + state contract"
+    ],
+    "body": "## Mobile surveillance in New York\n\nNew York is one of the country's most privacy-attentive deployment environments and our standard deployment pattern is built for it. We don't run traditional ALPR in NYC absent specific contractual authorization, we don't deploy facial recognition, and our analytics are object and behavior based.\n\nWe have 30+ active units in NY, concentrated in NYC metro construction, NYS DOT projects, and ConEd substation work. Pikesville is 200 miles from Manhattan. NYC metro deployments land in 48-72 hours, upstate 72-96.\n\n## Industries we protect in New York\n\n**Construction.** NYC five-borough commercial and infrastructure work, Long Island multifamily, Westchester and Rockland county industrial. Standard Sky Guard MSU perimeter deployments with copper and tool theft as the steady-state driver. Manhattan jobsites use Swift Deploy more often than Sky Guard MSU due to footprint constraints.\n\n**State DOT and utilities.** NYS DOT bridge, highway, and tunnel projects under federal-aid funding (NDAA 889 compliance required). ConEd substations across NYC and Westchester. Both run under our standard utility and infrastructure deployment patterns.\n\n**Parking and municipal.** Long Island and upstate municipal parking enforcement and downtown camera programs. Boundary Guard Pro fixed-mount on existing infrastructure or our own poles. We don't deploy ALPR features without the customer's specific written authorization and a documented retention framework.\n\n## Coverage and lead time\n\n- **NYC metro, Long Island, Westchester:** 48-72 hours\n- **Hudson Valley, Albany, Capital Region:** 72-96 hours\n- **Syracuse, Rochester, Buffalo:** 72-96 hours\n- **North Country, Adirondacks:** 96 hours-7 days\n\nPikesville inventory covers all of NY in same-week. Limited pre-stage near Newark covers NYC metro priority response.\n\n## A New York-area deployment\n\nA general contractor on a four-block infrastructure replacement project for NYC DDC in Brooklyn was losing roughly $6,000/month to copper, tool, and equipment theft across an active 18-month build window. Two Sky Guard MSUs and three Swift Deploys deployed over 8 business days (Manhattan-adjacent traffic permits added time). Eleven-month coverage: 44 deterred entries, two arrests via SOC-dispatched NYPD, an 81% reduction in successful theft incidents. GC carried the deployment template to a Queens DEP project.\n\n## New York compliance and procurement\n\nNYC has specific surveillance disclosure and retention rules under the POST Act for NYPD-deployed surveillance technology. Private deployments on private property operate under different rules, and we document the relevant framework in the NY MSA. NYS DOT federally-funded projects require NDAA 889 compliance, which we hold across our product line.\n\nWe're a registered vendor on NYS OGS Centralized Contracts for relevant security categories. Sourcewell is broadly accepted by NY counties, municipalities, and school districts outside NYC.",
+    "faq": [
+      {
+        "q": "Does VDS deploy ALPR in New York?",
+        "a": "Only with specific written customer authorization, a documented retention framework (default 30 days), and access controls in writing. We will not deploy ALPR on speculation."
+      },
+      {
+        "q": "Does VDS use facial recognition?",
+        "a": "No. Our analytics are object and behavior based. We do not deploy facial recognition in any product or jurisdiction."
+      },
+      {
+        "q": "Can you work with NYC DDC, DEP, or DOT general contractors?",
+        "a": "Yes. Multiple active deployments. We hold the certificates of insurance and bonding required for NYC public-works-adjacent work."
+      },
+      {
+        "q": "Is NYS OGS Centralized Contract the right procurement path for state agencies?",
+        "a": "Yes, for the security categories we fall under. Sourcewell is the alternative for many local governments."
+      }
+    ],
+    "finalCTAHeading": "Privacy-aware deployment, NYC-grade insurance, US-staffed SOC",
+    "finalCTABody": "We won't argue the privacy framework with you. Tell us the site and we'll quote unit count, lead time, monthly cost, and the correct NY procurement path.",
+    "finalCTAButtons": [
+      {
+        "label": "Get a New York quote",
+        "url": "Download NY privacy framework"
+      }
+    ],
+    "schemaType": "LocalBusiness",
+    "internalLinks": "/compliance/privacy-framework, /industries/construction, /procurement/nys-ogs, /products/swift-deploy",
+    "notes": "Privacy framing is critical for NY. NYC POST Act awareness signals credibility. Don't bury it.",
+    "canonical": "https://visiondetectionsystems.com/locations/new-york",
+    "ogTitle": "Mobile surveillance for New York construction and infrastructure",
+    "ogDescription": "Mobile surveillance for NYC metro construction, ConEd substations, NYS DOT infrastructure, and parking enforcement. Privacy-aware deployment",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .hero-subhead, h2",
+    "tags": "service area, mobile surveillance near me",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/locations/north-carolina",
+    "slug": "north-carolina",
+    "parent": "/locations",
+    "pageType": "Location Detail",
+    "status": "Expansion",
+    "seoTitle": "Mobile Surveillance North Carolina | RTP, Duke Energy",
+    "metaDescription": "Mobile surveillance for Research Triangle Park construction, Duke Energy substations, NC manufacturing, and auto dealerships",
+    "announcementBar": "",
+    "h1": "Mobile surveillance for North Carolina's growth corridor",
+    "heroEyebrow": "North Carolina coverage",
+    "heroSubhead": "35+ active units across RTP and Triangle construction, Duke Energy infrastructure, and the Charlotte metro auto and manufacturing footprint. 5-7 day deployment.",
+    "heroCTAPrimary": {
+      "label": "Get a North Carolina quote",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "Talk to utilities sales",
+      "url": "/request-a-quote"
+    },
+    "heroStats": [
+      "35+ NC units",
+      "5-7 day lead time",
+      "Duke Energy approved supplier",
+      "NDAA + Sourcewell"
+    ],
+    "body": "## Mobile surveillance in North Carolina\n\nNorth Carolina is one of our fastest-growing states by unit count. RTP biotech expansion, Charlotte banking-adjacent commercial construction, and a wave of EV-related manufacturing investment (battery plants, EV assembly suppliers) have created an unusually concentrated demand environment for mobile site security.\n\nWe pre-stage inventory near Greensboro for Triangle and Triad coverage, and near Charlotte for the southwestern metro.\n\n## Industries we protect in North Carolina\n\n**Construction.** RTP biotech and lab construction, Charlotte CBD commercial, Greensboro logistics, Wilmington coastal multifamily. Standard Sky Guard MSU perimeter coverage with Swift Deploy for interior asset zones and lay-down yards.\n\n**Utilities.** Duke Energy substations and transmission projects across the Carolinas. We're an approved supplier under Duke's vendor program. Sky Guard MSU for active construction and storm response, Boundary Guard Pro fixed-mount for permanent substation coverage.\n\n**Manufacturing and auto.** EV battery plant construction (Toyota Liberty, others), auto dealerships across Charlotte and the Triangle, and the growing aerospace supplier footprint near Greensboro and Kinston. Catalytic converter theft is the steady-state driver at dealerships; copper and equipment theft drives the industrial deployments.\n\n## Coverage and lead time\n\n- **Raleigh-Durham, RTP, Charlotte:** 5-7 business days\n- **Greensboro, Winston-Salem, Asheville:** 5-7 business days\n- **Wilmington, Outer Banks, Eastern NC:** 7-10 business days\n\nGreensboro pre-stage covers most of the state in 48 hours from yard release.\n\n## A North Carolina-area deployment\n\nA general contractor running a $90M biotech lab expansion in Durham asked us to cover an active lay-down yard with $1.2M in HVAC and mechanical equipment staged for installation. Two Sky Guard MSUs deployed in 5 business days. Eight-month coverage: 19 deterred entries, one arrest, zero successful equipment theft. Project's site safety manager extended the contract to a second RTP project mid-contract.\n\n## North Carolina compliance and procurement\n\nNorth Carolina has no statewide ALPR restriction affecting our deployments. We're a Duke Energy approved vendor (relevant for utility-adjacent work statewide). Sourcewell is widely accepted across NC counties, school systems, and the NC State Cooperative Purchasing program. NDAA Section 889 compliant for any federally-funded work.\n\nFor storm response, we coordinate with Duke Energy and NC Emergency Management on pre-staging when a named hurricane enters the NC threat cone.",
+    "faq": [
+      {
+        "q": "Are you an approved vendor for Duke Energy?",
+        "a": "Yes, across the Carolinas. Sky Guard MSU and Boundary Guard Pro are both on the approved list for substation and transmission asset protection."
+      },
+      {
+        "q": "Can you cover EV battery plant construction sites at scale?",
+        "a": "Yes. These sites typically run 8-15 units across 200-500 acre footprints. We've executed similar deployments in three states."
+      },
+      {
+        "q": "How fast can you respond to a Duke Energy storm event?",
+        "a": "24-48 hours from request to first unit on site. We pre-coordinate when a named storm enters the cone."
+      },
+      {
+        "q": "Is Sourcewell accepted for NC procurement?",
+        "a": "Yes, by most NC counties, municipalities, school systems, and the state cooperative purchasing program."
+      }
+    ],
+    "finalCTAHeading": "Triangle to Charlotte, utility to lab construction, one provider",
+    "finalCTABody": "Tell us the site and the asset. We'll quote unit count, lead time, and monthly cost \u2014 and confirm Duke or Sourcewell procurement paths if relevant.",
+    "finalCTAButtons": [
+      {
+        "label": "Get an NC quote",
+        "url": "Talk to utilities sales"
+      }
+    ],
+    "schemaType": "LocalBusiness",
+    "internalLinks": "/industries/utilities, /industries/construction, /procurement/duke-energy, /products/boundary-guard-pro",
+    "notes": "Duke Energy approved-supplier status is the credibility play for NC utilities prospects.",
+    "canonical": "https://visiondetectionsystems.com/locations/north-carolina",
+    "ogTitle": "Mobile surveillance for North Carolina's growth corridor",
+    "ogDescription": "Mobile surveillance for Research Triangle Park construction, Duke Energy substations, NC manufacturing, and auto dealerships",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .hero-subhead, h2",
+    "tags": "service area, mobile surveillance near me",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/locations/ohio",
+    "slug": "ohio",
+    "parent": "/locations",
+    "pageType": "Location Detail",
+    "status": "Expansion",
+    "seoTitle": "Mobile Surveillance Ohio | Intel Plant, Logistics",
+    "metaDescription": "Mobile surveillance for Ohio's Intel chip plant construction, Columbus-Cincinnati logistics hubs, and AEP utility infrastructure",
+    "announcementBar": "",
+    "h1": "Mobile surveillance for Ohio's logistics and semiconductor boom",
+    "heroEyebrow": "Ohio coverage",
+    "heroSubhead": "25+ active units across the Intel New Albany construction footprint, Columbus and Cincinnati logistics hubs, and AEP utility infrastructure. 5-7 day deployment.",
+    "heroCTAPrimary": {
+      "label": "Get an Ohio quote",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "See logistics deployment",
+      "url": "/request-a-quote"
+    },
+    "heroStats": [
+      "25+ OH units",
+      "5-7 day lead time",
+      "NDAA 889 compliant",
+      "Sourcewell + state cooperative"
+    ],
+    "body": "## Mobile surveillance in Ohio\n\nOhio is a hub state. The Intel semiconductor fab in Licking County is one of the largest active construction projects in North America. Columbus and Cincinnati anchor a logistics and warehouse cluster that handles Midwest distribution for dozens of national retailers and 3PLs. AEP and Duke Energy Ohio operate substation infrastructure across the state that needs both construction-period and permanent monitoring.\n\nWe pre-stage inventory near Columbus for statewide same-week coverage.\n\n## Industries we protect in Ohio\n\n**Semiconductor and large-scale construction.** Intel New Albany and the surrounding supplier ecosystem. Multi-unit perimeter deployments on construction footprints measured in hundreds of acres. We're active on suppliers and adjacent infrastructure builds.\n\n**Logistics and warehousing.** Rickenbacker, CVG, and the I-70/I-71 corridor warehouses. Cargo theft, after-hours intrusion, and yard equipment theft are the drivers. Boundary Guard Pro for yard perimeters and Swift Deploy for dock-area mobile coverage.\n\n**Utilities.** AEP and Duke Energy Ohio substations and transmission projects. Sky Guard MSU for active construction phases, Boundary Guard Pro for permanent monitoring on critical-asset substations.\n\n## Coverage and lead time\n\n- **Columbus metro, Cincinnati, Cleveland:** 5-7 business days\n- **Dayton, Toledo, Akron, Youngstown:** 5-7 business days\n- **Southeast and far-northwest Ohio:** 7-10 business days\n\nColumbus pre-stage covers Cincinnati in 4 hours and Cleveland in 3.\n\n## An Ohio-area deployment\n\nA logistics 3PL operating two cross-dock facilities in the Rickenbacker corridor was losing roughly $7,500/month between trailer break-ins, fuel theft from yard tractors, and after-hours intrusion attempts. Three Sky Guard MSUs and one Boundary Guard Pro fixed deployment went in over 7 business days. Six-month coverage: 28 deterred entries, two arrests via SOC-dispatched Pickaway County Sheriff, zero successful trailer or fuel theft incidents. 3PL added a Cincinnati site to the contract.\n\n## Ohio compliance and procurement\n\nOhio has no statewide ALPR restriction affecting our deployments. We're on the Ohio State Term Schedule for relevant security categories and Sourcewell is broadly accepted by Ohio counties, municipalities, and school districts. NDAA Section 889 compliant for any federally-funded work.\n\nFor utility-sector deployments, we coordinate with AEP and Duke Energy Ohio's vendor management process and hold the required certificates of insurance and bonding.",
+    "faq": [
+      {
+        "q": "Are you active on the Intel New Albany footprint?",
+        "a": "We're active on suppliers and adjacent construction in the corridor. For prime contractor coverage on the main fab, ask deployment ops about current availability."
+      },
+      {
+        "q": "Do you work with Ohio 3PLs and logistics operators?",
+        "a": "Yes. Multiple active deployments across Rickenbacker, CVG, and the Cleveland intermodal corridor."
+      },
+      {
+        "q": "Is the Ohio State Term Schedule a valid procurement path for state agencies?",
+        "a": "Yes, for the security categories we fall under. We'll confirm the specific STS line item pre-quote."
+      },
+      {
+        "q": "How do your units handle Ohio winter?",
+        "a": "Solar arrays are sized for the worst third of the year. We supplement with on-site grid power when available, and units operate continuously through Ohio winters across our active deployments."
+      }
+    ],
+    "finalCTAHeading": "From the Intel footprint to the Rickenbacker corridor",
+    "finalCTABody": "Tell us the site and the asset class. We'll quote unit count, lead time, monthly cost, and the correct OH procurement vehicle in one call.",
+    "finalCTAButtons": [
+      {
+        "label": "Get an Ohio quote",
+        "url": "See logistics case study"
+      }
+    ],
+    "schemaType": "LocalBusiness",
+    "internalLinks": "/industries/logistics, /industries/utilities, /procurement/sourcewell, /products/boundary-guard-pro",
+    "notes": "Intel and Rickenbacker are the SEO hooks. Both are well-searched.",
+    "canonical": "https://visiondetectionsystems.com/locations/ohio",
+    "ogTitle": "Mobile surveillance for Ohio's logistics and semiconductor boom",
+    "ogDescription": "Mobile surveillance for Ohio's Intel chip plant construction, Columbus-Cincinnati logistics hubs, and AEP utility infrastructure",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .hero-subhead, h2",
+    "tags": "service area, mobile surveillance near me",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/locations/pennsylvania",
+    "slug": "pennsylvania",
+    "parent": "/locations",
+    "pageType": "Location Detail",
+    "status": "Expansion",
+    "seoTitle": "Mobile Surveillance Pennsylvania | Marcellus, Construction",
+    "metaDescription": "Mobile surveillance for Pennsylvania construction, Marcellus oil & gas, PPL and FirstEnergy infrastructure, and municipal contracts",
+    "announcementBar": "",
+    "h1": "Mobile surveillance for Pennsylvania construction, energy, and infrastructure",
+    "heroEyebrow": "Pennsylvania coverage",
+    "heroSubhead": "35+ active units across Pittsburgh and Philadelphia metro construction, Marcellus Shale operations, PPL and FirstEnergy substations, and PA municipal contracts. 24-72 hour deployment.",
+    "heroCTAPrimary": {
+      "label": "Get a Pennsylvania quote",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "Talk to municipal sales",
+      "url": "/request-a-quote"
+    },
+    "heroStats": [
+      "35+ PA units",
+      "24-72hr lead time",
+      "PA COSTARS active",
+      "NDAA + Sourcewell"
+    ],
+    "body": "## Mobile surveillance in Pennsylvania\n\nPennsylvania is a wide-spectrum state for us. Philadelphia metro and Pittsburgh metro drive construction demand. The Marcellus Shale region drives oil & gas. PPL and FirstEnergy run substation infrastructure that needs construction-period and permanent monitoring. PA municipalities and school districts are active under the COSTARS cooperative purchasing program.\n\nPikesville is 100 miles from Philadelphia, 240 from Pittsburgh. East-PA deployments are 24-48 hours, West-PA 48-72.\n\n## Industries we protect in Pennsylvania\n\n**Construction.** Philadelphia and Pittsburgh metro commercial, Lehigh Valley industrial and logistics, Harrisburg-area state and government construction. Standard Sky Guard MSU perimeter with copper and equipment theft as the driver.\n\n**Oil & gas (Marcellus).** Northern and western PA Marcellus Shale operations \u2014 well pads, compressor stations, water management facilities. Sky Guard MSU solar-autonomous deployment is the standard for remote, off-grid sites.\n\n**Utilities and municipal.** PPL, FirstEnergy, and Duquesne Light substation work. PA municipal contracts under COSTARS for police-adjacent surveillance, parking enforcement, and event coverage. Many PA boroughs run our Boundary Guard Pro fixed units for downtown camera coverage.\n\n## Coverage and lead time\n\n- **Philadelphia metro, Lehigh Valley:** 24-48 hours\n- **Harrisburg, Lancaster, York, Reading:** 24-72 hours\n- **Pittsburgh metro, Erie, Williamsport, Scranton:** 48-72 hours\n- **Far north Marcellus region:** 72-96 hours\n\nPikesville inventory covers most of PA in same-week. Limited pre-stage near Harrisburg for central PA priority response.\n\n## A Pennsylvania-area deployment\n\nA Marcellus E&P operator running 11 well pads across Susquehanna and Bradford counties was losing roughly $8,500/month to copper line and equipment theft, with most incidents at pads in 30-90 day post-completion before production equipment was secured. Four Sky Guard MSUs deployed in 9 business days to the four highest-loss pads on a rotation basis. Twelve-month coverage: 36 deterred entries, two arrests via SOC-dispatched PA State Police, zero successful theft incidents on covered pads. Operator added two more units to expand rotation.\n\n## Pennsylvania compliance and procurement\n\nWe're an active vendor on COSTARS, the Pennsylvania state cooperative purchasing program used by most PA municipalities, school districts, and counties. Sourcewell is also widely accepted. NDAA Section 889 compliant for federally-funded work, including PennDOT federal-aid projects.\n\nPA has no statewide ALPR restriction affecting our typical deployments. For municipal downtown camera deployments, we coordinate with local PD on access and footage retention protocols.",
+    "faq": [
+      {
+        "q": "Are you on COSTARS?",
+        "a": "Yes, on the active contract for our category. COSTARS is the procurement path most PA municipalities and school districts use."
+      },
+      {
+        "q": "Do you cover Marcellus well pads?",
+        "a": "Yes. Solar-autonomous Sky Guard MSU is the standard for off-grid pad deployments. Customer crews can move units between pads on rotation."
+      },
+      {
+        "q": "Can you support PA borough downtown camera programs?",
+        "a": "Yes. Boundary Guard Pro fixed-mount units on existing poles or our own poles, monitored 24/7 from our SOC."
+      },
+      {
+        "q": "How does PA State Police dispatch work from your SOC?",
+        "a": "Same as any other jurisdiction. SOC operators verify the incident, dispatch via the customer's pre-configured response plan, and document the call."
+      }
+    ],
+    "finalCTAHeading": "Marcellus to Philadelphia, well pad to borough downtown",
+    "finalCTABody": "One provider, one procurement vehicle for PA (COSTARS), one monthly bill. Tell us the site and we'll quote.",
+    "finalCTAButtons": [
+      {
+        "label": "Get a PA quote",
+        "url": "Talk to municipal sales"
+      }
+    ],
+    "schemaType": "LocalBusiness",
+    "internalLinks": "/industries/oil-and-gas, /industries/municipal, /procurement/costars, /products/sky-guard-msu",
+    "notes": "COSTARS is the strongest procurement angle for PA. Surface it early.",
+    "canonical": "https://visiondetectionsystems.com/locations/pennsylvania",
+    "ogTitle": "Mobile surveillance for Pennsylvania construction, energy, and infrastructure",
+    "ogDescription": "Mobile surveillance for Pennsylvania construction, Marcellus oil & gas, PPL and FirstEnergy infrastructure, and municipal contracts",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .hero-subhead, h2",
+    "tags": "service area, mobile surveillance near me",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/locations/texas",
+    "slug": "texas",
+    "parent": "/locations",
+    "pageType": "Location Detail",
+    "status": "Expansion",
+    "seoTitle": "Mobile Surveillance Texas | Oil & Gas, Construction, Auto",
+    "metaDescription": "Solar-autonomous mobile surveillance for Permian Basin oil & gas, Texas metro construction, and auto dealerships. 5-10 day deployment, SOC-monitored 24/7.",
+    "announcementBar": "",
+    "h1": "Mobile surveillance built for Texas conditions",
+    "heroEyebrow": "Texas coverage",
+    "heroSubhead": "Permian Basin oil & gas, the Austin-Dallas-San Antonio construction triangle, and a growing auto dealership footprint. 60+ active units. Solar-autonomous units engineered for 115\u00b0F.",
+    "heroCTAPrimary": {
+      "label": "Get a Texas quote",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "See oil & gas case study",
+      "url": "/request-a-quote"
+    },
+    "heroStats": [
+      "60+ TX units",
+      "5-10 day new-build lead time",
+      "Permian-rated solar",
+      "NDAA + Sourcewell"
+    ],
+    "body": "## Mobile surveillance in Texas\n\nTexas is our largest non-Mid-Atlantic state. Three drivers: oil & gas in the Permian, construction in every major metro, and a wave of catalytic converter and inventory theft at auto dealerships across Dallas-Fort Worth and Houston.\n\nSolar performance matters here. Our Sky Guard MSU runs on a 1.2kW solar array sized for 4.5 peak sun hours, which means West Texas is overprovisioned and the unit holds charge through cloud cover and the rare freeze event. We rate the enclosure for sustained 115\u00b0F operation.\n\n## Industries we protect in Texas\n\n**Oil & gas.** Permian Basin tank batteries, frac sand yards, drilling pads. Remote sites, no grid power, copper and equipment theft as a constant baseline. Sky Guard MSU is the standard deployment \u2014 solar-autonomous, LTE-backhauled, SOC-monitored.\n\n**Metro construction.** Austin Northwest, Frisco, Cypress, Round Rock, San Antonio Northside. The Texas Triangle has not slowed. We're active on multifamily, industrial, and tilt-wall commercial sites across all four major metros.\n\n**Auto dealerships.** Catalytic converter theft, inventory theft, key fob theft. We have a dealership-specific deployment template \u2014 Boundary Guard Pro fixed coverage of inventory lots, Swift Deploy for service yard and lot perimeter, SOC after-hours dispatch.\n\n## Coverage and lead time\n\n- **Dallas-Fort Worth, Austin, San Antonio, Houston:** 5-7 business days new build, 3-5 for redeploy\n- **Permian Basin (Midland, Odessa, Pecos):** 7-10 business days\n- **El Paso, Amarillo, Lubbock, Corpus Christi:** 7-10 business days\n\nTexas inventory pre-stages in Dallas. Local installation techs on contract in all four major metros.\n\n## A Texas-area deployment\n\nA Permian-focused E&P operator running 14 tank battery sites across Reeves and Loving counties was losing roughly $18,000/month to copper line theft and vandalism. We deployed Sky Guard MSUs to the eight highest-loss sites in 9 business days. Six-month coverage: 23 deterred entry attempts, two arrests through Reeves County Sheriff dispatch, zero successful copper theft incidents. Customer expanded to all 14 sites and added two pad-rotation units that move with active drilling.\n\n## Texas compliance and procurement\n\nTexas has no statewide ALPR restriction relevant to our typical deployments. We're an active Sourcewell vendor \u2014 most Texas ISDs, county governments, and many cities procure under Sourcewell or BuyBoard. GSA Schedule available for federal end customers (relevant for Customs and Border Protection and other federal-adjacent work along the border).\n\nNDAA Section 889 compliant, which matters for any federally-funded infrastructure project in Texas.",
+    "faq": [
+      {
+        "q": "Do your solar units actually hold charge in West Texas summer?",
+        "a": "Yes. Sized for 4.5 peak sun hours, West Texas averages 6.2. We see overprovisioning, not deficit."
+      },
+      {
+        "q": "How fast can you redeploy a unit from one Permian site to another?",
+        "a": "Same day for short hauls within a county. Customer crews can move our units with a standard truck \u2014 we provide the hitch and tongue specs."
+      },
+      {
+        "q": "Do you work with Texas auto dealer groups?",
+        "a": "Yes. Active on dealer rooftops across Houston, Dallas-Fort Worth, San Antonio, and Austin. Ask for the dealership deployment template."
+      },
+      {
+        "q": "Is BuyBoard available for Texas school districts and counties?",
+        "a": "BuyBoard accepts Sourcewell crosswalk for our category. We'll confirm pre-quote."
+      }
+    ],
+    "finalCTAHeading": "Permian to Austin, one call, one quote",
+    "finalCTABody": "Tell us the site, the asset, and the loss exposure. We'll quote unit count, lead time, and monthly cost \u2014 no engineering call required.",
+    "finalCTAButtons": [
+      {
+        "label": "Get a Texas quote",
+        "url": "See the oil & gas case study"
+      }
+    ],
+    "schemaType": "LocalBusiness",
+    "internalLinks": "/industries/oil-and-gas, /industries/auto-dealerships, /products/sky-guard-msu, /case-studies/permian-operator",
+    "notes": "Lead with heat/solar credibility. Permian operators care about this immediately.",
+    "canonical": "https://visiondetectionsystems.com/locations/texas",
+    "ogTitle": "Mobile surveillance built for Texas conditions",
+    "ogDescription": "Solar-autonomous mobile surveillance for Permian Basin oil & gas, Texas metro construction, and auto dealerships. 5-10 day deployment, SOC-monitored 24/7.",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .hero-subhead, h2",
+    "tags": "service area, mobile surveillance near me",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/locations/virginia",
+    "slug": "virginia",
+    "parent": "/locations",
+    "pageType": "Location Detail",
+    "status": "Expansion",
+    "seoTitle": "Mobile Surveillance Virginia | NDAA Compliant | VDS",
+    "metaDescription": "NDAA Section 889 compliant mobile surveillance for Virginia data centers, federal-adjacent construction, and Dominion utilities",
+    "announcementBar": "",
+    "h1": "Mobile surveillance for Virginia data centers and federal-adjacent sites",
+    "heroEyebrow": "Virginia coverage",
+    "heroSubhead": "NDAA Section 889 compliant hardware. 70+ active units in Virginia, concentrated in Loudoun County data center alley and the NoVA construction corridor.",
+    "heroCTAPrimary": {
+      "label": "Request a Virginia quote",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "Talk to federal sales",
+      "url": "/request-a-quote"
+    },
+    "heroStats": [
+      "70+ VA units",
+      "24-48hr lead time",
+      "NDAA 889 compliant",
+      "GSA + Sourcewell active"
+    ],
+    "body": "## Mobile surveillance in Virginia\n\nVirginia is our second-largest state by unit count. The reason is straightforward: federal-adjacent work demands NDAA Section 889 compliance, and we don't use Hikvision, Dahua, or any other prohibited supplier in any camera, NVR, or chipset across our fleet. We can sign a 889 attestation on contract day.\n\nPikesville is 75 miles from Reston. NoVA deployments land in 24 hours, the rest of Virginia in 24-72 depending on metro.\n\n## Industries we protect in Virginia\n\n**Data center construction.** Loudoun County hosts the largest data center concentration in the world. We're active on AWS, Microsoft, and hyperscaler-tenant construction sites across Ashburn, Sterling, Manassas, and the new Prince William cluster. Copper theft on these sites runs in the six figures per incident \u2014 Sky Guard MSUs sit on perimeter during shell construction and the SOC handles after-hours response.\n\n**Federal and DoD-adjacent construction.** Pentagon City, Quantico-area contractors, and the broader NoVA defense build environment. 889 compliance is the gate; we clear it.\n\n**Dominion Energy infrastructure.** Substations, transmission projects, and ongoing storm response. Boundary Guard Pro fixed deployments and Sky Guard mobile units depending on the asset.\n\n## Coverage and lead time\n\n- **Northern Virginia (Arlington, Fairfax, Loudoun, Prince William):** 24 hours\n- **Richmond and Tidewater (Hampton Roads, Norfolk, Virginia Beach):** 48-72 hours\n- **Roanoke, Southwest Virginia, Shenandoah Valley:** 72-96 hours\n\nInventory pre-staged in Pikesville and a smaller cache near Manassas for emergency NoVA response.\n\n## A Virginia-area deployment\n\nA hyperscaler-tenant general contractor building three data centers across 140 acres in eastern Loudoun County asked us to cover all three simultaneously. Eight Sky Guard MSUs deployed in 6 business days, with 24/7 SOC coverage and integration into their existing access control system. Eighteen-month coverage: 89 deterred intrusion attempts, three arrests, and zero copper or equipment loss after the first 30 days (when one perimeter breach occurred during a thunderstorm-related power event we've since hardened against).\n\n## Virginia compliance and procurement\n\nNDAA Section 889 Part B compliant across the entire product line. Documented attestation on request. We carry GSA Schedule pricing for federal end customers and we're an active Sourcewell vendor, which most VA counties and the Virginia Department of General Services accept.\n\nFor ALPR-enabled deployments, we comply with the Virginia Code \u00a715.2-1726.5 retention and access framework \u2014 30-day rolling retention by default, longer only with documented investigative purpose.",
+    "faq": [
+      {
+        "q": "Can you provide an NDAA 889 attestation letter on contract day?",
+        "a": "Yes. The letter covers cameras, recorders, network gear, and chipsets. We can also provide bill of materials documentation for federal compliance review."
+      },
+      {
+        "q": "Do you work with Virginia data center general contractors at scale?",
+        "a": "Yes. Our largest VA customer runs 12 simultaneous units across four hyperscaler-tenant sites under one master agreement."
+      },
+      {
+        "q": "How does Virginia ALPR retention work on VDS deployments?",
+        "a": "Default 30-day rolling deletion of plate reads. Extended retention requires documented investigative request through the customer's chain. We never sell, share, or analyze plate data outside the customer account."
+      },
+      {
+        "q": "Is Sourcewell available for Virginia counties?",
+        "a": "Yes. Sourcewell is an accepted cooperative contract for nearly all Virginia local government and school division procurement."
+      }
+    ],
+    "finalCTAHeading": "889 compliance, 24-hour NoVA deployment, one phone call",
+    "finalCTABody": "Tell us the site, the asset class, and the procurement vehicle. We'll come back with a quote that clears federal compliance review.",
+    "finalCTAButtons": [
+      {
+        "label": "Request a Virginia quote",
+        "url": "Download 889 attestation template"
+      }
+    ],
+    "schemaType": "LocalBusiness",
+    "internalLinks": "/industries/data-centers, /compliance/ndaa-889, /procurement/gsa-sourcewell, /products/sky-guard-msu",
+    "notes": "889 framing is the lead. Don't soften it.",
+    "canonical": "https://visiondetectionsystems.com/locations/virginia",
+    "ogTitle": "Mobile surveillance for Virginia data centers and federal-adjacent sites",
+    "ogDescription": "NDAA Section 889 compliant mobile surveillance for Virginia data centers, federal-adjacent construction, and Dominion utilities",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .hero-subhead, h2",
+    "tags": "service area, mobile surveillance near me",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/locations/canada",
+    "slug": "canada",
+    "parent": "/locations",
+    "pageType": "Locations Hub",
+    "status": "Expansion (forward-looking, not Phase 1 launch)",
+    "seoTitle": "Mobile Surveillance in Canada | Vision Detection Systems",
+    "metaDescription": "VDS operates in 30+ US states. Canadian deployments are planned. Honest guidance for Canadian buyers today, plus US/Canada cross-border programs.",
+    "announcementBar": "",
+    "h1": "Canada",
+    "heroEyebrow": "Expansion Planned",
+    "heroSubhead": "Vision Detection Systems operates 500+ mobile surveillance units across 30+ US states. Canadian deployments are planned for a future phase. Here's what to do today, and how to structure US/Canada cross-border coverage right now.",
+    "heroCTAPrimary": {
+      "label": "Talk to us about cross-border coverage",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "Notify me when VDS launches in Canada",
+      "url": "/request-a-quote"
+    },
+    "heroStats": [
+      "500+ US deployments \u2022 30+ US states \u2022 Canadian expansion planned \u2022 US/Canada cross-border programs available"
+    ],
+    "body": "## Where VDS stands in Canada today\n\nVDS does not currently deploy units in Canada. We operate 500+ mobile surveillance units across 30+ US states, with a 24/7 SOC in the United States and AWS US-region data residency. A Canadian launch is planned for a future phase, contingent on AWS Canada Central data residency, French-language SOC capacity, and provincial compliance work (PIPEDA, Quebec Law 25, Alberta PIPA, BC PIPA).\n\nWe'd rather tell you this up front than pretend we can serve you well today and learn the hard way.\n\n## If you're a Canadian buyer right now\n\nThese are the operators we'd point you to. Each runs Canadian infrastructure, employs Canadian staff, and handles Canadian compliance natively.\n\n- **Zedcor** \u2014 The largest Canadian mobile surveillance operator. Calgary HQ, publicly traded. Strong track record in oil and gas, construction, and remote sites. Coverage across western Canada with eastward expansion.\n- **A&B Mobile Security** \u2014 Canadian rent-or-purchase mobile surveillance operator. Flexible commercial terms for shorter deployments.\n- **SureSite Security** \u2014 Canadian remote video monitoring service. Useful if you have cameras already and need eyes-on rather than full hardware.\n- **Spotter Security** \u2014 Toronto-based mobile and integrated security. Good fit for GTA construction and commercial sites.\n- **LotCop** \u2014 Specialist in parking-lot mobile surveillance across Canada. Narrower scope, but they know the lot-monitoring problem well.\n\nWe're listing competitors on our own page because honest referrals beat a bad fit. If one of these is right for you, take it.\n\n## If you run a US/Canada cross-border program\n\nThis is where we can help today. If your portfolio spans both countries \u2014 a US retailer with stores in Ontario, a North American construction GC, a utility with assets on both sides of the border \u2014 VDS can quote and operate your US footprint while we coordinate Canadian coverage with a vetted Canadian partner.\n\nYou get one point of contact, consistent reporting on the US side, and a defensible compliance posture on the Canadian side. Talk to us before you split the contract two ways.\n\n## Compliance and infrastructure work still required\n\nBefore VDS deploys a Canadian unit, we need:\n\n- AWS Canada Central data residency configured separately from our US environment\n- PIPEDA-aligned data handling, plus provincial regimes (Quebec Law 25 in particular)\n- French-language SOC operator coverage for Quebec deployments\n- NDAA Section 889 is a US federal standard; the Canadian equivalent for federal procurement is the Policy on Government Security and related supply-chain integrity reviews. We'll address this before any Crown procurement work.\n\nThis is engineering and operations work, not marketing copy. We won't claim Canadian operations until that work is finished.\n\n## Get notified when VDS launches in Canada\n\nIf you want a heads-up when we open Canadian operations, drop your email. We'll contact you with a launch date, regional coverage, and pricing \u2014 and only then. No drip campaign in the meantime.",
+    "faq": [
+      {
+        "q": "Does VDS have any units in Canada right now?",
+        "a": "No. Zero units deployed in Canada. We operate in 30+ US states only."
+      },
+      {
+        "q": "Can VDS quote a Canadian project today?",
+        "a": "Not as a standalone Canadian deployment. We can structure a US/Canada cross-border program where VDS handles the US sites and a vetted Canadian partner handles Canada under coordinated reporting."
+      },
+      {
+        "q": "When will VDS launch in Canada?",
+        "a": "Expansion is planned, but we're not committing to a date. Launch depends on AWS Canada Central setup, French-language SOC staffing, and provincial compliance work. Join the notification list to hear first."
+      },
+      {
+        "q": "Why are you recommending competitors?",
+        "a": "Because pretending we can serve Canada well today would waste your time and ours. If you need Canadian operations now, Zedcor, A&B, SureSite, Spotter, or LotCop will serve you better than we would."
+      },
+      {
+        "q": "Is VDS hardware different in Canada?",
+        "a": "The hardware itself runs in cold weather (Sky Guard MSU rated to -20F). The gap is the back-end: data residency, SOC language coverage, and provincial compliance. Hardware is the easy part."
+      }
+    ],
+    "finalCTAHeading": "Two ways to work with VDS in Canada today",
+    "finalCTABody": "Cross-border programs are live now. Direct Canadian deployments are on the roadmap. Tell us which you need.",
+    "finalCTAButtons": [
+      {
+        "label": "Talk to sales about cross-border",
+        "url": "Notify me at Canadian launch"
+      }
+    ],
+    "schemaType": "Article",
+    "internalLinks": "/locations, /locations/canada/toronto, /locations/canada/vancouver, /guides/mobile-surveillance-canada, /products/sky-guard-msu, /company/about",
+    "notes": "Lead-capture form on the page is \"Notify me at Canadian launch\" only \u2014 separate from the standard sales form. Do not enroll into general nurture. Competitor names link out (rel=nofollow) to their homepages. Update this page when AWS Canada Central is provisioned or any Canadian agreement is signed.",
+    "canonical": "https://visiondetectionsystems.com/locations/canada",
+    "ogTitle": "Canada",
+    "ogDescription": "VDS operates in 30+ US states. Canadian deployments are planned. Honest guidance for Canadian buyers today, plus US/Canada cross-border programs.",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .hero-subhead, h2",
+    "tags": "mobile surveillance Canada, PIPEDA, Canadian security",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/locations/canada/toronto",
+    "slug": "toronto",
+    "parent": "/locations/canada",
+    "pageType": "Location Detail",
+    "status": "Expansion (forward-looking, not Phase 1 launch)",
+    "seoTitle": "Mobile Surveillance Toronto | Vision Detection Systems",
+    "metaDescription": "VDS operates in 30+ US states, not yet Toronto. Honest guidance for GTA buyers, plus US/Canada cross-border coverage for North American portfolios.",
+    "announcementBar": "",
+    "h1": "Toronto",
+    "heroEyebrow": "Expansion Planned \u2014 GTA",
+    "heroSubhead": "Toronto is Canada's largest construction market, a major port, a financial center, and a tech hub. VDS doesn't deploy in Toronto yet. Here's what to do if you need coverage today, and how cross-border programs work.",
+    "heroCTAPrimary": {
+      "label": "Talk to us about cross-border coverage",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "Notify me when VDS launches in Toronto",
+      "url": "/request-a-quote"
+    },
+    "heroStats": [
+      "500+ US deployments \u2022 Canadian launch planned \u2022 GTA waitlist open"
+    ],
+    "body": "## Where VDS stands in Toronto\n\nNo VDS units operate in the Greater Toronto Area today. We run 500+ mobile surveillance units across 30+ US states. A Canadian launch \u2014 Toronto included \u2014 is planned for a future phase. We're not committing to a quarter or year until the back-end work is done (AWS Canada Central, PIPEDA-aligned operations, SOC coverage for Eastern Canada).\n\n## What Toronto needs\n\nThe GTA stresses mobile surveillance differently than most North American markets:\n\n- **Construction** \u2014 Toronto leads Canada in active construction starts. Highrise sites, infrastructure projects, and long-duration condo builds all need persistent perimeter surveillance with minimal grid dependency.\n- **Ports and logistics** \u2014 The Port of Toronto and the broader logistics corridor along the 401 generate demand for yard surveillance, cargo monitoring, and after-hours coverage.\n- **Financial district and commercial real estate** \u2014 Vacant or transitioning commercial properties downtown need monitored deterrence between leases and during renovations.\n- **Tech and film** \u2014 Production sets, equipment yards, and temporary event venues need rapid-deploy units that don't require trenching or permanent power.\n\nThese are exactly the use cases VDS handles in US markets. We're not yet positioned to handle them in Toronto.\n\n## For Toronto buyers today\n\n**Spotter Security** is the local recommendation. Toronto-based, runs mobile and integrated security across the GTA, and knows the local jobsite and commercial property market. For broader Ontario or Western Canada coverage, **Zedcor** is the largest Canadian operator. For monitoring-only (you have cameras, you need eyes), **SureSite** is a fit. For parking-specific work, **LotCop**.\n\n## For cross-border programs\n\nThis is where VDS contributes today. If you run a portfolio that spans Buffalo and Toronto, Detroit and Windsor, or any US/Canada mix, we can quote the US sites under our standard pricing (Sky Guard MSU $2,200/mo, Boundary Guard Pro $1,800/mo, Swift Deploy $1,500/mo) and coordinate Toronto coverage through a Canadian partner.\n\nOne vendor relationship. Consistent reporting on the US side. Defensible compliance on the Canadian side. Worth a conversation if you'd otherwise sign two separate contracts.\n\n## What changes when VDS launches in Toronto\n\nWhen we do open GTA operations, you can expect the same model as our US footprint: solar-autonomous hardware, camera-agnostic cloud VMS, 24/7 SOC. Differences will include Canadian data residency, Eastern Time SOC alignment, and bilingual support availability. Pricing will be published in CAD at launch.\n\nJoin the Toronto waitlist below to hear directly when we open.",
+    "faq": [
+      {
+        "q": "Does VDS have units anywhere in Ontario?",
+        "a": "No. Zero VDS units in Ontario or anywhere in Canada today."
+      },
+      {
+        "q": "Can I get a quote for a Toronto construction site?",
+        "a": "Not for a Toronto-only deployment. If the project is part of a larger US/Canada portfolio, yes \u2014 talk to us about the cross-border structure."
+      },
+      {
+        "q": "Who handles Toronto today if VDS can't?",
+        "a": "Spotter Security for local GTA work, Zedcor for larger or multi-province Canadian programs. SureSite for monitoring-only. LotCop for parking lots specifically."
+      },
+      {
+        "q": "Will pricing be the same when VDS launches in Toronto?",
+        "a": "Pricing will be published in CAD at Canadian launch and will reflect Canadian operating costs (SOC staffing in Canada, AWS Canada Central, local logistics). US pricing won't transfer 1:1."
+      },
+      {
+        "q": "Does the hardware work in Toronto winters?",
+        "a": "Yes. Sky Guard MSU is rated to -20F, and solar performance in Toronto winters is adequate with battery sizing we already use in Northern US deployments. The hardware isn't the gap \u2014 operations is."
+      }
+    ],
+    "finalCTAHeading": "Toronto coverage, two paths",
+    "finalCTABody": "Cross-border programs available today through VDS. Toronto-only deployments through a Canadian operator we'll point you to.",
+    "finalCTAButtons": [
+      {
+        "label": "Talk about cross-border",
+        "url": "Join Toronto waitlist"
+      }
+    ],
+    "schemaType": "LocalBusiness",
+    "internalLinks": "/locations/canada, /locations/canada/vancouver, /guides/mobile-surveillance-canada, /products/sky-guard-msu, /industries/construction",
+    "notes": "LocalBusiness schema should reflect \"service area\" rather than physical presence \u2014 VDS has no Toronto office. Update to a full LocalBusiness with address only when a Toronto operations hub exists. Waitlist form posts to the Canadian-launch list, not general nurture.",
+    "canonical": "https://visiondetectionsystems.com/locations/canada/toronto",
+    "ogTitle": "Toronto",
+    "ogDescription": "VDS operates in 30+ US states, not yet Toronto. Honest guidance for GTA buyers, plus US/Canada cross-border coverage for North American portfolios.",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .hero-subhead, h2",
+    "tags": "mobile surveillance Canada, PIPEDA, Canadian security, mobile surveillance Toronto, GTA security",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/locations/canada/vancouver",
+    "slug": "vancouver",
+    "parent": "/locations/canada",
+    "pageType": "Location Detail",
+    "status": "Expansion (forward-looking, not Phase 1 launch)",
+    "seoTitle": "Mobile Surveillance Vancouver | Vision Detection Systems",
+    "metaDescription": "VDS operates in 30+ US states, not yet Vancouver. Honest guidance for BC buyers, plus US/Canada cross-border coverage for Pacific Northwest portfolios.",
+    "announcementBar": "",
+    "h1": "Vancouver",
+    "heroEyebrow": "Expansion Planned \u2014 Lower Mainland",
+    "heroSubhead": "Vancouver runs a Pacific port, an active construction pipeline, and a year-round film and event production economy. VDS doesn't deploy in Vancouver yet. Here's what to do today and how to structure cross-border coverage.",
+    "heroCTAPrimary": {
+      "label": "Talk to us about cross-border coverage",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "Notify me when VDS launches in Vancouver",
+      "url": "/request-a-quote"
+    },
+    "heroStats": [
+      "500+ US deployments \u2022 Canadian launch planned \u2022 BC waitlist open"
+    ],
+    "body": "## Where VDS stands in Vancouver\n\nNo VDS units operate in the Lower Mainland today. We run 500+ mobile surveillance units across 30+ US states, including units in Washington and Oregon directly south of the border. A Canadian launch \u2014 Vancouver included \u2014 is planned, but we won't commit to a date until AWS Canada Central, BC PIPA-aligned operations, and Pacific Time SOC coverage are in place.\n\n## What Vancouver needs\n\nThe Lower Mainland and adjacent regions stress mobile surveillance in a few specific ways:\n\n- **Port and intermodal** \u2014 The Port of Vancouver is Canada's largest and runs a sprawling network of container yards, rail terminals, and storage facilities. Yard surveillance, after-hours intrusion detection, and cargo monitoring all benefit from solar-autonomous units that move with the work.\n- **Construction boom** \u2014 Mount Pleasant, False Creek, Broadway corridor, and the Surrey/Langley corridor all have multi-year construction pipelines. Highrise residential and mixed-use sites need long-duration perimeter coverage.\n- **Film and event production** \u2014 Vancouver's production economy means equipment yards, exterior sets, and short-duration venues that need rapid deploy and rapid takedown. The Swift Deploy class of unit was designed for this.\n- **Resource and remote sites** \u2014 BC interior operations (mining, forestry, energy) sit hours from any urban SOC and benefit from autonomous units that don't depend on grid power or wired connectivity.\n\nCold-weather performance is not the blocker. Sky Guard MSU is rated to -20F, which covers Lower Mainland conditions and most BC interior conditions comfortably. The gap is operations and compliance, not hardware.\n\n## For Vancouver buyers today\n\n**Zedcor** is the largest Canadian operator and has a Western Canada footprint that covers BC. For monitoring-only services where you already have cameras, **SureSite** is worth a call. **A&B Mobile Security** offers rent-or-buy mobile units if your project is short-duration. **LotCop** if the use case is parking lots specifically. We don't have a Vancouver-headquartered specialist to recommend the way Spotter fits Toronto \u2014 Zedcor is the most likely fit in most BC scenarios.\n\n## For cross-border programs\n\nIf you run a Pacific Northwest portfolio \u2014 Seattle and Vancouver, or a North American program with BC and Washington sites \u2014 VDS can handle the US footprint directly under our standard pricing and coordinate Vancouver coverage with a Canadian partner. One vendor, one set of reporting standards, two compliance regimes handled cleanly.\n\nThis is the path forward for most cross-border buyers until VDS opens direct Canadian operations.\n\n## What changes when VDS launches in Vancouver\n\nSame model as our US deployments: solar-autonomous hardware, camera-agnostic cloud VMS, 24/7 SOC. Canadian launch will add AWS Canada Central data residency, Pacific Time SOC alignment, and pricing in CAD. We'll publish a service area and SLA at launch \u2014 not before.",
+    "faq": [
+      {
+        "q": "Does VDS have units anywhere in BC?",
+        "a": "No. Zero VDS units in British Columbia today."
+      },
+      {
+        "q": "Can VDS quote a Vancouver port or construction project?",
+        "a": "Not as a Vancouver-only project. If it's part of a Pacific Northwest or North American portfolio, yes \u2014 we'll structure a cross-border program."
+      },
+      {
+        "q": "Who do you recommend for a Vancouver-only project today?",
+        "a": "Zedcor for most scenarios. SureSite for monitoring-only. A&B for short-duration rent-or-buy. LotCop for parking lots."
+      },
+      {
+        "q": "Does solar work through Vancouver winters?",
+        "a": "Yes, with appropriate battery sizing. Vancouver's overcast winter conditions are within the envelope we design for in Pacific Northwest US deployments. The hardware isn't the issue here."
+      },
+      {
+        "q": "Will VDS staff a Vancouver office at launch?",
+        "a": "Likely no physical Vancouver office initially. Canadian launch will start with a Canadian SOC partner or a Canadian operations entity. Field presence will follow customer density."
+      }
+    ],
+    "finalCTAHeading": "Vancouver coverage, two paths",
+    "finalCTABody": "Cross-border programs available today. Vancouver-only deployments through a Canadian operator we'll point you to.",
+    "finalCTAButtons": [
+      {
+        "label": "Talk about cross-border",
+        "url": "Join Vancouver waitlist"
+      }
+    ],
+    "schemaType": "LocalBusiness",
+    "internalLinks": "/locations/canada, /locations/canada/toronto, /guides/mobile-surveillance-canada, /products/sky-guard-msu, /products/swift-deploy, /industries/construction, /industries/ports-logistics",
+    "notes": "LocalBusiness schema reflects service area, not physical presence. Swift Deploy is highlighted because Vancouver film/event production maps well to that unit class. Update at launch with CAD pricing and BC-specific compliance language (BC PIPA references).",
+    "canonical": "https://visiondetectionsystems.com/locations/canada/vancouver",
+    "ogTitle": "Vancouver",
+    "ogDescription": "VDS operates in 30+ US states, not yet Vancouver. Honest guidance for BC buyers, plus US/Canada cross-border coverage for Pacific Northwest portfolios.",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .hero-subhead, h2",
+    "tags": "mobile surveillance Canada, PIPEDA, Canadian security, mobile surveillance Vancouver, BC security",
+    "author": "Vision Detection Systems"
+  }
+]

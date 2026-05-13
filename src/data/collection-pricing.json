@@ -1,0 +1,282 @@
+[
+  {
+    "url": "/pricing/dealers",
+    "slug": "dealers",
+    "parent": "/pricing",
+    "pageType": "Dealer Pricing",
+    "status": "Launch",
+    "seoTitle": "VDS Dealer & Integrator Program | Wholesale Pricing",
+    "metaDescription": "VDS dealer program \u2014 wholesale pricing on trailers and platform, MAP enforcement, dealer portal, marketing co-op. Tiered by annual volume.",
+    "announcementBar": "",
+    "h1": "Dealer Pricing for Integrators Who Sell Mobile Surveillance",
+    "heroEyebrow": "Dealer Program",
+    "heroSubhead": "Wholesale margins on trailers and platform, MAP-enforced retail pricing, marketing development funds, and a portal that doesn't require a phone call to use.",
+    "heroCTAPrimary": {
+      "label": "Apply to the Dealer Program",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "Talk to the Channel Team",
+      "url": "/request-a-quote"
+    },
+    "heroStats": [
+      "4 volume tiers",
+      "MAP enforced",
+      "Portal access",
+      "Marketing co-op available"
+    ],
+    "body": "## Who this is for\n\nThe VDS dealer program is built for security integrators, low-voltage contractors, and managed service providers who already sell to commercial end customers and want to add mobile surveillance and a hosted VMS to the offering. It's not a referral program \u2014 dealers transact, fulfill, and own the customer relationship.\n\nIf you're looking to refer leads to VDS for a commission, that's our separate referral program. Ask sales.\n\n## Volume tiers\n\nDealer pricing is structured around trailing-12-month volume. Tiers reset every January 1; new dealers start at Tier 1 and move up based on actual closed volume.\n\n| Tier | Annual Volume | Trailer Discount | Platform Discount | MDF |\n|---|---|---|---|---|\n| **Tier 1 \u2014 Authorized** | $0-$100K | 12% off list | 10% off list | \u2014 |\n| **Tier 2 \u2014 Preferred** | $100K-$500K | 18% off list | 15% off list | 1% of revenue |\n| **Tier 3 \u2014 Premier** | $500K-$2M | 25% off list | 20% off list | 2% of revenue |\n| **Tier 4 \u2014 Strategic** | $2M+ | Negotiated | Negotiated | 3% of revenue |\n\nDiscounts apply to the published list prices on [the main pricing page](/pricing). MDF (Marketing Development Funds) accrues quarterly, paid as co-op against approved marketing spend or as bill credits.\n\n## MAP policy\n\nMinimum Advertised Price is published with the program and enforced. Dealers may discount in private quotes \u2014 that's normal commercial behavior \u2014 but advertised pricing (website, public ads, public proposals) must hold the line at MAP or above. The reason is structural: published prices on the VDS main pricing page are the floor. Dealers undercutting public pricing in public is what creates the race-to-the-bottom dynamic that destroys margin for everyone.\n\nMAP violations get a written warning on the first incident. Two violations in a 12-month window suspends program eligibility for 90 days. Three suspends indefinitely.\n\n## What dealers get\n\n**Wholesale pricing.** Per the tier table above, applied to any line item on a customer order \u2014 trailers, platform subscriptions, SOC monitoring, accessories.\n\n**Dealer portal.** Quote builder, order entry, deal registration, marketing assets, training, and commission/MDF tracking. The portal is self-serve. Most orders never require a sales call.\n\n**Deal registration.** Register a deal with VDS and lock pricing for 90 days, protecting you from another dealer or direct sale undercutting your work-in-flight. Approved registrations get a 5% additional discount on top of tier pricing.\n\n**Technical training and certification.** Free online certification path for sales and field tech roles. Certified Field Tech is the prerequisite for billing customer-facing installs through the dealer channel.\n\n**Marketing assets.** Co-branded brochures, web pages, slide decks, case studies. Customizable with your logo and contact info.\n\n**Marketing Development Funds.** Quarterly accrual at the tier rate, redeemable against approved campaigns (trade shows, paid ads, content production) or as account credit.\n\n**Demo trailer program.** Dealers at Tier 2+ can request a loaner trailer for customer demos. Loan period is 14 days. One loan per quarter at Tier 2, unlimited at Tier 3+.\n\n## What dealers commit to\n\n- Sell only the trailers and platform tiers listed on the current VDS lineup\n- Honor MAP on all public pricing and advertising\n- Complete the Authorized certification within 90 days of program entry\n- Maintain commercial general liability and E&O insurance with VDS named as additional insured\n- Use deal registration for any opportunity over $25K\n- Submit a forecast and pipeline review quarterly (15-minute call, sales team driven)\n\n## Co-marketing and lead-share\n\nVDS routes inbound leads to dealers based on geography, vertical specialty, and tier. Tier 3 and Tier 4 dealers get first right of refusal on inbound leads in their territory. Tier 1 and Tier 2 dealers get leads on a round-robin basis after Tier 3/4 declines.\n\nOutbound demand-gen co-investment (paid media, trade shows, event sponsorships) is available to Tier 2+ dealers via MDF and proposal-based campaign funding.\n\n## How to apply\n\nThe dealer application is short. We're looking for:\n\n- An active business with a security or low-voltage integration history\n- General liability insurance ($1M minimum, $2M preferred)\n- A named technical contact and a named sales contact\n- Brief overview of your geographic and vertical focus\n\nMost applications are approved within 5 business days. We'll schedule a 30-minute kickoff to walk through the portal, deal registration, and certification before your first quote goes out.",
+    "faq": [
+      {
+        "q": "Can I sell into any geography?",
+        "a": "Yes, but lead routing favors dealers with a documented presence in the region. There's no exclusive territory in the program at any tier."
+      },
+      {
+        "q": "What if my customer wants direct VDS support?",
+        "a": "Standard platform support is direct from VDS regardless of who sold the deployment. Implementation, on-site service, and account management can stay with you or transition to VDS direct \u2014 customer's choice."
+      },
+      {
+        "q": "Do I have to white-label the platform?",
+        "a": "No. The platform is VDS-branded. Dealer co-branding is available on customer-facing portals at Tier 3+ if the dealer specifically wants it."
+      },
+      {
+        "q": "Can I bundle VDS with other products?",
+        "a": "Yes, as long as the VDS components meet MAP. Most dealers bundle trailers with access control, alarm panels, or fence detection from other manufacturers \u2014 that's normal."
+      },
+      {
+        "q": "What happens if I drop volume tier?",
+        "a": "Tiers are based on trailing 12 months and recalculated quarterly. If you drop a tier, you keep the higher tier's pricing on existing in-flight quotes (registered deals), but new quotes price at the new tier. We don't retroactively re-bill."
+      }
+    ],
+    "finalCTAHeading": "Join the dealer program",
+    "finalCTABody": "Apply, get certified, start quoting. Most dealers issue their first VDS quote within 30 days of application approval.",
+    "finalCTAButtons": [
+      {
+        "label": "Apply to the Program",
+        "url": "Talk to the Channel Team"
+      }
+    ],
+    "schemaType": "WebPage",
+    "internalLinks": "/pricing, /pricing/subscription-plans, /pricing/leasing-rentals, /pricing/purchase-options, /products/mobile-surveillance-trailers",
+    "notes": "Channel program page \u2014 guard against giving away specifics that would compromise direct-sale pricing. MAP language is intentional.",
+    "canonical": "https://visiondetectionsystems.com/pricing/dealers",
+    "ogTitle": "Dealer Pricing for Integrators Who Sell Mobile Surveillance",
+    "ogDescription": "VDS dealer program \u2014 wholesale pricing on trailers and platform, MAP enforcement, dealer portal, marketing co-op. Tiered by annual volume.",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .hero-subhead, h2",
+    "tags": "mobile surveillance, VDS",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/pricing/leasing-rentals",
+    "slug": "leasing-rentals",
+    "parent": "/pricing",
+    "pageType": "Pricing Detail",
+    "status": "Launch",
+    "seoTitle": "Mobile Surveillance Trailer Leasing & Rentals | VDS Pricing",
+    "metaDescription": "VDS trailer leasing terms \u2014 3-month minimum, month-to-month after, includes platform, SOC optional. Short-term event rentals and multi-year fleet leases.",
+    "announcementBar": "",
+    "h1": "Lease a Trailer Without Surprise Charges",
+    "heroEyebrow": "Leasing & Rentals",
+    "heroSubhead": "Standard 3-month minimum, month-to-month after. Hardware, platform, freight on a quote, and a 7-business-day standard lead time. Long-term and short-term options below.",
+    "heroCTAPrimary": {
+      "label": "Get a Lease Quote",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "Talk to Sales",
+      "url": "/request-a-quote"
+    },
+    "heroStats": [
+      "3-month minimum",
+      "5-10 day lead time",
+      "No setup fees",
+      "Relocate freely"
+    ],
+    "body": "## Standard lease terms\n\nVDS trailer leases are designed to be readable in five minutes. The terms below apply to every lease unless you negotiate an enterprise master agreement.\n\n| Term | Value |\n|---|---|\n| **Minimum term** | 3 months |\n| **After minimum** | Month-to-month, 30-day notice to cancel |\n| **Security deposit** | One month's lease, refundable |\n| **Lead time (standard)** | 5-10 business days |\n| **Lead time (expedited)** | 48-72 hours, premium applies |\n| **Freight** | Billed at cost, both ways |\n| **Relocation between sites** | Free, 48-hour notice required |\n| **Platform included** | Standard tier ($39/cam/mo equivalent) |\n| **SOC monitoring** | Optional, $399/site/mo |\n\nNo setup fees. No activation fees. No \"platform onboarding\" fees. The lease number on your quote is what you pay every month for the trailer itself.\n\n## What's included with every lease\n\n- **Hardware** \u2014 trailer, mast, cameras, solar, batteries, cellular hardware\n- **Platform access** \u2014 Standard tier subscription bundled with the lease price\n- **Standard maintenance** \u2014 firmware updates, remote diagnostics, parts replacement\n- **Cellular data** \u2014 dual-carrier LTE/5G, unlimited data on standard plans\n- **Cloud storage** \u2014 30-day video retention on AWS US-East/West\n- **NDAA compliance documentation** \u2014 provided with every unit\n\n## What's not included\n\n- SOC active monitoring ($399/site/month, add or remove anytime after the first 30 days)\n- Starlink uplink ($150/month, optional)\n- On-site service calls beyond standard maintenance (T&M, only billed when a non-VDS cause requires truck roll)\n- Customer-caused damage (covered by deposit + insurance)\n- Platform upgrades to Pro or Enterprise\n\n## Short-term and event rentals\n\nFor events, temporary jobsites, and incident-response deployments, we lease trailers under three months at a premium. Common use cases: festivals, sporting events, film sets, disaster recovery operations, temporary lay-down yards for major projects.\n\n| Term | Pricing |\n|---|---|\n| **30 days** | 1.5x standard monthly rate |\n| **60 days** | 1.25x standard monthly rate |\n| **90+ days** | Standard rate |\n\nShort-term rentals include the same hardware, platform, and freight handling as standard leases. SOC monitoring is highly recommended for events and is available on a per-night basis if a full month doesn't fit.\n\n## Long-term and multi-year fleets\n\nMulti-trailer, multi-year deployments get materially better economics. Common structures:\n\n- **12-month commit:** 5% discount off standard lease rate\n- **24-month commit:** 10% discount, includes one free trailer swap mid-term\n- **36-month commit:** 15% discount, includes platform Pro tier upgrade\n- **Fleet (5+ trailers):** volume matrix, negotiated MSA\n\nFleet customers also get a dedicated CSM, quarterly site review, and prioritized service scheduling.\n\n## Lead time, in detail\n\nStandard: **5-10 business days** from signed lease to on-site, including SOC onboarding and customer playbook configuration.\n\nExpedited: **48-72 hours** for active incident response. We hold a small inventory of staged trailers in three regional depots (Mid-Atlantic, Southeast, West) for exactly this purpose. Expedited freight and overtime mobilization fees apply.\n\nMulti-unit deployments of 3+ trailers may extend lead time depending on the trailer configuration. We'll quote the exact date with the quote.\n\n## Early termination\n\nIf you cancel after the 3-month minimum, you owe nothing beyond the current month. Cancel mid-month and the remainder of that month is billed.\n\nIf you cancel during the minimum term, the remaining months of the minimum are payable. There is no separate ETF on top of that.\n\nIf you signed a multi-year commit, early termination is governed by your MSA \u2014 typically a glide-path payment that reflects unrecovered mobilization cost.\n\n## Damage, loss, and insurance\n\nStandard leases require the customer to maintain general liability and property coverage naming VDS as additional insured. We provide a sample certificate. Normal wear and tear is on us; customer-caused damage (vehicle strikes, vandalism beyond what the trailer self-deters, theft of the trailer itself) is on the customer.",
+    "faq": [
+      {
+        "q": "Can I really cancel month-to-month after 90 days?",
+        "a": "Yes. Give us 30 days' notice and pay the current month. No fees, no clawbacks."
+      },
+      {
+        "q": "What if a trailer fails or underperforms?",
+        "a": "We swap it. Standard service-level expectation is a replacement on-site within 72 hours for a hardware failure that takes the unit offline. SOC monitors uptime continuously, so we usually know before you do."
+      },
+      {
+        "q": "Do you lease used trailers at a discount?",
+        "a": "No. Every leased trailer is a current-revision, fully serviced unit. We retire trailers from the lease pool at end-of-service-life and sell them through a separate channel."
+      },
+      {
+        "q": "Can I lease just the cameras, not the trailer?",
+        "a": "That's a platform-only deployment with customer-supplied cameras \u2014 see [Subscription Plans](/pricing/subscription-plans). Different product."
+      },
+      {
+        "q": "Can I lease-to-own?",
+        "a": "Yes, on Sky Guard MSU. Standard lease-to-own runs 36 months at $2,200/mo with a $500 buyout at end of term. Other trailers quote-based."
+      }
+    ],
+    "finalCTAHeading": "Lease a trailer",
+    "finalCTABody": "Quote in one business day. Trailer on site in 5-10 business days. Cancel any month after 90 days.",
+    "finalCTAButtons": [
+      {
+        "label": "Get a Lease Quote",
+        "url": "Talk to Sales"
+      }
+    ],
+    "schemaType": "WebPage",
+    "internalLinks": "/pricing, /pricing/purchase-options, /pricing/subscription-plans, /products/mobile-surveillance-trailers, /soc",
+    "notes": "Read alongside Purchase Options page \u2014 customers comparing capex vs opex will hit both.",
+    "canonical": "https://visiondetectionsystems.com/pricing/leasing-rentals",
+    "ogTitle": "Lease a Trailer Without Surprise Charges",
+    "ogDescription": "VDS trailer leasing terms \u2014 3-month minimum, month-to-month after, includes platform, SOC optional. Short-term event rentals and multi-year fleet leases.",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .hero-subhead, h2",
+    "tags": "mobile surveillance, VDS",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/pricing/purchase-options",
+    "slug": "purchase-options",
+    "parent": "/pricing",
+    "pageType": "Pricing Detail",
+    "status": "Launch",
+    "seoTitle": "Buy a Mobile Surveillance Trailer | VDS Purchase Pricing",
+    "metaDescription": "Buy a VDS trailer outright. Sky Guard MSU at $38,000. Capex vs opex breakdown, warranty terms, and post-sale service plans.",
+    "announcementBar": "",
+    "h1": "Buy Outright When the Math Works",
+    "heroEyebrow": "Purchase Options",
+    "heroSubhead": "For deployments that outlive a lease, ownership is the right answer. Sky Guard MSU at $38,000, full warranty, and a service plan that doesn't disappear after the PO clears.",
+    "heroCTAPrimary": {
+      "label": "Get a Purchase Quote",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "Talk to Sales",
+      "url": "/request-a-quote"
+    },
+    "heroStats": [
+      "1-year warranty standard",
+      "3-year extended available",
+      "Platform sold separately",
+      "Capex eligible"
+    ],
+    "body": "## When purchase beats lease\n\nLease economics work best for deployments under 30 months. Above that, the math typically flips toward purchase. We've watched customers run the spreadsheet \u2014 here's the rule of thumb:\n\n| Deployment horizon | Recommended model |\n|---|---|\n| <12 months | Lease, no question |\n| 12-30 months | Lease, with optional buyout at end of term |\n| 30+ months, single site | Purchase |\n| Fleet, mobile across multiple sites | Lease (the flexibility outweighs the savings) |\n| Capex-only budget cycles | Purchase, regardless of horizon |\n\nThe break-even on Sky Guard MSU is roughly 18 months \u2014 $2,200 \u00d7 17.3 months = $38,000. After 18 months of ownership, every additional month is platform + maintenance only.\n\n## What you pay for\n\nThe purchase price is hardware. Software and monitoring are sold separately as ongoing subscriptions, the same way they would be on a leased trailer. This keeps the capex number clean for finance teams and avoids bundling software cost into a depreciable asset.\n\n| Item | Price | Type |\n|---|---|---|\n| **Sky Guard MSU** | $38,000 | One-time, capex |\n| **Swift Deploy Trailer** | Contact | One-time, capex |\n| **Boundary Guard Pro** | Contact | One-time, capex |\n| **Solar Camera Pole** | Custom | One-time, capex |\n| **VDS Platform (Standard)** | $39/cam/mo | Recurring, opex |\n| **SOC Active Monitoring** | $399/site/mo | Recurring, opex |\n| **Extended Warranty (3-year)** | 12% of purchase price | One-time, capex |\n| **White-glove deployment** | $1,500/unit | One-time |\n\n## Capex vs opex \u2014 how customers actually decide\n\nThe choice usually comes down to four factors:\n\n**Budget structure.** Many enterprise security buyers have capex authority but limited opex. Trailers as a capex line are easier to approve than recurring lease payments. Government, education, and federal buyers in particular often prefer purchase for budget cycle reasons.\n\n**Deployment longevity.** Single-site, permanent or near-permanent deployments \u2014 a port, a substation, a long-cycle data center build \u2014 favor purchase. Roving construction, event security, and disaster response favor lease.\n\n**Refresh strategy.** Owning a trailer means owning the refresh decision. Cameras improve. Solar improves. Cellular standards shift (4G \u2192 5G \u2192 whatever's next). Lease customers refresh implicitly when we update the lease pool. Purchase customers refresh when they decide to.\n\n**Tax treatment.** Section 179 expensing and bonus depreciation may make purchase materially more attractive in a given tax year. We're not your CPA \u2014 talk to yours.\n\n## Warranty terms\n\n**Standard warranty (included, 12 months):**\n- All trailer hardware against manufacturing defect\n- Cameras, mast, solar panels, batteries, cellular hardware\n- Excludes: customer-caused damage, acts of nature beyond design spec, neglect\n- Parts shipped within 48 hours; labor billed at standard rate\n\n**Extended warranty (optional, 3-year):**\n- 12% of purchase price, paid up front\n- Same coverage as standard, extended to 36 months total\n- Adds 50% labor allowance on covered repairs\n- Adds one free battery bank replacement at year 3\n\n**Lifetime platform compatibility:**\nWe commit, in writing, that any trailer purchased from us will remain platform-compatible for a minimum of 7 years from delivery. Older trailers may not get every new feature, but they will not be EOL'd off the platform short of that horizon.\n\n## Post-sale service\n\nOwnership means you own the maintenance. We offer three service tiers for trailer owners:\n\n| Plan | Price | What's covered |\n|---|---|---|\n| **Self-serve** | $0 | Remote firmware updates, platform support, parts at list |\n| **Standard service** | $99/unit/mo | Above + 50% parts discount + 2 service calls/year included |\n| **Premium service** | $249/unit/mo | Above + unlimited service calls + 4-hour response SLA + annual on-site PM |\n\nMost purchase customers run Standard service. Premium is typical for fleet owners with mission-critical deployments where downtime cost exceeds the plan price.\n\n## Trade-in\n\nIf you bought a trailer from us 4+ years ago and want to refresh, we offer trade-in credit toward a new unit. Typical trade-in value on a Sky Guard MSU is 25-40% of original purchase price depending on age and condition. Quoted per unit on inspection.",
+    "faq": [
+      {
+        "q": "Can I finance the purchase?",
+        "a": "Yes. We work with two equipment financing partners for terms up to 60 months. Rates are credit-dependent. Most purchase customers, though, are using existing capex budget \u2014 financing tends to make the lease math more attractive than purchase math."
+      },
+      {
+        "q": "What happens to platform features I bought when a new tier launches?",
+        "a": "New features land on existing platform tiers per the published roadmap. You don't lose anything by buying today. You may want to upgrade tier later if a Pro-tier feature becomes important."
+      },
+      {
+        "q": "Can I sell a trailer I bought from VDS?",
+        "a": "Yes. It's your property. We'll re-onboard the new owner to the platform on standard terms. We don't charge a transfer fee, but the new owner becomes responsible for the platform subscription from the transfer date."
+      },
+      {
+        "q": "What's the difference between Sky Guard purchase and lease-to-own?",
+        "a": "Purchase is one payment, ownership immediately. Lease-to-own is 36 monthly payments with a $500 buyout \u2014 total cost is higher, but the cash-flow profile fits some budgets better."
+      },
+      {
+        "q": "Are purchase orders accepted, or do I need to prepay?",
+        "a": "Net-30 POs accepted for customers with approved credit. Standard for federal, state, and Fortune 1000 buyers. New customers may be asked for 50% deposit on the first unit."
+      }
+    ],
+    "finalCTAHeading": "Buy a trailer",
+    "finalCTABody": "Quote, PO, build, ship. Typical purchase cycle is 4-6 weeks from PO. Service plan starts on delivery.",
+    "finalCTAButtons": [
+      {
+        "label": "Get a Purchase Quote",
+        "url": "Talk to Sales"
+      }
+    ],
+    "schemaType": "WebPage + Offer",
+    "internalLinks": "/pricing, /pricing/leasing-rentals, /pricing/subscription-plans, /products/sky-guard-msu, /products/mobile-surveillance-trailers",
+    "notes": "Pair with leasing page in nav. Capex-focused buyers (federal, edu, large enterprise) land here.",
+    "canonical": "https://visiondetectionsystems.com/pricing/purchase-options",
+    "ogTitle": "Buy Outright When the Math Works",
+    "ogDescription": "Buy a VDS trailer outright. Sky Guard MSU at $38,000. Capex vs opex breakdown, warranty terms, and post-sale service plans.",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .hero-subhead, h2",
+    "tags": "mobile surveillance, VDS",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/pricing/subscription-plans",
+    "slug": "subscription-plans",
+    "parent": "/pricing",
+    "pageType": "Pricing Detail",
+    "status": "Launch",
+    "seoTitle": "VDS Platform Subscription Plans | Standard, Pro, Enterprise",
+    "metaDescription": "VDS platform pricing \u2014 Standard $39, Pro $69, Enterprise custom. Camera-agnostic VMS with 30/60/90-day retention. SOC add-on $399/site/mo.",
+    "announcementBar": "",
+    "h1": "Platform Subscriptions, Per Camera, Per Month",
+    "heroEyebrow": "Subscription Plans",
+    "heroSubhead": "One pricing axis: how many cameras, which tier. Three tiers. No hidden seat fees, no analytics paywall on tier 1, no surprises on the invoice.",
+    "heroCTAPrimary": {
+      "label": "Start a Subscription",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "Compare Tiers",
+      "url": "/request-a-quote"
+    },
+    "heroStats": [
+      "Camera-agnostic",
+      "NDAA compliant",
+      "AWS-hosted (US)",
+      "Monthly billing"
+    ],
+    "body": "## How platform pricing works\n\nOne dimension: per camera, per month, at the tier you pick. A 12-camera site on Pro is $69 \u00d7 12 = $828/month. A 40-camera campus on Standard is $39 \u00d7 40 = $1,560/month. There's no per-seat fee, no per-event fee, no analytics module to unlock at extra cost.\n\nYou can mix tiers across a fleet but not within a site \u2014 every camera at one physical site runs the same tier. This is a practical limit, not a billing trick; the analytics pipeline runs per-site for a reason.\n\n## The three tiers\n\n| | Standard | Pro | Enterprise |\n|---|---|---|---|\n| **Price** | $39/cam/mo | $69/cam/mo | Custom |\n| **Cloud video retention** | 30 days | 60 days | 90 days (extendable) |\n| **Live view (web + mobile)** | Yes | Yes | Yes |\n| **Motion alerts** | Yes | Yes | Yes |\n| **Basic analytics** | Person, vehicle | Person, vehicle | Person, vehicle |\n| **Advanced analytics** | \u2014 | Intrusion, line-cross, loitering, PPE, crowding | All Pro + custom models |\n| **LPR (per lane)** | \u2014 | $89/lane/mo add | Included up to fleet cap |\n| **API access** | Read-only | Full read/write | Full + webhooks + SDK |\n| **User seats** | 5 | 25 | Unlimited |\n| **SSO (SAML/OIDC)** | \u2014 | \u2014 | Yes |\n| **Audit logging** | Basic | Detailed | Forensic-grade |\n| **Customer success** | Email + chat | Email + chat + scheduled calls | Dedicated CSM |\n| **Onboarding** | Self-serve + docs | Standard onboarding call | White-glove |\n| **Uptime SLA** | 99.5% | 99.9% | 99.95% |\n\n## Which tier fits\n\n**Standard ($39/cam/mo).** Single-site customers, general surveillance, no analytics requirements beyond person/vehicle motion. This is the right tier for the small construction site, the auto lot, the self-storage facility, the rural property. It's not stripped down \u2014 it's a complete VMS with 30-day retention and a real mobile app.\n\n**Pro ($69/cam/mo).** The tier most multi-site customers settle on. Advanced analytics (line-crossing, loitering, PPE, crowd density) turn the platform from a recording system into a detection system. API access enables integration with dispatch, access control, and ticketing. Pro is the default tier on VDS trailer fleets running across 5+ sites.\n\n**Enterprise (custom).** SSO, full audit logging, custom retention beyond 90 days, custom analytic models, and a dedicated CSM. Required for most federal contracts, regulated industries (utilities, healthcare, financial), and customers running 100+ cameras. Pricing is configuration-dependent \u2014 expect $50-$80/cam/mo equivalent in most configurations.\n\n## SOC add-on\n\nEvery tier supports adding the VDS Security Operations Center for **$399/site/month**. SOC is priced per site, not per camera, so a 30-camera site costs the same to monitor as a 5-camera site.\n\nWhat you get for $399:\n- 24/7 live monitoring of priority alerts\n- <60-second escalation on verified events\n- Voice-down talk-down where hardware supports\n- Direct dispatch coordination with your designated responders (police, internal security, on-call)\n- Customer playbook configuration (what counts as priority, who gets called when)\n- Weekly event summary report\n\nThe SOC is staffed in the US, trained on the VDS platform, and operating under ESA monitoring standards. Adding or removing SOC mid-subscription requires only a 30-day notice.\n\n## Retention windows and why they matter\n\nRetention isn't just a number \u2014 it's what determines whether you can answer the questions that come up two months after an incident.\n\n- **30 days (Standard)** \u2014 fine for routine surveillance, investigations that surface within a month, and customers who plan to download evidence as soon as something happens\n- **60 days (Pro)** \u2014 covers most insurance claim windows, employee dispute investigations, and the typical interval before a previously-unnoticed incident gets reported\n- **90+ days (Enterprise)** \u2014 required for many regulated industries, federal contracts, and long-cycle dispute resolution\n\nCustomers can pull video to local archive at any time. Retention applies to cloud-resident video only.\n\n## Billing, terms, and changes\n\n- **Billing cycle:** monthly, invoiced on the 1st\n- **Payment:** ACH preferred, credit card accepted up to $10K/month\n- **Tier changes:** upgrade anytime (prorated), downgrade at next billing cycle\n- **Add/remove cameras:** anytime, prorated\n- **Cancellation:** 30-day notice, no early termination fees on month-to-month\n- **Annual prepay discount:** 10% off list when paid 12 months in advance\n\n## Volume pricing\n\n| Cameras | Standard | Pro |\n|---|---|---|\n| 1-49 | $39 | $69 |\n| 50-149 | $35 | $62 |\n| 150-499 | $32 | $56 |\n| 500+ | Enterprise | Enterprise |\n\nVolume tiers apply across a single billed entity. Multi-entity arrangements (parent company with subsidiaries) are quoted at the consolidated count.",
+    "faq": [
+      {
+        "q": "Can I use my own cameras?",
+        "a": "Yes. The VDS platform is camera-agnostic \u2014 any ONVIF Profile-S/T camera works. We support most major brands and have documented integrations for Axis, Hanwha, Avigilon, Bosch, and others."
+      },
+      {
+        "q": "What if I'm on Standard and want one Pro feature?",
+        "a": "Upgrade the whole site to Pro. There's no per-feature unlock \u2014 the analytics pipeline runs site-wide."
+      },
+      {
+        "q": "Is there a free trial?",
+        "a": "Yes, 14 days on Standard or Pro for new customers, on up to 4 cameras. Enterprise has a structured proof-of-concept program instead."
+      },
+      {
+        "q": "Where is video stored?",
+        "a": "AWS US-East and US-West, depending on customer region. Enterprise customers can request specific regions. We're an AWS Partner Network member."
+      },
+      {
+        "q": "Do I get a price increase notice?",
+        "a": "Yes. Existing customers get 90 days' notice on any list price change, with the option to lock the prior price for an additional 12 months at signing."
+      }
+    ],
+    "finalCTAHeading": "Pick a plan",
+    "finalCTABody": "Start with Standard or Pro, change tiers any time, cancel any month. Enterprise customers, talk to sales.",
+    "finalCTAButtons": [
+      {
+        "label": "Start a Subscription",
+        "url": "Talk to Sales"
+      }
+    ],
+    "schemaType": "WebPage + Offer (x3 tiers)",
+    "internalLinks": "/pricing, /pricing/leasing-rentals, /pricing/purchase-options, /platform, /soc, /products/license-plate-recognition",
+    "notes": "Pricing transparency on platform tiers is the strongest differentiator vs Verkada/Eagle Eye. Lead with the comparison.",
+    "canonical": "https://visiondetectionsystems.com/pricing/subscription-plans",
+    "ogTitle": "Platform Subscriptions, Per Camera, Per Month",
+    "ogDescription": "VDS platform pricing \u2014 Standard $39, Pro $69, Enterprise custom. Camera-agnostic VMS with 30/60/90-day retention. SOC add-on $399/site/mo.",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .hero-subhead, h2",
+    "tags": "mobile surveillance, VDS",
+    "author": "Vision Detection Systems"
+  }
+]

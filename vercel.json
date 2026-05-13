@@ -1,0 +1,58 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": "astro",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "trailingSlash": false,
+  "cleanUrls": true,
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        { "key": "Strict-Transport-Security", "value": "max-age=63072000; includeSubDomains; preload" },
+        { "key": "X-Content-Type-Options", "value": "nosniff" },
+        { "key": "X-Frame-Options", "value": "SAMEORIGIN" },
+        { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" },
+        { "key": "Permissions-Policy", "value": "camera=(), microphone=(), geolocation=()" }
+      ]
+    }
+  ],
+  "redirects": [
+    { "source": "/request-quote", "destination": "/request-a-quote", "permanent": true },
+    { "source": "/mobile-surveillance-trailers", "destination": "/products/mobile-surveillance-trailers", "permanent": true },
+    { "source": "/remote-video-monitoring", "destination": "/services/remote-video-monitoring", "permanent": true },
+    { "source": "/construction-site-security-services", "destination": "/industries/construction-site-security", "permanent": true },
+    { "source": "/license-plate-recognition-camera", "destination": "/products/license-plate-recognition", "permanent": true },
+    { "source": "/fixed-mounted-surveillance-units", "destination": "/products/solar-camera-poles", "permanent": true },
+    { "source": "/police-security-cameras", "destination": "/industries/public-safety-law-enforcement-surveillance", "permanent": true },
+    { "source": "/shopping-center-remote-monitoring", "destination": "/industries/retail-shopping-center-security", "permanent": true },
+    { "source": "/construction-live-monitoring", "destination": "/services/remote-video-monitoring", "permanent": true },
+    { "source": "/parking-lot-surveillance-cameras", "destination": "/industries/parking-lot-garage-security", "permanent": true },
+    { "source": "/blog", "destination": "/resources/blog", "permanent": true },
+    { "source": "/mission", "destination": "/about-us/mission", "permanent": true },
+    { "source": "/our-plant", "destination": "/about-us/our-plant", "permanent": true },
+    { "source": "/why-vds", "destination": "/about-us/why-vision-detection-systems", "permanent": true },
+    { "source": "/dealer", "destination": "/partners/dealer-program", "permanent": true },
+    { "source": "/join-our-team", "destination": "/about-us/careers", "permanent": true },
+    { "source": "/media-room", "destination": "/resources/news", "permanent": true },
+    { "source": "/site-assesment", "destination": "/services/consulting", "permanent": true },
+    { "source": "/get-a-quote", "destination": "/request-a-quote", "permanent": true },
+    { "source": "/get-a-quote-2", "destination": "/request-a-quote", "permanent": true },
+    { "source": "/mobile-security-surveillance-quote", "destination": "/request-a-quote", "permanent": true },
+    { "source": "/mobile-surveillance-trailers-baltimore-massachusetts", "destination": "/locations/mobile-surveillance-trailers/baltimore", "permanent": true },
+    { "source": "/mobile-surveillance-trailers-charlotte-north-carolina", "destination": "/locations/mobile-surveillance-trailers/charlotte", "permanent": true },
+    { "source": "/mobile-surveillance-trailers-chicago-illinois", "destination": "/locations/mobile-surveillance-trailers/chicago", "permanent": true },
+    { "source": "/mobile-surveillance-trailers-denver-colorado", "destination": "/locations/mobile-surveillance-trailers/denver", "permanent": true },
+    { "source": "/mobile-surveillance-trailers-houston-texas", "destination": "/locations/mobile-surveillance-trailers/houston", "permanent": true },
+    { "source": "/mobile-surveillance-trailers-in-miami", "destination": "/locations/mobile-surveillance-trailers/miami", "permanent": true },
+    { "source": "/mobile-surveillance-trailers-jacksonville-florida", "destination": "/locations/mobile-surveillance-trailers/jacksonville", "permanent": true },
+    { "source": "/mobile-surveillance-trailers-los-angeles-california", "destination": "/locations/mobile-surveillance-trailers/los-angeles", "permanent": true },
+    { "source": "/mobile-surveillance-trailers-nashville-tennessee", "destination": "/locations/mobile-surveillance-trailers/nashville", "permanent": true },
+    { "source": "/mobile-surveillance-trailers-new-york-city-new-york", "destination": "/locations/mobile-surveillance-trailers/new-york", "permanent": true },
+    { "source": "/mobile-surveillance-trailers-philadelphia-pennsylvania", "destination": "/locations/mobile-surveillance-trailers/philadelphia", "permanent": true },
+    { "source": "/mobile-surveillance-trailers-phoenix-arizona", "destination": "/locations/mobile-surveillance-trailers/phoenix", "permanent": true },
+    { "source": "/mobile-surveillance-trailers-seattle-washington", "destination": "/locations/mobile-surveillance-trailers/seattle", "permanent": true },
+    { "source": "/vegas", "destination": "/locations/mobile-surveillance-trailers/las-vegas", "permanent": true },
+    { "source": "/windows-7-activator-free-download-for-32-bit", "destination": "/", "permanent": false }
+  ]
+}

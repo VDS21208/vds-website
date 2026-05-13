@@ -1,0 +1,702 @@
+[
+  {
+    "url": "/services/consulting",
+    "slug": "consulting",
+    "parent": "/services",
+    "pageType": "Service Detail",
+    "status": "Expansion",
+    "seoTitle": "Security Consulting, NDAA Audit & Insurance Review | VDS",
+    "metaDescription": "Perimeter risk assessment, NDAA Section 889 compliance audit, and insurance optimization review. Senior engineers, not deck-only consultants.",
+    "announcementBar": "Engineers, not deck-only consultants. Site visit included.",
+    "h1": "Perimeter risk. NDAA compliance. Insurance posture. Three reports your CFO and CSO will both read.",
+    "heroEyebrow": "Consulting & Site Assessment",
+    "heroSubhead": "Senior security engineers walk your perimeter, audit your compliance posture, and benchmark your insurance terms. Deliverables are working documents with named recommendations and dollar figures \u2014 not pretty PDFs.",
+    "heroCTAPrimary": {
+      "label": "Book an assessment",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "See sample deliverable",
+      "url": "/request-a-quote"
+    },
+    "heroStats": [
+      "Senior engineers",
+      "On-site walkthrough",
+      "Vendor-neutral findings",
+      "NDAA 889 audit",
+      "Insurance carrier coordination"
+    ],
+    "body": "The consulting market is full of slide decks that don't translate into action. We do consulting the way our SOC writes incident reports: named subjects, dollar figures, recommended next actions.\n\nThree engagements. Each one stands alone or stacks into a complete security review.\n\n## Perimeter Risk Assessment\n\nA senior engineer spends a half-day to a full day on site. Walks the perimeter, photographs gaps, tests existing camera coverage, reviews access control logs, interviews the site supervisor and the local LE liaison.\n\nDeliverable includes:\n- Site map with current camera coverage, blind spots, and recommended additions\n- Force-on-force scenarios: cut-fence, ram-vehicle, social-engineering, insider-threat\n- Loss exposure model in dollars: tools, copper, switchgear, equipment, fuel, vehicles\n- Lighting and natural-surveillance recommendations (some of which cost nothing)\n- Recommended phasing: what to do in 30 days, 90 days, 12 months\n- Vendor-neutral specification of what to procure \u2014 we'll tell you when VDS is the wrong fit\n\nTypical engagement: $4,500\u2013$9,500 depending on site size and travel. Credited toward managed services contract if you sign within 90 days.\n\n## NDAA Section 889 Compliance Audit\n\nSection 889 of the 2019 NDAA prohibits federal contractors and grant recipients from using covered telecom and video surveillance equipment from named manufacturers (Hikvision, Dahua, Hytera, Huawei, ZTE) or their OEM-rebranded variants.\n\nMost facilities don't know what's installed. We do the audit:\n\n- Physical inventory of every camera, NVR, switch, and access control device on site\n- Firmware and chipset analysis on flagged devices (rebrands often hide upstream components)\n- Documentation review: invoices, prior procurement records, manufacturer attestations\n- Written remediation plan with prioritized replacement schedule\n- Updated attestation letter for federal compliance officers\n\nAudit findings have caught Section 889 violations at 41 of the 73 facilities we've audited since 2021. Most clients didn't know they were non-compliant.\n\nEngagement runs 2\u20134 weeks. Pricing scales with device count: starts at $7,500 for under 50 devices, custom-quoted for enterprise.\n\n## Insurance Optimization Review\n\nMost commercial property and inland-marine policies offer premium credits for documented physical security measures. Most insureds never claim them because the carrier paperwork is opaque and the security vendor doesn't talk to the broker.\n\nWe do:\n- Review current policy declarations, endorsements, and underwriting questionnaire\n- Document existing security posture in carrier-readable format\n- Coordinate with your broker on credit eligibility (theft, vandalism, business interruption, builder's risk)\n- Model premium impact of incremental security investments\n- Provide post-incident documentation packets if you have a claim history that's hurting your rates\n\nAverage documented premium savings on engagements completed in 2024: $18,400/year across mid-size accounts. Largest single savings: $94,000/year on a multi-site logistics account.\n\nEngagement is $3,500\u2013$6,500, typically completed in 3 weeks. We don't take broker commissions \u2014 we work for the insured.\n\n## How the three stack\n\nMost clients run the Perimeter Risk Assessment first because it produces immediate operational findings. The NDAA audit follows when there's a federal contract pending or a procurement review coming up. The Insurance Review goes last because the findings from the first two feed the carrier conversation.\n\nDone together, the three deliverables form a security posture report that goes to the board with hard numbers attached.\n\n## Who does the consulting\n\nVDS senior engineers with 10+ years of physical security infrastructure experience. Backgrounds across DoD, federal LE, critical infrastructure, and commercial construction. Not third-party consultants. Not the SDR who quoted your trailer.\n\nEngagements are billed flat-fee, not T&M. We don't pad hours.",
+    "faq": [
+      {
+        "q": "Are you a vendor or a consultant? Isn't this a conflict?",
+        "a": "Both. We disclose it up front. The consulting deliverables identify what to do \u2014 and explicitly call out when VDS is not the right vendor for a given line item. We've recommended competitors on roughly 1 in 8 engagements. Honest scope is the only way the consulting model works long-term."
+      },
+      {
+        "q": "Will you sign an NDA before the engagement?",
+        "a": "Yes. Standard mutual NDA template available, or we'll sign yours after legal review. Findings remain customer property; we publish anonymized methodology only."
+      },
+      {
+        "q": "How long does an NDAA audit take?",
+        "a": "Typical 50\u2013200 device facility: 2\u20133 weeks from kickoff to written report. Larger enterprise environments: 4\u20138 weeks. Remote-only audits (documentation review without site visit) are 30\u201340% faster but catch less."
+      },
+      {
+        "q": "Do you offer insurance review without the security work?",
+        "a": "Yes, as a standalone engagement. We don't take broker commissions, so the recommendation is vendor-neutral. About 30% of insurance reviews don't result in any VDS hardware sale \u2014 and that's by design."
+      },
+      {
+        "q": "What if your assessment recommends a competitor?",
+        "a": "We say so in writing. We've recommended Genetec, Avigilon, and Verkada on specific engagements where their product fit the use case better than ours. The credibility of the consulting practice depends on this being real."
+      }
+    ],
+    "finalCTAHeading": "Book the assessment.",
+    "finalCTABody": "30-minute scoping call to confirm the right engagement. On-site work begins within 2 weeks. Written deliverable inside 3 weeks of the site visit.",
+    "finalCTAButtons": [
+      {
+        "label": "Book an assessment",
+        "url": "See sample deliverable"
+      }
+    ],
+    "schemaType": "Service",
+    "internalLinks": "/services/managed, /resources/ndaa-section-889, /insights/insurance-premium-credits, /about/team",
+    "notes": "Expansion status \u2014 verify consulting capacity and bench depth before promoting heavily. Sample deliverable should be a real anonymized PDF gated by email.",
+    "canonical": "https://visiondetectionsystems.com/services/consulting",
+    "ogTitle": "Perimeter risk. NDAA compliance. Insurance posture. Three reports your CFO and CSO will both",
+    "ogDescription": "Perimeter risk assessment, NDAA Section 889 compliance audit, and insurance optimization review. Senior engineers, not deck-only consultants.",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .hero-subhead, h2",
+    "tags": "mobile surveillance, VDS",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/services/deployment-logistics",
+    "slug": "deployment-logistics",
+    "parent": "/services",
+    "pageType": "Service Detail",
+    "status": "Expansion",
+    "seoTitle": "Deployment Logistics | National Trailer Install & Redeploy",
+    "metaDescription": "Site survey, transport, install, redeploy. Managed end-to-end across 30+ states. Same-day to 72-hour deployment. 500+ deployments completed.",
+    "announcementBar": "",
+    "h1": "National Deployment Logistics, Managed End-to-End",
+    "heroEyebrow": "Managed Service",
+    "heroSubhead": "Site survey, transport, install, level, configure, redeploy. Same-day to 72-hour on most US locations. 500+ completed deployments across 30+ states.",
+    "heroCTAPrimary": {
+      "label": "Request a Site Survey",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "See Coverage Map",
+      "url": "/request-a-quote"
+    },
+    "heroStats": [
+      "30+ states \u2022 Same-day to 72-hour deployment \u2022 DOT-compliant transport \u2022 Insured fleet"
+    ],
+    "body": "A trailer that sits in a yard is not security. Getting steel onto the dirt \u2014 on the right pad, at the right elevation, with the right view angles, levered up, leveled, and connected \u2014 is half the job. VDS runs deployment logistics as a single managed workflow from quote to operational.\n\n## Phase 1: Site survey\n\nEvery deployment opens with a survey. Three formats depending on the engagement:\n\n- **Remote desk survey** \u2014 satellite imagery, customer-provided site photos, address geocoding for cellular signal estimate. Same day, no charge. Sufficient for ~60% of deployments.\n- **Drive-by survey** \u2014 regional tech visits the site for 30-60 minutes, captures RF measurements on all four carriers, photographs sight lines and ingress, confirms pad surface. 2-5 business days, no charge for serious-buyer engagements.\n- **Full on-site survey** \u2014 2-4 hour engagement with a senior solutions engineer. Coverage mapping per camera, mast height analysis, neighbor / nuisance considerations, lighting analysis for IR vs. visible. Quoted per site for complex deployments.\n\nDeliverable: a site plan PDF with proposed camera positions, view fields, mast height, expected RF, and pad requirements.\n\n## Phase 2: Pre-deployment\n\n- Trailer prep at the regional staging facility \u2014 battery balance check, firmware update to current release, camera focus verification, SIM activation, AI rules pre-loaded\n- Customer access coordination \u2014 gate codes, escort requirements, badging, insurance certificates\n- Permits where required \u2014 most municipalities do not require permits for a trailer; some HOAs and a handful of city codes do. We handle the filing.\n\n## Phase 3: Transport\n\nOur fleet runs DOT-compliant CDL drivers across owned tractors and a vetted contract network. Transport insurance is $1M per load. Most metro markets are reached from a regional yard within an 8-hour drive window.\n\nTypical timelines:\n\n- **Same-day** \u2014 60-mile radius from a regional yard, request received before 10am local\n- **Next-day** \u2014 250-mile radius, request received before 5pm local\n- **72-hour** \u2014 anywhere in the continental US not already covered by the above\n\nHawaii, Alaska, and Puerto Rico are quoted separately; ocean freight adds 7-21 days.\n\n## Phase 4: On-site install\n\nStandard install runs 90-180 minutes per trailer:\n\n1. Position and level \u2014 hydraulic outriggers, bubble level, 2-degree tolerance\n2. Mast deployment \u2014 12-30 ft typical, wind-rated to 75 mph deployed\n3. Camera aim and focus \u2014 verified against the site plan via on-platform live view\n4. Cellular antenna alignment \u2014 peaked for best RSRP on primary and secondary carriers\n5. Solar panel orientation \u2014 magnetic south, tilt-adjusted for latitude\n6. Configuration push \u2014 AI rules, retention policy, user permissions, alert routing\n7. SOC handoff \u2014 operator confirms inbound stream, AI events firing, audio talk-down test\n8. Customer walkthrough \u2014 site contact gets the portal login and a live demo on their site\n\nA typical 4-camera install with a 2-person crew completes in under 2.5 hours.\n\n## Phase 5: Redeploy\n\nThe most common operational request: move the trailer. New phase of a construction project, new event venue, seasonal retail, post-storm response.\n\nRedeployment is treated as a fresh install \u2014 survey (usually remote for repeat customers), transport, level, reconfigure. Same crew network. 24-72 hour standard turnaround within a state, 5-7 days cross-country.\n\nFor multi-site customers with frequent rotations, we provision a regional swap inventory \u2014 a spare trailer staged within a few hours of the highest-rotation sites. Redeploys against the swap inventory take hours, not days.\n\n## Coverage footprint\n\nActive deployments today across all of the lower 48 except for Vermont and Wyoming. Eight regional yards positioned to keep transport drives under 8 hours for ~92% of US population centers. Field-tech network covers every market we deploy into.\n\n## What is not included by default\n\n- Concrete pad construction (most sites use the existing ground; gravel and packed dirt are fine)\n- Power tie-in (trailers are solar-autonomous; AC power is optional for high-density camera builds)\n- Long-term lease of customer-owned land \u2014 that is between the customer and the property holder\n\n## What is included\n\nSurvey, transport, install, configure, monthly device health, redeploy at no transport surcharge for in-state moves under contract.",
+    "faq": [
+      {
+        "q": "How fast can you get a trailer to a new site?",
+        "a": "Same-day inside 60 miles of a regional yard. 72 hours anywhere in the continental US."
+      },
+      {
+        "q": "Do I need to provide power or network at the site?",
+        "a": "No. Trailers are solar-autonomous with multi-carrier cellular included. Wired uplink and AC power are optional, never required."
+      },
+      {
+        "q": "What surfaces can a trailer deploy on?",
+        "a": "Gravel, dirt, packed soil, asphalt, concrete. Mud and standing water require gravel base or a steel mat we can provide."
+      },
+      {
+        "q": "How long does an install take?",
+        "a": "90-180 minutes per trailer for a standard 4-camera build. Multi-trailer deployments scale with crew size."
+      },
+      {
+        "q": "What if I need to move the trailer mid-contract?",
+        "a": "In-state moves are covered with no transport surcharge under standard MSA terms. Cross-state moves are quoted per move."
+      }
+    ],
+    "finalCTAHeading": "Quote your deployment",
+    "finalCTABody": "Send us your site list. We will return survey timing, deployment timeline, and a deployed-cost estimate within 2 business days.",
+    "finalCTAButtons": [
+      {
+        "label": "Request a Site Survey",
+        "url": "View Coverage Map"
+      }
+    ],
+    "schemaType": "Service",
+    "internalLinks": "/services/network-connectivity, /services/device-health-monitoring, /hardware/mobile-surveillance-trailers, /about/coverage",
+    "notes": "Operationally focused; the speed numbers are differentiators. Link from every industry page where speed-of-deployment matters (construction, events, emergency response).",
+    "canonical": "https://visiondetectionsystems.com/services/deployment-logistics",
+    "ogTitle": "National Deployment Logistics, Managed End-to-End",
+    "ogDescription": "Site survey, transport, install, redeploy. Managed end-to-end across 30+ states. Same-day to 72-hour deployment. 500+ deployments completed.",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .hero-subhead, h2",
+    "tags": "warehouse security, cargo theft",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/services/device-health-monitoring",
+    "slug": "device-health-monitoring",
+    "parent": "/services",
+    "pageType": "Service Detail",
+    "status": "Expansion",
+    "seoTitle": "Device Health Monitoring | Proactive Trailer Telemetry | VDS",
+    "metaDescription": "24/7 telemetry on battery, solar, cellular, camera uptime, and tamper. Failures predicted and dispatched before downtime",
+    "announcementBar": "",
+    "h1": "Device Health Monitoring Before Failure, Not After",
+    "heroEyebrow": "Managed Service",
+    "heroSubhead": "Battery state, solar input, cellular RSRP, camera frame rate, and tamper status streamed to the VDS NOC every 60 seconds. Issues open a ticket before a camera goes dark.",
+    "heroCTAPrimary": {
+      "label": "See a Sample Health Dashboard",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "Talk to an Engineer",
+      "url": "/request-a-quote"
+    },
+    "heroStats": [
+      "60-second telemetry \u2022 99.6% uptime SLA \u2022 Predictive battery alerts \u2022 Included with every trailer"
+    ],
+    "body": "Every VDS trailer reports to our network operations center every 60 seconds. We monitor the things that actually fail on a remote outdoor unit \u2014 and we open the ticket before you find out about the outage from your facility manager.\n\n## What we measure\n\n**Power system**\n- Battery voltage, current, and state-of-charge (SoC)\n- Battery temperature (cold-soak risk in northern climates, thermal runaway risk in southern)\n- Solar panel input voltage and current per string\n- Charge controller mode (bulk, absorb, float, equalize)\n- Daily kWh in vs. kWh out \u2014 predicts winter SoC drift before it becomes a brown-out\n\n**Connectivity**\n- Cellular RSRP, RSRQ, and SINR per modem\n- Carrier and band attached (Verizon, AT&T, T-Mobile, FirstNet)\n- Failover events between primary and secondary SIM\n- Starlink uplink throughput and obstruction percentage (where deployed)\n\n**Cameras**\n- ONVIF heartbeat per camera, 30-second interval\n- Frame rate, bitrate, packet loss\n- Lens fault (focus drift, condensation, obstruction detected via image analytics)\n- IR illuminator current draw \u2014 predicts night-vision degradation\n\n**Physical**\n- Tilt sensor (trailer leveling drift, attempted tipping)\n- Door / panel switches (cabinet access, attempted entry)\n- GPS position vs. expected geofence\n- Mast extension limit switches\n\n## Alert thresholds, not just dashboards\n\nA dashboard is not a service. We define thresholds per metric and per deployment context. A construction site in Phoenix in July gets different thermal limits than a logistics yard in Fargo in January. Default thresholds for the most common alerts:\n\n- Battery SoC below 35% on a clear-sky day \u2192 ticket opened, solar diagnostic dispatched\n- Cellular RSRP worse than -110 dBm for 15 minutes \u2192 ticket, antenna inspection\n- Camera frame rate below 80% of nominal for 5 minutes \u2192 ticket, stream restart attempted automatically\n- Tamper sensor triggered \u2192 SOC notified immediately, audio talk-down armed, dispatch evaluated\n- GPS position outside geofence \u2192 escalation, vehicle recovery procedure\n\n## What happens when an alert fires\n\n1. NOC engineer acknowledges within 5 minutes during business hours, 15 minutes overnight\n2. Remote diagnostics \u2014 firmware status, recent log review, attempt remote fix\n3. If unresolvable remotely, dispatch decision: customer-fixable, regional tech, or trailer redeploy\n4. Customer notified by email, SMS, or webhook depending on tenant preference\n5. Resolution logged to the immutable audit trail\n\nA typical fix-without-truck-roll rate across our fleet runs 73%. The remaining 27% generate a same-day to 72-hour field response depending on site criticality.\n\n## Predictive replacement\n\nBattery banks have a service curve. We track depth-of-discharge cycles and Peukert-adjusted capacity per pack and flag replacement at roughly 80% of expected end-of-life \u2014 typically months ahead of failure. Same for fan-cooled cellular modems, IR illuminators, and dome-camera gaskets.\n\n## What the customer sees\n\nA live dashboard per trailer with the same metrics we monitor, downloadable monthly health PDFs, and webhook subscription if you want the data piped into your own ITSM (see the API page). Uptime SLA is reported per quarter against a 99.6% target.\n\n## Included, not upsold\n\nDevice health monitoring is included with every VDS-deployed trailer at no extra cost. We are responsible for keeping the asset online; this is the instrumentation that lets us hold ourselves to that.",
+    "faq": [
+      {
+        "q": "Does this apply to my own cameras on a VDS network?",
+        "a": "Camera health monitoring applies to any ONVIF-compliant camera on AI VisionStream, including yours. Trailer-specific telemetry (battery, solar) applies to VDS-owned trailers."
+      },
+      {
+        "q": "What is the historical retention for health data?",
+        "a": "12 months at full resolution, 5 years at hourly aggregates."
+      },
+      {
+        "q": "How are tamper alerts validated to avoid false positives from animals or weather?",
+        "a": "Tamper is a composite signal: tilt + door switch + camera analytics + SOC visual confirmation. Single-sensor triggers escalate to human review before dispatch."
+      },
+      {
+        "q": "Can I set custom alert thresholds?",
+        "a": "Yes. Tenant admins can override defaults per site or per device class."
+      },
+      {
+        "q": "What is the cost?",
+        "a": "Included with every VDS trailer subscription. No separate line item."
+      }
+    ],
+    "finalCTAHeading": "See your fleet's telemetry",
+    "finalCTABody": "We will pull anonymized health data from a comparable deployment so you can see the dashboard, the alert flow, and the monthly report format.",
+    "finalCTAButtons": [
+      {
+        "label": "Schedule Walkthrough",
+        "url": "Download Service Brief"
+      }
+    ],
+    "schemaType": "Service",
+    "internalLinks": "/services/24-7-soc, /services/network-connectivity, /platform/ai-visionstream, /hardware/mobile-surveillance-trailers",
+    "notes": "Anchor the 99.6% uptime number. Link from hardware page and from MSU buyer's guide.",
+    "canonical": "https://visiondetectionsystems.com/services/device-health-monitoring",
+    "ogTitle": "Device Health Monitoring Before Failure, Not After",
+    "ogDescription": "24/7 telemetry on battery, solar, cellular, camera uptime, and tamper. Failures predicted and dispatched before downtime",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .hero-subhead, h2",
+    "tags": "24/7 SOC, remote video monitoring",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/services/installation-maintenance",
+    "slug": "installation-maintenance",
+    "parent": "/services",
+    "pageType": "Service Detail",
+    "status": "Launch",
+    "seoTitle": "Security Camera Installation & Maintenance Services | VDS",
+    "metaDescription": "Licensed field technicians for permanent install, retrofits, preventive maintenance, and redeployment. We service what we sell and what you already own.",
+    "announcementBar": "Licensed field techs in 30+ states. Site survey within 48 hours.",
+    "h1": "Install, service, redeploy. Same team. Every time.",
+    "heroEyebrow": "Installation & Maintenance",
+    "heroSubhead": "Permanent installs, mast-mounted fixed cameras, retrofits on existing infrastructure, and quarterly preventive maintenance. Licensed technicians in 30+ states. We service VDS hardware and cameras you already own.",
+    "heroCTAPrimary": {
+      "label": "Schedule site survey",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "Maintenance plan options",
+      "url": "/request-a-quote"
+    },
+    "heroStats": [
+      "30+ state coverage",
+      "48-hour survey",
+      "W-2 field techs",
+      "Quarterly PM",
+      "ONVIF/RTSP retrofit",
+      "NDAA 889 compliant"
+    ],
+    "body": "Most security failures aren't camera failures. They're install failures, mounting failures, and \"no one cleaned the lens in two years\" failures. We do the boring work that keeps the rest of it working.\n\n## Permanent install\n\nMast-mount, building-mount, pole-mount, parking-deck mount. Concrete coring, conduit runs, weatherproofing, lightning arrest, and grounding to code. We pull permits where required and coordinate with your GC if you're on an active project.\n\nWhat we install:\n- VDS-branded fixed cameras and PTZ\n- Third-party cameras you specified (Axis, Hanwha, Bosch, Hikvision-replacement programs, Verkada migrations)\n- Mast extensions and parapet mounts\n- Solar-only power kits for buildings without exterior conduit\n- Cellular backhaul kits where running fiber isn't practical\n\n## Retrofit on existing camera infrastructure\n\nIf you already have 40, 200, or 2,000 cameras, the install service that matters is the one that doesn't ask you to throw them away. Our VMS speaks ONVIF and RTSP \u2014 we connect to your existing infrastructure, add analytics and SOC monitoring, and only replace cameras when the math says replace.\n\nTypical retrofit:\n- Inventory audit of existing cameras, NVRs, and network\n- ONVIF/RTSP connectivity test, firmware update on supported models\n- Replace truly dead cameras (usually 5\u201315% of fleet)\n- Cloud VMS cutover with side-by-side parallel operation\n- SOC onboarding once analytics are tuned\n\nAverage retrofit cost is 12\u201318% of the cost of a full rip-and-replace.\n\n## Preventive maintenance\n\nQuarterly site visits on every camera under contract:\n- Lens cleaning (the single highest-impact maintenance item)\n- Housing seal inspection\n- Mount torque check\n- Cable continuity and PoE budget verification\n- Firmware updates\n- IR illuminator test\n- Battery and solar health on mobile units\n- DVR/NVR health check (where applicable)\n\nReports filed in the customer portal. Annual deep-service includes mast inspection, lightning arrest test, and full housing reseal.\n\n## Redeployment\n\nConstruction sites change phases. Lay-down yards relocate. Substation outages end. When a perimeter shifts, the trailers and fixed-mast units move with it. Redeployment is included in managed contracts. For owned hardware, it's a flat-fee service call per unit.\n\n## Emergency service\n\n24/7 dispatch for client-down events. SOC sees a camera offline before you do \u2014 and dispatches our field tech with the customer's authorization. Average on-site response in metro markets: under 6 hours. Rural sites quoted per the field tech coverage map.\n\n## Who does the work\n\nW-2 field technicians, not 1099 contractors. Background-checked. OSHA-30 minimum. Tower-climber certified where height work is required. Insured under VDS general liability and workers' comp \u2014 your project doesn't carry the risk.\n\nWe subcontract only for trenching, electrical above 600V, and licensed crane work. Every subcontractor goes through our vendor compliance check.",
+    "faq": [
+      {
+        "q": "Will you service cameras VDS didn't sell us?",
+        "a": "Yes, with conditions. If the camera is in current manufacturer support and we can pull firmware and config, we service it. If it's end-of-life and parts are unobtainable, we'll quote replacement instead."
+      },
+      {
+        "q": "Do you do tower climbing and high-mast work?",
+        "a": "Yes. Tower-climber certified techs for mast work up to 80 feet. Above that we coordinate with a partner crane crew. Quoted per project."
+      },
+      {
+        "q": "What's the SLA on emergency service?",
+        "a": "Metro markets: on-site under 6 hours. Regional markets: under 12 hours. Rural: under 24 hours. Managed contracts include emergency response; standalone hardware service is billed T&M with a 2-hour minimum."
+      },
+      {
+        "q": "Can you handle permitting and inspections?",
+        "a": "Yes for low-voltage and security trade permits. We coordinate with your GC for electrical and structural permits where required. We do not pull GC-of-record permits."
+      },
+      {
+        "q": "What does a maintenance contract cost?",
+        "a": "Quarterly PM averages $40\u2013$75 per camera per quarter depending on access difficulty and travel. Discounts for sites with 25+ cameras. Mobile trailers are bundled into managed service pricing."
+      }
+    ],
+    "finalCTAHeading": "Get a site survey on the calendar.",
+    "finalCTABody": "48-hour scheduling in metro markets. Field tech walks the site, documents existing infrastructure, and returns a scoped quote within 5 business days.",
+    "finalCTAButtons": [
+      {
+        "label": "Schedule site survey",
+        "url": "Talk to a tech"
+      }
+    ],
+    "schemaType": "Service",
+    "internalLinks": "/services/rapid-deployment, /services/integration, /services/managed, /coverage-map",
+    "notes": "Coverage map page should show state-by-state field tech availability. PM service tier table could be a downloadable PDF.",
+    "canonical": "https://visiondetectionsystems.com/services/installation-maintenance",
+    "ogTitle": "Install, service, redeploy. Same team. Every time.",
+    "ogDescription": "Licensed field technicians for permanent install, retrofits, preventive maintenance, and redeployment. We service what we sell and what you already own.",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .hero-subhead, h2",
+    "tags": "mobile surveillance, VDS",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/services/managed-security",
+    "slug": "managed-security",
+    "parent": "/services",
+    "pageType": "Service Detail",
+    "status": "Launch",
+    "seoTitle": "Managed Security Services | Hardware + Monitoring +",
+    "metaDescription": "Turnkey monthly contract: hardware, 24/7 SOC monitoring, maintenance, and reports for one fee. Clients average $340K saved per year vs. guard service.",
+    "announcementBar": "One contract. One invoice. One number to call.",
+    "h1": "Hardware, monitoring, maintenance. One monthly fee.",
+    "heroEyebrow": "Managed Security Services",
+    "heroSubhead": "Everything in one contract. Trailers and cameras. 24/7 US SOC. Field service and PM. Monthly reporting. No capex. No surprise invoices. Cancel with 90 days notice.",
+    "heroCTAPrimary": {
+      "label": "Get managed quote",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "See the math vs. guards",
+      "url": "/request-a-quote"
+    },
+    "heroStats": [
+      "Single monthly invoice",
+      "$340,800 average annual savings",
+      "73% theft reduction",
+      "$0 insurance claims (case study)",
+      "90-day cancellation"
+    ],
+    "body": "Capex is dead weight on a project budget. Multi-vendor opex is a finger-pointing exercise. Managed services from a vertically integrated provider is the only model that makes the math and the accountability work.\n\n## What's included in the monthly fee\n\n- Hardware (trailers, fixed cameras, mast units) \u2014 owned by VDS, deployed at your site\n- 24/7 US SOC monitoring with full event response and LE dispatch\n- Quarterly preventive maintenance on every camera\n- Emergency field service inside SLA\n- Redeployment as your site changes\n- Monthly reporting: incident logs, dispatch records, false-alarm rates, camera uptime, recommendations\n- Customer portal access for live video, recorded video, incident history, and event export\n- VMS license and cloud storage at your contracted retention\n- Cellular data and connectivity\n- All firmware and software updates\n\nOne line item on the PO. One invoice per month. One escalation path.\n\n## What's not included\n\n- Capex on hardware (intentionally \u2014 you don't own it)\n- Police response costs (handled by your jurisdiction)\n- Insurance premiums (though our case study shows them dropping)\n- Damage from intentional vandalism by authorized personnel (covered for unauthorized)\n\n## The case study, in plain numbers\n\nA $28M Mid-Atlantic mixed-use construction project, 14 months in scope.\n\nBefore VDS (guard service):\n- $32,400/month for two 24/7 armed guards\n- 14 reported theft incidents in the prior 12-month equivalent\n- $186,000 in filed insurance claims for theft and vandalism\n- Two guard-related incident reports requiring legal review\n\nAfter 12 months on VDS Managed:\n- $4,000/month\n- 4 reported theft incidents (73% reduction)\n- $0 insurance claims filed\n- Zero legal-review incident reports\n\nNet annual savings: $340,800. Theft losses prevented: estimated $140,000 (insurer's own actuarial model). Total economic benefit: ~$480,000 in year one.\n\nFull case study including dispatch records, redeployment timeline, and the insurance carrier's underwriting memo is available under NDA.\n\n## How the pricing works\n\nThree components, blended into one monthly number:\n\n1. **Hardware unit fee** \u2014 per trailer or per fixed-camera channel, per month. Includes the unit, install/redeploy, and PM.\n2. **Monitoring fee** \u2014 per camera channel, per month. Covers SOC, incident reports, and LE coordination.\n3. **Platform fee** \u2014 flat monthly. Covers VMS, cloud storage, customer portal, integrations.\n\nTypical small site (1 trailer, 6 cameras): $2,800\u2013$4,500/month all-in.\nTypical mid-size construction (3 trailers, 18 cameras): $7,500\u2013$11,000/month.\nTypical enterprise multi-site (50+ cameras across locations): negotiated, volume tiers below standard pricing.\n\nTerm is month-to-month with a 90-day cancellation notice. Annual contracts get a 10% discount.\n\n## Reporting that goes to your CFO, not just your security manager\n\nMonthly report includes:\n- Incident summary with severity classification\n- Dispatch records and LE response codes\n- False-alarm rate (with quarter-over-quarter trend)\n- Camera uptime and PM completion\n- Cost-avoidance estimate against prior security model\n- Insurance posture notes\n- Recommendations for next quarter\n\nThe cost-avoidance line is the one your CFO cares about. We publish it because we have the numbers to back it.\n\n## When managed is wrong for you\n\nManaged isn't always the right model. If you have:\n- An existing capitalized security infrastructure with depreciation life remaining\n- A federal contract requiring hardware ownership for clearance reasons\n- A security team that wants direct console access and prefers to operate their own SOC\n\n\u2026then standalone hardware or hardware + monitoring without full management is the better fit. We sell that too.",
+    "faq": [
+      {
+        "q": "What happens to the hardware at the end of the contract?",
+        "a": "We remove it. The hardware is ours. If you want to buy it out at the end of term, we publish a depreciation schedule with the contract."
+      },
+      {
+        "q": "Can we cancel if it isn't working?",
+        "a": "90 days notice, no penalty. We're confident enough in the model to make it easy to leave. We've had four cancellations in 500+ deployments since 2017; three of them were project completions, one was an acquisition by a vendor who used a different system."
+      },
+      {
+        "q": "How does the managed service handle insurance carrier requirements?",
+        "a": "We provide a security plan document to your carrier on request, including camera placement, monitoring SLA, response procedures, and SOC certifications. Several carriers offer premium credits for VDS-monitored sites. We'll coordinate with your broker."
+      },
+      {
+        "q": "Can managed services replace our guard contract entirely?",
+        "a": "In most cases yes. In some cases (lobbies, badge desks, high-net-worth visitor management) a reduced guard presence plus VDS Managed is the right model \u2014 typically 1 guard instead of 4. We'll scope honestly."
+      },
+      {
+        "q": "What's the contract length?",
+        "a": "Month-to-month with 90-day notice, or annual with a 10% discount. We don't do 3-year or 5-year contracts. If we can't earn the renewal, you shouldn't be stuck with us."
+      }
+    ],
+    "finalCTAHeading": "See the managed quote against your current spend.",
+    "finalCTABody": "Send your current security budget breakdown (or a recent monthly invoice). We'll quote managed services side-by-side. No deck-only sales.",
+    "finalCTAButtons": [
+      {
+        "label": "Get managed quote",
+        "url": "Read full case study"
+      }
+    ],
+    "schemaType": "Service",
+    "internalLinks": "/services/monitoring, /services/rapid-deployment, /services/installation-maintenance, /case-studies/mid-atlantic-340k, /pricing",
+    "notes": "Pricing transparency is unusual for this market \u2014 keep the numbers public unless sales pushes back. Case study NDA gate handled on /case-studies/mid-atlantic-340k.",
+    "canonical": "https://visiondetectionsystems.com/services/managed-security",
+    "ogTitle": "Hardware, monitoring, maintenance. One monthly fee.",
+    "ogDescription": "Turnkey monthly contract: hardware, 24/7 SOC monitoring, maintenance, and reports for one fee. Clients average $340K saved per year vs. guard service.",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .hero-subhead, h2",
+    "tags": "mobile surveillance, VDS",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/services/network-connectivity",
+    "slug": "network-connectivity",
+    "parent": "/services",
+    "pageType": "Service Detail",
+    "status": "Expansion",
+    "seoTitle": "Managed Network Connectivity | Multi-Carrier Cellular +",
+    "metaDescription": "Multi-carrier cellular (Verizon, AT&T, T-Mobile, FirstNet) with Starlink failover. Managed by VDS. No carrier contracts on your side.",
+    "announcementBar": "",
+    "h1": "Multi-Carrier Connectivity, Managed End-to-End",
+    "heroEyebrow": "Managed Service",
+    "heroSubhead": "Verizon, AT&T, T-Mobile, and FirstNet SIMs in every trailer. Starlink failover for remote sites. You never sign a carrier contract.",
+    "heroCTAPrimary": {
+      "label": "Get a Coverage Check",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "Read the Connectivity Brief",
+      "url": "/request-a-quote"
+    },
+    "heroStats": [
+      "4 carriers per trailer \u2022 FirstNet for public safety \u2022 Starlink failover \u2022 99.9% link availability"
+    ],
+    "body": "A surveillance camera without a working uplink is just a heat source. We treat connectivity as a managed service because customers consistently told us they do not want to manage four carrier accounts, three different APNs, and a quarterly review of who got dropped where.\n\n## What you get\n\nEvery VDS trailer ships with at least two cellular modems and four pre-activated SIMs:\n\n- **Verizon** \u2014 broadest coverage in most rural and suburban markets\n- **AT&T** \u2014 primary fallback in markets where Verizon density is poor\n- **T-Mobile** \u2014 strong in dense urban and some highway corridors\n- **FirstNet (AT&T Band 14)** \u2014 dedicated public-safety priority for law enforcement, fire, and EMS deployments\n\nThe router runs active-active load balancing across whichever two modems are pulling the strongest signal at install time. If signal degrades, the router fails over inside 30 seconds without dropping the video stream \u2014 the AI VisionStream edge unit buffers across the cutover.\n\n## Starlink failover\n\nFor sites where cellular coverage is genuinely absent \u2014 remote construction, oil and gas pads, federal land, agricultural \u2014 we mount a Starlink dish on the trailer mast. Starlink runs as a tertiary uplink behind the cellular modems and engages automatically when both cellular paths fall below a usable RSRP.\n\nStarlink-equipped trailers maintain link availability above 99.5% in coverage corners where the nearest cell tower is 18+ miles away. Obstruction percentage is monitored as part of device health and a tree-canopy alert opens a ticket for site adjustment.\n\n## You do not see a carrier bill\n\nCellular and Starlink data are bundled into the monthly trailer subscription. No carrier contracts on your side, no APN setup, no IMEI registration, no overage surprises.\n\nDefault data allocation is 100 GB per trailer per month at 1080p H.265 \u2014 sufficient for full-time recording with AI inference on four cameras. Trailers running 8+ cameras or 4K streams are sized up at provisioning. Overages, if they happen, are absorbed by VDS up to a fair-use ceiling defined in the MSA.\n\n## Why multi-carrier matters\n\nWe have run controlled coverage tests across 30+ states. Single-carrier deployments hit dead zones in roughly 18% of customer sites \u2014 usually inside warehouses, behind hill features, or at remote yards where the assumed carrier turned out not to be the strongest. Multi-carrier with automated failover takes that to under 2%.\n\nWe do not pretend a particular carrier is best everywhere. We pick the best two at install based on a drive-test or fixed-survey, then keep watching with telemetry.\n\n## Public safety: FirstNet\n\nFor police, sheriff, fire, EMS, and emergency-management deployments, FirstNet provides preemptive priority on AT&T's network \u2014 Band 14 plus QPP across commercial bands. During major events (severe weather, civil unrest, large-venue surges) commercial traffic gets de-prioritized; FirstNet traffic does not. We provision FirstNet on eligible accounts as the primary cellular path.\n\n## Security on the wire\n\n- TLS 1.3 between edge unit and AWS\n- IPsec available for customer-managed VPN integrations\n- Private APNs available with Verizon and AT&T enterprise accounts on request\n- No public-facing ports on the edge unit; all sessions are outbound-initiated\n\n## Cellular signal mapping at install\n\nEvery site survey includes a live RF measurement on all four carriers. We deliver a one-page coverage report showing RSRP, RSRQ, and SINR per carrier so the customer knows what was measured, not just promised. If a site fails to meet a minimum-RSRP threshold on all four cellular paths, Starlink is added at our cost.",
+    "faq": [
+      {
+        "q": "Do I need to provide any network connectivity at the site?",
+        "a": "No. The trailer is fully self-contained. Wired uplink is supported if you want it, but never required."
+      },
+      {
+        "q": "What is the typical data usage per camera?",
+        "a": "Roughly 15-25 GB per camera per month at 1080p H.265 with 24/7 recording and AI analytics. We size the data plan to the camera count at provisioning."
+      },
+      {
+        "q": "Can I bring my own SIM or carrier contract?",
+        "a": "Yes, but most customers find it cheaper and simpler to ride on ours. Enterprise carrier accounts can be integrated on request."
+      },
+      {
+        "q": "How does failover affect recording?",
+        "a": "It does not. The edge unit buffers up to 72 hours locally and resyncs to cloud on uplink restore. End users do not see a gap."
+      },
+      {
+        "q": "Is FirstNet available to non-public-safety customers?",
+        "a": "No. FirstNet eligibility is restricted to qualifying agencies and their extended primary users."
+      }
+    ],
+    "finalCTAHeading": "Check coverage at your sites",
+    "finalCTABody": "Send us your site addresses or coordinates. We will run a four-carrier coverage check against the latest tower data and tell you which sites need Starlink.",
+    "finalCTAButtons": [
+      {
+        "label": "Run a Coverage Check",
+        "url": "Talk to an Engineer"
+      }
+    ],
+    "schemaType": "Service",
+    "internalLinks": "/services/device-health-monitoring, /industries/law-enforcement, /hardware/mobile-surveillance-trailers, /services/24-7-soc",
+    "notes": "FirstNet is a real differentiator for public safety. Link from law enforcement and fire/EMS industry pages.",
+    "canonical": "https://visiondetectionsystems.com/services/network-connectivity",
+    "ogTitle": "Multi-Carrier Connectivity, Managed End-to-End",
+    "ogDescription": "Multi-carrier cellular (Verizon, AT&T, T-Mobile, FirstNet) with Starlink failover. Managed by VDS. No carrier contracts on your side.",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .hero-subhead, h2",
+    "tags": "mobile surveillance, VDS",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/services/rapid-deployment",
+    "slug": "rapid-deployment",
+    "parent": "/services",
+    "pageType": "Service Detail",
+    "status": "Launch",
+    "seoTitle": "72-Hour Rapid Deployment Security Trailers | VDS",
+    "metaDescription": "Solar-autonomous mobile security trailers deployed within 72 hours. One-person setup under 20 minutes. No power, no network, no permits. 500+ deployments.",
+    "announcementBar": "72-hour deployment from contract to live feed. Talk to an engineer.",
+    "h1": "72 hours from signature to live feed.",
+    "heroEyebrow": "Rapid Deployment",
+    "heroSubhead": "Solar-autonomous trailer on site, talking to our SOC, watching your perimeter \u2014 within three days of contract. No trenching. No permits. No utility tie-in. One person stages it in under 20 minutes.",
+    "heroCTAPrimary": {
+      "label": "Schedule deployment",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "See the unit specs",
+      "url": "/request-a-quote"
+    },
+    "heroStats": [
+      "72-hour deploy",
+      "<20 min setup",
+      "1 person",
+      "Off-grid solar",
+      "Cellular failover",
+      "NDAA 889 compliant"
+    ],
+    "body": "A trailer doesn't need a permit, a transformer, or a network drop. That's why we built one.\n\n## What \"72 hours\" actually means\n\nThe clock starts at contract signature. Inside that window: deployment engineer reviews the site survey, the trailer is staged from one of our regional depots, freight is dispatched, our field tech meets the trailer at the gate, and the unit is online and talking to the SOC before the third sunset. We've hit this window on 96% of deployments since 2022. The misses were customer access issues \u2014 locked gates, missing site contacts.\n\n## What's on the trailer\n\n- **400W\u2013800W solar array** sized for the latitude and tree canopy. Battery bank carries 5\u20137 days of overcast operation.\n- **4\u20138 cameras** depending on perimeter geometry. PTZ + fixed combinations. 4K resolution. Thermal optional.\n- **AI analytics on-board** for person/vehicle/loitering detection. Reduces uplink bandwidth and SOC false-alarm load.\n- **Dual-carrier cellular** with automatic failover. Optional Starlink for remote sites.\n- **Two-way audio** for SOC talk-down. 100dB+ SPL \u2014 audible across a 500-ft yard.\n- **Strobe and floodlight** triggered manually by SOC or automatically by analytics.\n- **Tamper sensors** on every access point. GPS lock. Theft recovery built in.\n\nAssembled in Pikesville, MD. NDAA Section 889 compliant. Documentation ships with the unit.\n\n## Setup in under 20 minutes\n\nThe trailer arrives on a standard goose-neck. Drop it, level it, raise the mast (electric), point the solar array south. The unit boots, registers with our cloud, and the SOC sees the feed inside ten minutes of mast-up. No ladders. No specialty tools. One person.\n\nWe've trained customer site supers to stage their own units in 18 minutes. Most clients let our field tech handle the first deployment and then self-service from there.\n\n## Where it gets used\n\n- **Active construction sites** \u2014 perimeter live before fencing is complete\n- **Lay-down yards and material staging** \u2014 copper, switchgear, conduit\n- **Port terminals and intermodal yards** \u2014 gate cameras and cargo perimeter\n- **Utility substations** \u2014 temporary coverage during outage work\n- **Disaster response** \u2014 FEMA staging, post-storm asset protection\n- **Events and venues** \u2014 concerts, festivals, sporting facilities\n- **Government and federal** \u2014 NDAA-compliant temporary perimeters\n- **Cannabis cultivation and dispensary** \u2014 exterior perimeter and parking\n\n## How it pays for itself\n\nA two-guard 24/7 contract runs $28,000\u2013$35,000/month in most metros. Two VDS trailers with SOC monitoring runs $3,500\u2013$5,500/month. The Mid-Atlantic case study cut a $32,400 monthly bill to $4,000 and reduced theft 73% in the first year. The hardware pays itself back inside the first quarter on most projects.\n\n## What we need from you\n\n- Site address and gate access plan\n- Single point of contact with phone and email\n- One photo per camera location (phone photos are fine)\n- Local law enforcement non-emergency number (we register the site)\n\nThat's it. The site survey, RF check, solar exposure analysis, and camera layout \u2014 we do those.",
+    "faq": [
+      {
+        "q": "What happens if the solar array doesn't get enough sun?",
+        "a": "The battery bank is sized for 5\u20137 days of zero solar input. If a site shows persistent shading on the survey, we add a second array, swap in a hybrid generator, or wire to local power. The SOC alerts on low-battery state 48 hours before it becomes a problem."
+      },
+      {
+        "q": "How does it handle no cellular coverage?",
+        "a": "Dual-carrier cellular covers most sites \u2014 we run on whichever carrier wins the RF check. For genuinely dark sites we add Starlink. Latency to SOC stays under 400ms."
+      },
+      {
+        "q": "Can you redeploy a trailer mid-project as the site changes?",
+        "a": "Yes. Redeployment is included in managed contracts. Hook up, tow, drop, re-level. Our field tech does it in two hours or trains your team."
+      },
+      {
+        "q": "What's the rental vs. purchase model?",
+        "a": "Most clients rent under a managed services contract \u2014 hardware, monitoring, and maintenance bundled monthly. Purchase is available for clients who want capex ownership; SOC monitoring is a separate per-trailer subscription."
+      },
+      {
+        "q": "Is the trailer tamper-proof?",
+        "a": "Tamper-resistant, not tamper-proof. Every access door has sensors. The mast locks. GPS reports continuously. We've had three theft attempts in 500+ deployments \u2014 recovered all three within 24 hours."
+      }
+    ],
+    "finalCTAHeading": "Tell us about the site.",
+    "finalCTABody": "30-minute call, site survey within 48 hours, trailer on the ground inside 72 hours of signature. We start the clock when you do.",
+    "finalCTAButtons": [
+      {
+        "label": "Schedule deployment",
+        "url": "See unit specs"
+      }
+    ],
+    "schemaType": "Service",
+    "internalLinks": "/services/monitoring, /services/managed, /products/mobile-trailer, /case-studies/mid-atlantic-340k, /industries/construction",
+    "notes": "Embed unit photo carousel below hero. Specs table can be reused on product page. CTA links to a calendar booking, not a form-only flow.",
+    "canonical": "https://visiondetectionsystems.com/services/rapid-deployment",
+    "ogTitle": "72 hours from signature to live feed.",
+    "ogDescription": "Solar-autonomous mobile security trailers deployed within 72 hours. One-person setup under 20 minutes. No power, no network, no permits. 500+ deployments.",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .hero-subhead, h2",
+    "tags": "mobile surveillance, VDS",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/services/remote-video-monitoring",
+    "slug": "remote-video-monitoring",
+    "parent": "/services",
+    "pageType": "Service Detail",
+    "status": "Launch",
+    "seoTitle": "Remote Video Monitoring Services | Vision Detection Systems",
+    "metaDescription": "Remote video monitoring for commercial sites with 24/7 coverage, verified response workflows, and incident reporting. Improve response and reduce risk.",
+    "announcementBar": "60-second escalation. 97% false-alarm reduction. Talk to the SOC director.",
+    "h1": "Remote Video Monitoring for 24/7 Commercial Site Security",
+    "heroEyebrow": "24/7 Remote Monitoring",
+    "heroSubhead": "Remote Visibility. Verified Response.",
+    "heroCTAPrimary": {
+      "label": "Tour the SOC",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "Get monitoring quote",
+      "url": "/request-a-quote"
+    },
+    "heroStats": [
+      "<60-sec escalation",
+      "97% false-alarm reduction",
+      "24/7/365",
+      "US-based operators",
+      "Live LE dispatch",
+      "Per-event incident reports"
+    ],
+    "body": "Remote video monitoring turns camera systems into an operational security program. Instead of reviewing footage after an incident, your team gets real-time visibility, verified alerts, defined escalation, and evidence-ready reporting\u2014so events are detected faster and handled consistently. Whether you\u2019re protecting one location or managing multiple sites, remote monitoring helps reduce after-hours risk and makes response more consistent across your operation.\n\n\n\n## The Command Center for Remote Video Monitoring\n\nThis platform connects cameras, monitoring workflows, and analytics into one operating view. Review events in real time, apply site rules to reduce noise, and generate evidence-ready reports for internal follow-up, claims, or investigations.\n\nLive video access and playback\n\nSmart alerts based on site rules\n\nVerified response workflows\n\nIncident reporting and exports\n\nMulti-site visibility and user roles\n\n\n\n## How Remote Video Monitoring Works\n\n\n\n### Step 1: Coverage Planning for Risk Zones\n\nMonitoring starts with a coverage plan that prioritizes the places incidents actually happen:\n\nEntrances and exits\n\nPerimeters and low-visibility edges\n\nDrive lanes and chokepoints\n\nLoading zones and service corridors\n\nHigh-value storage areas\n\nKnown problem corners (repeat incident zones)\n\nA good plan prevents blind spots and avoids the common mistake of relying on one wide-angle camera to cover everything.\n\n\n\n### Step 2: Site Rules That Match Your Operations\n\nNext, you define your site rules so monitoring is focused and actionable. Examples include:\n\nAfter-hours access in restricted zones\n\nLoitering in specific areas\n\nVehicle activity in closed lots\n\nAccess outside approved windows\n\nRepeated activity patterns in known risk zones\n\nThis is how you reduce false alarms: focus on what matters during the hours it matters.\n\n\n\n### Step 3: Detection and Alerting\n\nDetection is configured to match your site rules and environment. Depending on your deployment, this can include:\n\nSchedule-based zone alerting\n\nRules-based triggers tied to risk zones\n\nAnalytics-assisted detection where appropriate\n\nThe goal is fewer alerts with higher confidence, not constant motion notifications.\n\n\n\n### Step 4: Verification and Escalation\n\nWhen activity is detected, the workflow verifies what\u2019s happening and follows the escalation path you define. A complete escalation plan answers:\n\nWhat triggers an alert\n\nWho is notified\n\nHow escalation happens (call, dispatch, on-site response)\n\nWhat gets documented (clips, timestamps, notes, actions)\n\n\n\n### Step 5: Incident Reporting and Evidence Retrieval\n\nMonitoring is only useful if outcomes are documented. Each verified incident should produce:\n\nA timestamped clip\n\nA clear summary of what occurred\n\nThe response actions taken\n\nReporting your team can use for follow-up, claims, or investigations\n\n\n\n## Who Remote Video Monitoring Is For\n\nRemote video monitoring is for organizations that need after-hours coverage, consistent escalation, and evidence-ready reporting\u2014especially when incidents repeat in the same zones or across multiple locations. If your current setup produces footage but not response, this service is built to close that gap.\n\n\n\n### Best-fit teams and sites\n\nProperty managers and retail operators with recurring parking lot incidents, disputes, or after-hours activity\n\nShopping centers and malls where liability, pedestrian traffic, and multiple perimeter edges make response consistency critical\n\nConstruction teams needing coverage during early phases and after-hours when theft risk spikes\n\nLogistics yards and warehouses with perimeter exposure, high-value inventory, and restricted zones\n\nPublic safety and municipal programs that require repeatable escalation protocols and reporting\n\nMulti-site operations leaders who need standardized oversight, reporting, and user access control across locations\n\n\n\n### Best-fit triggers\n\nIncidents happen after-hours or in low-visibility zones\n\nYou have repeat problems in the same corners/rows/entry points\n\nYour team can\u2019t consistently watch cameras, and alerts are too noisy\n\nYou need documented incident reports for claims, investigations, or accountability\n\n\n\n## What You Get: Service and Platform Capabilities\n\nRemote video monitoring works best when the service layer and platform layer work together.\n\nService Layer:\n\nMonitoring workflows aligned to your site rules\n\nVerification steps that reduce noise and improve actionability\n\nEscalation paths tailored to your response preferences\n\nConsistent incident reporting and follow-up documentation\n\nOngoing tuning based on real incident patterns\n\nPlatform Layer:\n\nLive video access and fast event review\n\nAlerting tied to zones and schedules\n\nEvent logs with timestamps and case-style summaries\n\nMulti-site visibility and role-based access controls\n\nEvidence exports designed for real incidents\n\n\n\n## Key Features of Our Remote Video Monitoring Service\n\n\n\n### Verified response workflows\n\nSite rules + verification reduce noise so escalation is consistent and actionable.\n\n\n\n### Real-time alerting built around risk zones\n\nFocus monitoring on entrances, perimeters, loading zones, and high-risk corners.\n\n\n\n### Incident reporting with evidence-ready exports\n\nGenerate timestamped clips and summaries for investigations and claims.\n\n\n\n### Multi-site oversight and standardization\n\nCentralize visibility and apply consistent escalation and reporting across locations.\n\n\n\n### Configurable monitoring windows\n\nMonitor after-hours, weekends, or 24/7 depending on when your risk occurs.\n\n\n\n### Integration support for existing systems\n\nMaintain continuity with existing camera systems and operational workflows.\n\n\n\n## Benefits of Remote Video Monitoring\n\nRemote monitoring is designed to improve outcomes, not just capture footage:\n\nFaster time-to-awareness during after-hours incidents\n\nImproved deterrence when response is predictable\n\nReduced repeat incidents in known zones\n\nMore usable evidence for claims and investigations\n\nLess manual effort reviewing video and chasing alerts\n\nConsistent accountability across teams and locations\n\n\n\n## Where Remote Video Monitoring Works Best\n\n\n\n### Construction Sites\n\nConstruction risk often peaks early and after-hours. For fast coverage without waiting on permanent infrastructure, pair monitoring with mobile surveillance trailers to watch perimeters, entrances, equipment storage, and access points that shift by phase.\n\n\n\n### Parking Lots and Retail Properties\n\nParking lots are exposed environments where incidents often happen at night and in low-visibility corners. Monitoring performs best when it\u2019s built on a parking lot surveillance cameras coverage plan that reduces blind spots and produces evidence-ready incident clips.\n\n\n\n### Shopping Centers\n\nShopping centers add complexity with multiple edges, service corridors, and repeat problem zones. Shopping center remote monitoring is valuable because it standardizes escalation and reporting for operational accountability across the property.\n\n\n\n### Logistics Yards and Warehouses\n\nYards combine perimeter exposure and high-value inventory, which makes after-hours activity especially costly. Monitoring works best when it enforces restricted zones and produces consistent incident reports; use the same workflows across sites to keep response repeatable.\n\n\n\n### Public Safety and Municipal Deployments\n\nTemporary deployments and public-sector environments often require defined escalation protocols and repeatable reporting. Remote monitoring helps create a consistent response model and documentation trail for events, corridors, and critical infrastructure\n\n\n\n## Service Levels, Procurement, and Support\n\nRemote video monitoring scope typically depends on:\n\nNumber of sites and critical zones\n\nMonitoring window (after-hours vs 24/7)\n\nEscalation expectations and contacts\n\nReporting requirements and cadence\n\nIntegration needs and user roles\n\nIf procurement is part of the process, align early on purchase structure and program duration.\n\n\n\n## Remote Video Monitoring FAQs\n\nWhat is remote video monitoring?\n\nRemote video monitoring is a service that uses defined site rules and response workflows to detect, verify, escalate, and document security events consistently.\n\nDo I need 24/7 remote video monitoring?\n\nNot always. Many commercial sites monitor during high-risk windows like after-hours and weekends. The best model depends on incident timing and staffing realities.\n\nWhat happens when suspicious activity is detected?\n\nThe workflow typically includes detection, verification, escalation to your response path, and an incident report with timestamped evidence.\n\nHow does remote monitoring reduce false alarms?\n\nBy focusing on risk zones, applying schedule-based rules, including verification steps, and tuning the workflow to real site conditions.\n\nCan remote monitoring work across multiple sites?\n\nYes. Multi-site oversight is one of the strongest use cases because escalation and reporting become standardized.\n\nCan remote video monitoring be paired with mobile surveillance trailers?\n\nYes. Monitoring pairs well with rapid deployment coverage for temporary risk periods and evolving sites.\n\n\n\n## Why Vision Detection Systems for Remote Video Monitoring\n\nVision Detection Systems is the remote video monitoring solution that connects cameras, alerts, analytics, and incident reporting into one operating view\u2014so teams can verify events faster, escalate response consistently, and manage security across sites without jumping between tools.\n\nUnified control over hardware, analytics, and monitoring workflows in one platform\n\nScalable from a single site to multi-site and nationwide operations\n\nModern, intuitive interface designed for fast adoption with minimal training\n\nReliable performance backed by 24/7 U.S.-based support for operational continuity\n\nIf you\u2019re using remote video monitoring to reduce after-hours incidents and improve response, Vision Detection Systems helps standardize how events are detected, verified, documented, and reported\u2014so outcomes are repeatable across every location.\n\nReplace testimonials with specific ones for remote video monitoring\n\n\n\n## Remote Video Monitoring That Turns Cameras into Response\n\nGet verified alerts, defined escalation workflows, and evidence-ready incident reporting\u2014so your team can act fast across one site or hundreds.",
+    "faq": [
+      {
+        "q": "Where is the SOC located?",
+        "a": "Primary SOC in Pikesville, Maryland with a hot-standby site in a separate Mid-Atlantic city. Both staffed 24/7. Failover tested monthly. We can host a tour with 5 business days notice."
+      },
+      {
+        "q": "What happens if your SOC goes down?",
+        "a": "Hot failover to the secondary site, transparent to the customer. Total downtime since 2020: 14 minutes during a tested cutover. We've never lost a customer-facing minute to unplanned outage."
+      },
+      {
+        "q": "How is the SOC priced?",
+        "a": "Per camera, per month, with volume tiers. Trailers from VDS include SOC monitoring in the managed contract. Standalone monitoring on customer-owned cameras starts at $35/camera/month."
+      },
+      {
+        "q": "Can the SOC integrate with our access control or alarm system?",
+        "a": "Yes. We're a monitoring center first; alarm and ACS integration is standard. We hold UL listings and can receive signals from Bosch, DMP, Honeywell, Genetec, Lenel, AMAG, and others."
+      },
+      {
+        "q": "What's the escalation chain for a real incident?",
+        "a": "Verbal talk-down first. LE dispatch second. Customer site contact notified during dispatch \u2014 not after. Customer security manager paged on escalation tier 2. Executive escalation on tier 3 (typically reserved for active loss, fire, or armed subject)."
+      }
+    ],
+    "finalCTAHeading": "Tour the SOC. Or talk to the director.",
+    "finalCTABody": "We host customer tours weekly. If you can't make it to Maryland, the director will take a 30-minute call and walk you through the operator console live.",
+    "finalCTAButtons": [
+      {
+        "label": "Schedule SOC tour",
+        "url": "Get monitoring quote"
+      }
+    ],
+    "schemaType": "Service",
+    "internalLinks": "/services/rapid-deployment, /services/managed, /soc, /about/team, /case-studies/mid-atlantic-340k",
+    "notes": "PILLAR CONTENT MERGED \u2014 source: VDS _ Pillar Page_ Remote Video Monitoring.docx (Joe-provided)\n\nConsider a \"live SOC metrics\" component on this page if we expose the data (current avg response time, events handled this month). High-trust content.",
+    "canonical": "https://visiondetectionsystems.com/services/remote-video-monitoring",
+    "ogTitle": "Remote Video Monitoring for 24/7 Commercial Site Security",
+    "ogDescription": "Remote video monitoring for commercial sites with 24/7 coverage, verified response workflows, and incident reporting. Improve response and reduce risk.",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .hero-subhead, h2",
+    "tags": "24/7 SOC, remote video monitoring",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/services/system-integration",
+    "slug": "system-integration",
+    "parent": "/services",
+    "pageType": "Service Detail",
+    "status": "Launch",
+    "seoTitle": "VMS, ACS, Alarm & ITSM Integration Services | VDS",
+    "metaDescription": "Camera-agnostic VMS with ONVIF/RTSP support. Integrate with Genetec, Lenel, Avigilon, ServiceNow, SAP. Keep the cameras you have",
+    "announcementBar": "Camera-agnostic VMS. Works with what you already have.",
+    "h1": "Your cameras. Your access control. Your ERP. Our analytics and SOC on top.",
+    "heroEyebrow": "System Integration",
+    "heroSubhead": "VDS VMS speaks ONVIF, RTSP, and a published REST API. We connect to the access control, alarm panels, ITSM, and ERP systems you already run \u2014 without ripping out infrastructure that works.",
+    "heroCTAPrimary": {
+      "label": "Scope an integration",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "View API documentation",
+      "url": "/request-a-quote"
+    },
+    "heroStats": [
+      "ONVIF Profile S/T",
+      "RTSP/H.264/H.265",
+      "REST API",
+      "Genetec",
+      "Lenel",
+      "ServiceNow",
+      "SAP",
+      "AWS Cloud Partner"
+    ],
+    "body": "If a security vendor tells you their system only works with their cameras, they're selling lock-in, not security. We're not in that business.\n\n## Camera-agnostic VMS\n\nOur VMS ingests any camera that speaks ONVIF Profile S (live video) or Profile T (metadata and events), plus standard RTSP streams in H.264 and H.265. That covers Axis, Hanwha, Bosch, Sony, Pelco, Hikvision-replacement brands, Verkada exports, Avigilon ONVIF mode, and most consumer-grade cameras with RTSP enabled.\n\nWhat you get from the cameras you already own:\n- Cloud VMS with 30/60/90-day retention tiers\n- AI analytics layer (person, vehicle, loitering, line-cross, abandoned object)\n- SOC monitoring at the same SLA as VDS hardware\n- Mobile and web clients with role-based access\n- Audit trail and export for legal hold\n\n## Access control integration\n\nBi-directional integration with the major ACS platforms:\n\n- **Genetec Security Center** \u2014 synchronized event timeline, badge-to-video, door-forced-open with video clip attachment\n- **Lenel OnGuard** \u2014 event ingest, alarm correlation, video-on-card-read\n- **AMAG Symmetry** \u2014 full event sync\n- **Avigilon Access Control** \u2014 native event bridge\n- **Brivo, Kisi, Verkada Access** \u2014 cloud-to-cloud REST integration\n- **Open Supervised Device Protocol (OSDP)** readers \u2014 direct ingest on hardware integrations\n\nWe provide the SOC operator the badge holder photo and access log inline with the video event. Door propped open at 2 a.m. with the wrong badge ID? Operator sees the video, the badge holder photo, and the door history on one screen.\n\n## Alarm panel integration\n\nUL-listed central station receiver. We ingest from Bosch, DMP, Honeywell, Napco, and DSC panels over IP, dialer, or cellular. Alarm signals are correlated with video at the SOC \u2014 every signal gets visual verification before LE dispatch.\n\n## ITSM and ticketing\n\n- ServiceNow \u2014 incidents auto-created for camera offline events, with run-of-show fields populated\n- Jira Service Management \u2014 same\n- Freshservice, Zendesk \u2014 REST webhook into ticket creation\n\nClosed-loop workflow: SOC opens a ticket on a camera health event, field tech updates it from mobile during service, customer sees status without a phone call.\n\n## ERP and accounting\n\n- SAP \u2014 purchase order and asset tag integration for capex hardware\n- Oracle Fusion \u2014 same\n- NetSuite \u2014 billing reconciliation for managed services\n\nWhere it matters: the camera asset tag on the trailer matches the line item on the SAP PO matches the lease entry on the GL. Audit-clean from day one.\n\n## How an integration project runs\n\nWeek 1 \u2014 Scoping call with your IT, security, and operations leads. Inventory audit. API access provisioning.\n\nWeek 2 \u2014 Sandbox integration in a non-production environment. SSO setup (SAML 2.0, OIDC). Role mapping.\n\nWeek 3 \u2014 User acceptance testing. Operator training on the merged console.\n\nWeek 4 \u2014 Production cutover. Side-by-side parallel for 30 days before decommissioning legacy.\n\nMost integrations close inside 30 days. Complex multi-system integrations run 60\u201390 days with milestones.\n\n## Security of the integration itself\n\nSAML 2.0 / OIDC SSO. SCIM provisioning. API tokens scoped per integration and rotated quarterly. All API traffic over TLS 1.3. Audit logs exportable to your SIEM (Splunk, Datadog, Sentinel). SOC 2 Type II report available under NDA.",
+    "faq": [
+      {
+        "q": "Do you charge per integration?",
+        "a": "Standard integrations (Genetec, Lenel, ServiceNow, the major ACS platforms) are included in the VMS license. Custom integrations against a private API are quoted as professional services \u2014 typically 40\u2013120 engineering hours."
+      },
+      {
+        "q": "Can you integrate with our SIEM or SOAR?",
+        "a": "Yes. Event export to Splunk, Datadog, Sentinel, QRadar, and Chronicle via syslog or HTTPS webhook. SOAR playbook triggers via REST API."
+      },
+      {
+        "q": "What about cameras that don't speak ONVIF?",
+        "a": "If they speak RTSP, we ingest them. If they speak neither \u2014 typically older proprietary systems \u2014 we recommend an NVR-side bridge or a camera replacement. We don't force replacement when the bridge works."
+      },
+      {
+        "q": "Will adding the analytics layer break our existing VMS?",
+        "a": "No. We can run as the primary VMS, as a secondary cloud archive, or in parallel during a migration. Most retrofits start in parallel for 60 days."
+      },
+      {
+        "q": "Where is customer data stored?",
+        "a": "AWS US-East and US-West by default. AWS GovCloud available for federal and CJIS workloads. Customer chooses region during onboarding. Data residency contracts available."
+      }
+    ],
+    "finalCTAHeading": "Scope the integration in 30 minutes.",
+    "finalCTABody": "Bring your systems list. We'll tell you what's a standard connector, what's a custom build, and what the timeline looks like.",
+    "finalCTAButtons": [
+      {
+        "label": "Scope an integration",
+        "url": "View API docs"
+      }
+    ],
+    "schemaType": "Service",
+    "internalLinks": "/services/monitoring, /products/vms, /developers/api, /security/soc2",
+    "notes": "Page references SOC 2 \u2014 verify status before publishing. API documentation link should point to developer portal once published.",
+    "canonical": "https://visiondetectionsystems.com/services/system-integration",
+    "ogTitle": "Your cameras. Your access control. Your ERP. Our analytics and SOC on top.",
+    "ogDescription": "Camera-agnostic VMS with ONVIF/RTSP support. Integrate with Genetec, Lenel, Avigilon, ServiceNow, SAP. Keep the cameras you have",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .hero-subhead, h2",
+    "tags": "mobile surveillance, VDS",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/services/video-retrieval",
+    "slug": "video-retrieval",
+    "parent": "/services",
+    "pageType": "Service Detail",
+    "status": "Expansion",
+    "seoTitle": "Video Retrieval Service | Chain of Custody | VDS SOC",
+    "metaDescription": "SOC-managed video retrieval. Law enforcement requests, insurance evidence, internal investigations. SHA-256 chain of custody, secure portal delivery.",
+    "announcementBar": "",
+    "h1": "Managed Video Retrieval With Chain of Custody",
+    "heroEyebrow": "SOC Service",
+    "heroSubhead": "Customer or law-enforcement evidence request comes in. The VDS SOC pulls the clip, validates the chain of custody, and delivers via a signed portal link.",
+    "heroCTAPrimary": {
+      "label": "Submit a Retrieval Request",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "Read the Evidence Workflow",
+      "url": "/request-a-quote"
+    },
+    "heroStats": [
+      "<60-minute median turnaround \u2022 SHA-256 hashed exports \u2022 Court-admissible chain of custody \u2022 12-month immutable log"
+    ],
+    "body": "Pulling video for evidence is a process, not a button. The wrong workflow \u2014 wrong timestamp, missing hash, ambiguous custodian \u2014 turns useful footage into something a defense attorney can challenge or an insurer can reject. The VDS SOC handles retrieval as a managed service so the chain stays intact.\n\n## Two paths in\n\n**Customer-initiated retrieval** \u2014 a manager, loss prevention officer, or risk team member opens a ticket through the portal, email, or phone. We need: site, approximate time window, what happened or what is being looked for. Response: median 30 minutes for standard requests during business hours, 90 minutes overnight.\n\n**Law-enforcement-initiated retrieval** \u2014 an investigating officer calls our SOC line, provides agency, case number, and warrant or subpoena if applicable. We confirm the customer's release authorization policy on file, pull the clip, and deliver direct to the agency portal or evidence intake system. The customer is copied on the audit trail.\n\nFor active emergencies (in-progress incident, exigent circumstances), the SOC can authorize same-call release under the customer's pre-signed law-enforcement authorization. Most law-enforcement customers and many commercial customers maintain a standing release; the form is one page.\n\n## What \"chain of custody\" actually means here\n\nEvery export carries a chain-of-custody manifest:\n\n- Source camera ID and site ID\n- Source timestamp range (UTC and local)\n- SOC operator who generated the export\n- Generation timestamp\n- SHA-256 hash of the exported file\n- AWS region of origin\n- Audit log reference for the underlying source recording\n- Recipient (customer user, law enforcement agency, insurer)\n- Delivery method and timestamp\n\nThe manifest is a signed PDF generated by the platform and is reproducible on demand from the immutable 12-month audit log. If anyone asks \"are you sure this is the original clip\" \u2014 yes, and here is the hash to prove it.\n\n## Delivery\n\nThree options, customer chooses at tenant provisioning:\n\n- **Signed portal link** \u2014 recipient downloads through HTTPS with TLS 1.3, link expires in 72 hours by default, single-recipient\n- **Direct evidence-system integration** \u2014 Axon Evidence.com, NICE Investigate, Genetec ClearID, Motorola CommandCentral; we push the file with manifest attached\n- **Physical media** \u2014 encrypted USB shipped by courier, used rarely for very large exports or air-gapped agencies\n\nAll deliveries are logged. The original source video is not deleted; the export is a copy, the source remains in retention until its retention policy expires.\n\n## Common request types\n\n- Workplace incident investigations (HR, EHS)\n- Theft, shrinkage, internal loss prevention\n- Slip-and-fall and other premises liability\n- Auto incidents at logistics yards\n- Construction safety incidents and OSHA recordable review\n- Vandalism, trespassing, criminal mischief\n- Law-enforcement support for outside-property crime where our cameras captured a vehicle or person of interest\n\n## What the SOC operator actually does\n\n1. Validate the requester against the authorization matrix\n2. Identify the correct camera(s) by site and time\n3. Frame the export window with appropriate pre-roll (default 60s) and post-roll\n4. Preview the clip \u2014 confirms the right incident is captured, flags any privacy-sensitive content for redaction\n5. Generate the export with manifest\n6. Deliver via the chosen channel\n7. Log every step to the audit trail\n\nMedian operator handle time on a clean request: 12 minutes. Median end-to-end customer turnaround: under 60 minutes.\n\n## Privacy and redaction\n\nFor requests crossing jurisdictions with privacy obligations (HIPAA-adjacent healthcare, GDPR for international subsidiaries, state biometric laws), the SOC can request a redaction pass \u2014 face blur, license plate blur, or audio mute \u2014 before delivery. Redactions are reversible internally for court-ordered un-redaction but the delivered file is the redacted version with a separate hash.\n\n## Pricing\n\nStandard retrieval is included with every AI VisionStream tenant up to 25 requests per site per month. Higher-volume tenants and certified evidence integrations are priced separately. Law-enforcement support for customer-authorized agencies is always at no additional cost.",
+    "faq": [
+      {
+        "q": "How fast can I get a clip for an active incident?",
+        "a": "Inside 30 minutes during business hours, 90 minutes overnight, faster for active emergencies under pre-signed authorization."
+      },
+      {
+        "q": "Do you support body-worn or dashcam footage?",
+        "a": "No. AI VisionStream and VDS retrieval cover fixed and trailer-mounted cameras. We integrate with Axon Evidence for handoff of related body-cam footage to investigators."
+      },
+      {
+        "q": "Will my footage hold up in court?",
+        "a": "With the chain-of-custody manifest, SHA-256 hash, and immutable audit log reference, yes \u2014 our exports have been admitted in criminal proceedings in multiple jurisdictions. We do not provide expert testimony but the manifest is structured to support it."
+      },
+      {
+        "q": "Who can authorize a release to law enforcement?",
+        "a": "Whoever your tenant admin designates in the authorization matrix. Most customers list 2-4 named individuals plus a 24/7 emergency standing release."
+      },
+      {
+        "q": "Can law enforcement search my footage themselves?",
+        "a": "No. All retrieval goes through the VDS SOC. Law enforcement does not receive direct platform access without an explicit customer grant."
+      }
+    ],
+    "finalCTAHeading": "Need a clip pulled now?",
+    "finalCTABody": "SOC line is staffed 24/7. Existing customers, call the SOC. New customers, talk to us about adding video retrieval as part of a managed deployment.",
+    "finalCTAButtons": [
+      {
+        "label": "Contact the SOC",
+        "url": "Schedule a Demo"
+      }
+    ],
+    "schemaType": "Service",
+    "internalLinks": "/services/24-7-soc, /platform/ai-visionstream, /industries/law-enforcement, /guides/security-video-retention",
+    "notes": "This is a high-intent page for law enforcement and insurance buyers. Keep evidence/chain-of-custody language precise.",
+    "canonical": "https://visiondetectionsystems.com/services/video-retrieval",
+    "ogTitle": "Managed Video Retrieval With Chain of Custody",
+    "ogDescription": "SOC-managed video retrieval. Law enforcement requests, insurance evidence, internal investigations. SHA-256 chain of custody, secure portal delivery.",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .hero-subhead, h2",
+    "tags": "mobile surveillance, VDS",
+    "author": "Vision Detection Systems"
+  }
+]

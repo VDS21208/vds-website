@@ -1,0 +1,676 @@
+[
+  {
+    "url": "/platform/ai-video-analytics",
+    "slug": "ai-video-analytics",
+    "parent": "/platform",
+    "pageType": "Platform Detail",
+    "status": "Launch",
+    "seoTitle": "AI Analytics & Detection | AI VisionStream",
+    "metaDescription": "Intrusion zones, virtual tripwires, loitering, crowd, and time-of-day rules running on 7 years of field-tuned models. Sub-3-second alerts.",
+    "announcementBar": "",
+    "h1": "Rules you draw. Alerts that fire in under 3 seconds.",
+    "heroEyebrow": "Analytics & detection",
+    "heroSubhead": "Draw a polygon. Set a schedule. Get a verified alert when a human, vehicle, or object crosses the line. Models trained on 7 years of field footage from 500+ active sites.",
+    "heroCTAPrimary": {
+      "label": "Book a demo",
+      "url": "/demo"
+    },
+    "heroCTASecondary": {
+      "label": "See the SOC workflow",
+      "url": "/platform/soc"
+    },
+    "heroStats": [
+      "5 rule types",
+      "Sub-3-second alert",
+      "97% false-alarm reduction",
+      "Per-camera schedules"
+    ],
+    "body": "## Five rule types that cover 95% of real-world security events\n\nMost \"AI detection\" pages list 40 features and ship 4. We ship 5 rule types because those 5 catch the events that actually drive incident reports.\n\n### Intrusion zones\nDraw a polygon on the camera view. Set who is allowed in it (no one, vehicles only, people only) and when. Alert fires when the rule is broken. Sensitivity is per-zone, not global.\n\n### Virtual tripwires\nA directional line across an entry point, fence gap, or loading bay. Alert fires only when crossed in the direction you specify. Bi-directional is also supported.\n\n### Loitering\nTag a zone with a dwell threshold (e.g., person stationary for 90 seconds). Catches casing behavior at ATMs, parking structures, and dealership lots without firing on every customer who walks through.\n\n### Crowd thresholds\nAlert when more than N people enter a zone within a window. Used for retail flash-rob detection, protest perimeter awareness, and occupancy compliance.\n\n### Time-of-day rules\nEvery rule above can be scheduled. A loading dock that is legitimate from 6 a.m. to 7 p.m. and an intrusion target from 7 p.m. to 6 a.m. is a single camera with two rule sets, not two configurations.\n\n## Tuned on field data, not stock datasets\n\nThe classifier was trained on 7 years of footage from active VDS deployments \u2014 construction yards in the rain, dealership lots at 3 a.m., apartment garages, substations. Stock COCO models can't tell a tarp from a person at 80 feet. Ours can.\n\n## False-alarm reduction: 97%\n\nEvery analytic alert is reviewed by a SOC operator before it escalates to the customer. Animals, blowing debris, headlights, and shadows are filtered out. The result: customers see verified events, not raw model output.\n\n## Built for the platform, not bolted on\n\nAnalytics rules are configured in the same console as users, retention, and SOC routing. Changes apply in seconds. Every rule edit is logged in the [12-month audit trail](/platform/security).",
+    "faq": [
+      {
+        "q": "How fast does an alert reach a person?",
+        "a": "Detection to model output is sub-3-second. Detection to verified SOC operator is under 60 seconds on average."
+      },
+      {
+        "q": "Can I run rules on cameras I already own?",
+        "a": "Yes \u2014 any ONVIF or RTSP camera not on the NDAA prohibited list. See [camera-agnostic ingest](/platform)."
+      },
+      {
+        "q": "What is the false-positive rate?",
+        "a": "Verified alerts to customers see a 97% reduction in false positives versus raw motion or unverified AI alerts. The SOC layer is the difference."
+      },
+      {
+        "q": "Can I run rules differently on weekdays vs. weekends?",
+        "a": "Yes. Schedules are per-rule, per-camera, with full day-of-week and time-of-day granularity."
+      }
+    ],
+    "finalCTAHeading": "Watch a rule fire on your own camera.",
+    "finalCTABody": "Send us an RTSP URL. We will configure an intrusion zone live during the demo.",
+    "finalCTAButtons": [
+      {
+        "label": "Book a demo",
+        "url": "/demo"
+      }
+    ],
+    "schemaType": "SoftwareApplication",
+    "internalLinks": "/platform, /platform/lpr, /platform/soc, /platform/alerts, /platform/security",
+    "notes": "Screenshot the rule editor with polygon draw. Show the schedule UI. Include a 3-frame \"before/after\" of false-positive filtering.",
+    "canonical": "https://visiondetectionsystems.com/platform/ai-video-analytics",
+    "ogTitle": "Rules you draw. Alerts that fire in under 3 seconds.",
+    "ogDescription": "Intrusion zones, virtual tripwires, loitering, crowd, and time-of-day rules running on 7 years of field-tuned models. Sub-3-second alerts.",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .hero-subhead, h2",
+    "tags": "AI VisionStream, cloud VMS, video analytics",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/platform/alerts-reporting",
+    "slug": "alerts-reporting",
+    "parent": "/platform",
+    "pageType": "Platform Detail",
+    "status": "Launch",
+    "seoTitle": "Alerts Engine | Tiers, Escalation, Filtering | VDS",
+    "metaDescription": "Three-tier alert engine with rule-based escalation, SOC verification, and 97% false-positive reduction. Sub-3-second detection, under-60-second response.",
+    "announcementBar": "",
+    "h1": "Three tiers. One workflow. 97% fewer false alarms.",
+    "heroEyebrow": "Alerts engine",
+    "heroSubhead": "Every alert flows through detection, verification, and escalation. Tiered routing sends informational events to dashboards, action events to your phone, and critical events to a SOC operator who is already watching.",
+    "heroCTAPrimary": {
+      "label": "Book a demo",
+      "url": "/demo"
+    },
+    "heroCTASecondary": {
+      "label": "See the SOC workflow",
+      "url": "/platform/soc"
+    },
+    "heroStats": [
+      "3 alert tiers",
+      "Sub-3s detection",
+      "97% false-alarm cut",
+      "Per-rule routing"
+    ],
+    "body": "## The three tiers\n\n### Tier 1 \u2014 Informational\nLogged to the dashboard. No push, no operator. Used for after-hours camera health, low-confidence motion, and audit-only rule firings.\n\n### Tier 2 \u2014 Action\nPush notification to designated users via the mobile app and integrations (Slack, Teams, email, SMS). One-tap acknowledge. Optional escalation to Tier 3 if not acknowledged within a configurable window (default 5 minutes).\n\n### Tier 3 \u2014 Critical\nRouted simultaneously to:\n- The SOC console for verified operator response\n- The mobile app for designated on-call users\n- The configured ACS or alarm central if linked\n- Pre-authorized LE dispatch where applicable\n\nTier 3 is the SLA tier \u2014 under 60-second operator escalation, full incident report on close.\n\n## What drives the 97% false-alarm reduction\n\n1. **Model filtering** \u2014 sub-3-second classification rejects animals, debris, headlights, and shadow movement\n2. **Rule context** \u2014 schedules and authorized-actor lists suppress legitimate activity\n3. **SOC verification** \u2014 every Tier 3 alert is reviewed by a human before customer escalation\n\nRaw model output to verified customer alert ratio runs around 33:1 in active production deployments. The model fires often. The customer hears about it rarely. The right events get through every time.\n\n## Per-rule routing\n\nEvery rule can route to a different tier, a different user group, a different integration. A loading dock intrusion at 3 a.m. wakes the SOC. A loitering event at the front entrance during business hours opens a Slack thread. Same camera, different rules, different paths.\n\n## Acknowledgement and audit\n\nEvery alert has a state: open, acknowledged, escalated, resolved, dismissed. State transitions are logged with timestamp and actor. Resolution requires a disposition code from a configurable list. The 12-month audit log catches every move.\n\n## Retention and replay\n\nAlert clips are retained on the platform's standard cadence (30/60/90 days). Critical alerts can be tagged for extended retention up to 1 year. Replay is available from the alert detail view with frame-by-frame stepping and clip export.",
+    "faq": [
+      {
+        "q": "How do I tune false-positive rates on a noisy camera?",
+        "a": "Tier 1 logging plus rule-confidence sliders. We run a 7-day shake-out on every new rule and report the tuning recommendations."
+      },
+      {
+        "q": "Can I bypass the SOC and route alerts directly to my own team?",
+        "a": "Yes \u2014 disable SOC routing per rule or per site. The alert engine is independent of the SOC tier."
+      },
+      {
+        "q": "What is the maximum number of rules per camera?",
+        "a": "32 per camera, 256 per site. We have not seen a deployment exceed half of that."
+      },
+      {
+        "q": "Are alerts delivered if the camera's internet drops?",
+        "a": "On-trailer deployments buffer detection locally and forward when connectivity restores. Fixed-site deployments depend on the site's network design \u2014 we will spec a cellular failover during pre-deployment."
+      }
+    ],
+    "finalCTAHeading": "See alert routing on your own rules.",
+    "finalCTABody": "We will configure a Tier 3 rule and trigger it live during the demo.",
+    "finalCTAButtons": [
+      {
+        "label": "Book a demo",
+        "url": "/demo"
+      }
+    ],
+    "schemaType": "SoftwareApplication",
+    "internalLinks": "/platform, /platform/analytics, /platform/soc, /platform/integrations, /platform/mobile-app",
+    "notes": "Flow diagram of three tiers belongs above the fold. Tier 3 metrics tied back to the SOC SLA.",
+    "canonical": "https://visiondetectionsystems.com/platform/alerts-reporting",
+    "ogTitle": "Three tiers. One workflow. 97% fewer false alarms.",
+    "ogDescription": "Three-tier alert engine with rule-based escalation, SOC verification, and 97% false-positive reduction. Sub-3-second detection, under-60-second response.",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .hero-subhead, h2",
+    "tags": "AI VisionStream, cloud VMS, video analytics",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/platform/api-sdk-access",
+    "slug": "api-sdk-access",
+    "parent": "/platform",
+    "pageType": "Platform Detail",
+    "status": "Expansion",
+    "seoTitle": "API & SDK Access | Developer Integration | AI VisionStream",
+    "metaDescription": "REST API, webhooks, mobile SDK, and Postman collection for AI VisionStream. OAuth2 + API keys. Build ITSM, BIM, and PSIM integrations.",
+    "announcementBar": "",
+    "h1": "REST API, Webhooks, and SDK for AI VisionStream",
+    "heroEyebrow": "Developer Platform",
+    "heroSubhead": "Pull events, push clips, subscribe to webhooks, and embed live video in your own application. OAuth2 and API key authentication. Postman collection included.",
+    "heroCTAPrimary": {
+      "label": "Request API Access",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "Download Postman Collection",
+      "url": "/request-a-quote"
+    },
+    "heroStats": [
+      "REST + Webhooks \u2022 OAuth2 / API keys \u2022 iOS + Android SDK \u2022 Rate-limited at 100 req/sec"
+    ],
+    "body": "AI VisionStream exposes a versioned REST API plus webhook subscriptions plus a native mobile SDK. If your team builds software \u2014 ITSM, PSIM, BIM/CDE, custom operations dashboards \u2014 you do not have to screen-scrape our UI.\n\n## API surface\n\nCurrent stable version: `v2`. Base URL: `https://api.visionstream.us/v2`.\n\nEndpoint families:\n\n- **Events** \u2014 list, filter, and stream AI events (LPR, intrusion, tripwire, loitering, crowd)\n- **Cameras** \u2014 inventory, health, ONVIF capability discovery\n- **Sites** \u2014 site metadata, group membership, geocoordinates\n- **Clips** \u2014 generate time-bounded exports, retrieve signed URLs, fetch chain-of-custody records\n- **Users** \u2014 RBAC management, MFA status, SSO mapping\n- **Audit** \u2014 query the immutable 12-month log\n- **Health** \u2014 device-level battery, solar input, cellular RSRP, uptime\n\nResponses are JSON. Errors follow RFC 7807 (Problem Details). Pagination is cursor-based; do not assume offset.\n\n## Webhooks\n\nSubscribe a URL; receive POST callbacks within ~250ms of the underlying event. Payloads are signed with HMAC-SHA256 using a tenant-scoped secret \u2014 verify the `X-VisionStream-Signature` header before processing.\n\nSubscribable event types:\n\n- `event.lpr.matched` \u2014 plate matched a watch list\n- `event.lpr.detected` \u2014 plate read, no list match\n- `event.intrusion.entered` / `event.intrusion.exited`\n- `event.tripwire.crossed`\n- `event.loitering.threshold`\n- `device.health.degraded` / `device.health.recovered`\n- `device.tamper.detected`\n- `clip.export.ready` \u2014 async clip generation completed\n\nRetry policy: exponential backoff, 3 attempts over 5 minutes. Dead-letter inspection available in the developer console.\n\n## Mobile SDK\n\nNative iOS (Swift) and Android (Kotlin) SDKs ship as Swift Package Manager and Maven artifacts. Capabilities:\n\n- Authenticate with OAuth2 or API key\n- Embed live H.265 video views with hardware decode\n- Subscribe to events over WebSocket\n- Trigger audio talk-down on speaker-equipped cameras\n- Generate and share clips with chain-of-custody preserved\n\nSample apps in both languages ship with the SDK. Minimum supported versions: iOS 15, Android 10.\n\n## Authentication\n\nTwo methods, pick per integration:\n\n- **OAuth2 (authorization code + PKCE)** \u2014 for end-user-facing apps. Standard scopes: `events:read`, `clips:write`, `cameras:read`, `audit:read`, `admin:*`.\n- **API keys** \u2014 for server-to-server. Scoped per integration, rotatable without downtime, audit-logged on every call.\n\nAPI keys are issued from the Developer Console. Each key has an environment label (production / staging), an owner email, and a last-used timestamp.\n\n## Rate limits\n\nStandard tier: 100 requests per second per tenant, 6,000 per minute, burst to 200 for 10 seconds. Webhook receive volume is unlimited.\n\n429 responses include `Retry-After` and `X-RateLimit-Reset` headers. If you need higher limits \u2014 typical for video-wall or PSIM integrations polling 200+ cameras \u2014 contact us; enterprise tier raises the ceiling to 1,000/sec.\n\n## Example use cases\n\n- **ITSM integration (ServiceNow, Jira Service Management)** \u2014 open a ticket automatically when a `device.health.degraded` webhook fires. Auto-close on `device.health.recovered`.\n- **Custom operations dashboard** \u2014 pull LPR events into a Grafana panel for a logistics yard, plot dwell time per truck.\n- **BIM/CDE integration (Autodesk Construction Cloud, Procore)** \u2014 link camera coverage zones to BIM model elements; tag site safety incidents to specific building areas.\n- **PSIM (Genetec, Milestone, Lenel)** \u2014 forward events into an existing command-and-control system without ripping out the upstream investment.\n- **Insurance reporting** \u2014 pull a 90-day incident summary per site as part of a quarterly carrier package.\n\n## Documentation and support\n\nFull reference at `developers.visionstream.us`. Postman collection downloadable from the same URL. Developer support is included with any production tenant \u2014 direct Slack Connect channel for paid plans.",
+    "faq": [
+      {
+        "q": "Is the API stable?",
+        "a": "v2 is the current stable version. v1 is deprecated and end-of-life 2026-12-31. Breaking changes are announced 180 days in advance."
+      },
+      {
+        "q": "Can I get a sandbox tenant?",
+        "a": "Yes. Sandbox tenants include 4 simulated cameras with deterministic event streams for integration testing. No production data risk."
+      },
+      {
+        "q": "Are webhooks delivered exactly once?",
+        "a": "At-least-once. Use the `event_id` field to deduplicate on your end."
+      },
+      {
+        "q": "What happens to integrations when retention rolls over?",
+        "a": "Events older than your retention tier return 410 Gone with the event ID intact. Pull and persist events you need long-term."
+      },
+      {
+        "q": "Is there a usage cost for the API?",
+        "a": "Not at standard tier. Enterprise tier (above 1,000 req/sec) is quoted per integration."
+      }
+    ],
+    "finalCTAHeading": "Build on AI VisionStream",
+    "finalCTABody": "Request API access and we will provision a sandbox tenant, ship you the Postman collection, and route you to a solutions engineer.",
+    "finalCTAButtons": [
+      {
+        "label": "Request API Access",
+        "url": "View Developer Docs"
+      }
+    ],
+    "schemaType": "TechArticle",
+    "internalLinks": "/platform/ai-visionstream, /platform/cloud-video-surveillance, /industries/construction, /platform/integrations",
+    "notes": "Developer-facing; tone should stay technical without losing the brand voice. Link from /platform and from construction industry page (BIM angle).",
+    "canonical": "https://visiondetectionsystems.com/platform/api-sdk-access",
+    "ogTitle": "REST API, Webhooks, and SDK for AI VisionStream",
+    "ogDescription": "REST API, webhooks, mobile SDK, and Postman collection for AI VisionStream. OAuth2 + API keys. Build ITSM, BIM, and PSIM integrations.",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .hero-subhead, h2",
+    "tags": "AI VisionStream, cloud VMS, video analytics",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/platform/cloud-security",
+    "slug": "cloud-security",
+    "parent": "/platform",
+    "pageType": "Platform Detail",
+    "status": "Launch",
+    "seoTitle": "Platform Security & Compliance | NDAA, AWS US-Only | VDS",
+    "metaDescription": "NDAA Section 889 compliant. AWS US-only. TLS 1.3 in transit, AES-256 at rest. RBAC, MFA, and an immutable 12-month audit log.",
+    "announcementBar": "",
+    "h1": "Security posture, written down. Verifiable on audit day.",
+    "heroEyebrow": "Platform security & privacy",
+    "heroSubhead": "NDAA 889 compliant. AWS US-only data residency. TLS 1.3 in transit, AES-256 at rest. RBAC, MFA, and a 12-month immutable audit log. We publish it because we built it that way.",
+    "heroCTAPrimary": {
+      "label": "Request security packet",
+      "url": "/contact"
+    },
+    "heroCTASecondary": {
+      "label": "See compliance details",
+      "url": "/trust"
+    },
+    "heroStats": [
+      "NDAA Section 889",
+      "AWS Cloud Partner",
+      "TLS 1.3 / AES-256",
+      "12-month audit log"
+    ],
+    "body": "## Data residency\n\n100% of customer video, metadata, and platform data lives in AWS US regions (us-east and us-west). No replication outside the United States. No third-party CDN for video playback. No offshore support access to customer tenants.\n\n## Encryption\n\n- **In transit:** TLS 1.3 between camera, cloud, and client. RTSP streams are wrapped in TLS at the ingest gateway.\n- **At rest:** AES-256 on all stored video and metadata, with AWS KMS-managed keys.\n- **Key rotation:** automatic on a 90-day cycle.\n\n## Identity and access\n\n- **MFA** required on every account. TOTP and WebAuthn (hardware key) supported.\n- **RBAC** at the user, site, and camera level. Pre-built roles plus custom role definition.\n- **SSO** via SAML 2.0 and OIDC. Okta, Azure AD, and Google Workspace tested.\n- **Session expiration** configurable per-tenant, default 8 hours.\n- **Device registration** for mobile clients with revocation per device.\n\n## Audit log\n\nEvery user action, every alert event, every camera state change, every rule edit, every clip share \u2014 logged in an immutable 12-month audit trail. Exportable to JSON, CSV, or your SIEM via webhook. Required for SOC 2 customers. Available on every tier.\n\n## Network and supply chain\n\n- **NDAA Section 889 compliant.** No Dahua, no Hikvision, no Lorex, no Huawei in our supply chain or in supported third-party cameras.\n- **AWS Cloud Partner** \u2014 infrastructure benefits from AWS shared-responsibility controls.\n- **Assembled in Pikesville, Maryland.**\n- **Penetration tested annually** by an independent third party. Report available under NDA.\n\n## What we will not do\n\n- We will not publish your camera feeds to a public web page\n- We will not leave a camera reachable from the open internet\n- We will not sell or share customer footage\n- We will not run a pattern-of-life database across customer plates\n- We will not store data outside the United States\n\nThese are not aspirational. They are architectural. If you want the specifics, the security packet runs 28 pages.\n\n## Vulnerability disclosure\n\nCoordinated disclosure at security@visiondetectionsystems.com. We publish CVE-class advisories to customers within 72 hours of confirmation, with mitigation guidance.",
+    "faq": [
+      {
+        "q": "Are you SOC 2 certified?",
+        "a": "SOC 2 Type II report available under NDA. Audit cycle is annual."
+      },
+      {
+        "q": "Can I bring my own KMS key?",
+        "a": "Customer-managed keys (CMK) via AWS KMS are available on enterprise tiers."
+      },
+      {
+        "q": "How long is the audit log retained?",
+        "a": "12 months by default, with extended retention available on request. Exports can be archived indefinitely by the customer."
+      },
+      {
+        "q": "Have you had a security incident?",
+        "a": "No customer-facing breach to date. We publish an annual transparency report at /trust."
+      },
+      {
+        "q": "How does this compare to other VMS platforms?",
+        "a": "We publish our posture. Several large competitors have had public breaches in the last 5 years \u2014 see /compare for specifics."
+      }
+    ],
+    "finalCTAHeading": "Get the 28-page security packet.",
+    "finalCTABody": "We will send the full architecture diagram, encryption posture, RBAC model, and pen-test summary under NDA.",
+    "finalCTAButtons": [
+      {
+        "label": "Request packet",
+        "url": "/contact"
+      }
+    ],
+    "schemaType": "WebPage",
+    "internalLinks": "/platform, /trust, /compare, /platform/integrations",
+    "notes": "This page does a lot of competitive work via the \"what we will not do\" list \u2014 Flock and Verkada incidents are the implicit contrast. Trust packet link must be live before launch.",
+    "canonical": "https://visiondetectionsystems.com/platform/cloud-security",
+    "ogTitle": "Security posture, written down. Verifiable on audit day.",
+    "ogDescription": "NDAA Section 889 compliant. AWS US-only. TLS 1.3 in transit, AES-256 at rest. RBAC, MFA, and an immutable 12-month audit log.",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .hero-subhead, h2",
+    "tags": "AI VisionStream, cloud VMS, video analytics",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/platform/cloud-video-surveillance",
+    "slug": "cloud-video-surveillance",
+    "parent": "/platform",
+    "pageType": "Platform Detail",
+    "status": "Launch",
+    "seoTitle": "Cloud Video Surveillance | AI VisionStream VMS | VDS",
+    "metaDescription": "Cloud video surveillance built on AWS. Camera-agnostic ONVIF/RTSP, 30/60/90-day retention, multi-site single pane, TLS 1.3, AES-256, US-only.",
+    "announcementBar": "",
+    "h1": "Cloud Video Surveillance Without an On-Site Recorder",
+    "heroEyebrow": "AI VisionStream Platform",
+    "heroSubhead": "AWS-backed VMS. Camera-agnostic over ONVIF and RTSP. Multi-site view in one browser tab. No DVR, no NVR, no Windows server in a closet.",
+    "heroCTAPrimary": {
+      "label": "Request a Live Demo",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "See Platform Specs",
+      "url": "/request-a-quote"
+    },
+    "heroStats": [
+      "AWS Cloud Partner \u2022 TLS 1.3 / AES-256 \u2022 30/60/90-day retention \u2022 Sub-3-second alerts"
+    ],
+    "body": "AI VisionStream is the video management system inside every VDS deployment. It runs on AWS in US-only regions, ingests ONVIF and RTSP streams from any compliant camera, and presents 500+ deployments across 30+ states through a single browser session.\n\n## What \"cloud-native\" actually means here\n\nThere is no headend appliance on your site. No NVR to reimage, no Windows Server patch cycle, no SD card to fail at month nine. Cameras stream to the edge unit on the trailer or building, which buffers locally and forwards to AWS over encrypted cellular, 5G, or wired uplink. Recording, AI inference, user management, and storage all live in the cloud.\n\nPractical consequences:\n\n- Add a site by shipping hardware. No headend configuration on the customer LAN.\n- A failed camera does not take down a site. The other cameras keep recording.\n- Firmware and VMS updates ship from us. No truck roll required.\n- Bandwidth-constrained sites use H.265 with adaptive bitrate; storage cost stays predictable.\n\n## Camera-agnostic\n\nAI VisionStream is ONVIF Profile S/T and RTSP compliant. If a camera speaks either protocol \u2014 and 95%+ of fixed IP cameras manufactured after 2018 do \u2014 it integrates. We have customers running Axis, Hanwha, Bosch, Hikvision, Dahua, Pelco, Avigilon, Ubiquiti, and a long tail of OEM rebrands on the same tenant. NDAA Section 889 compliance is tracked per camera; the platform itself is unrestricted.\n\n## Multi-site single pane\n\nOne login, every site. Filter by region, site group, camera type, or status. Pre-built map view plots devices over satellite imagery. A regional loss-prevention manager covering 40 retail locations gets the same interface as a one-trailer construction project.\n\nUser permissions are role-based (RBAC) with optional MFA enforcement at the tenant level. Typical role hierarchy: Tenant Admin, Site Manager, Operator, Viewer, External Auditor. Every login, view, export, and share-link action writes to an immutable 12-month audit log.\n\n## Retention tiers\n\nPick per camera, per site, or per tenant:\n\n- **30 days** \u2014 operational review, day-to-day incident response, lowest cost\n- **60 days** \u2014 most common default for retail, logistics, and construction\n- **90 days** \u2014 healthcare, finance, government, and litigation-sensitive deployments\n\nNeed longer? 1-year and 7-year evidence holds are available as add-ons, billed by GB/month. Retention is enforced server-side; users cannot delete recordings before policy expiry.\n\n## AI events, not just recording\n\nThe same stream that records is analyzed in real time:\n\n- **License plate recognition** at 95%+ accuracy with sub-3-second alert delivery\n- **Intrusion zones** with polygon geometry and time-of-day rules\n- **Virtual tripwires** with directionality (in, out, both)\n- **Loitering detection** with dwell-time thresholds\n- **Crowd / occupancy counting** with min-max alerting\n\nEvents route to the VDS 24/7 SOC, to customer SMS/email/webhook, or to a third-party PSIM via our REST API.\n\n## Security posture\n\n- TLS 1.3 in transit, AES-256 at rest\n- US-only AWS regions (us-east-1, us-west-2 primary)\n- MFA available tenant-wide, enforceable by role\n- SAML SSO supported (Okta, Azure AD, Google Workspace)\n- 12-month immutable audit log, exportable for compliance review\n- SOC 2 Type II controls inherited from AWS; VDS SOC 2 report available under NDA\n\n## Cost model\n\nPer-camera, per-month subscription. Storage is included up to the retention tier you select. Bandwidth is included. Software updates are included. No per-event fees, no per-user seat fees, no API call metering at standard tier.",
+    "faq": [
+      {
+        "q": "Do I need to replace my existing cameras?",
+        "a": "No, if they speak ONVIF or RTSP. We onboard the existing fleet, validate stream quality, and add cameras only where coverage gaps exist."
+      },
+      {
+        "q": "What happens if the cellular link drops?",
+        "a": "The edge unit buffers locally up to 72 hours depending on configuration. Footage syncs to cloud when the link restores. SOC is notified at the 5-minute mark."
+      },
+      {
+        "q": "Can I export footage for law enforcement?",
+        "a": "Yes. Operators with export rights generate a time-bounded clip; the system writes a chain-of-custody record including the requesting user, timestamp, and SHA-256 hash of the export."
+      },
+      {
+        "q": "Is data ever stored outside the US?",
+        "a": "No. All processing and storage occurs in US AWS regions. No offshore support access to recorded video."
+      },
+      {
+        "q": "How is this different from a traditional VMS?",
+        "a": "No on-site server, no port forwarding, no annual license renewal cycle, no headend to fail. Updates ship from AWS, not a USB stick."
+      }
+    ],
+    "finalCTAHeading": "See AI VisionStream on your cameras",
+    "finalCTABody": "30-minute live demo with your floor plan and camera count. We will show retention, AI events, audit log, and user permissions on actual deployments.",
+    "finalCTAButtons": [
+      {
+        "label": "Schedule Demo",
+        "url": "Download Platform Brief"
+      }
+    ],
+    "schemaType": "Product",
+    "internalLinks": "/platform/ai-visionstream, /platform/api-sdk-access, /services/24-7-soc, /guides/security-video-retention",
+    "notes": "Anchor page for \"cloud video surveillance\" keyword. Link from /platform and from MSU guide.",
+    "canonical": "https://visiondetectionsystems.com/platform/cloud-video-surveillance",
+    "ogTitle": "Cloud Video Surveillance Without an On-Site Recorder",
+    "ogDescription": "Cloud video surveillance built on AWS. Camera-agnostic ONVIF/RTSP, 30/60/90-day retention, multi-site single pane, TLS 1.3, AES-256, US-only.",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .hero-subhead, h2",
+    "tags": "AI VisionStream, cloud VMS, video analytics",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/platform/integrations",
+    "slug": "integrations",
+    "parent": "/platform",
+    "pageType": "Platform Detail",
+    "status": "Launch",
+    "seoTitle": "Integrations | ACS, Alarm, ITSM, Notifications | VDS",
+    "metaDescription": "Native integrations with Lenel, Genetec, Brivo, Bold, Stages, ServiceNow, Jira, PagerDuty, Slack, and email/SMS gateways.",
+    "announcementBar": "",
+    "h1": "Wired into the stack you already run.",
+    "heroEyebrow": "Integrations",
+    "heroSubhead": "Native integrations with the access control, alarm monitoring, ITSM, and notification systems already deployed at your sites. No middleware. No CSV exports.",
+    "heroCTAPrimary": {
+      "label": "See full list",
+      "url": "#integrations"
+    },
+    "heroCTASecondary": {
+      "label": "Talk to an engineer",
+      "url": "/contact"
+    },
+    "heroStats": [
+      "4 ACS platforms",
+      "2 alarm centrals",
+      "2 ITSM tools",
+      "4 notification channels"
+    ],
+    "body": "## Access control (ACS)\n\n- **Lenel OnGuard** \u2014 badge events, door state, alarm pairing\n- **Genetec Security Center** \u2014 video sync, federation, event push\n- **Brivo** \u2014 cloud ACS, mobile credential events\n- **Custom** \u2014 ONVIF Profile A and REST hooks for in-house ACS\n\nWhen an unauthorized badge swipe fires at a door, the nearest camera pulls the 30-second pre-event clip and routes it to the SOC alongside the badge event.\n\n## Alarm monitoring centrals\n\n- **Bold Group (Manitou, Stages)** \u2014 direct event push with CAD-compatible payload\n- **Stages** \u2014 bi-directional event acknowledgement\n\nIf your existing central station already monitors intrusion panels, we wire video verification into the same workflow they already run.\n\n## ITSM and ticketing\n\n- **ServiceNow** \u2014 incident creation, clip attachment, status sync\n- **Jira Service Management** \u2014 same workflow, Atlassian-side\n- **Custom webhooks** \u2014 JSON event payloads to any HTTPS endpoint\n\nEvery verified SOC event opens a ticket in your system with the incident report, video link, and operator notes attached.\n\n## Notifications\n\n- **PagerDuty** \u2014 on-call rotation, escalation policies\n- **Slack** \u2014 channel routing per site or per rule\n- **Email and SMS** \u2014 Twilio-backed, configurable per user and per rule\n- **Microsoft Teams** \u2014 channel webhooks supported\n\n## API and webhooks\n\nREST API for camera management, rule configuration, alert retrieval, and user provisioning. Webhooks for every event class. OAuth 2.0 with scoped tokens. Rate limits documented per endpoint.\n\nFull reference at [api.visiondetectionsystems.com](/docs).\n\n## What we do not do\n\nWe do not sell connector seats. Every integration listed above is included on every commercial tier. If we list it, you can use it.",
+    "faq": [
+      {
+        "q": "Is the API rate-limited?",
+        "a": "100 requests/second per token, with burst headroom. Higher limits available for enterprise tiers."
+      },
+      {
+        "q": "Do integrations cost extra?",
+        "a": "No. Every integration on this page is included on every commercial tier."
+      },
+      {
+        "q": "How long does an ACS integration take to deploy?",
+        "a": "1-3 days for supported platforms with documented credentials. We handle the wiring; you approve the rules."
+      },
+      {
+        "q": "What about platforms not on this list?",
+        "a": "Most can be wired through webhooks and REST. We have shipped connectors for OpenPath, Avigilon, and Milestone on request."
+      }
+    ],
+    "finalCTAHeading": "Tell us what is in your stack.",
+    "finalCTABody": "We will pull up your ACS, alarm, and ITSM platform during the demo and show the wiring live.",
+    "finalCTAButtons": [
+      {
+        "label": "Book a demo",
+        "url": "/demo"
+      }
+    ],
+    "schemaType": "SoftwareApplication",
+    "internalLinks": "/platform, /platform/soc, /platform/alerts, /platform/security",
+    "notes": "Logo grid for each category \u2014 get logos cleared first. API doc link should point to actual docs site when live.",
+    "canonical": "https://visiondetectionsystems.com/platform/integrations",
+    "ogTitle": "Wired into the stack you already run.",
+    "ogDescription": "Native integrations with Lenel, Genetec, Brivo, Bold, Stages, ServiceNow, Jira, PagerDuty, Slack, and email/SMS gateways.",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .hero-subhead, h2",
+    "tags": "AI VisionStream, cloud VMS, video analytics",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/platform/lpr",
+    "slug": "lpr",
+    "parent": "/platform",
+    "pageType": "Platform Detail",
+    "status": "Launch",
+    "seoTitle": "License Plate Recognition | 95%+ Accuracy | VDS",
+    "metaDescription": "ALPR with 95%+ read accuracy and sub-3-second hotlist alerts. US-only data, 12-month audit log, no public camera feeds.",
+    "announcementBar": "",
+    "h1": "Plate reads in under 3 seconds. Hotlist match to operator in under 60.",
+    "heroEyebrow": "License plate recognition",
+    "heroSubhead": "95%+ read accuracy on US plates from any compatible camera. Hotlist alerts route directly to the SOC. No public camera feed. No pattern-of-life database.",
+    "heroCTAPrimary": {
+      "label": "Book a demo",
+      "url": "/demo"
+    },
+    "heroCTASecondary": {
+      "label": "Read our privacy posture",
+      "url": "/platform/security"
+    },
+    "heroStats": [
+      "95%+ accuracy",
+      "Sub-3-second read",
+      "60-second hotlist escalation",
+      "US-only storage"
+    ],
+    "body": "## What \"95%+ accuracy\" actually means\n\nMeasured on US plates, at angles up to 30 degrees, at speeds up to 35 mph, in mixed lighting. Reads include state inference. Numbers come from production deployments across 30+ states, not a single test lane.\n\n## How the workflow runs\n\n1. Camera captures the plate.\n2. Model reads it in under 3 seconds.\n3. Plate is matched against your hotlist (BOLO list, banned vehicles, watchlist).\n4. On match, alert routes to the [SOC](/platform/soc) and to your mobile app simultaneously.\n5. SOC operator verifies, escalates to LE if applicable, and files a full incident report.\n\n## Hotlist management\n\n- Upload by CSV, API, or manual entry\n- Set per-list rules (alert only, alert and dispatch, alert and audio challenge)\n- Tag plates with notes for SOC context\n- Set expiration dates per plate\n- Every edit logged in the 12-month audit trail\n\n## What we will not do\n\n- We will not expose your plate reads to other customers\n- We will not aggregate plate reads into a national pattern-of-life database\n- We will not publish your camera feed to the open internet\n- We will not store plate data outside US AWS regions\n\nIf those sentences sound pointed, it is because several \"public safety camera\" platforms do the opposite. Read our [security and privacy posture](/platform/security).\n\n## Works with the cameras you have\n\nLPR runs on any compatible ONVIF/RTSP camera meeting basic resolution and shutter specs (most modern 4MP cameras qualify). No proprietary LPR camera required. We will spec the right lens and angle for your lane during pre-deployment.",
+    "faq": [
+      {
+        "q": "What plate formats are supported?",
+        "a": "All 50 US states and Canadian provinces. Vanity plates, motorcycle plates, and dealer plates are read."
+      },
+      {
+        "q": "How is hotlist matching different from a public ALPR network?",
+        "a": "Your hotlist is yours. It is not shared with other customers, law enforcement agencies, or third parties unless you explicitly authorize a dispatch on a specific match."
+      },
+      {
+        "q": "Do you sell or share plate data?",
+        "a": "No. Plate data lives in your tenant, in US AWS regions, with 30/60/90-day retention you control."
+      },
+      {
+        "q": "Can LPR run on a mobile trailer?",
+        "a": "Yes. Solar-autonomous trailers run the same LPR stack as fixed-site cameras. Same accuracy, same sub-3-second read time."
+      }
+    ],
+    "finalCTAHeading": "Run a live plate read during the demo.",
+    "finalCTABody": "We will point a test camera at a parking lot during the call and walk through hotlist setup end-to-end.",
+    "finalCTAButtons": [
+      {
+        "label": "Book a demo",
+        "url": "/demo"
+      }
+    ],
+    "schemaType": "SoftwareApplication",
+    "internalLinks": "/platform, /platform/soc, /platform/security, /platform/alerts",
+    "notes": "Strong privacy stance is the differentiator vs. Flock \u2014 never named, but the \"we will not\" list does the work. Include screenshot of hotlist editor and a sample incident report.",
+    "canonical": "https://visiondetectionsystems.com/platform/lpr",
+    "ogTitle": "Plate reads in under 3 seconds. Hotlist match to operator in under 60.",
+    "ogDescription": "ALPR with 95%+ read accuracy and sub-3-second hotlist alerts. US-only data, 12-month audit log, no public camera feeds.",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .hero-subhead, h2",
+    "tags": "LPR, license plate recognition, AI VisionStream, cloud VMS, video analytics",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/platform/mobile-app",
+    "slug": "mobile-app",
+    "parent": "/platform",
+    "pageType": "Platform Detail",
+    "status": "Launch",
+    "seoTitle": "VDS Mobile App | iOS + Android | Live View & Talk-Down",
+    "metaDescription": "iOS and Android app with live multi-camera view, alert acknowledgement, two-way audio talk-down, and incident clip sharing.",
+    "announcementBar": "",
+    "h1": "Your site, your operators, your phone.",
+    "heroEyebrow": "Mobile app",
+    "heroSubhead": "Live multi-camera grid, push alerts with one-tap acknowledge, two-way audio talk-down, and incident clip sharing. iOS and Android. The same software stack as the SOC console.",
+    "heroCTAPrimary": {
+      "label": "Book a demo",
+      "url": "/demo"
+    },
+    "heroCTASecondary": {
+      "label": "See the alert engine",
+      "url": "/platform/alerts"
+    },
+    "heroStats": [
+      "iOS + Android",
+      "Multi-camera live",
+      "Two-way audio",
+      "Per-user RBAC"
+    ],
+    "body": "## What the app does\n\n- **Live view** with up to 16 cameras per grid, per site\n- **Push alerts** with thumbnail, rule context, and one-tap acknowledge\n- **Two-way audio** talk-down through the trailer PA or compatible site speakers\n- **Clip sharing** \u2014 send a 60-second clip to a teammate or LE with a signed URL\n- **Incident timeline** \u2014 every event for the site, filterable by rule, camera, and time\n- **User and site switching** for property managers with multiple deployments\n- **Per-user RBAC** \u2014 what each phone can see is controlled by the same policies as the web console\n- **Biometric login** with MFA on enrollment and on sensitive actions\n\n## Built for the people who actually carry the phone\n\nSite supervisors. Property managers. On-call security directors. The app is not a marketing screenshot \u2014 it ships with every account, runs on phones that are three years old, and works on LTE. We tested the alert tone on a construction site at 2 p.m. through ear protection. It is loud.\n\n## Same security posture as the web console\n\nMFA. RBAC. Session expiration. Device registration. Push notifications go through APNs and FCM; alert payloads are never sent in clear text. Every action taken in the app is logged to the [12-month audit trail](/platform/security).\n\n## Works with or without the SOC\n\nIf you run a 24/7 SOC contract, the app is a window into what the operators are doing in real time. If you do not, the app is the primary alert channel for your own team. Either way the underlying engine is the same.",
+    "faq": [
+      {
+        "q": "How many users per account?",
+        "a": "Unlimited users on every tier. Seats are not capped \u2014 RBAC is."
+      },
+      {
+        "q": "Does talk-down work over LTE?",
+        "a": "Yes. Two-way audio runs over LTE or Wi-Fi with adaptive bitrate. Tested down to 2 Mbps uplink."
+      },
+      {
+        "q": "Can I share a clip with someone outside the company?",
+        "a": "Yes \u2014 signed URLs with configurable expiration (5 minutes to 7 days). Every share is logged."
+      },
+      {
+        "q": "Is there an Android tablet build?",
+        "a": "The Android app runs on tablets. The grid scales to 16 cameras on a 10\" device."
+      }
+    ],
+    "finalCTAHeading": "See the app on real cameras.",
+    "finalCTABody": "We will install a sandbox tenant on your phone during the demo with a live alert flow.",
+    "finalCTAButtons": [
+      {
+        "label": "Book a demo",
+        "url": "/demo"
+      }
+    ],
+    "schemaType": "MobileApplication",
+    "internalLinks": "/platform, /platform/soc, /platform/alerts, /platform/security",
+    "notes": "Screenshots of grid view, alert detail, talk-down UI, audit log entry. Include App Store and Google Play badges in the final design.",
+    "canonical": "https://visiondetectionsystems.com/platform/mobile-app",
+    "ogTitle": "Your site, your operators, your phone.",
+    "ogDescription": "iOS and Android app with live multi-camera view, alert acknowledgement, two-way audio talk-down, and incident clip sharing.",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .hero-subhead, h2",
+    "tags": "AI VisionStream, cloud VMS, video analytics",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/platform/pricing",
+    "slug": "pricing",
+    "parent": "/platform",
+    "pageType": "Pricing",
+    "status": "Launch",
+    "seoTitle": "AI VisionStream Pricing | Per-Camera & Per-Site | VDS",
+    "metaDescription": "Transparent per-camera and per-site pricing. Three tiers. No activation fees. SOC monitoring optional. NDAA 889 compliant.",
+    "announcementBar": "",
+    "h1": "Per camera. Per site. Published rates.",
+    "heroEyebrow": "Platform pricing",
+    "heroSubhead": "Three tiers. No activation fees. No connector seats. SOC monitoring as an optional add-on. Volume discounts kick in at 25 cameras.",
+    "heroCTAPrimary": {
+      "label": "Get a quote",
+      "url": "/contact"
+    },
+    "heroCTASecondary": {
+      "label": "Book a demo",
+      "url": "/demo"
+    },
+    "heroStats": [
+      "3 tiers",
+      "No setup fees",
+      "Volume breaks at 25+",
+      "NDAA 889 compliant"
+    ],
+    "body": "## Three tiers, one platform\n\nAll tiers include camera-agnostic ingest, the mobile app, RBAC and MFA, the 12-month audit log, US-only AWS storage, and every integration listed on the [integrations page](/platform/integrations).\n\n### Essential \u2014 $39 per camera per month\n- 30-day cloud retention\n- Up to 8 analytics rules per camera\n- Mobile app for unlimited users\n- Email and SMS alerts\n- Standard integrations (Slack, Teams, PagerDuty, email)\n- Business-hours support\n\n### Professional \u2014 $69 per camera per month\n- 60-day cloud retention\n- Unlimited analytics rules per camera\n- License plate recognition included\n- All ACS integrations (Lenel, Genetec, Brivo)\n- ITSM integrations (ServiceNow, Jira)\n- 24/7 platform support (not SOC monitoring)\n- Quarterly rule tuning review\n\n### Enterprise \u2014 Custom\n- 90-day cloud retention (extendable)\n- Unlimited rules, sites, and users\n- Customer-managed KMS keys\n- SSO via SAML 2.0 / OIDC\n- Custom integrations and webhooks\n- Dedicated customer success engineer\n- Annual on-site review\n\n## SOC monitoring add-on\n\n24/7 US Security Operations Center \u2014 verified operator response on every Tier 3 alert, audio talk-down, direct LE dispatch with live video, full incident report per event.\n\n- **Per site:** $399/site/month for up to 8 cameras\n- **Per camera (over 8):** $29/camera/month\n- **Includes:** unlimited verified events, monthly performance report, quarterly rule tuning\n\nSee the [SOC page](/platform/soc) for the operating model.\n\n## Hardware\n\nThe platform runs on any compatible ONVIF/RTSP camera. If you need hardware too \u2014 solar-autonomous mobile trailers, fixed-site cameras, network infrastructure \u2014 see [hardware pricing](/hardware/pricing).\n\n## Volume discounts\n\n| Cameras | Discount |\n|---|---|\n| 25-49 | 10% off |\n| 50-99 | 15% off |\n| 100-249 | 20% off |\n| 250+ | Custom |\n\nDiscounts apply to platform line items. SOC monitoring tiers separately.\n\n## What is not on this page\n\n- Activation fees \u2014 none\n- Connector seat fees \u2014 none\n- Mobile user fees \u2014 none\n- Audit log access fees \u2014 none\n- API call fees up to 100 req/sec \u2014 none\n\nIf a competitor's quote includes any of the above, you can use ours to negotiate. Or just switch.\n\n## Contracts\n\n- Monthly billing on credit card or ACH for Essential and Professional\n- Annual prepay with 2 months free on either tier\n- Enterprise: 1-year or 3-year terms with annual escalator capped at 3%",
+    "faq": [
+      {
+        "q": "Is there a setup fee?",
+        "a": "No. Onboarding labor (camera discovery, rule configuration, user provisioning) is included on all tiers."
+      },
+      {
+        "q": "What does a 4-camera site cost end to end?",
+        "a": "At Professional + SOC: ($69 x 4) + $399 = $675/month, with everything in this batch included."
+      },
+      {
+        "q": "Are there per-event fees in the SOC tier?",
+        "a": "No. Verified events are unlimited. The flat per-site/per-camera rate covers all activity."
+      },
+      {
+        "q": "Can I mix tiers across sites?",
+        "a": "Yes. Each site can run on a different tier. Common pattern: Essential on low-risk sites, Professional + SOC on critical sites."
+      },
+      {
+        "q": "Is there a free trial?",
+        "a": "We run a 14-day pilot on up to 4 cameras. No card required. We onboard your cameras on day 1."
+      }
+    ],
+    "finalCTAHeading": "Get a quote with your actual camera count.",
+    "finalCTABody": "Send us your camera list and site map. We will return a line-item quote in 24 hours.",
+    "finalCTAButtons": [
+      {
+        "label": "Get a quote",
+        "url": "/contact"
+      }
+    ],
+    "schemaType": "Product",
+    "internalLinks": "/platform, /platform/soc, /platform/integrations, /hardware/pricing, /demo",
+    "notes": "Pricing numbers should be confirmed with sales before launch \u2014 placeholders use the rates discussed in earlier briefs. \"What is not on this page\" section is a direct dig at competitors with hidden fees \u2014 keep it.",
+    "canonical": "https://visiondetectionsystems.com/platform/pricing",
+    "ogTitle": "Per camera. Per site. Published rates.",
+    "ogDescription": "Transparent per-camera and per-site pricing. Three tiers. No activation fees. SOC monitoring optional. NDAA 889 compliant.",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .hero-subhead, h2",
+    "tags": "AI VisionStream, cloud VMS, video analytics",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/platform/soc",
+    "slug": "soc",
+    "parent": "/platform",
+    "pageType": "Platform Detail",
+    "status": "Launch",
+    "seoTitle": "24/7 US Security Operations Center | VDS",
+    "metaDescription": "In-house US operators, under 60-second escalation, live audio talk-down, direct LE dispatch with video. 97% false-alarm reduction.",
+    "announcementBar": "",
+    "h1": "A US operator on every alert. Under 60 seconds. Every time.",
+    "heroEyebrow": "Security Operations Center",
+    "heroSubhead": "VDS-employed operators, working from our facility, watching your alerts 24/7. They verify the event, talk down through the trailer PA, and dispatch police with live video when it is real.",
+    "heroCTAPrimary": {
+      "label": "Book a demo",
+      "url": "/demo"
+    },
+    "heroCTASecondary": {
+      "label": "See the alert engine",
+      "url": "/platform/alerts"
+    },
+    "heroStats": [
+      "Under 60s escalation",
+      "24/7/365",
+      "US-based operators",
+      "97% false-alarm reduction"
+    ],
+    "body": "## What happens in the 60 seconds after an alert\n\n1. **T+0s** \u2014 Camera detects an event. Model classifies it. Rule fires.\n2. **T+3s** \u2014 Alert lands in the SOC console with live video and rule context.\n3. **T+15s** \u2014 Operator opens the camera feed, reviews 10 seconds of pre-event buffer.\n4. **T+30s** \u2014 Operator either dismisses (animal, debris) or escalates.\n5. **T+45s** \u2014 On escalation: operator activates live audio talk-down through the trailer PA, sends mobile push to your team, opens a dispatch line to local LE if pre-authorized.\n6. **T+60s** \u2014 Customer is on the alert. LE has been notified with live video link if applicable. Incident report has been started.\n\n## Audio talk-down is a real deterrent\n\nA live operator saying \"I can see you in the blue jacket near the white Ford. Police have been notified. Leave the property now\" stops 8 out of 10 attempted incidents before LE arrives. Recorded loops do not. Verified humans do.\n\n## Direct law enforcement coordination\n\nWhere allowed, our operators have direct dial lines to dispatch in the jurisdiction. We send a CAD-compatible incident summary plus a live video link. LE arrives knowing what they are walking into.\n\n## Every event has a report\n\nAfter resolution, the customer receives a full incident report:\n\n- Timestamps for detection, escalation, and resolution\n- Operator actions taken\n- Audio transcript if talk-down was used\n- LE case number if dispatched\n- Linked video clips\n- Recommendations for rule tuning\n\nReports live in the platform and export to PDF, CSV, or your SIEM.\n\n## Why in-house matters\n\nContracted monitoring centers handle dozens of disparate customer platforms with operators who learn a new UI every shift. Our operators are trained on AI VisionStream because it is the only thing they run. They know the rule library. They know the integrations. They know your site layout if you have been deployed for more than 30 days.",
+    "faq": [
+      {
+        "q": "Are the operators VDS employees or contracted?",
+        "a": "VDS employees, in our facility, in the United States. No offshoring, no sub-contracting."
+      },
+      {
+        "q": "What is the average escalation time?",
+        "a": "Under 60 seconds from detection to verified operator action. We report this metric monthly to every customer."
+      },
+      {
+        "q": "Can I disable SOC monitoring and use my own team?",
+        "a": "Yes. The mobile app and alert engine work standalone. SOC is an optional service tier \u2014 see [pricing](/platform/pricing)."
+      },
+      {
+        "q": "Will the SOC dispatch police without my approval?",
+        "a": "Only on pre-authorized event types in pre-authorized jurisdictions. Everything else routes to your designated contact first. Authorization rules are configured per-site and logged."
+      },
+      {
+        "q": "How does talk-down work on a fixed-site install?",
+        "a": "If the site has compatible PA hardware (IP speakers, intercom, or amplifier with a network input), our operators speak live through the same channel. We will spec it during pre-deployment."
+      }
+    ],
+    "finalCTAHeading": "Tour the SOC during your demo.",
+    "finalCTABody": "We can patch a live feed from our console into the call so you see how an alert actually moves.",
+    "finalCTAButtons": [
+      {
+        "label": "Book a demo",
+        "url": "/demo"
+      }
+    ],
+    "schemaType": "Service",
+    "internalLinks": "/platform, /platform/alerts, /platform/mobile-app, /platform/pricing",
+    "notes": "Center of trust pillar. Highlight in-house vs. contracted as a recurring theme. Photo of actual SOC floor required.",
+    "canonical": "https://visiondetectionsystems.com/platform/soc",
+    "ogTitle": "A US operator on every alert. Under 60 seconds. Every time.",
+    "ogDescription": "In-house US operators, under 60-second escalation, live audio talk-down, direct LE dispatch with video. 97% false-alarm reduction.",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .hero-subhead, h2",
+    "tags": "AI VisionStream, cloud VMS, video analytics, 24/7 SOC, remote video monitoring",
+    "author": "Vision Detection Systems"
+  }
+]

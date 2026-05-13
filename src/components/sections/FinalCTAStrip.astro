@@ -1,0 +1,26 @@
+---
+export interface Props {
+  heading: string;
+  body?: string;
+  buttons?: Array<{label: string, url: string}>;
+}
+const { heading, body, buttons = [] } = Astro.props;
+---
+<section class="bg-orange text-white py-16 md:py-20">
+  <div class="container-main text-center max-w-3xl">
+    <h2 class="text-h2 font-display mb-4 leading-tight">{heading}</h2>
+    {body && <p class="text-base md:text-lg text-white/90 mb-8">{body}</p>}
+    {buttons.length > 0 && (
+      <div class="flex flex-wrap gap-3 justify-center">
+        {buttons.map((b, i) => (
+          <a
+            href={b.url}
+            class={i === 0
+              ? 'inline-flex items-center justify-center bg-white text-navy font-medium py-3 px-6 rounded-sm hover:bg-white/90 transition-colors'
+              : 'inline-flex items-center justify-center border border-white text-white font-medium py-3 px-6 rounded-sm hover:bg-white/10 transition-colors'}
+          >{b.label}</a>
+        ))}
+      </div>
+    )}
+  </div>
+</section>

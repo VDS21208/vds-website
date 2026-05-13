@@ -1,0 +1,569 @@
+[
+  {
+    "url": "/integrations/genetec",
+    "slug": "genetec",
+    "parent": "/integrations",
+    "pageType": "Integration Detail",
+    "status": "Launch",
+    "seoTitle": "VDS + Genetec Security Center Integration | AI VisionStream",
+    "metaDescription": "VDS cameras stream to Genetec Security Center via ONVIF. SOC alerts POST in as bookmarks and alarms. Native plugin, setup in days, not months.",
+    "announcementBar": "",
+    "h1": "VDS + Genetec Security Center",
+    "heroEyebrow": "INTEGRATION \u00b7 GENETEC",
+    "heroSubhead": "AI VisionStream cameras stream to Genetec Security Center over ONVIF Profile S. Verified SOC alerts POST into Security Center as alarms and bookmarks within 400 ms of the event.",
+    "heroCTAPrimary": {
+      "label": "Talk to an integration engineer",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "Request the Genetec plugin",
+      "url": "/request-a-quote"
+    },
+    "heroStats": [
+      "ONVIF Profile S \u00b7 Native plugin \u00b7 400 ms event latency \u00b7 TLS 1.3"
+    ],
+    "body": "Genetec Security Center is the dominant unified-platform VMS at airports, transit authorities, ports, and large enterprise campuses. VDS does not compete with it. AI VisionStream feeds Security Center the two things it cannot generate on its own at a remote, off-grid perimeter: solar-autonomous camera feeds and human-verified SOC alerts.\n\n## How it works\n\nVDS solar trailers and fixed cameras stream H.264 / H.265 over ONVIF Profile S directly into Security Center as standard video units. Existing operators see them in the same camera tree, the same map, and the same investigation tools they already use.\n\nIn parallel, AI VisionStream runs detection in AWS. When the VDS SOC verifies a critical event \u2014 intrusion, loitering after hours, an LPR hit on a watch-listed plate \u2014 the event POSTs to Security Center as a Genetec alarm with:\n\n- Pre-event and post-event video clip URLs (signed, time-limited)\n- Detection class, confidence, zone name, and SOC analyst ID\n- A bookmark on the corresponding Security Center camera timeline\n- A correlation ID matching the immutable VDS 12-month audit log\n\nThe webhook payload is HMAC-SHA256 signed. TLS 1.3 end-to-end.\n\n## What you get\n\n- One pane of glass for SOC analysts already trained on Security Center\n- Genetec-side alarm acknowledgement workflows trigger VDS SOC actions (talk-down, LE dispatch) via the reverse webhook\n- LPR reads from VDS feed into Security Center AutoVu timelines\n- VDS audit log remains the cryptographic record of truth for evidentiary use\n\n## Setup time\n\nFor a customer already running Security Center 5.10 or later: 2 to 5 business days from kickoff to first verified alarm in the operator console. Required on customer side: a service account with bookmark and alarm-write permissions, plus a reachable webhook receiver. VDS handles plugin installation and field testing.\n\n## A sample workflow\n\n03:14 \u2014 A person crosses the east-fence detection zone at a remote substation. VDS edge classification fires.\n03:14 \u2014 AI VisionStream confirms in cloud; SOC analyst opens the event.\n03:14 \u2014 8 seconds after first detection, the analyst verifies a real intrusion (not wildlife) and triggers audio talk-down.\n03:14 \u2014 Webhook fires into Security Center. Alarm appears on the operator workstation with linked video.\n03:15 \u2014 Talk-down does not deter; SOC dispatches local LE while Security Center operator coordinates with internal response.\n03:27 \u2014 LE on-scene. Event closed in both systems. Audit log signed and sealed.\n\n## Pricing\n\nThe Genetec integration is included with any AI VisionStream subscription tier. There is no per-camera connector fee on the VDS side. Genetec licensing (camera connections, AutoVu, Federation) follows standard Genetec channel pricing \u2014 VDS does not resell it.",
+    "faq": [
+      {
+        "q": "Which Security Center versions are supported?",
+        "a": "5.10 and later. Earlier versions can be supported via a generic ONVIF-only path without the alarm-POST plugin."
+      },
+      {
+        "q": "Does this work with Security Center Federation across multiple sites?",
+        "a": "Yes. VDS alerts route to whichever Federated server you specify per camera or per zone."
+      },
+      {
+        "q": "Do we need to run Streamvault or other Genetec hardware?",
+        "a": "No. VDS does not require any Genetec appliance. Streaming is direct from camera to Security Center over IP."
+      },
+      {
+        "q": "Can we keep VDS as the SOC and Genetec as the local view?",
+        "a": "That is the common deployment. VDS SOC handles 24/7 monitoring and dispatch; Genetec operators have full visibility and can take over on demand."
+      }
+    ],
+    "finalCTAHeading": "Add solar-autonomous coverage to Security Center without adding a second console.",
+    "finalCTABody": "A VDS integration engineer will scope your Security Center version, federation topology, and required event types in 30 minutes. You leave with a written deployment plan.",
+    "finalCTAButtons": [
+      {
+        "label": "Book Genetec integration call",
+        "url": "Read API + SDK docs"
+      }
+    ],
+    "schemaType": "Article",
+    "internalLinks": "/integrations, /platform/ai-visionstream, /platform/api-sdk-access, /soc, /hardware/solar-trailers",
+    "notes": "Important \u2014 confirm with VDS engineering before publishing each integration page that the technical claims match real product capability. Some integrations may be roadmapped rather than shipped today.",
+    "canonical": "https://visiondetectionsystems.com/integrations/genetec",
+    "ogTitle": "VDS + Genetec Security Center",
+    "ogDescription": "VDS cameras stream to Genetec Security Center via ONVIF. SOC alerts POST in as bookmarks and alarms. Native plugin, setup in days, not months.",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .integration-summary, h2",
+    "tags": "security integrations, API, Genetec integration",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/integrations/lenel",
+    "slug": "lenel",
+    "parent": "/integrations",
+    "pageType": "Integration Detail",
+    "status": "Launch",
+    "seoTitle": "VDS + LenelS2 OnGuard / NetBox Integration | Access Control",
+    "metaDescription": "VDS perimeter detections trigger LenelS2 access decisions; OnGuard and NetBox door events feed back into the AI VisionStream timeline",
+    "announcementBar": "",
+    "h1": "VDS + LenelS2 OnGuard and NetBox",
+    "heroEyebrow": "INTEGRATION \u00b7 LENELS2",
+    "heroSubhead": "A VDS perimeter intrusion fires a Lenel input point in under 400 ms \u2014 fast enough to drive automated lockdown before the threat reaches an interior door. OnGuard and NetBox events return to the VDS timeline for chain-of-custody.",
+    "heroCTAPrimary": {
+      "label": "Talk to an integration engineer",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "Read API + SDK docs",
+      "url": "/request-a-quote"
+    },
+    "heroStats": [
+      "OnGuard 8.0+ \u00b7 NetBox 5.5+ \u00b7 400 ms event latency \u00b7 Bidirectional"
+    ],
+    "body": "LenelS2 is the access control system of record at thousands of federal sites, hospitals, universities, and Fortune 500 campuses. The integration with VDS is built around one premise: a verified person-in-zone detection at the perimeter should mean something to the doors 200 feet behind it.\n\n## How it works\n\nAI VisionStream pushes critical detections to LenelS2 via the OnGuard OpenAccess API (REST) for OnGuard 8.0 and later, or via the NetBox REST API for NetBox 5.5 and later. The VDS event maps to a virtual input point in the access control panel hierarchy. From there, standard Lenel programming \u2014 input-triggered macros, area lockdowns, credential-required overrides \u2014 runs exactly as it does for any wired alarm input.\n\nIn the reverse direction, Lenel door events (forced door, door held open, access denied, anti-passback violation) POST to VDS via webhook and appear as correlated entries on the AI VisionStream incident timeline. An analyst reviewing a perimeter event sees the door activity that followed it without leaving the VDS console.\n\n## What you get\n\n- Sub-second perimeter-to-door logic at sites where wired sensors are not practical (solar trailers, temporary deployments, large parking footprints)\n- Lockdown, mantrap re-arm, and elevator recall driven by AI-verified events, not motion sensors\n- Single forensic timeline that includes both video and door history\n- NDAA Section 889 compliant camera-side hardware for federal sites\n\n## Setup time\n\nFor a customer already running OnGuard 8.0+ or NetBox 5.5+ with OpenAccess licensed: 3 to 7 business days. Required on customer side: an OpenAccess service account, the integration certificate, and a list of input-point mappings (which VDS zones map to which Lenel inputs). VDS integration engineers handle the connector configuration and joint validation.\n\n## A sample workflow\n\n22:47 \u2014 VDS detects a person scaling the south fence of a pharmaceutical campus.\n22:47 \u2014 SOC analyst confirms in 6 seconds.\n22:47 \u2014 Webhook to OnGuard fires virtual input \"Perimeter South \u2014 Verified Intrusion.\"\n22:47 \u2014 OnGuard macro re-locks all exterior doors on Building 3, holds elevators on lobby, and pages the on-duty security supervisor.\n22:48 \u2014 VDS audio talk-down begins. Intruder reverses course.\n22:51 \u2014 Supervisor reviews on VDS console; sees the door re-lock events from OnGuard inline with the video. Decides not to dispatch.\n22:53 \u2014 Event closed. Audit record retained in both systems.\n\n## Pricing\n\nThe Lenel integration is included with any AI VisionStream enterprise subscription. OnGuard OpenAccess licensing and NetBox API access follow standard LenelS2 channel pricing.",
+    "faq": [
+      {
+        "q": "Does this work with OnGuard on-prem or cloud?",
+        "a": "Both. The OpenAccess API surface is identical. Cloud OnGuard requires the standard outbound webhook allow-list."
+      },
+      {
+        "q": "What about older Lenel systems without OpenAccess?",
+        "a": "A dry-contact relay bridge is available for legacy panels. Slower (sub-2-second instead of sub-second) but functional. Talk to us for site-specific scoping."
+      },
+      {
+        "q": "Can the integration drive credential-level decisions, not just inputs?",
+        "a": "Yes on OnGuard via OpenAccess CommandReader interfaces. NetBox supports input-driven macros that can lock or relock specific portals."
+      },
+      {
+        "q": "Is this Lenel-certified?",
+        "a": "VDS uses LenelS2's published OpenAccess and NetBox REST surfaces. Certification status varies by program tier \u2014 confirm current status with VDS sales."
+      }
+    ],
+    "finalCTAHeading": "Make your perimeter cameras drive your access panels.",
+    "finalCTABody": "A 30-minute call covers your OnGuard or NetBox version, input-point inventory, and lockdown logic. You leave with a written integration plan.",
+    "finalCTAButtons": [
+      {
+        "label": "Book LenelS2 integration call",
+        "url": "Read API + SDK docs"
+      }
+    ],
+    "schemaType": "Article",
+    "internalLinks": "/integrations, /platform/ai-visionstream, /platform/api-sdk-access, /soc, /verticals/healthcare, /verticals/federal",
+    "notes": "Important \u2014 confirm with VDS engineering before publishing each integration page that the technical claims match real product capability. Some integrations may be roadmapped rather than shipped today.",
+    "canonical": "https://visiondetectionsystems.com/integrations/lenel",
+    "ogTitle": "VDS + LenelS2 OnGuard and NetBox",
+    "ogDescription": "VDS perimeter detections trigger LenelS2 access decisions; OnGuard and NetBox door events feed back into the AI VisionStream timeline",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .integration-summary, h2",
+    "tags": "security integrations, API, Lenel integration",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/integrations/milestone",
+    "slug": "milestone",
+    "parent": "/integrations",
+    "pageType": "Integration Detail",
+    "status": "Launch",
+    "seoTitle": "VDS + Milestone XProtect Integration | AI VisionStream",
+    "metaDescription": "VDS cameras and AI events ingest as Milestone XProtect drivers. LPR reads appear on the XProtect timeline. Bidirectional alerting via MIP SDK.",
+    "announcementBar": "",
+    "h1": "VDS + Milestone XProtect",
+    "heroEyebrow": "INTEGRATION \u00b7 MILESTONE",
+    "heroSubhead": "VDS cameras and AI VisionStream events ingest as XProtect drivers. Trailer-generated metadata, LPR reads, and SOC verifications appear on the XProtect timeline. Operators investigate without learning a new tool.",
+    "heroCTAPrimary": {
+      "label": "Talk to an integration engineer",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "Read API + SDK docs",
+      "url": "/request-a-quote"
+    },
+    "heroStats": [
+      "XProtect Corporate / Expert \u00b7 MIP SDK \u00b7 ONVIF Profile S/T \u00b7 Bidirectional"
+    ],
+    "body": "Milestone XProtect is open by design. The MIP SDK and the ONVIF driver model make it the easiest enterprise VMS to integrate against, which is exactly why customers running it tend to keep running it. VDS treats XProtect as a peer system, not a target to displace.\n\n## How it works\n\nVDS cameras stream into XProtect over ONVIF Profile S and Profile T (for edge metadata). On the analytics side, AI VisionStream events flow into XProtect via the MIP SDK as analytics events, with two outputs:\n\n1. **Bookmarks** on the corresponding camera timeline, with a thumbnail and a deep-link back to the VDS console for full incident detail.\n2. **Generic events / alarms** that can drive XProtect rules \u2014 for example, automatically pop the camera to an operator workstation, trigger a recording-quality boost on adjacent cameras, or fire an output to a connected access platform.\n\nLPR reads from VDS LPR cameras populate XProtect as searchable plate-read metadata, queryable by plate, partial plate, time, and camera.\n\nIn reverse, XProtect rule outputs can POST back to VDS via webhook to escalate the event to the VDS SOC for human verification and dispatch.\n\n## What you get\n\n- AI-verified events native in the XProtect Smart Client\n- LPR data unified with existing XProtect plate-read databases\n- VDS-monitored solar trailers extending XProtect coverage to remote and temporary sites without trenching power or fiber\n- Two-way bridge: customer operators on XProtect, VDS SOC on AI VisionStream, same events on both sides\n\n## Setup time\n\nXProtect Corporate or Expert 2020 R3 or later: 3 to 5 business days. Required on customer side: an XProtect service account with analytics-event permission and a reachable MIP endpoint. VDS engineering provides the MIP plug-in and the ONVIF camera configuration.\n\n## A sample workflow\n\n02:08 \u2014 VDS LPR camera at a logistics yard reads a plate on a vehicle entering after hours. Plate matches a watch-list.\n02:08 \u2014 AI VisionStream classifies, SOC analyst confirms in 9 seconds.\n02:08 \u2014 Analytics event fires into XProtect. The operator workstation on the customer side auto-pops to the camera with a bookmark, plate text overlaid.\n02:09 \u2014 VDS SOC initiates audio talk-down requesting the driver leave. Vehicle remains.\n02:11 \u2014 VDS dispatches LE. XProtect rule has already promoted adjacent cameras to high-bitrate recording.\n02:24 \u2014 LE arrives, recovers the vehicle (reported stolen). Both timelines retain the synchronized record.\n\n## Pricing\n\nThe Milestone integration is included with any AI VisionStream enterprise subscription. XProtect licensing (device licenses, Care, MIP) follows Milestone channel pricing.",
+    "faq": [
+      {
+        "q": "Which XProtect editions are supported?",
+        "a": "Corporate and Expert. Professional+ supports the ONVIF path but not the full MIP analytics-event integration. Essential+ is not supported."
+      },
+      {
+        "q": "Does VDS pass through full-resolution video or just events?",
+        "a": "Both. ONVIF Profile S streams full video. The MIP path adds analytics metadata on top."
+      },
+      {
+        "q": "Can XProtect be the system of record and VDS the AI overlay?",
+        "a": "Yes. Many customers run it that way. VDS still maintains its own immutable 12-month audit log for the events it generates."
+      },
+      {
+        "q": "Does this work with XProtect hosted on Milestone Customer Dashboard / cloud?",
+        "a": "Yes, with standard outbound webhook and ONVIF reachability. Confirm specifics with VDS during scoping."
+      }
+    ],
+    "finalCTAHeading": "Extend XProtect to the edge without extending your trenching budget.",
+    "finalCTABody": "A 30-minute scoping call covers your XProtect version, the rules that should fire from VDS events, and the LPR fields you want exposed.",
+    "finalCTAButtons": [
+      {
+        "label": "Book Milestone integration call",
+        "url": "Read API + SDK docs"
+      }
+    ],
+    "schemaType": "Article",
+    "internalLinks": "/integrations, /platform/ai-visionstream, /platform/api-sdk-access, /hardware/solar-trailers, /platform/lpr",
+    "notes": "Important \u2014 confirm with VDS engineering before publishing each integration page that the technical claims match real product capability. Some integrations may be roadmapped rather than shipped today.",
+    "canonical": "https://visiondetectionsystems.com/integrations/milestone",
+    "ogTitle": "VDS + Milestone XProtect",
+    "ogDescription": "VDS cameras and AI events ingest as Milestone XProtect drivers. LPR reads appear on the XProtect timeline. Bidirectional alerting via MIP SDK.",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .integration-summary, h2",
+    "tags": "security integrations, API, Milestone integration",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/integrations/brivo",
+    "slug": "brivo",
+    "parent": "/integrations",
+    "pageType": "Integration Detail",
+    "status": "Expansion",
+    "seoTitle": "VDS + Brivo Access Integration | Cloud Access Control",
+    "metaDescription": "VDS perimeter events trigger Brivo door lockdowns; Brivo unlock events appear in the AI VisionStream timeline for chain-of-custody. Sub-second latency.",
+    "announcementBar": "",
+    "h1": "VDS + Brivo Access",
+    "heroEyebrow": "INTEGRATION \u00b7 BRIVO",
+    "heroSubhead": "AI VisionStream perimeter detections fire Brivo lockdown commands within 400 ms. Brivo unlock and access-denied events appear on the VDS incident timeline for unified investigation.",
+    "heroCTAPrimary": {
+      "label": "Talk to an integration engineer",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "Read API + SDK docs",
+      "url": "/request-a-quote"
+    },
+    "heroStats": [
+      "Brivo API v1 \u00b7 OAuth 2.0 \u00b7 400 ms event latency \u00b7 Bidirectional"
+    ],
+    "body": "Brivo is the de facto cloud access control standard in commercial real estate, multi-family residential, and multi-site retail. The integration with VDS works the way both products are built \u2014 cloud to cloud, REST over HTTPS, no on-prem bridge required.\n\n## How it works\n\nVDS events POST to the Brivo API using OAuth 2.0 client credentials. Each AI VisionStream alert maps to an action on Brivo: lock a specific door, lock all doors on a site, switch a schedule, or fire a Brivo event that downstream automations subscribe to.\n\nBrivo events stream back to VDS via Brivo's webhook subscription model. Door unlocks, access-denied attempts, propped-door alarms, and schedule changes appear on the AI VisionStream incident timeline correlated to the camera covering that door.\n\n## What you get\n\n- Cloud-to-cloud architecture \u2014 no panel programming, no on-prem appliance\n- Verified-event lockdown that does not fire on a raccoon walking past a motion sensor\n- Brivo door history on the VDS timeline for chain-of-custody investigation\n- Site-level and door-level granularity on which VDS zones drive which Brivo actions\n\n## Setup time\n\nFor a customer with an active Brivo account: 2 to 4 business days. Required on customer side: a Brivo API key (admin-level for door control), the list of doors and zones, and a webhook destination on the VDS side (provided). VDS engineering configures the connector and runs joint validation.\n\n## A sample workflow\n\n01:33 \u2014 VDS detects a person climbing a loading dock fence at a multi-tenant industrial property.\n01:33 \u2014 SOC analyst verifies in 7 seconds.\n01:33 \u2014 Webhook to Brivo fires. The four roll-up doors and the personnel door on that bay re-lock and switch to credentials-required schedule.\n01:34 \u2014 VDS audio talk-down begins. Intruder leaves the dock.\n01:35 \u2014 Tenant security manager opens the VDS app on iPhone. Sees the video, the talk-down audio log, and the Brivo door-state changes on one timeline.\n01:38 \u2014 Manager unlocks the personnel door from Brivo to let arriving private security in. Unlock event lands on the VDS timeline automatically.\n\n## Pricing\n\nThe Brivo integration is included with any AI VisionStream enterprise subscription. Brivo licensing follows standard Brivo pricing \u2014 VDS does not resell.",
+    "faq": [
+      {
+        "q": "Does this work with Brivo Access (new platform) and Brivo OnAir (legacy)?",
+        "a": "Brivo Access via the current API. OnAir is supported via the legacy API path; some event types are not available on OnAir."
+      },
+      {
+        "q": "Can a VDS event unlock a door, not just lock one?",
+        "a": "Yes \u2014 for example, a verified-visitor flow can fire a temporary unlock. Most customers configure lock-only for security events and gate unlock decisions to a human in the VDS or Brivo app."
+      },
+      {
+        "q": "What about Brivo Smart Home / multi-family residential?",
+        "a": "Supported. The same API is used. Multi-family deployments typically pair VDS solar trailers covering parking and common areas with Brivo amenity-door access."
+      },
+      {
+        "q": "Where does the audit record live?",
+        "a": "Both sides retain their own. The VDS immutable 12-month log includes the Brivo events VDS received via webhook, so a single VDS export contains the full correlated timeline."
+      }
+    ],
+    "finalCTAHeading": "Stop firing lockdowns on false alarms.",
+    "finalCTABody": "A 30-minute call covers your Brivo site map, which doors should respond to which zones, and how your tenants want lockdowns communicated.",
+    "finalCTAButtons": [
+      {
+        "label": "Book Brivo integration call",
+        "url": "Read API + SDK docs"
+      }
+    ],
+    "schemaType": "Article",
+    "internalLinks": "/integrations, /platform/ai-visionstream, /platform/api-sdk-access, /verticals/commercial-real-estate, /verticals/multi-family",
+    "notes": "Important \u2014 confirm with VDS engineering before publishing each integration page that the technical claims match real product capability. Some integrations may be roadmapped rather than shipped today.",
+    "canonical": "https://visiondetectionsystems.com/integrations/brivo",
+    "ogTitle": "VDS + Brivo Access",
+    "ogDescription": "VDS perimeter events trigger Brivo door lockdowns; Brivo unlock events appear in the AI VisionStream timeline for chain-of-custody. Sub-second latency.",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .integration-summary, h2",
+    "tags": "security integrations, API, Brivo integration",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/integrations/immix",
+    "slug": "immix",
+    "parent": "/integrations",
+    "pageType": "Integration Detail",
+    "status": "Expansion",
+    "seoTitle": "VDS + Immix CC Integration | Central Station Automation",
+    "metaDescription": "VDS forwards verified alerts with video and metadata to your Immix-running central station. Operators dispatch from one console.",
+    "announcementBar": "",
+    "h1": "VDS + Immix CC",
+    "heroEyebrow": "INTEGRATION \u00b7 IMMIX CC",
+    "heroSubhead": "For customers whose alerts are monitored by a central station running Immix CC, VDS forwards verified events with pre/post video clips and full metadata. The Immix operator dispatches from one console with everything attached.",
+    "heroCTAPrimary": {
+      "label": "Talk to an integration engineer",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "Read API + SDK docs",
+      "url": "/request-a-quote"
+    },
+    "heroStats": [
+      "Immix CC integration \u00b7 Video + metadata forwarding \u00b7 HTTPS POST \u00b7 HMAC signed"
+    ],
+    "body": "A lot of enterprise customers do not staff their own monitoring center. They contract that work to a UL-listed central station whose operators run Immix CC across hundreds of accounts. VDS plugs into that model without forcing a workflow change on either side.\n\n## How it works\n\nWhen the VDS SOC verifies a critical event \u2014 or when a customer has elected to bypass the VDS SOC and route events directly to their central station \u2014 the event posts into Immix CC as a verified alarm signal with:\n\n- A linked pre-event and post-event video clip (signed, time-limited URLs)\n- Detection class, zone name, GPS coordinates of the camera or trailer\n- Confidence score and SOC analyst verification ID (when VDS SOC handled the event)\n- Site contact and dispatch instructions\n\nThe Immix operator sees the event in their normal queue. Standard Immix workflows \u2014 contact tree, dispatch decision, customer notification \u2014 proceed without modification.\n\n## What you get\n\n- Use your existing monitoring partner. No need to switch central stations.\n- Video and metadata travel with the alarm \u2014 operators do not log into a second portal.\n- Verified events only, which means the central station bills less time per account and your false-alarm fees stay down.\n- Optional dual-path: VDS SOC handles first response, Immix-running CS handles escalation, or the reverse.\n\n## Setup time\n\nFor a central station already running Immix CC: 3 to 5 business days. Required on customer side: written authorization to share account data with the CS, the CS's Immix tenant identifier and account-mapping document. VDS engineering coordinates directly with the central station to configure the integration.\n\n## A sample workflow\n\n23:51 \u2014 VDS detects loitering at the rear of a retail location after closing.\n23:51 \u2014 VDS SOC analyst verifies in 11 seconds. The customer's account is configured to route to a contracted Immix-running central station.\n23:51 \u2014 Event posts to Immix CC. The CS operator sees the signal with linked video.\n23:52 \u2014 Operator reviews the 30-second pre-event clip, confirms the behavior matches a loitering pattern previously associated with break-in attempts at this chain.\n23:53 \u2014 CS operator dispatches local LE per the customer's response plan and notifies the store manager via SMS using the Immix contact tree.\n23:54 \u2014 LE en route. VDS continues audio talk-down. Both systems retain a synchronized audit record.\n\n## Pricing\n\nThe Immix integration is included with any AI VisionStream enterprise subscription. The central station's Immix licensing and the customer's monitoring contract are separate commercial relationships not touched by VDS.",
+    "faq": [
+      {
+        "q": "Does our central station need to do work on their side?",
+        "a": "Yes \u2014 they configure VDS as a video receiver / signal source in their Immix tenant. Most stations have done this for other video providers and the setup is routine."
+      },
+      {
+        "q": "Can the central station talk-down through VDS cameras?",
+        "a": "Yes, with the right account configuration. Talk-down audio is initiated from the VDS console; central station operators get console access scoped to the accounts they monitor."
+      },
+      {
+        "q": "Is this UL listing-relevant?",
+        "a": "VDS forwards verified events as supplemental video to existing UL-listed central stations. Confirm UL-listing specifics with your monitoring partner."
+      },
+      {
+        "q": "Can the same customer use VDS SOC AND a contracted CS?",
+        "a": "Yes. Common pattern: VDS SOC for video verification and talk-down, Immix-running CS for LE dispatch, billing, and after-hours customer contact."
+      }
+    ],
+    "finalCTAHeading": "Forward verified events with video attached.",
+    "finalCTABody": "We will coordinate directly with your central station to configure the Immix integration. A 30-minute call covers your account structure and response plans.",
+    "finalCTAButtons": [
+      {
+        "label": "Book Immix integration call",
+        "url": "Read API + SDK docs"
+      }
+    ],
+    "schemaType": "Article",
+    "internalLinks": "/integrations, /platform/ai-visionstream, /platform/api-sdk-access, /soc",
+    "notes": "Important \u2014 confirm with VDS engineering before publishing each integration page that the technical claims match real product capability. Some integrations may be roadmapped rather than shipped today.",
+    "canonical": "https://visiondetectionsystems.com/integrations/immix",
+    "ogTitle": "VDS + Immix CC",
+    "ogDescription": "VDS forwards verified alerts with video and metadata to your Immix-running central station. Operators dispatch from one console.",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .integration-summary, h2",
+    "tags": "security integrations, API, Immix integration",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/integrations/bold",
+    "slug": "bold",
+    "parent": "/integrations",
+    "pageType": "Integration Detail",
+    "status": "Expansion",
+    "seoTitle": "VDS + Bold Group Manitou Integration | Central Station",
+    "metaDescription": "VDS forwards verified video alerts to Bold Group Manitou central stations with pre/post clips, detection metadata, and SOC verification.",
+    "announcementBar": "",
+    "h1": "VDS + Bold Group Manitou",
+    "heroEyebrow": "INTEGRATION \u00b7 BOLD GROUP MANITOU",
+    "heroSubhead": "For customers whose alerts run through a Bold Group Manitou central station, VDS forwards verified events with linked video and full incident metadata. Operators dispatch from one queue.",
+    "heroCTAPrimary": {
+      "label": "Talk to an integration engineer",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "Read API + SDK docs",
+      "url": "/request-a-quote"
+    },
+    "heroStats": [
+      "Manitou CS \u00b7 Video + metadata forwarding \u00b7 HTTPS POST \u00b7 HMAC signed"
+    ],
+    "body": "Manitou is one of the two dominant central station automation platforms in North America. If your monitoring partner runs Manitou, the integration pattern with VDS is the same as with any modern receiver: signal in, video attached, operator dispatches.\n\n## How it works\n\nVerified VDS events post into Manitou via the Bold Group integration interface as signals carrying:\n\n- Signed pre-event and post-event video clip URLs\n- Detection class, zone, GPS coordinates\n- VDS SOC verification ID and analyst notes (where applicable)\n- Site contact tree and dispatch instructions\n\nManitou's standard signal-handling workflow \u2014 operator screen pop, action patterns, contact list cycle \u2014 runs unmodified. The video clip opens in the operator's browser when they click the linked alarm.\n\n## What you get\n\n- Your existing Bold Group monitoring partner stays the dispatch authority\n- Verified video travels with every signal, cutting operator decision time\n- Reduced false signal volume reduces operator cost and customer false-alarm fees\n- Dual-path configuration available: VDS SOC + Manitou CS in sequence or in parallel\n\n## Setup time\n\nFor a central station already running Manitou: 3 to 5 business days. Required on customer side: signed account-data sharing authorization, Bold Group tenant details from the CS, and account mapping. VDS engineering coordinates with the central station directly to provision the integration.\n\n## A sample workflow\n\n04:12 \u2014 VDS detects vehicle entry into a closed contractor yard.\n04:12 \u2014 SOC analyst verifies in 8 seconds \u2014 not staff, not a known vehicle. Customer is monitored by a Manitou-running CS for dispatch.\n04:12 \u2014 Event posts to Manitou. Operator screen pops with linked video.\n04:13 \u2014 Operator clicks through the 30-second pre-event clip, reads the action pattern: dispatch LE, then call the site contact.\n04:14 \u2014 LE dispatched. Site contact reached on the second contact-tree number.\n04:21 \u2014 LE on-scene. Suspect on the property detained. Signal closed in Manitou; VDS audit record sealed.\n\n## Pricing\n\nThe Bold Group Manitou integration is included with any AI VisionStream enterprise subscription. Central station licensing and the customer's monitoring contract are separate.",
+    "faq": [
+      {
+        "q": "Does this work with both Manitou Neo and earlier Manitou versions?",
+        "a": "The current integration targets Manitou Neo and recent Manitou versions with the modern receiver API. Older versions can sometimes be supported via a SIA-DC-09 fallback path with reduced metadata richness."
+      },
+      {
+        "q": "Can VDS deliver video to Manitou without the VDS SOC being in the loop?",
+        "a": "Yes. Customers can configure direct AI-to-CS routing if they prefer their monitoring partner handle all human verification."
+      },
+      {
+        "q": "What about SIA-DC-09 compatibility?",
+        "a": "VDS supports DC-09 as a fallback for stations that prefer that format, but the richer integration uses Bold Group's native receiver API."
+      },
+      {
+        "q": "How do we change the contact tree?",
+        "a": "Contact trees live in Manitou. VDS just delivers the signal; the CS's action pattern owns the dispatch logic."
+      }
+    ],
+    "finalCTAHeading": "Get verified video to your Manitou operators in under a second.",
+    "finalCTABody": "VDS coordinates directly with your central station. A 30-minute call covers your account map, action patterns, and dispatch routing.",
+    "finalCTAButtons": [
+      {
+        "label": "Book Bold Group integration call",
+        "url": "Read API + SDK docs"
+      }
+    ],
+    "schemaType": "Article",
+    "internalLinks": "/integrations, /platform/ai-visionstream, /platform/api-sdk-access, /soc",
+    "notes": "Important \u2014 confirm with VDS engineering before publishing each integration page that the technical claims match real product capability. Some integrations may be roadmapped rather than shipped today.",
+    "canonical": "https://visiondetectionsystems.com/integrations/bold",
+    "ogTitle": "VDS + Bold Group Manitou",
+    "ogDescription": "VDS forwards verified video alerts to Bold Group Manitou central stations with pre/post clips, detection metadata, and SOC verification.",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .integration-summary, h2",
+    "tags": "security integrations, API, Bold Manitou integration",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/integrations/stages",
+    "slug": "stages",
+    "parent": "/integrations",
+    "pageType": "Integration Detail",
+    "status": "Expansion",
+    "seoTitle": "VDS + Stages Software Integration | Central Station",
+    "metaDescription": "VDS verified video alerts flow as signals into Stages Software-running central stations with pre/post clips and detection metadata attached.",
+    "announcementBar": "",
+    "h1": "VDS + Stages Software",
+    "heroEyebrow": "INTEGRATION \u00b7 STAGES",
+    "heroSubhead": "VDS events flow as signals into Stages-running central stations with pre/post video clips, detection metadata, and SOC verification attached.",
+    "heroCTAPrimary": {
+      "label": "Talk to an integration engineer",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "Read API + SDK docs",
+      "url": "/request-a-quote"
+    },
+    "heroStats": [
+      "Stages CS automation \u00b7 Video + metadata \u00b7 HTTPS POST \u00b7 HMAC signed"
+    ],
+    "body": "Stages Software is a modern alarm receiver and central station automation platform that has grown quickly among mid-market and specialized monitoring centers. Customers whose monitoring contracts run through Stages get the same integration pattern VDS uses with Immix and Bold Group.\n\n## How it works\n\nVerified VDS events post to Stages via its signal receiver API. Each signal carries:\n\n- Signed pre-event and post-event video clip URLs\n- Detection class, zone name, GPS coordinates\n- VDS SOC verification ID (when SOC handled the event)\n- Site contact tree and customer-specified dispatch instructions\n\nStages operators see the signal in their normal queue and dispatch using the customer's pre-loaded action plan. Video opens in-browser; no second login.\n\n## What you get\n\n- Stages-running central stations stay the dispatch authority for their accounts\n- Verified events with video attached \u2014 operators do not chase a separate portal\n- Lower signal volume because VDS SOC filters out wildlife, weather, and reflections before sending\n- Synchronized audit record between VDS and Stages for evidentiary use\n\n## Setup time\n\nFor a central station already running Stages: 3 to 5 business days. Required on customer side: account data-sharing authorization, the CS's Stages tenant details, and account mapping. VDS engineering provisions and validates the connector with the central station directly.\n\n## A sample workflow\n\n00:42 \u2014 VDS detects two people on the roof of a self-storage facility.\n00:42 \u2014 SOC analyst confirms in 6 seconds. Customer's monitoring is contracted to a Stages-running CS.\n00:42 \u2014 Signal posts to Stages. Operator screen pops with linked clip and the action plan: dispatch LE, call site, escalate to property manager if no contact.\n00:43 \u2014 Operator dispatches local LE, attempts first contact on the tree.\n00:46 \u2014 Second contact answers, confirms no authorized roof access. Operator escalates the dispatch priority.\n00:55 \u2014 LE on-scene; two subjects detained for trespass. Signal closed in Stages, audit record sealed in VDS.\n\n## Pricing\n\nThe Stages integration is included with any AI VisionStream enterprise subscription. Stages licensing and the customer's monitoring contract are separate commercial relationships.",
+    "faq": [
+      {
+        "q": "Does this require any on-prem hardware at the central station?",
+        "a": "No. The integration is cloud to cloud over HTTPS."
+      },
+      {
+        "q": "Can the customer keep their existing Stages action plans?",
+        "a": "Yes. VDS delivers the signal; Stages owns the action logic and contact tree exactly as it does for any other signal source."
+      },
+      {
+        "q": "What if the central station handles both VDS-monitored and non-VDS-monitored accounts?",
+        "a": "That is the typical setup. VDS signals appear as their own source within the CS's existing account hierarchy and do not affect non-VDS accounts."
+      },
+      {
+        "q": "Is talk-down supported through this path?",
+        "a": "Yes \u2014 talk-down is initiated from the VDS console. The Stages operator can request VDS SOC to perform the talk-down, or scoped console access can be provisioned to the CS operators directly."
+      }
+    ],
+    "finalCTAHeading": "Keep your Stages central station. Add verified video.",
+    "finalCTABody": "A 30-minute call covers your account map and action plans. VDS coordinates directly with your monitoring partner.",
+    "finalCTAButtons": [
+      {
+        "label": "Book Stages integration call",
+        "url": "Read API + SDK docs"
+      }
+    ],
+    "schemaType": "Article",
+    "internalLinks": "/integrations, /platform/ai-visionstream, /platform/api-sdk-access, /soc",
+    "notes": "Important \u2014 confirm with VDS engineering before publishing each integration page that the technical claims match real product capability. Some integrations may be roadmapped rather than shipped today.",
+    "canonical": "https://visiondetectionsystems.com/integrations/stages",
+    "ogTitle": "VDS + Stages Software",
+    "ogDescription": "VDS verified video alerts flow as signals into Stages Software-running central stations with pre/post clips and detection metadata attached.",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .integration-summary, h2",
+    "tags": "security integrations, API, Stages integration",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/integrations/servicenow",
+    "slug": "servicenow",
+    "parent": "/integrations",
+    "pageType": "Integration Detail",
+    "status": "Launch",
+    "seoTitle": "VDS + ServiceNow ITSM Integration | Auto-Ticketing",
+    "metaDescription": "VDS critical alerts auto-open ServiceNow incidents with video, detection metadata, and SOC analyst notes. ITSM teams track and close in their own queue.",
+    "announcementBar": "",
+    "h1": "VDS + ServiceNow ITSM",
+    "heroEyebrow": "INTEGRATION \u00b7 SERVICENOW",
+    "heroSubhead": "AI VisionStream critical alerts auto-open ServiceNow incidents with linked video, detection metadata, and SOC verification notes. ITSM teams track, escalate, and close them inside their existing workflow.",
+    "heroCTAPrimary": {
+      "label": "Talk to an integration engineer",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "Read API + SDK docs",
+      "url": "/request-a-quote"
+    },
+    "heroStats": [
+      "ServiceNow Table API \u00b7 OAuth 2.0 \u00b7 CMDB-mapped \u00b7 TLS 1.3"
+    ],
+    "body": "For organizations whose security operations team and IT operations team share a ticketing queue, VDS sends events where the work actually happens: ServiceNow. Every critical AI VisionStream alert becomes a properly classified, properly assigned, properly tracked incident.\n\n## How it works\n\nVDS uses the ServiceNow Table API (REST) with OAuth 2.0 to create Incident records when a critical event is verified. Each record includes:\n\n- Short description and detailed description with SOC analyst notes\n- Linked video clip URLs (signed, time-limited) attached or referenced\n- Detection class, zone, GPS coordinates, and customer site code\n- CMDB CI reference if the camera or trailer is registered as a configuration item\n- Priority, assignment group, and category mapped per the customer's ITSM schema\n\nThe default mapping ships sensible \u2014 critical intrusion \u2192 P1, after-hours loitering \u2192 P3 \u2014 and is customizable per site or per zone. Updates flow both ways: a state change in ServiceNow (acknowledged, in progress, resolved) reflects on the VDS incident timeline via the ServiceNow Business Rule webhook back to VDS.\n\n## What you get\n\n- Security events tracked in the same system as IT incidents \u2014 one SLA, one auditor view\n- CMDB-aware tickets so an asset team can see when a camera or trailer needs maintenance because of a tamper or offline event\n- VDS critical alerts never get lost in email; they exist as tickets with owners\n- Bidirectional state sync, so closing in ServiceNow closes in VDS\n\n## Setup time\n\nFor a customer with an existing ServiceNow instance and an OAuth application registration capability: 3 to 7 business days. Required on customer side: a ServiceNow service account with itil and rest_service roles, an OAuth client, the target table (typically incident), and the field-mapping document. VDS engineering provides the integration configuration and joint testing.\n\n## A sample workflow\n\n20:18 \u2014 VDS detects perimeter intrusion at a regional data center.\n20:18 \u2014 SOC analyst verifies in 7 seconds; talk-down initiated.\n20:18 \u2014 ServiceNow Incident INC0042319 auto-created: P1, assigned to \"Physical Security Operations\" group, linked to CI dc-perimeter-cam-07, video clip attached, SOC analyst note in the work-notes field.\n20:19 \u2014 On-call physical security engineer acknowledges in ServiceNow. State change webhooks back to VDS; VDS timeline shows \"acknowledged by J. Patel.\"\n20:24 \u2014 LE on-scene, intruder gone. Engineer resolves the ServiceNow incident with notes; resolution syncs back to VDS.\n20:25 \u2014 Both systems hold the closed record with full SLA timing.\n\n## Pricing\n\nThe ServiceNow integration is included with any AI VisionStream enterprise subscription. ServiceNow licensing follows standard ServiceNow pricing \u2014 VDS does not resell.",
+    "faq": [
+      {
+        "q": "Which ServiceNow editions are supported?",
+        "a": "ITSM and ITOM. Most modern releases (Vancouver, Washington, Xanadu) are supported. The integration uses standard Table API surfaces."
+      },
+      {
+        "q": "Can we route different VDS event types to different assignment groups?",
+        "a": "Yes. The mapping is configurable per site, per zone, and per detection class."
+      },
+      {
+        "q": "Will this create ticket spam?",
+        "a": "No. Only verified critical events generate tickets by default. Routine VDS activity (system health, low-confidence detections) stays in the VDS console unless you opt to surface it."
+      },
+      {
+        "q": "What about non-ITSM tools \u2014 Jira, PagerDuty?",
+        "a": "Same webhook pattern works for any system with an HTTPS endpoint. Jira and PagerDuty connectors are available on the same enterprise tier; talk to us for current status."
+      }
+    ],
+    "finalCTAHeading": "Make physical security events tickets your team actually closes.",
+    "finalCTABody": "A 30-minute call covers your ServiceNow instance topology, assignment groups, and CMDB mapping. You leave with a written integration plan and a field-mapping document.",
+    "finalCTAButtons": [
+      {
+        "label": "Book ServiceNow integration call",
+        "url": "Read API + SDK docs"
+      }
+    ],
+    "schemaType": "Article",
+    "internalLinks": "/integrations, /platform/ai-visionstream, /platform/api-sdk-access, /soc",
+    "notes": "Important \u2014 confirm with VDS engineering before publishing each integration page that the technical claims match real product capability. Some integrations may be roadmapped rather than shipped today.",
+    "canonical": "https://visiondetectionsystems.com/integrations/servicenow",
+    "ogTitle": "VDS + ServiceNow ITSM",
+    "ogDescription": "VDS critical alerts auto-open ServiceNow incidents with video, detection metadata, and SOC analyst notes. ITSM teams track and close in their own queue.",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .integration-summary, h2",
+    "tags": "security integrations, API, ServiceNow integration",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/integrations/axon-fusus",
+    "slug": "axon-fusus",
+    "parent": "/integrations",
+    "pageType": "Integration Detail",
+    "status": "Expansion",
+    "seoTitle": "VDS + Axon-Fusus Integration | Opt-In Per-Incident LE",
+    "metaDescription": "VDS customers share specific incident clips with local law enforcement running Axon-Fusus. Opt-in per incident \u2014 never standing access to your cameras.",
+    "announcementBar": "",
+    "h1": "VDS + Axon-Fusus",
+    "heroEyebrow": "INTEGRATION \u00b7 AXON-FUSUS",
+    "heroSubhead": "Share the clip law enforcement needs \u2014 and nothing else. VDS customers can opt-in per incident to push a specific video segment to a local Axon-Fusus real-time crime center. There is no standing camera access, no always-on feed, no exception.",
+    "heroCTAPrimary": {
+      "label": "Talk to an integration engineer",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "Read the privacy model",
+      "url": "/request-a-quote"
+    },
+    "heroStats": [
+      "Per-incident opt-in \u00b7 No standing access \u00b7 Customer-controlled \u00b7 TLS 1.3"
+    ],
+    "body": "Axon-Fusus (acquired by Axon in 2024) is the leading real-time crime center platform for US law enforcement agencies. It can ingest live and recorded video from private cameras the property owner has elected to share. VDS supports that elective sharing \u2014 and only that. The integration is built around an explicit privacy principle: per-incident, opt-in, narrowly scoped.\n\n## How it works\n\nWhen a VDS customer has a clip relevant to an active LE investigation \u2014 a break-in, a hit-and-run, a missing person \u2014 an authorized user on the customer side opens the VDS console, selects the relevant time window from the camera in question, and chooses **Share with LE (Axon-Fusus)**.\n\nThat action does three things:\n\n1. Generates a signed, time-limited video clip URL scoped to that single segment from that single camera.\n2. Posts the clip into the specified Axon-Fusus tenant for the specified agency, with the customer's case reference and contact information.\n3. Logs the share event to the VDS immutable audit record \u2014 who shared, what was shared, when, with which agency.\n\nThere is no live feed published. No agency-managed access to your cameras. No \"subscribe to this property\" toggle on the LE side. Every share is a discrete event initiated by your team, recorded against your name.\n\n## What you get\n\n- A documented, auditable path for cooperating with active law enforcement investigations\n- Bounded sharing \u2014 agencies see the clip you sent, not your camera tree\n- Full audit record of every clip shared, retained for the standard VDS 12-month window\n- A clear answer for tenants, employees, and the general public when they ask: \"Do the police have access to your cameras?\" The answer is no, with a documented mechanism that backs it up.\n\n## Setup time\n\n2 to 4 business days. Required on customer side: the Axon-Fusus tenant identifier(s) for the agencies you want to be able to send to, a written policy on who in your organization is authorized to initiate a share, and an internal approver if your policy requires two-person rule. VDS engineering provisions the integration and applies your authorization rules to the console.\n\n## A sample workflow\n\n14:22 \u2014 A vehicle strikes a pedestrian in the parking lot of a customer's retail location and leaves the scene.\n14:30 \u2014 Local PD opens an investigation and contacts the customer's loss prevention lead.\n14:34 \u2014 LP lead reviews VDS footage, locates the relevant 90-second segment showing the vehicle and plate.\n14:35 \u2014 LP lead clicks **Share with LE (Axon-Fusus)**, selects the local PD's Fusus tenant, enters the police case number.\n14:35 \u2014 Clip posts into the agency's Fusus environment. VDS audit log records: \"Shared 14:33:10\u201314:34:40 of Camera Lot-7 with [Agency] case 26-04829 by [User].\"\n14:38 \u2014 Detective reviews the clip in Fusus alongside other case material. The customer's broader camera footprint remains private.\n\n## Pricing\n\nThe Axon-Fusus integration is included with any AI VisionStream enterprise subscription. Axon-Fusus licensing on the agency side is separate and is not paid by the customer or by VDS.\n\n## On the privacy principle\n\nA lot of community-camera programs operate on a standing-access model: an agency, once authorized, can view a property's cameras at any time. VDS does not support that model on Axon-Fusus or anywhere else. Two reasons. First, it muddies legal questions about reasonable expectation of privacy for tenants, employees, customers, and visitors. Second, it makes the property owner's policy ambiguous in a way that produces avoidable complaints. Per-incident opt-in is clearer for everyone \u2014 including the responding officer, who arrives with a clean evidentiary chain.",
+    "faq": [
+      {
+        "q": "Can law enforcement request standing access through this integration?",
+        "a": "No. The integration only supports per-incident, customer-initiated sharing. There is no standing-access mode and no plan to add one."
+      },
+      {
+        "q": "What if LE has a subpoena or warrant?",
+        "a": "Subpoena and warrant responses go through your normal legal process. VDS supports lawful evidentiary requests with full chain-of-custody export \u2014 that is separate from the Axon-Fusus integration, which is for voluntary, expedited sharing of a specific clip."
+      },
+      {
+        "q": "Who in our organization can initiate a share?",
+        "a": "Whoever you authorize. Most customers limit it to a named loss prevention or security lead and require a second approver for non-emergencies."
+      },
+      {
+        "q": "Does the shared clip include metadata identifying our location, cameras, or people?",
+        "a": "The clip is shared as a video file with the case context your team enters. No camera ID, customer ID, or system metadata is exposed to the agency beyond what you choose to include in the case reference."
+      }
+    ],
+    "finalCTAHeading": "Cooperate with law enforcement without giving away your camera tree.",
+    "finalCTABody": "A 30-minute call covers your sharing policy, your authorized users, and the agencies you want to be able to send to. You leave with a written authorization document and a setup-time estimate.",
+    "finalCTAButtons": [
+      {
+        "label": "Book Axon-Fusus integration call",
+        "url": "Read the privacy model"
+      }
+    ],
+    "schemaType": "Article",
+    "internalLinks": "/integrations, /platform/ai-visionstream, /platform/api-sdk-access, /trust/privacy, /soc",
+    "notes": "Important \u2014 confirm with VDS engineering before publishing each integration page that the technical claims match real product capability. Some integrations may be roadmapped rather than shipped today.",
+    "canonical": "https://visiondetectionsystems.com/integrations/axon-fusus",
+    "ogTitle": "VDS + Axon-Fusus",
+    "ogDescription": "VDS customers share specific incident clips with local law enforcement running Axon-Fusus. Opt-in per incident \u2014 never standing access to your cameras.",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .integration-summary, h2",
+    "tags": "security integrations, API, Axon Fusus, LE sharing",
+    "author": "Vision Detection Systems"
+  }
+]

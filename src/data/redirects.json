@@ -1,0 +1,337 @@
+[
+  {
+    "from": "/mission/",
+    "to": "/about-us/mission",
+    "type": "301"
+  },
+  {
+    "from": "/why-vds/",
+    "to": "/about-us/why-vision-detection-systems",
+    "type": "301"
+  },
+  {
+    "from": "/our-plant/",
+    "to": "/about-us/our-plant",
+    "type": "301"
+  },
+  {
+    "from": "/dealer/",
+    "to": "/partners/dealer-program",
+    "type": "301"
+  },
+  {
+    "from": "/media-room/",
+    "to": "/resources/news",
+    "type": "301"
+  },
+  {
+    "from": "/blog/",
+    "to": "/resources/blog",
+    "type": "301"
+  },
+  {
+    "from": "/contact-us/",
+    "to": "/contact-us",
+    "type": "301"
+  },
+  {
+    "from": "/site-assesment/",
+    "to": "/services/consulting",
+    "type": "301"
+  },
+  {
+    "from": "/thank-you/",
+    "to": "/thank-you",
+    "type": "301"
+  },
+  {
+    "from": "/mobile-surveillance-trailers/",
+    "to": "/products/mobile-surveillance-trailers",
+    "type": "301"
+  },
+  {
+    "from": "/remote-video-monitoring/",
+    "to": "/services/remote-video-monitoring",
+    "type": "301"
+  },
+  {
+    "from": "/construction-site-security-services/",
+    "to": "/industries/construction-site-security",
+    "type": "301"
+  },
+  {
+    "from": "/license-plate-recognition-camera/",
+    "to": "/products/license-plate-recognition",
+    "type": "301"
+  },
+  {
+    "from": "/fixed-mounted-surveillance-units/",
+    "to": "/products/solar-camera-poles",
+    "type": "301"
+  },
+  {
+    "from": "/police-security-cameras/",
+    "to": "/industries/public-safety-law-enforcement-surveillance",
+    "type": "301"
+  },
+  {
+    "from": "/shopping-center-remote-monitoring/",
+    "to": "/industries/retail-shopping-center-security",
+    "type": "301"
+  },
+  {
+    "from": "/construction-live-monitoring/",
+    "to": "/services/remote-video-monitoring",
+    "type": "301"
+  },
+  {
+    "from": "/parking-lot-surveillance-cameras/",
+    "to": "/industries/parking-lot-garage-security",
+    "type": "301"
+  },
+  {
+    "from": "/visual-surveillance-services/",
+    "to": "/services",
+    "type": "301"
+  },
+  {
+    "from": "/request-quote/",
+    "to": "/request-a-quote",
+    "type": "301"
+  },
+  {
+    "from": "/get-a-quote/",
+    "to": "/request-a-quote",
+    "type": "301"
+  },
+  {
+    "from": "/get-a-quote-2/",
+    "to": "/request-a-quote",
+    "type": "301"
+  },
+  {
+    "from": "/mobile-security-surveillance-quote/",
+    "to": "/request-a-quote",
+    "type": "301"
+  },
+  {
+    "from": "/join-our-team/",
+    "to": "/about-us/careers",
+    "type": "301"
+  },
+  {
+    "from": "/join-our-team/administrative-coordinator/",
+    "to": "/about-us/careers",
+    "type": "301"
+  },
+  {
+    "from": "/join-our-team/hardware-assembly-it-provisioning-technician/",
+    "to": "/about-us/careers",
+    "type": "301"
+  },
+  {
+    "from": "/mobile-surveillance-trailers-boston-massachusetts/",
+    "to": "/locations/mobile-surveillance-trailers/boston",
+    "type": "301"
+  },
+  {
+    "from": "/mobile-surveillance-trailers-charlotte-north-carolina/",
+    "to": "/locations/mobile-surveillance-trailers/charlotte",
+    "type": "301"
+  },
+  {
+    "from": "/mobile-surveillance-trailers-chicago-illinois/",
+    "to": "/locations/mobile-surveillance-trailers/chicago",
+    "type": "301"
+  },
+  {
+    "from": "/mobile-surveillance-trailers-columbus-ohio/",
+    "to": "/locations/ohio",
+    "type": "301"
+  },
+  {
+    "from": "/mobile-surveillance-trailers-denver-colorado/",
+    "to": "/locations/mobile-surveillance-trailers/denver",
+    "type": "301"
+  },
+  {
+    "from": "/mobile-surveillance-trailers-houston-texas/",
+    "to": "/locations/mobile-surveillance-trailers/houston",
+    "type": "301"
+  },
+  {
+    "from": "/mobile-surveillance-trailers-in-miami/",
+    "to": "/locations/mobile-surveillance-trailers/miami",
+    "type": "301"
+  },
+  {
+    "from": "/mobile-surveillance-trailers-indianapolis-indiana/",
+    "to": "/locations/indiana",
+    "type": "301"
+  },
+  {
+    "from": "/mobile-surveillance-trailers-jacksonville-florida/",
+    "to": "/locations/mobile-surveillance-trailers/jacksonville",
+    "type": "301"
+  },
+  {
+    "from": "/mobile-surveillance-trailers-los-angeles-california/",
+    "to": "/locations/mobile-surveillance-trailers/los-angeles",
+    "type": "301"
+  },
+  {
+    "from": "/mobile-surveillance-trailers-nashville-tennessee/",
+    "to": "/locations/mobile-surveillance-trailers/nashville",
+    "type": "301"
+  },
+  {
+    "from": "/mobile-surveillance-trailers-new-york-city-new-york/",
+    "to": "/locations/mobile-surveillance-trailers/new-york",
+    "type": "301"
+  },
+  {
+    "from": "/mobile-surveillance-trailers-oklahoma-city-oklahoma/",
+    "to": "/locations/oklahoma",
+    "type": "301"
+  },
+  {
+    "from": "/mobile-surveillance-trailers-philadelphia-pennsylvania/",
+    "to": "/locations/mobile-surveillance-trailers/philadelphia",
+    "type": "301"
+  },
+  {
+    "from": "/mobile-surveillance-trailers-phoenix-arizona/",
+    "to": "/locations/mobile-surveillance-trailers/phoenix",
+    "type": "301"
+  },
+  {
+    "from": "/mobile-surveillance-trailers-seattle-washington/",
+    "to": "/locations/mobile-surveillance-trailers/seattle",
+    "type": "301"
+  },
+  {
+    "from": "/vegas/",
+    "to": "/locations/mobile-surveillance-trailers/las-vegas",
+    "type": "301"
+  },
+  {
+    "from": "/video-surveillance-services-catonsville/",
+    "to": "/locations/maryland",
+    "type": "301"
+  },
+  {
+    "from": "/video-surveillance-services-columbia/",
+    "to": "/locations/maryland",
+    "type": "301"
+  },
+  {
+    "from": "/video-surveillance-services-dundalk/",
+    "to": "/locations/maryland",
+    "type": "301"
+  },
+  {
+    "from": "/master-mobile-surveillance-trailer-vision-detection-systems/",
+    "to": "/guides/mobile-surveillance-trailers",
+    "type": "301"
+  },
+  {
+    "from": "/master-mobile-security-trailer-vision-detection-systems/",
+    "to": "/guides/mobile-surveillance-trailers",
+    "type": "301"
+  },
+  {
+    "from": "/cutting-edge-mobile-surveillance-trailer-solutions/",
+    "to": "/guides/mobile-surveillance-trailers",
+    "type": "301"
+  },
+  {
+    "from": "/ultimate-mobile-security-trailer-solutions/",
+    "to": "/guides/mobile-surveillance-trailers",
+    "type": "301"
+  },
+  {
+    "from": "/securing-your-site-with-mobile-security-trailer/",
+    "to": "/guides/mobile-surveillance-trailers",
+    "type": "301"
+  },
+  {
+    "from": "/master-license-plate-recognition-camera-secrets/",
+    "to": "/guides/license-plate-recognition",
+    "type": "301"
+  },
+  {
+    "from": "/the-ultimate-license-plate-recognition-camera-guide/",
+    "to": "/guides/license-plate-recognition",
+    "type": "301"
+  },
+  {
+    "from": "/ultimate-license-plate-security-camera-guide/",
+    "to": "/guides/license-plate-recognition",
+    "type": "301"
+  },
+  {
+    "from": "/master-license-plate-security-camera-systems/",
+    "to": "/guides/license-plate-recognition",
+    "type": "301"
+  },
+  {
+    "from": "/key-features-to-look-for-in-license-plate-recognition-cameras/",
+    "to": "/guides/license-plate-recognition",
+    "type": "301"
+  },
+  {
+    "from": "/how-to-prevent-construction-site-theft/",
+    "to": "/guides/construction-theft-prevention",
+    "type": "301"
+  },
+  {
+    "from": "/construction-site-security-cameras-insurance/",
+    "to": "/industries/construction-site-security",
+    "type": "301"
+  },
+  {
+    "from": "/construction-site-monitoring-complete-guide-general-contractors/",
+    "to": "/guides/construction-theft-prevention",
+    "type": "301"
+  },
+  {
+    "from": "/construction-site-security-plan-guide/",
+    "to": "/guides/construction-theft-prevention",
+    "type": "301"
+  },
+  {
+    "from": "/how-long-should-security-cameras-keep-footage/",
+    "to": "/guides/security-video-retention",
+    "type": "301"
+  },
+  {
+    "from": "/mobile-surveillance-trailer-rental-vs-purchase/",
+    "to": "/solutions/buy-vs-rent-mobile-surveillance-trailer",
+    "type": "301"
+  },
+  {
+    "from": "/all 90+ other thin '20XX' posts/",
+    "to": "/resources/blog (or 410)",
+    "type": "410"
+  },
+  {
+    "from": "/windows-7-activator-free-download-for-32-bit/",
+    "to": "410",
+    "type": "410"
+  },
+  {
+    "from": "/category/* (22 tag archive pages)",
+    "to": "410 or noindex",
+    "type": "410"
+  },
+  {
+    "from": "/tag/* (75 tag archive pages)",
+    "to": "410 or noindex",
+    "type": "410"
+  },
+  {
+    "from": "/author/* (3 author archive pages)",
+    "to": "410 or noindex",
+    "type": "410"
+  }
+]

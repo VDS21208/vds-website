@@ -1,0 +1,405 @@
+[
+  {
+    "url": "/partners/become-a-dealer",
+    "slug": "become-a-dealer",
+    "parent": "/partners",
+    "pageType": "Dealer Page",
+    "status": "Launch",
+    "seoTitle": "Become a VDS Dealer | Apply to the Authorized Dealer Program",
+    "metaDescription": "Apply to the VDS Authorized Dealer Program. 20-minute application, 5-business-day review, 30-day onboarding to first deployment",
+    "announcementBar": "",
+    "h1": "Apply to become a VDS dealer.",
+    "heroEyebrow": "Become a Dealer",
+    "heroSubhead": "A 20-minute application. A 5-business-day response. About 30 days from approval to first deployment.",
+    "heroCTAPrimary": {
+      "label": "Start application [#application]",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "Read the program details [/partners/dealer-program]",
+      "url": "/request-a-quote"
+    },
+    "heroStats": [
+      "20-min application",
+      "5-day review",
+      "30-day onboarding",
+      "Tier-based margin"
+    ],
+    "body": "## Before you apply, check fit\n\nThe dealer program is built for established businesses with existing customer relationships in security, construction services, or adjacent industries. We are not the right partner for first-time entrepreneurs without an installed base, lead-gen affiliates, or firms outside our target verticals.\n\n**Strong fit looks like:**\n- Security integrator selling cameras, access control, or alarm systems to commercial customers\n- Construction services firm offering jobsite security, fencing, or trailer rentals\n- Specialty rental firm in the energy, infrastructure, or events space\n- Existing fleet of 100+ commercial customers in our segments\n- Annual capacity for 12+ unit deployments\n- Insurance, licensing, and operating history in good standing\n\n**Not a fit (yet):**\n- Lead-generation firms with no install or service capability\n- Pre-revenue startups without a customer base\n- Affiliates seeking referral-only compensation (see referral program separately)\n- Firms outside the US (VDS sells in the United States only as of 2026)\n\n## What the application asks\n\nThe form below collects:\n\n1. **Company information** \u2014 legal name, DBA, address, year founded, employee count\n2. **Business background** \u2014 segments served, primary customer types, geographic territory, annual revenue range\n3. **Capabilities** \u2014 install capability, field service team, monitoring relationships if any\n4. **Volume estimate** \u2014 projected first-year deployment count, target customer profile\n5. **Compliance posture** \u2014 insurance carriers, licenses held, NDAA-relevant procurement (if any)\n6. **Contacts** \u2014 primary owner/exec, channel sponsor, technical lead, billing contact\n7. **Why VDS** \u2014 brief statement on why VDS fits your portfolio\n\nThe application takes about 20 minutes. We do not require attachments at this stage; we will request insurance certificates and licensing documentation if the application moves forward.\n\n## What happens after submission\n\n- **Day 1:** Confirmation email with channel team contact\n- **Day 2\u20135:** Internal review and territory check\n- **Day 5:** Decision email. Approved applications get a 30-minute intro call scheduled. Declined applications get the reason in writing.\n- **Day 6\u201310:** Intro call, dealer agreement preview, NDA exchange if requested\n- **Day 11\u201320:** Agreement signed\n- **Day 21\u201330:** Certification scheduled, lead routing activated\n\n## Frequently asked before applying\n\nMost applicants ask three questions before submitting. Answers below; full FAQ on the program page.\n\n**1. What is the upfront cost?** No franchise fee. No territory fee. Certification travel is dealer-paid at Tier 1; reimbursed at Tier 2 and above.\n\n**2. How exclusive is my territory?** Not exclusive in the franchise sense. See dealer program page for the \"first dealer of record\" model.\n\n**3. Can I see margin before applying?** Margin percentages are in the dealer program guide, available under NDA after intro call.\n\n## Application\n\n[PLACEHOLDER \u2014 Application form embed]\n\nThe application form is embedded here. Fields match the structure described above. Submission goes to the channel team queue and a confirmation email is sent immediately.\n\nFor organizations that prefer to start with a conversation: email **partners@visiondetectionsystems.com** with subject \"Dealer interest \u2014 [Your Company]\" and a 2\u20133 sentence company description. The channel team will respond within 2 business days.",
+    "faq": [
+      {
+        "q": "I do not have install staff. Can I still be a dealer?",
+        "a": "Yes, if you can subcontract installation through VDS field services or a regional partner we approve. Tier 1 dealers without install capability work on a smaller volume commitment."
+      },
+      {
+        "q": "Can a single person apply, or do you require a registered business?",
+        "a": "Registered business. LLC, corporation, or partnership in good standing in your state of operation. We do not contract with sole proprietorships under personal names."
+      },
+      {
+        "q": "How long does it really take from application to first sale?",
+        "a": "Median is 45 days from application to first signed customer contract; longer if the dealer has not yet completed certification."
+      },
+      {
+        "q": "Will my application be visible to my competitors?",
+        "a": "No. Applications are confidential to the VDS channel team. Territory data is anonymized in any aggregated dealer reporting."
+      }
+    ],
+    "finalCTAHeading": "20 minutes now. 30 days to first deployment.",
+    "finalCTABody": "Start the application below, or email the channel team if you want a call before applying.",
+    "finalCTAButtons": [
+      {
+        "label": "Start application [#application]",
+        "url": "Email channel team [mailto:partners@visiondetectionsystems.com]"
+      }
+    ],
+    "schemaType": "WebPage",
+    "internalLinks": "/partners, /partners/dealer-program, /partners/white-label, /partners/financing",
+    "notes": "Form embed is a placeholder for the actual Webflow form or HubSpot form. Application fields match the structure described in body.",
+    "canonical": "https://visiondetectionsystems.com/partners/become-a-dealer",
+    "ogTitle": "Apply to become a VDS dealer.",
+    "ogDescription": "Apply to the VDS Authorized Dealer Program. 20-minute application, 5-business-day review, 30-day onboarding to first deployment",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .hero-subhead, h2",
+    "tags": "mobile surveillance, VDS",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/partners/dealer-program",
+    "slug": "dealer-program",
+    "parent": "/partners",
+    "pageType": "Dealer Page",
+    "status": "Launch",
+    "seoTitle": "Dealer Program | Terms, Margin, Support, Training | VDS",
+    "metaDescription": "VDS Authorized Dealer Program: published margin tiers, deal registration, MDF, channel manager support, technical certification, and lead routing",
+    "announcementBar": "",
+    "h1": "Dealer Program. Margin, support, and rules of the road.",
+    "heroEyebrow": "Dealer Program",
+    "heroSubhead": "The Authorized Dealer Program is built for security integrators and construction services firms. Margin tiers, deal registration, and program rules below.",
+    "heroCTAPrimary": {
+      "label": "Apply now [/partners/become-a-dealer]",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "Download the program guide [/assets/vds-dealer-program-guide.pdf]",
+      "url": "/request-a-quote"
+    },
+    "heroStats": [
+      "Published margin tiers",
+      "Deal registration",
+      "Dedicated channel manager",
+      "30-day onboarding"
+    ],
+    "body": "## Margin structure\n\nVDS uses a published, tiered margin structure based on annual deployment volume. Tier reviews happen quarterly. You move up when you hit volume; you do not get downgraded mid-year for being below pace.\n\n**Tier 1 (12\u201335 units/year):** Standard dealer margin on hardware MSRP, standard monitoring share on monthly recurring revenue, deal registration eligible.\n\n**Tier 2 (36\u201399 units/year):** Increased hardware margin, increased monitoring share, priority deal registration, quarterly MDF.\n\n**Tier 3 (100+ units/year):** Top-tier margin, top-tier monitoring share, dedicated account team, custom MDF programs, eligibility for Strategic Partner conversion.\n\nSpecific margin percentages are published in the dealer program guide. We do not list them on the public website because pricing is part of the dealer agreement. The guide is available on application.\n\n## Deal registration\n\nVDS operates a deal registration system. When you bring a qualified opportunity to VDS \u2014 name, scope, timeline \u2014 you have first right of refusal on that deal for 90 days, renewable on documented progress. Registered deals are protected from channel conflict; we will not sell direct into a registered opportunity, and we will not route the lead to another dealer.\n\nDisputes are handled by the channel manager and escalated to the Director of Sales if needed. We have published the dispute process in the dealer agreement.\n\n## What VDS provides to dealers\n\n- **Lead routing.** Inbound leads in your active territory get routed to you. Average inbound volume varies by territory; channel manager will share territory-specific data on application.\n- **Sales support.** Channel manager available for discovery calls, scoping, and pricing. Engineering support for complex deployments.\n- **Technical training.** 2-day Pikesville certification covering hardware installation, VMS configuration, and SOC handoff. Refresher training annually. Travel reimbursed for Tier 2 and Tier 3 dealers.\n- **Marketing development funds (MDF).** Quarterly accrual at Tier 2 and above, usable on co-branded campaigns, trade show attendance, and lead generation. Documentation required.\n- **Co-branded marketing assets.** Spec sheets, customer-facing decks, ROI calculators, and email templates with your branding alongside VDS.\n- **Direct line to the SOC.** Dealers have a priority line for customer escalations. You do not wait in the standard support queue.\n\n## What VDS expects from dealers\n\n- Meet your tier's annual volume commitment\n- Complete certification before installing or scoping VDS units\n- Use VDS-supplied marketing materials accurately (no rewrites that create misleading claims)\n- Pass through manufacturer warranty terms to end customers\n- Maintain general liability and professional liability insurance at published minimums\n- Sign and adhere to the dealer agreement, including non-circumvention provisions on registered deals\n\n## How territory works\n\nVDS does not grant exclusive territories. We do operate a \"first dealer of record\" model: when a customer in a geography has been won by a dealer, that customer is the dealer's account for renewal and expansion. New customers in the same geography are routed by inbound interest, dealer pipeline strength, and program tier.\n\nStrategic Partners may have agreed-upon exclusivity in specific verticals (e.g., a national modular construction firm) \u2014 negotiated separately from the standard dealer program.\n\n## Onboarding timeline\n\n- **Day 0:** Application submitted\n- **Day 1\u20135:** Channel team review, intro call scheduled\n- **Day 6\u201310:** Dealer agreement issued\n- **Day 11\u201320:** Agreement signed, certification scheduled\n- **Day 21\u201330:** Certification completed, lead routing activated, first deal scoped\n\nMost dealers are deploying their first unit within 45 days of application.",
+    "faq": [
+      {
+        "q": "Can I get a copy of the dealer agreement before I apply?",
+        "a": "Yes, under NDA. Email partners@visiondetectionsystems.com requesting the dealer agreement preview."
+      },
+      {
+        "q": "Do I have to install the unit myself, or can VDS handle field service?",
+        "a": "Both options exist. Tier 1 and Tier 2 dealers typically install with their own field staff after certification. Tier 3 and Strategic Partners sometimes use VDS field service under a subcontract."
+      },
+      {
+        "q": "How does monitoring revenue share work?",
+        "a": "Dealers receive a share of monthly recurring revenue on monitored units they originate, paid monthly. Specific percentages are tier-based and in the program guide."
+      },
+      {
+        "q": "What happens if I do not hit my tier volume?",
+        "a": "We have a conversation. We do not auto-downgrade. If volume is well below pace for two consecutive quarters, we discuss whether the relationship is the right fit."
+      },
+      {
+        "q": "Is the dealer agreement multi-year?",
+        "a": "Initial term is 12 months, auto-renewing. Either party can exit on 90 days written notice at renewal."
+      }
+    ],
+    "finalCTAHeading": "Apply, sign, certify, deploy. About 30 days.",
+    "finalCTABody": "The application is 20 minutes. We respond within 5 business days. If you want to talk before applying, the channel team is reachable directly.",
+    "finalCTAButtons": [
+      {
+        "label": "Apply now [/partners/become-a-dealer]",
+        "url": "Talk to channel team [mailto:partners@visiondetectionsystems.com]"
+      }
+    ],
+    "schemaType": "WebPage",
+    "internalLinks": "/partners, /partners/become-a-dealer, /partners/white-label, /partners/resources, /partners/financing",
+    "notes": "Margins intentionally not published on public pages. Program guide PDF asset is a placeholder pending VDS team supply.",
+    "canonical": "https://visiondetectionsystems.com/partners/dealer-program",
+    "ogTitle": "Dealer Program. Margin, support, and rules of the road.",
+    "ogDescription": "VDS Authorized Dealer Program: published margin tiers, deal registration, MDF, channel manager support, technical certification, and lead routing",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .hero-subhead, h2",
+    "tags": "mobile surveillance, VDS",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/partners/financing",
+    "slug": "financing",
+    "parent": "/partners",
+    "pageType": "Dealer Page",
+    "status": "Launch",
+    "seoTitle": "Financing Options | Lease, Multi-Year, Dealer Pricing | VDS",
+    "metaDescription": "VDS financing options: 36/48/60-month operating lease, multi-year service agreements with locked pricing, and dealer pricing for end-customer programs",
+    "announcementBar": "",
+    "h1": "Financing structures that match how your customers buy.",
+    "heroEyebrow": "Financing",
+    "heroSubhead": "Operating leases, multi-year service agreements, and dealer-supported financing. Built for commercial budgets and project-based site security spending.",
+    "heroCTAPrimary": {
+      "label": "Talk to finance [mailto:finance@visiondetectionsystems.com]",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "See standard pricing [/pricing]",
+      "url": "/request-a-quote"
+    },
+    "heroStats": [
+      "36/48/60-month leases",
+      "Multi-year price lock",
+      "Dealer programs",
+      "Project-based options"
+    ],
+    "body": "## Why financing matters in this category\n\nA mobile surveillance unit is a multi-thousand-dollar piece of equipment paired with an ongoing monitoring service. Customers buy it for projects that may run 6 months, 18 months, or 5 years. Capital expense, operating expense, project-billable, and renewable revenue treatment all matter to the way customers structure the purchase. VDS supports four primary financing structures, each appropriate to a different customer situation.\n\n## Option 1: Standard service plan (no separate financing)\n\nThe default VDS offering is a service plan: a monthly fee covering hardware use, monitoring, software, support, and unit replacement. No separate capital purchase, no separate financing.\n\n- Sky Guard MSU: $2,200/month\n- Swift Deploy: $1,500/month\n- Boundary Guard Pro: $1,800/month\n\nTerms are typically 12 months minimum, month-to-month thereafter. No down payment. No early-termination penalty after the 12-month commitment. Most customers stay on this structure for the life of the deployment because it is the simplest accounting treatment \u2014 pure OpEx, no asset on the balance sheet, no depreciation schedule.\n\n## Option 2: Multi-year service agreement with locked pricing\n\nFor customers planning 3+ year deployments, the multi-year agreement locks pricing for the contract term and includes built-in service and replacement guarantees.\n\n- **3-year term** \u2014 pricing locked, modest discount versus month-to-month\n- **5-year term** \u2014 pricing locked, larger discount, dedicated account manager\n\nThe discount structure is not published on the public site. Specific numbers are in the dealer pricing reference and on the customer quote. Talk to sales or your dealer for current rates.\n\nThe multi-year agreement is most common in:\n- Energy and infrastructure deployments with long project timelines\n- Public-sector-adjacent customers with multi-year budget cycles\n- Property management firms with multi-site fleets\n\n## Option 3: Operating lease through a VDS finance partner\n\nFor customers who want to treat the equipment as a leased capital asset, VDS works with established commercial leasing partners to offer 36, 48, and 60-month operating leases. The lease covers the hardware; monitoring and software run on a separate monthly service contract.\n\nBenefits:\n- Off-balance-sheet treatment for the equipment under most accounting frameworks\n- Predictable monthly payment for budgeting\n- End-of-term options: renew, return, or purchase at fair market value\n- Tax treatment: monthly lease payment typically deductible as operating expense (verify with your CPA)\n\nApproval is handled by the finance partner, not by VDS. Credit decisions typically come back within 5 business days of application. Documentation is standard commercial lease paperwork.\n\nThis option is most common with:\n- Construction firms that prefer leased equipment on jobsites\n- Modular construction and rental firms integrating units into their own customer offerings\n- Mid-market companies with established commercial banking relationships\n\n## Option 4: Project-based contracts\n\nFor customers on a single project \u2014 particularly construction GCs with a defined project end date \u2014 VDS offers project-based contracts that align deployment cost to project duration.\n\n- Minimum project duration: 3 months\n- Pricing per project month, with discounts at 6, 12, and 18-month durations\n- Single mobilization and demobilization fee\n- Project completion triggers contract close \u2014 no auto-renewal\n\nThis is the structure used in the hero case study (Mid-Atlantic GC, 12-month project, $340,800 saved against prior-year baseline).\n\n## Dealer-supported financing\n\nVDS dealers may offer additional financing structures specific to their business model \u2014 for example, a regional integrator might bundle VDS units into a broader site-security package with their own financing terms. If you are working through a dealer, ask the dealer about their financing options first; if their structure does not fit, VDS direct financing options remain available.\n\n## What we do not finance\n\n- **Initial site assessment and design fees**, where applicable \u2014 these are billed up front\n- **Custom hardware modifications** beyond standard configurations \u2014 billed up front\n- **Pass-through third-party services** (cellular data overage, custom integrations) \u2014 billed at cost on the standard monthly invoice\n\n## How to start\n\nFor service plan and multi-year pricing, request a quote through the standard pricing process. For operating leases, mention \"lease\" in your initial inquiry and we will connect you with the finance partner. For project-based contracts, share the project duration and unit count.\n\nFinance team: **finance@visiondetectionsystems.com**\nResponse SLA: 2 business days for standard quotes, 5 business days for custom multi-year structures.",
+    "faq": [
+      {
+        "q": "Can I switch from a month-to-month plan to a multi-year plan after deployment?",
+        "a": "Yes. Conversion to a multi-year agreement is available at any time; the locked pricing starts on the conversion date."
+      },
+      {
+        "q": "What happens if I need to cancel mid-term on a multi-year agreement?",
+        "a": "Early termination fees apply, scaled to remaining term. Specific terms are in the contract. We will not surprise you with the number \u2014 it is on page one."
+      },
+      {
+        "q": "Do you offer financing to small businesses with limited credit history?",
+        "a": "The finance partner makes credit decisions independently. For customers without established commercial credit, the standard service plan (no financing required) is the typical path."
+      },
+      {
+        "q": "Can I deduct VDS service fees on my taxes?",
+        "a": "Service fees are generally deductible as operating business expenses. Equipment treatment depends on the financing structure. Confirm with your accountant \u2014 VDS does not provide tax advice."
+      },
+      {
+        "q": "Is there a buyout option at the end of an operating lease?",
+        "a": "Yes. Fair-market-value buyout, $1 buyout (on capital lease variants), or return-and-replace with new equipment. Options are documented in the lease."
+      }
+    ],
+    "finalCTAHeading": "Match the financing to the project. Not the other way around.",
+    "finalCTABody": "Tell the finance team what you are deploying, for how long, and how your accounting team prefers to structure it. We will quote against that.",
+    "finalCTAButtons": [
+      {
+        "label": "Talk to finance [mailto:finance@visiondetectionsystems.com]",
+        "url": "Request a quote [/request-a-quote]"
+      }
+    ],
+    "schemaType": "WebPage",
+    "internalLinks": "/partners, /pricing, /request-a-quote, /case-studies/mid-atlantic-gc",
+    "notes": "Lease partner not named on public page until contract supports it. Confirm specific discount structures with finance team before publishing numbers.",
+    "canonical": "https://visiondetectionsystems.com/partners/financing",
+    "ogTitle": "Financing structures that match how your customers buy.",
+    "ogDescription": "VDS financing options: 36/48/60-month operating lease, multi-year service agreements with locked pricing, and dealer pricing for end-customer programs",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .hero-subhead, h2",
+    "tags": "mobile surveillance, VDS",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/partners/find-a-dealer",
+    "slug": "find-a-dealer",
+    "parent": "/partners",
+    "pageType": "Dealer Page",
+    "status": "Launch",
+    "seoTitle": "Find a VDS Dealer | Authorized Mobile Security Integrators",
+    "metaDescription": "Locate an authorized VDS dealer in your state. Search by state, region, or specialty. Active dealers in 30+ states across construction, perimeter",
+    "announcementBar": "",
+    "h1": "Find an authorized VDS dealer.",
+    "heroEyebrow": "Find a Dealer",
+    "heroSubhead": "Search by state to locate an authorized VDS dealer in your region. Active dealers cover 30+ US states. If we do not have a dealer near you, VDS will route your inquiry to the direct sales team.",
+    "heroCTAPrimary": {
+      "label": "Search dealers [#dealer-search]",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "Request a quote directly [/request-a-quote]",
+      "url": "/request-a-quote"
+    },
+    "heroStats": [
+      "30+ states covered",
+      "Authorized only",
+      "Vetted, certified, insured"
+    ],
+    "body": "## What an authorized dealer is\n\nEvery dealer listed below has completed the VDS certification program, signed the current dealer agreement, and maintains active insurance and licensing in their state of operation. Authorized dealers can sell, install, support, and service VDS mobile units under the manufacturer warranty.\n\nDealers shown here are listed by their primary business address. Many cover regions broader than their home state \u2014 verify coverage with the individual dealer or use the territory filter below.\n\n## Dealer directory\n\n[PLACEHOLDER \u2014 Dealer directory listing CMS component]\n\nThe interactive directory below allows search by:\n\n- **State or region** \u2014 primary filter\n- **Specialty** \u2014 construction, perimeter, lot/yard, energy/infrastructure, public sector adjacent\n- **Service offering** \u2014 sales only, sales + install, sales + install + field service\n- **Dealer tier** \u2014 Authorized, Strategic Partner\n\nEach dealer listing includes:\n\n- Company name and primary location\n- Coverage area\n- Specialties and verticals served\n- Phone and email contact\n- Website link\n- Dealer tier and active-since date\n\n## States without an active dealer\n\nIf your state does not have a dealer listed, VDS will route your inquiry to the direct sales team. Direct customers get the same products, the same SOC, and the same support \u2014 the difference is that there is no regional dealer in the middle. Direct contracts are signed with VDS in Pikesville.\n\nDirect sales is the standard channel in: [PLACEHOLDER \u2014 current list of states without active dealer presence, updated from CRM]\n\n## How to choose between two dealers in your region\n\nWhen two dealers serve your region:\n\n- **For complex multi-site deployments** \u2014 choose the dealer with the highest tier (Strategic Partner > Tier 3 > Tier 2 > Tier 1), reflecting deployment volume experience\n- **For single-site or small-volume deployments** \u2014 choose by responsiveness and local proximity\n- **For specialty verticals** (e.g., energy infrastructure, modular construction) \u2014 choose the dealer whose specialty filter matches\n- **If unsure** \u2014 contact VDS directly and we will route based on territory, capability match, and current pipeline load\n\n## Reporting a dealer issue\n\nIf you are a customer or prospect and you have had a problem with a VDS-authorized dealer, contact the channel team at **partners@visiondetectionsystems.com** with subject \"Dealer concern \u2014 [Dealer Name].\" We investigate every reported issue. Dealer agreement violations are grounds for action up to and including termination.",
+    "faq": [
+      {
+        "q": "Do dealer prices differ from direct VDS prices?",
+        "a": "Pricing is consistent across channels at MSRP. Dealers may offer financing, bundling, or service packages that change the all-in cost, but unit pricing is the same."
+      },
+      {
+        "q": "Can I contact VDS direct if I prefer not to use a dealer?",
+        "a": "In some territories, yes. In territories with active dealers, your inquiry will typically be routed to the dealer of record for that region. If you have a specific reason to work direct, mention it in your inquiry."
+      },
+      {
+        "q": "What if the dealer I worked with goes out of business?",
+        "a": "VDS warrants the hardware and software directly. If a dealer is no longer in operation, support and warranty continue from VDS or another regional dealer. You are not stranded."
+      },
+      {
+        "q": "Are dealers ranked or rated by customers?",
+        "a": "Not publicly. Dealer performance is reviewed internally on quality, response time, customer satisfaction, and program compliance. Customers can submit feedback through the channel team."
+      }
+    ],
+    "finalCTAHeading": "Found a dealer? Contact them directly. Not finding one? Talk to us.",
+    "finalCTABody": "Use the directory to find a regional dealer. If your state is not covered, request a quote directly and VDS direct sales will respond.",
+    "finalCTAButtons": [
+      {
+        "label": "Search dealers [#dealer-search]",
+        "url": "Request a quote directly [/request-a-quote]"
+      }
+    ],
+    "schemaType": "WebPage",
+    "internalLinks": "/partners, /partners/become-a-dealer, /request-a-quote, /contact",
+    "notes": "Directory CMS embed is a placeholder. Real implementation likely pulls from a Webflow CMS collection or a HubSpot CRM integration.",
+    "canonical": "https://visiondetectionsystems.com/partners/find-a-dealer",
+    "ogTitle": "Find an authorized VDS dealer.",
+    "ogDescription": "Locate an authorized VDS dealer in your state. Search by state, region, or specialty. Active dealers in 30+ states across construction, perimeter",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .hero-subhead, h2",
+    "tags": "mobile surveillance, VDS",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/partners/resources",
+    "slug": "resources",
+    "parent": "/partners",
+    "pageType": "Dealer Page",
+    "status": "Launch",
+    "seoTitle": "Dealer Resources | Sales Decks, Spec Sheets",
+    "metaDescription": "Active VDS dealer resources: sales decks, product spec sheets, ROI calculators, customer-facing one-pagers, email templates, and trade show assets",
+    "announcementBar": "",
+    "h1": "Dealer resources. Decks, sheets, calculators, and templates.",
+    "heroEyebrow": "Dealer Resources",
+    "heroSubhead": "Active VDS dealers can access the current sales toolkit below. New material is added monthly. Login is required; if you are an active dealer without portal access, contact your channel manager.",
+    "heroCTAPrimary": {
+      "label": "Log into the dealer portal [/dealer-portal/login]",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "Become a dealer [/partners/become-a-dealer]",
+      "url": "/request-a-quote"
+    },
+    "heroStats": [
+      "Monthly asset updates",
+      "Co-branded versions",
+      "Customer-facing and internal",
+      "Login required"
+    ],
+    "body": "## Sales assets\n\n**VDS company overview deck** (PowerPoint, Keynote, Google Slides). 18 slides covering the company, the integrated stack, the SOC, the case data, and the pricing tiers. Co-branded version available with your logo on the title slide and section dividers.\n\n**Product spec sheets** \u2014 Sky Guard MSU, Swift Deploy, Boundary Guard Pro. Each one is a 2-page PDF with photography, specifications, deployment requirements, and the standard service plan. Co-branded versions available.\n\n**Vertical solution briefs** \u2014 construction, perimeter, lot and yard, energy and infrastructure, public sector adjacent. Each one is a 4-page PDF mapping the platform to vertical-specific use cases.\n\n**Battle cards** \u2014 internal-use comparison cards against the most-encountered competitors in field deployments. Updated quarterly. These are dealer-only; do not share with customers.\n\n## Pricing and ROI tools\n\n**ROI calculator** (Excel and web-based). Inputs: site count, current loss baseline, current guard cost, current vandalism baseline. Outputs: projected 12-month savings, payback period, year-over-year reduction. The hero case study ($340,800 saved on the Mid-Atlantic GC project) was modeled from this calculator with actual customer inputs.\n\n**Pricing reference** \u2014 current MSRP, tier-based dealer pricing, monthly monitoring rates, contract terms, available financing options. Updated quarterly. Dealer-only.\n\n**Quote template** \u2014 Word document with VDS standard terms and your branding overlay. For dealers who quote outside the VDS CPQ system.\n\n## Marketing assets\n\n**Logo and brand assets** \u2014 VDS logos in SVG, PNG, and EPS. Co-marketing logos with VDS + dealer combinations. Brand guideline summary.\n\n**Photography library** \u2014 product shots, deployment shots, SOC shots. Web-ready and print-ready resolutions. Licensed for dealer use in marketing within the dealer agreement.\n\n**Email templates** \u2014 six approved templates for cold outreach, follow-up after a demo, post-deployment check-in, renewal, and case-study reference outreach. Co-branded versions auto-generated from the portal.\n\n**Social media kit** \u2014 LinkedIn post templates, image cards, and short-form video clips for organic social. Updated monthly.\n\n**Trade show kit** \u2014 booth graphics, pull-up banner artwork, handout one-pagers, and badge scanner integration. Co-branded design available with 10-business-day turnaround.\n\n## Technical and operational resources\n\n**Installation guides** \u2014 current revision installation procedures for each unit. PDF and video.\n\n**Service and maintenance manuals** \u2014 quarterly inspection procedures, fault diagnosis flowcharts, parts ordering process.\n\n**VMS configuration guides** \u2014 how to provision a new customer tenant, set up users with RBAC, integrate third-party cameras, configure alerting and SOC handoff.\n\n**Certification curriculum** \u2014 pre-read material for the 2-day Pikesville certification. Required reading before in-person training.\n\n## Marketing development funds (MDF) toolkit\n\nFor Tier 2 and Tier 3 dealers with MDF eligibility:\n\n- MDF request form and approval workflow\n- Approved campaign templates (digital, print, event)\n- MDF reporting and reconciliation requirements\n- Co-marketing approval process and design review SLAs\n\n## How to access\n\nActive dealers receive portal credentials at certification completion. If you have lost access or need additional team members added, contact your channel manager directly or email **partners@visiondetectionsystems.com** with subject \"Portal access \u2014 [Dealer Name].\"\n\nIf you are not yet a dealer, the resources above are not publicly available. The public site does have product information at the platform and product pages \u2014 but the sales toolkit, pricing, and battle cards are dealer-only by policy.",
+    "faq": [
+      {
+        "q": "How often are sales assets updated?",
+        "a": "Major deck and spec sheet revisions quarterly. Email templates and social posts monthly. Battle cards quarterly. Pricing reference quarterly."
+      },
+      {
+        "q": "Can I customize the company deck beyond co-branding?",
+        "a": "Yes, within the dealer agreement's accuracy requirements. You cannot rewrite product claims, performance numbers, or compliance statements. You can add slides about your company, your services, and your local case studies."
+      },
+      {
+        "q": "Is there a portal mobile app?",
+        "a": "Not yet. The dealer portal is web-based and mobile-responsive. A mobile app for field reps is in development for 2026."
+      },
+      {
+        "q": "Can I share dealer-only materials with prospective customers under NDA?",
+        "a": "Battle cards and competitive analyses, no \u2014 those stay internal. Pricing and ROI tools, yes, with appropriate confidentiality language."
+      }
+    ],
+    "finalCTAHeading": "Resources live behind a login. Access lives in the dealer agreement.",
+    "finalCTABody": "Log in if you are an active dealer. Apply to the program if you are not.",
+    "finalCTAButtons": [
+      {
+        "label": "Log in to portal [/dealer-portal/login]",
+        "url": "Apply to become a dealer [/partners/become-a-dealer]"
+      }
+    ],
+    "schemaType": "WebPage",
+    "internalLinks": "/partners, /partners/dealer-program, /partners/become-a-dealer",
+    "notes": "Public-facing description of the dealer portal. Actual assets live behind authentication. Portal URL is placeholder until dev confirms.",
+    "canonical": "https://visiondetectionsystems.com/partners/resources",
+    "ogTitle": "Dealer resources. Decks, sheets, calculators, and templates.",
+    "ogDescription": "Active VDS dealer resources: sales decks, product spec sheets, ROI calculators, customer-facing one-pagers, email templates, and trade show assets",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .hero-subhead, h2",
+    "tags": "mobile surveillance, VDS",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/partners/white-label",
+    "slug": "white-label",
+    "parent": "/partners",
+    "pageType": "Dealer Page",
+    "status": "Expansion",
+    "seoTitle": "White Label Program | Custom-Branded Mobile Security | VDS",
+    "metaDescription": "VDS white-label program for high-volume integrators: custom chassis branding, branded VMS, custom SOC scripting, 100+ unit minimum",
+    "announcementBar": "",
+    "h1": "White Label. Your brand on the chassis. Your script in the SOC.",
+    "heroEyebrow": "White Label Program",
+    "heroSubhead": "For integrators deploying 100+ units annually, VDS offers a white-label program: custom chassis branding, customer-facing VMS branding, custom SOC operator scripting, and direct manufacturing integration.",
+    "heroCTAPrimary": {
+      "label": "Schedule a white-label discovery call [/schedule-a-demo]",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "Read the standard dealer program [/partners/dealer-program]",
+      "url": "/request-a-quote"
+    },
+    "heroStats": [
+      "100+ unit minimum",
+      "Custom chassis",
+      "Branded VMS",
+      "Custom SOC scripts"
+    ],
+    "body": "## What white label means at VDS\n\nWhite labeling at VDS is not a sticker on a chassis. It is a manufacturing and operations integration that lets a high-volume partner sell VDS technology under their own brand without exposing VDS as the upstream provider \u2014 while still benefiting from VDS engineering, VMS, and SOC operations.\n\n**On the hardware side:** Chassis paint, vinyl wrap, and weatherproof badging in your colors and logo. Custom signage and contact information. Optional custom mounting hardware for specific use cases. We do not white-label internal components; the engineering remains standard VDS and remains under our warranty and support.\n\n**On the software side:** VMS branding (logo, color palette, customer-facing labels, mobile app icon). Custom domain (yourcompany.cloud.example) with SSL. Optional custom user invitation emails and customer notifications under your brand.\n\n**On the operations side:** Custom SOC operator script that addresses your customer in your brand voice, custom call-out language during talk-down events, custom escalation procedures aligned to your customer agreements.\n\n**On the contract side:** Your customer signs a contract with you, not with VDS. VDS is the unnamed subcontractor under your master agreement.\n\n## What does not get white-labeled\n\n- **Underlying engineering documentation.** Component data sheets, certifications, NDAA attestations remain VDS-branded. Customers who ask for this documentation see VDS authorship.\n- **SOC 2 and security audit reports.** These are issued to VDS as the underlying processor.\n- **AWS hosting.** The platform is on AWS under VDS's account. Custom AWS account hosting is available at the strategic-partner level with separate pricing.\n- **Regulatory compliance attestations.** NDAA, FCC, and other regulatory documents reference VDS as the manufacturer of record.\n\nFor customers who ask \"who actually makes this,\" your sales staff will be trained on the standard disclosure language. We do not require you to lie about the upstream relationship; the program is about brand presentation, not concealment.\n\n## Who this is for\n\nThe white-label program is built for:\n\n- **National security integrators** deploying mobile units across multiple regions\n- **Modular construction and trailer rental firms** integrating surveillance into a broader rental offering\n- **Specialty service firms** in energy, infrastructure, or events with established brand equity\n- **Private label resellers** with existing customer relationships in our target verticals\n\nMinimum annual volume: 100 units. Below that, the standard dealer program with co-branding options is the better fit.\n\n## Commercial structure\n\n- **Custom unit pricing** tied to annual volume commitment, separate from standard dealer pricing\n- **Custom MRR share** on monitoring services\n- **Tooling and setup fees** for one-time chassis customization, VMS branding setup, and SOC script development \u2014 typically amortized over the volume commitment\n- **Annual minimum** committed in writing; below-commitment performance triggers pricing review at renewal\n\nSpecific pricing is negotiated. Expect the conversation to involve volume forecasts, geography, customer profile, and your existing operations.\n\n## Onboarding timeline\n\nWhite-label onboarding takes 60\u201390 days from contract signature, depending on customization scope:\n\n- **Days 1\u201314:** Brand asset collection, design review, VMS customization spec\n- **Days 15\u201330:** Chassis design proof, VMS staging environment setup\n- **Days 31\u201360:** First production units, SOC operator script development and certification\n- **Days 61\u201390:** First customer deployment under your brand\n\n## What we expect from white-label partners\n\n- A real brand and a real customer base \u2014 this is not a vehicle for arbitrage or quick reselling\n- A capable sales and support organization that can stand behind a customer-facing brand\n- Adherence to VDS quality and operational standards in customer communications\n- A multi-year volume commitment",
+    "faq": [
+      {
+        "q": "Can we run the white-label program on top of an existing dealer agreement?",
+        "a": "Yes. Many strategic partners start as Tier 2 or Tier 3 dealers and convert to white label once their volume justifies the customization investment."
+      },
+      {
+        "q": "Can we resell the VMS as our own platform without VDS-branded hardware?",
+        "a": "Software-only white label is available on a case-by-case basis for partners with existing camera hardware they want to integrate. Same minimums and volume structure apply."
+      },
+      {
+        "q": "Can we have our own SOC and use VDS hardware only?",
+        "a": "Yes, hardware-only deployments without VDS monitoring are available, with separate pricing. This is a different program \u2014 contact partners@visiondetectionsystems.com to discuss."
+      },
+      {
+        "q": "How is intellectual property handled?",
+        "a": "VDS retains all engineering and software IP. Partner retains all brand IP. Customizations developed under the program are jointly owned where applicable, with usage rights defined in the agreement."
+      }
+    ],
+    "finalCTAHeading": "White label is a conversation, not a form.",
+    "finalCTABody": "Schedule a 30-minute discovery call. Bring your volume forecast, your geography, and the customer profile. We will tell you within a week whether the program fits.",
+    "finalCTAButtons": [
+      {
+        "label": "Schedule discovery call [/schedule-a-demo]",
+        "url": "Email partner team [mailto:partners@visiondetectionsystems.com]"
+      }
+    ],
+    "schemaType": "WebPage",
+    "internalLinks": "/partners, /partners/dealer-program, /partners/financing",
+    "notes": "White-label is an enterprise-level conversation. Page is intentionally not a self-serve funnel.",
+    "canonical": "https://visiondetectionsystems.com/partners/white-label",
+    "ogTitle": "White Label. Your brand on the chassis. Your script in the SOC.",
+    "ogDescription": "VDS white-label program for high-volume integrators: custom chassis branding, branded VMS, custom SOC scripting, 100+ unit minimum",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "website",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .hero-subhead, h2",
+    "tags": "mobile surveillance, VDS",
+    "author": "Vision Detection Systems"
+  }
+]

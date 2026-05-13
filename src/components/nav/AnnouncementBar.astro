@@ -1,0 +1,23 @@
+---
+export interface Props { text: string }
+const { text } = Astro.props;
+---
+<div class="bg-orange text-white text-center text-xs font-medium tracking-wide" data-announcement-bar>
+  <div class="container-main flex items-center justify-center gap-3 py-2">
+    <span>{text}</span>
+    <button type="button" class="opacity-70 hover:opacity-100 text-base leading-none" aria-label="Dismiss announcement" data-dismiss>×</button>
+  </div>
+</div>
+<script>
+  const bar = document.querySelector('[data-announcement-bar]');
+  const dismiss = bar?.querySelector('[data-dismiss]');
+  if (bar && dismiss) {
+    if (localStorage.getItem('vds-announcement-dismissed')) {
+      (bar as HTMLElement).style.display = 'none';
+    }
+    dismiss.addEventListener('click', () => {
+      (bar as HTMLElement).style.display = 'none';
+      localStorage.setItem('vds-announcement-dismissed', String(Date.now()));
+    });
+  }
+</script>

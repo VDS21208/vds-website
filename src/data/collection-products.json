@@ -1,0 +1,722 @@
+[
+  {
+    "url": "/products/accessories",
+    "slug": "accessories",
+    "parent": "/products",
+    "pageType": "Product Detail",
+    "status": "Launch",
+    "seoTitle": "Accessories & Add-Ons \u2014 Anti-Tamper, LPR, Mounts | VDS",
+    "metaDescription": "Anti-tamper kits, battery upgrades, LPR add-ons, signage, K-rail mounts, and the parts that make a deployment last past month 18.",
+    "announcementBar": "Assembled in Pikesville, MD.",
+    "h1": "The parts that make a deployment last past month 18.",
+    "heroEyebrow": "Add-Ons & Accessories",
+    "heroSubhead": "Anti-tamper kits, additional batteries, LPR upgrades, signage, K-rail mounts, and the field-proven accessories we ship to customers running multi-year deployments.",
+    "heroCTAPrimary": {
+      "label": "Request a Quote",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "Talk to an Engineer",
+      "url": "/contact"
+    },
+    "heroStats": [
+      "Field-tested",
+      "NDAA compliant",
+      "Same SOC integration",
+      "Ships from MD"
+    ],
+    "body": "## Trailers do not fail. Mounts, batteries, and signage do.\n\nSeven years of deployments tell us where field failures actually come from. The camera works. The cloud works. The unit gets clipped by a forklift, the battery cycles past 1,500 charges, or somebody steals the signage. This catalog is the parts that fix those problems before they become a service call.\n\n## Catalog\n\n**Anti-tamper kits.** Tamper-evident enclosures, lock upgrades, GPS tracking for mobile units, vibration alerting.\n\n**Additional batteries.** Battery bank upgrades for sites with shading, high cellular draw, or extreme cold cycles.\n\n**LPR add-on.** Retrofit LPR onto Swift Deploy and Solar Pole units. 95%+ accuracy, sub-3-second alerts.\n\n**Signage.** Warning, surveillance, and trespass signage \u2014 printed, posted, and rated for outdoor multi-year exposure.\n\n**K-rail and barrier mounts.** Mount cameras and lights to concrete K-rail without trenching or core drilling.\n\n**Cellular and Starlink upgrades.** Backhaul redundancy and Starlink kits for remote sites.\n\n**Spare parts.** Camera modules, mast hardware, solar panels, charge controllers, replacement panels. Same-week shipping from Pikesville, MD.\n\n## How accessories integrate\n\nEvery add-on is built for the same AI VisionStream and SOC pipeline as the base unit. LPR retrofitted to a Swift Deploy reports to the same audit log as a Sky Guard's factory LPR. Anti-tamper triggers route through the same SOC operators.",
+    "faq": [
+      {
+        "q": "Can I retrofit LPR onto a Swift Deploy I already have?",
+        "a": "Yes. Factory and field-retrofit LPR perform to the same 95%+ accuracy and sub-3-second alert spec."
+      },
+      {
+        "q": "Do you ship parts to customers who do not run a VDS lease?",
+        "a": "Yes \u2014 we sell parts and accessories to the broader market. Compatibility documentation provided on request."
+      },
+      {
+        "q": "How fast do spares ship?",
+        "a": "Same-week from Pikesville for in-stock items. Critical-path items can ship next-day on request."
+      },
+      {
+        "q": "Are the anti-tamper kits NDAA compliant?",
+        "a": "Yes. All VDS accessories are Section 889 compliant."
+      }
+    ],
+    "finalCTAHeading": "Order accessories or upgrade an existing unit.",
+    "finalCTABody": "Tell us what you need. We will quote and ship same week on in-stock items.",
+    "finalCTAButtons": [
+      {
+        "label": "Request a Quote",
+        "url": "/request-a-quote"
+      },
+      {
+        "label": "Talk to an Engineer",
+        "url": "/contact"
+      }
+    ],
+    "schemaType": "Product",
+    "internalLinks": "/products/sky-guard-msu, /products/swift-deploy-trailer, /products/boundary-guard-pro, /products/solar-camera-poles, /ai-visionstream",
+    "notes": "Catalog grid with category cards. Field-failure framing in opener is the differentiator.",
+    "canonical": "https://visiondetectionsystems.com/products/accessories",
+    "ogTitle": "The parts that make a deployment last past month 18.",
+    "ogDescription": "Anti-tamper kits, battery upgrades, LPR add-ons, signage, K-rail mounts, and the parts that make a deployment last past month 18.",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "product",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .product-summary, .spec-summary",
+    "tags": "mobile surveillance, security trailer",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/products/boundary-guard-pro",
+    "slug": "boundary-guard-pro",
+    "parent": "/products",
+    "pageType": "Product Detail",
+    "status": "Launch",
+    "seoTitle": "Boundary Guard Pro \u2014 500ft Fence Line Coverage | VDS",
+    "metaDescription": "500+ linear feet of perimeter coverage with no blind spots. Solar-autonomous, AI analytics, US SOC monitoring. From $1,800/mo.",
+    "announcementBar": "NDAA compliant. Assembled in Pikesville, MD.",
+    "h1": "Boundary Guard Pro. 500+ feet of fence line, no blind spots.",
+    "heroEyebrow": "Perimeter Mobile Unit",
+    "heroSubhead": "A single PTZ leaves gaps along long fence lines. Boundary Guard Pro is engineered for linear perimeters \u2014 500+ feet of overlapping coverage from one solar-autonomous unit. From $1,800/mo.",
+    "heroCTAPrimary": {
+      "label": "Request a Quote",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "Download Spec Sheet",
+      "url": "/downloads/boundary-guard-pro-spec.pdf"
+    },
+    "heroStats": [
+      "500+ ft coverage",
+      "0 blind spots",
+      "Solar-autonomous",
+      "US SOC integrated"
+    ],
+    "body": "## Most trailers solve a point. This one solves a line.\n\nA PTZ trailer is excellent at covering one location and useless at covering a 600ft fence line. Operators have to pan to a problem after motion is already in progress. By the time the camera is on the intruder, the intruder is at the fence.\n\nBoundary Guard Pro is built around overlapping fixed sensors plus PTZ for verification. The whole fence is in frame the whole time. Motion triggers the right sensor; PTZ snaps to the event for high-detail capture and SOC verification.\n\n## How the coverage works\n\n- **Multi-sensor array** covers 500+ linear feet without gaps\n- **Overlapping fields** mean intrusion at any point along the line triggers verified detection within seconds\n- **PTZ verification** auto-cues to the alerted sensor\n- **AI analytics** filter wildlife, weather, and vehicle pass-bys\n\n## Power and form factor\n\n- Solar-autonomous, multi-day battery reserve\n- IP66 enclosure\n- -20F to 120F operating range\n- Dual-SIM cellular backhaul\n- AI VisionStream integration standard\n- ONVIF/RTSP compliant\n\n## Pricing\n\n- Lease: from **$1,800/mo** including AI VisionStream\n- SOC monitoring optional, priced per unit\n- Multi-unit and multi-month discounts available\n\n## Where it earns its keep\n\nLong construction fence lines. Material yards. Solar farm perimeters. Utility substations. Quarries. Logistics yards. Anywhere \"we need to watch the whole fence, not just the gate\" is the requirement.\n\nA typical 1,000ft perimeter runs two Boundary Guard Pro units for full coverage. A 2,000ft perimeter runs three units staggered. We will scope it.",
+    "faq": [
+      {
+        "q": "Why not just put two Swift Deploy trailers along a fence?",
+        "a": "You can, and many customers do. Two Swift Deploy units cover the line but leave coverage gaps between them. Boundary Guard Pro covers the line continuously from a single unit, with PTZ verification on each event. Lower per-foot cost on long perimeters."
+      },
+      {
+        "q": "Can I run Boundary Guard alongside Sky Guard MSU?",
+        "a": "Yes. Common pattern: Sky Guard on the high-value gate or yard with thermal and radar, Boundary Guard on the long fence runs. Both feed the same AI VisionStream and SOC."
+      },
+      {
+        "q": "How is detection different from a typical PIR or motion sensor fence?",
+        "a": "Camera-based detection with AI classifiers means an alert comes with video evidence and is filtered for wildlife and vegetation. PIR fences alarm on everything; this alarms on what matters."
+      },
+      {
+        "q": "Does the SOC monitor all 500 feet?",
+        "a": "Yes. Every alerted segment triggers an operator review with video. Live audio challenge through PA on the unit. 97% false alarm reduction."
+      }
+    ],
+    "finalCTAHeading": "Spec a perimeter quote.",
+    "finalCTABody": "Send us your fence line length and threat profile. We will scope unit count and pricing in 24 hours.",
+    "finalCTAButtons": [
+      {
+        "label": "Request a Quote",
+        "url": "/request-a-quote"
+      },
+      {
+        "label": "Talk to an Engineer",
+        "url": "/contact"
+      }
+    ],
+    "schemaType": "Product",
+    "internalLinks": "/products/sky-guard-msu, /products/swift-deploy-trailer, /ai-visionstream, /soc, /industries/construction, /industries/utilities, /industries/solar-farms",
+    "notes": "Hero: aerial shot of fence line with Boundary Guard at one end, coverage cone visualized. Diagram showing overlapping sensor zones.",
+    "canonical": "https://visiondetectionsystems.com/products/boundary-guard-pro",
+    "ogTitle": "Boundary Guard Pro. 500+ feet of fence line, no blind spots.",
+    "ogDescription": "500+ linear feet of perimeter coverage with no blind spots. Solar-autonomous, AI analytics, US SOC monitoring. From $1,800/mo.",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "product",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .product-summary, .spec-summary",
+    "tags": "mobile surveillance, security trailer, Boundary Guard, perimeter security",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/products/guard-booths",
+    "slug": "guard-booths",
+    "parent": "/products",
+    "pageType": "Product Detail",
+    "status": "Launch",
+    "seoTitle": "Security Guard Booths \u2014 Steel, HVAC, Bullet-Resistant | VDS",
+    "metaDescription": "Heavy-gauge steel guard booths with HVAC and bullet-resistant options. Pairs with VDS hardware and AI VisionStream for manned or unmanned access points.",
+    "announcementBar": "Assembled in Pikesville, MD.",
+    "h1": "Guard booths built for the climate and the threat profile.",
+    "heroEyebrow": "Site Infrastructure",
+    "heroSubhead": "Heavy-gauge steel construction, HVAC standard, bullet-resistant options available. Use them manned, unmanned with VDS hardware, or both.",
+    "heroCTAPrimary": {
+      "label": "Request a Quote",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "Download Spec Sheet",
+      "url": "/downloads/guard-booth-spec.pdf"
+    },
+    "heroStats": [
+      "Heavy-gauge steel",
+      "HVAC standard",
+      "Bullet-resistant option",
+      "Pairs with VDS hardware"
+    ],
+    "body": "## Built to last past the project.\n\nMost prefab guard booths on the market are wood-framed boxes with a window. They warp in heat, leak in rain, and need replacement inside three years. Ours are heavy-gauge steel frames with insulated panels, HVAC, electrical service ready, and bullet-resistant glazing and walls available where the threat profile requires it.\n\n## Configurations\n\n- **Standard.** Steel frame, insulated walls, HVAC, electrical service, full-height door, large viewing windows\n- **Bullet-resistant.** UL-rated glazing and wall panels \u2014 Level I through Level IV depending on threat profile\n- **Sizes.** Single occupant up to multi-occupant with restroom integration\n- **Custom.** Logo, paint, signage, and interior layouts on request\n\n## Manned, unmanned, or hybrid\n\nPut a guard inside, mount VDS hardware on the roof, or both. The booth becomes the access control point \u2014 vehicle screening, ID verification, package inspection \u2014 while AI VisionStream watches the perimeter and the SOC handles overnight coverage.\n\n## Where they earn their keep\n\nConstruction site entrances. Industrial gates. Logistics yards. Apartment and residential complex entries. Schools and campuses. Critical infrastructure access points.",
+    "faq": [
+      {
+        "q": "How are these delivered?",
+        "a": "Fully assembled on a flatbed for sizes that permit. Larger units arrive in panels and are assembled on site."
+      },
+      {
+        "q": "What is the bullet-resistant rating?",
+        "a": "UL 752 Level I through Level IV available. We spec to the threat profile \u2014 most commercial sites are Level I-II, critical infrastructure typically Level III-IV."
+      },
+      {
+        "q": "Can you integrate VDS cameras and access control?",
+        "a": "Yes. Common configuration: PTZ camera on the roof, LPR at the gate, access control reader at the booth window, all feeding AI VisionStream."
+      },
+      {
+        "q": "What is the lead time?",
+        "a": "3-6 weeks for standard configurations. 6-10 weeks for bullet-resistant and custom builds."
+      }
+    ],
+    "finalCTAHeading": "Spec a guard booth.",
+    "finalCTABody": "Send us site dimensions and threat profile. We will quote within 24 hours.",
+    "finalCTAButtons": [
+      {
+        "label": "Request a Quote",
+        "url": "/request-a-quote"
+      },
+      {
+        "label": "Talk to an Engineer",
+        "url": "/contact"
+      }
+    ],
+    "schemaType": "Product",
+    "internalLinks": "/products/sky-guard-msu, /products/swift-deploy-trailer, /ai-visionstream, /soc, /industries/construction, /industries/critical-infrastructure",
+    "notes": "Hero: guard booth on construction entrance with VDS unit visible behind it.",
+    "canonical": "https://visiondetectionsystems.com/products/guard-booths",
+    "ogTitle": "Guard booths built for the climate and the threat profile.",
+    "ogDescription": "Heavy-gauge steel guard booths with HVAC and bullet-resistant options. Pairs with VDS hardware and AI VisionStream for manned or unmanned access points.",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "product",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .product-summary, .spec-summary",
+    "tags": "mobile surveillance, security trailer",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/products/license-plate-recognition",
+    "slug": "license-plate-recognition",
+    "parent": "/products",
+    "pageType": "Product Detail",
+    "status": "Launch",
+    "seoTitle": "License Plate Recognition Camera Solutions | VDS",
+    "metaDescription": "License plate recognition camera solutions for accurate plate capture, real-time alerts, reporting, and integrations",
+    "announcementBar": "",
+    "h1": "License Plate Recognition Cameras for Accurate Vehicle Identification",
+    "heroEyebrow": "LPR Product Bundle",
+    "heroSubhead": "A purpose-built LPR camera, the VDS platform, and SOC verification \u2014 packaged as one buyable system. 95%+ first-pass read accuracy at vehicle speeds up to 50 mph.",
+    "heroCTAPrimary": {
+      "label": "Get LPR Pricing",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "See It in Action",
+      "url": "/request-a-quote"
+    },
+    "heroStats": [
+      "95%+ read accuracy",
+      "50 mph capture",
+      "NDAA compliant",
+      "Hotlist alerting"
+    ],
+    "body": "License plate recognition cameras help commercial teams identify vehicles automatically, trigger alerts for plates of interest, and generate searchable reporting for investigations, access control, and operational oversight.\n\nUnlike general surveillance cameras, LPR systems are only valuable when they produce two outcomes consistently: readable plate captures and a workflow that turns plate data into action.\n\n\n\n## What License Plate Recognition Cameras Do\n\nLicense Plate Recognition (LPR) is a surveillance capability that captures a vehicle\u2019s license plate, converts the plate image into text, and makes that information usable for search, alerting, and reporting.\n\nOrganizations use LPR cameras to:\n\nLog vehicles entering or exiting a location\n\nAlert on watchlists (authorized vs unauthorized plates)\n\nSupport investigations with time-stamped evidence\n\nReduce manual gatehouse/security checks\n\nImprove site accountability across multiple locations\n\nWhen buyers search \u201cLPR camera,\u201d \u201clicense plate camera,\u201d or \u201cautomatic license plate reader,\u201d they\u2019re typically trying to solve one of these problems:\n\n\u201cWe need to know which vehicles are on-site and when\u201d\n\n\u201cWe need fast alerts for unauthorized or repeat offender vehicles\u201d\n\n\u201cWe need evidence we can retrieve quickly without reviewing hours of footage\u201d\n\n\n\n## How License Plate Recognition Works\n\nA commercial LPR system usually follows a simple workflow:\n\nCapture At A Predictable Point\n\nThe camera captures plates at entrances/exits or chokepoints where vehicle movement is consistent.\n\nOptimize The Plate Image\n\nSettings (exposure, shutter speed) and lighting determine whether the plate is readable.\n\nOcr Reads The Characters\n\nOptical Character Recognition converts the plate image into searchable text.\n\nMatch Against Lists Or Filters\n\nPlates can be checked against allow/deny lists, hotlists, or operational filters.\n\nTrigger Alerts And Generate Reports\n\nAlerts notify the right team; reports document the event with time, location, and associated video.\n\n\n\n## What Data Can LPR Capture (and What It Can\u2019t)\n\nLPR is most valuable when expectations are clear. A properly configured deployment can capture reliable \u201cplate events\u201d that are searchable, reportable, and usable for alerts. But performance depends on placement, lighting, vehicle speed, and the platform package you deploy.\n\n\n\n### What LPR Can Capture\n\nPlate number (core output)\n\nPlate image (evidence snapshot for verification)\n\nTimestamp (date/time of the plate event)\n\nLocation context (site, lane/entry point, or camera name)\n\nCamera/device ID (useful for multi-site reporting and audits)\n\nEvent history (searchable plate reads across time and locations)\n\n\n\n### Alerts, Watchlists, and Operational Workflows\n\nWatchlists (allowlist/denylist or \u201cplates of interest\u201d)\n\nReal-time alerts when a watchlisted plate is detected\n\nSearch and reporting (full or partial plate searches, filters by date/time and location)\n\nEvidence-ready exports (plate event + related images/clips, based on retention settings)\n\n\n\n### Optional Vehicle Attributes\n\nDirection of travel (in/out, lane direction)\n\nVehicle type/classification (e.g., car vs truck)\n\nMake/model/color (available in some deployments depending on platform + analytics package; validate per configuration)\n\n\n\n### What LPR Can\u2019t Reliably Capture\n\nPlates that aren\u2019t visible (mud, damage, obstructions, plate covers, bike racks, trailers)\n\nConsistent reads at extreme angles or long distances\n\nReliable reads in poor lighting without proper setup (headlight glare, backlighting, low-light corners)\n\nHigh-speed reads in uncontrolled lanes without the right angle/settings\n\nDriver identity (LPR identifies vehicles via plates, not people)\n\nPerfect accuracy in every condition (read rate depends on environment and configuration)\n\n\n\n### How to Improve Data Quality: Quick Requirements Checklist\n\nDefine the capture point (entrances/exits or chokepoints with predictable movement)\n\nControl angles and distance (ensure the plate is large enough in-frame to read)\n\nDesign for night performance (plate readability, not just \u201ca visible scene\u201d)\n\nDefine what happens on a match (who gets alerted, escalation steps, reporting)\n\nConfirm retention needs (how long plate events and related footage must be stored)\n\n\n\n## LPR Camera Accuracy Requirements\n\nIf you want LPR to work in real conditions, this is the section that matters most. Most underperforming LPR deployments fail for predictable reasons: bad angles, uncontrolled lighting, or plates too small in frame.\n\n\n\n### Placement and angle\n\nLPR works best at chokepoints:\n\nEntry and exit lanes\n\nGate approaches\n\nYard access points\n\nDrive lanes that naturally slow vehicles\n\nWhy it matters: plates need to be large enough in-frame and captured at a usable angle. Wide \u201coverview\u201d placement is great for context, but it often fails for consistent plate capture.\n\n\n\n### Vehicle speed and distance\n\nSpeed changes the capture requirements:\n\nFaster vehicles need tighter placement and settings designed to reduce motion blur.\n\nLonger capture distances make plates too small and reduce OCR reliability.\n\nIf you can control speed at entry points, LPR success rates typically improve significantly.\n\n\n\n### Lighting and nighttime performance\n\nNight is where LPR projects win or lose. Common failure modes include:\n\nHeadlight glare washing out plate detail\n\nUnderexposure in poorly lit lanes\n\nHigh contrast scenes (bright fixtures + dark shadows)\n\nLPR cameras often require purpose-built lighting and careful placement to preserve detail at night.\n\nCamera settings (shutter and exposure)\n\nEven high-end cameras can fail if settings are wrong:\n\nShutter too slow = motion blur\n\nExposure too bright = reflective plate washout\n\nExposure too dark = unreadable characters\n\nFor a more in-depth guide, explore the perfect setting guide for license plate recognition cameras.\n\n\n\n## Where LPR Cameras Work Best\n\nLPR produces the best ROI when vehicles must pass through predictable paths and when there\u2019s a clear outcome tied to plate capture.\n\n\n\n### Parking And Access Control\n\nUse LPR to:\n\nLog entry/exit events automatically\n\nAlert on unauthorized plates\n\nSupport enforcement and dispute resolution\n\nReduce manual checks and friction at gates\n\n\n\n### Logistics Yards And Warehouses\n\nUse LPR to:\n\nTrack truck movements and timestamps\n\nVerify deliveries and departures\n\nImprove perimeter accountability\n\nSupport investigations after incidents\n\n\n\n### Construction sites and temporary operations\n\nUse LPR to:\n\nLog vehicles entering and exiting job sites\n\nIdentify repeat unauthorized vehicles\n\nSupport incident timelines when theft occurs\n\nImprove oversight across multiple projects\n\nIf you\u2019re deploying security quickly on changing sites, LPR is commonly paired with mobile surveillance trailers.\n\n\n\n### Municipal and Public Safety Applications\n\nUse LPR for:\n\nVehicle-of-interest alerting\n\nCorridor-based monitoring where fixed infrastructure exists\n\nEvidence support for investigations and public safety initiatives\n\n\n\n## Alerts, Watchlists, and Reporting Workflows\n\nLPR becomes operationally valuable when alerts and reporting are defined.\n\nA practical LPR workflow answers:\n\nWhat triggers an alert (watchlist hit, time window, location rule)?\n\nWho is notified (security, property manager, dispatch, law enforcement liaison)?\n\nWhat is the escalation path (verify \u2192 notify \u2192 respond \u2192 report)?\n\nWhat report is generated (plate, timestamp, camera/location, associated video)?\n\nIf you need verified response and standardized reporting across sites, LPR is often paired with remote video surveillance monitoring.\n\n\n\n## LPR Deployment Options: Fixed, Mobile, or Hybri\n\nBuyers typically choose one of three approaches:\n\n\n\n### Fixed LPR installations\n\nBest for:\n\nPermanent facilities\n\nControlled entry/exit lanes\n\nStable lighting and infrastructure\n\n\n\n### Mobile LPR deployments\n\nBest for:\n\nTemporary risk periods\n\nConstruction sites that change weekly\n\nLocations without ready infrastructure\n\nFast deployment needs after incidents\n\nInternal link: mobile surveillance trailers \u2192 /products/mobile-surveillance-trailers/\n\n\n\n### Hybrid approach\n\nCommon in the field:\n\nUse mobile deployments immediately for rapid coverage\n\nTransition to fixed infrastructure once the site stabilizes\n\nKeep workflows and reporting consistent across both\n\n\n\n## What Affects Pricing and Scope\n\nPricing and scope depend on how you plan to use LPR. Key factors include:\n\nNumber of capture points (entrances, exits, chokepoints)\n\nVehicle speed and lane design (affects placement and settings)\n\nLighting requirements (night performance is a major driver)\n\nAlerting and monitoring requirements (hours covered, escalation, reporting)\n\nData retention expectations (how long records must be stored)\n\nMulti-site needs (standardization, permissions, centralized reporting)\n\nProcurement model also matters. Many organizations compare:\n\nPurchase (long-term ownership)\n\nLease (capex vs opex flexibility)\n\nRental (short-term or temporary risk periods)\n\n\n\n## License Plate Recognition Camera FAQs\n\nWhat is the difference between an LPR camera and an LPR system?\n\nAn LPR camera captures plate images. An LPR system includes the camera plus OCR software, searchable history, alerts/watchlists, and reporting workflows.\n\nWhat affects license plate recognition accuracy the most?\n\nPlacement at chokepoints, vehicle speed, lighting (especially at night), and correct shutter/exposure settings are the biggest drivers of accuracy.\n\nCan LPR work at night?\n\nYes, but nighttime performance depends on glare control, lighting design, and settings that preserve plate detail without washout.\n\nWhere should LPR cameras be installed for best results?\n\nEntrances, exits, and lanes where vehicles slow down are the most reliable capture locations.\n\nCan LPR trigger alerts for unauthorized vehicles?\n\nYes. Most commercial systems can run watchlists (authorized vs unauthorized plates) and generate alerts based on site rules.\n\nCan LPR be deployed on mobile surveillance trailers?\n\nYes. LPR is commonly paired with rapid deployment platforms for construction sites, temporary risk periods, and locations without ready infrastructure.\n\nMAKE THESE TESTIMONIALS SPECIFIC TO THE MOBILE SURVEILLANCE PRODUCT\n\n\n\n## Protect Every Vehicle Entry\u2014With Real-Time LPR Alerts.\n\nGet an LPR solution that captures plates reliably at entrances and chokepoints, flags vehicles of interest, and creates searchable reports your team can act on\u2014day or night.",
+    "faq": [
+      {
+        "q": "What's the difference between this page and /platform/lpr?",
+        "a": "This page is the buyable product \u2014 camera + license + SOC bundle. /platform/lpr describes the software capability for customers who want to add LPR onto an existing VDS deployment using already-installed cameras."
+      },
+      {
+        "q": "Can I use my own cameras?",
+        "a": "Yes, but accuracy will be camera-dependent. We support LPR on any ONVIF Profile-S camera through the platform. If you want the 95%+ accuracy numbers, use the purpose-built LPR camera."
+      },
+      {
+        "q": "How many lanes does a typical site need?",
+        "a": "One per direction of travel you want to capture. A two-way driveway is two lanes. A four-bay loading dock is typically two to four lanes depending on geometry."
+      },
+      {
+        "q": "Does the system store driver images?",
+        "a": "The LPR camera captures the plate, not the driver. If you want driver capture, pair LPR with a standard overview camera; the platform correlates the two streams."
+      },
+      {
+        "q": "Is there a public records / FOIA concern?",
+        "a": "For private commercial customers, plate data is private business data. For public-sector customers, plate data may be subject to state public records laws \u2014 we configure retention and access accordingly, and provide documentation for compliance review."
+      }
+    ],
+    "finalCTAHeading": "Price out your LPR deployment",
+    "finalCTABody": "Tell us the lanes, the speeds, and the use case. We'll spec the cameras and price the lane count in one business day.",
+    "finalCTAButtons": [
+      {
+        "label": "Get a Quote",
+        "url": "Book a 15-Min Demo"
+      }
+    ],
+    "schemaType": "Product",
+    "internalLinks": "/platform/lpr, /soc, /pricing, /pricing/dealers, /products",
+    "notes": "PILLAR CONTENT MERGED \u2014 source: VDS _ Pillar Page_ License Plate Recognition Camera Solutions.docx (Joe-provided)\n\nDistinct from /platform/lpr \u2014 this is product bundle, that is software feature. Cross-link both directions.",
+    "canonical": "https://visiondetectionsystems.com/products/license-plate-recognition",
+    "ogTitle": "License Plate Recognition Cameras for Accurate Vehicle Identification",
+    "ogDescription": "License plate recognition camera solutions for accurate plate capture, real-time alerts, reporting, and integrations",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "product",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .product-summary, .spec-summary",
+    "tags": "mobile surveillance, security trailer, LPR, license plate recognition",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/products/light-trailers",
+    "slug": "light-trailers",
+    "parent": "/products",
+    "pageType": "Product Detail",
+    "status": "Launch",
+    "seoTitle": "Light Trailers \u2014 LED, Optional Camera Integration | VDS",
+    "metaDescription": "Solar and diesel LED light trailers for night work. Optional VDS camera integration ties lighting to surveillance on one chassis.",
+    "announcementBar": "Assembled in Pikesville, MD.",
+    "h1": "Light trailers that also see what they are lighting.",
+    "heroEyebrow": "Site Infrastructure",
+    "heroSubhead": "LED light towers for night work and emergency response. Add VDS camera integration and the same chassis lights the area and feeds AI VisionStream.",
+    "heroCTAPrimary": {
+      "label": "Request a Quote",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "Talk to an Engineer",
+      "url": "/contact"
+    },
+    "heroStats": [
+      "LED standard",
+      "Solar or diesel",
+      "Optional cameras",
+      "AI VisionStream integration"
+    ],
+    "body": "## Lumens first. Surveillance optional but useful.\n\nLight trailers are an obvious tool for night work. We make ours optionally smart \u2014 add a camera package and the trailer that lights the area also watches it, feeds AI VisionStream, and ties into your SOC subscription.\n\n## Configurations\n\n- **Solar LED.** Quiet, no fuel, multi-day battery reserve\n- **Diesel LED.** Runtime-priority configurations for extended deployments off solar\n- **Hybrid.** Solar primary, diesel backup for high-runtime sites\n- **Camera-integrated.** Add a PTZ or fixed camera and you have a one-chassis lighting and surveillance unit\n\n## Where they earn their keep\n\nConstruction night shifts. Roadwork. Event lighting. Disaster response. Temporary parking lot lighting. Any site that needs lumens after dark plus a record of who was there.",
+    "faq": [
+      {
+        "q": "How long does a solar LED trailer run between charges?",
+        "a": "Multi-day battery reserve at typical dusk-to-dawn run cycles. Specifics depend on lamp count and local solar conditions."
+      },
+      {
+        "q": "Can I add cameras after delivery?",
+        "a": "Yes. We retrofit camera packages onto existing light trailers. Integration into AI VisionStream is included."
+      },
+      {
+        "q": "Are they DOT compliant for towing?",
+        "a": "Yes \u2014 full DOT lighting, brakes, and registration for highway towing."
+      },
+      {
+        "q": "What is the lead time?",
+        "a": "2-4 weeks for standard configurations."
+      }
+    ],
+    "finalCTAHeading": "Spec a light trailer.",
+    "finalCTABody": "Send us your site size and run hours. We will configure solar, diesel, or hybrid.",
+    "finalCTAButtons": [
+      {
+        "label": "Request a Quote",
+        "url": "/request-a-quote"
+      },
+      {
+        "label": "Talk to an Engineer",
+        "url": "/contact"
+      }
+    ],
+    "schemaType": "Product",
+    "internalLinks": "/products/swift-deploy-trailer, /products/medical-cooling-stations, /ai-visionstream",
+    "notes": "Hero: light trailer with mast extended on a night construction site.",
+    "canonical": "https://visiondetectionsystems.com/products/light-trailers",
+    "ogTitle": "Light trailers that also see what they are lighting.",
+    "ogDescription": "Solar and diesel LED light trailers for night work. Optional VDS camera integration ties lighting to surveillance on one chassis.",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "product",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .product-summary, .spec-summary",
+    "tags": "mobile surveillance, security trailer",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/products/medical-cooling-stations",
+    "slug": "medical-cooling-stations",
+    "parent": "/products",
+    "pageType": "Product Detail",
+    "status": "Launch",
+    "seoTitle": "Medical & Cooling Stations \u2014 OSHA Compliant Welfare | VDS",
+    "metaDescription": "OSHA-compliant cooling and medical stations for outdoor crews. Power, HVAC, seating, and first-aid integration. Pairs with VDS site infrastructure.",
+    "announcementBar": "OSHA-compliant. Assembled in Pikesville, MD.",
+    "h1": "Welfare units that keep crews compliant and on the clock.",
+    "heroEyebrow": "Site Infrastructure",
+    "heroSubhead": "OSHA-compliant cooling and medical stations for crews working in heat, cold, or extended outdoor exposure. Power, HVAC, seating, and first-aid integration in one delivered unit.",
+    "heroCTAPrimary": {
+      "label": "Request a Quote",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "Talk to an Engineer",
+      "url": "/contact"
+    },
+    "heroStats": [
+      "OSHA-compliant",
+      "HVAC standard",
+      "Solar option",
+      "Delivered ready"
+    ],
+    "body": "## Heat illness is a citation and a lost day.\n\nOSHA's heat injury and illness rules are getting stricter every cycle. Sites without compliant shade, cooling, and rest areas get cited and lose crew time. A delivered welfare unit solves both problems before the inspector arrives.\n\n## Configurations\n\n- **Cooling stations.** HVAC-equipped enclosed shade, seating, water dispensing, electrical service\n- **Medical stations.** First-aid integration, cot space, sink, HVAC, secure storage for medications and AEDs\n- **Combo units.** Cooling plus medical in a single chassis for sites that need both\n- **Solar option.** Solar-powered HVAC for sites without grid power\n\n## Where they earn their keep\n\nConstruction in heat-stressed regions. Outdoor industrial sites. Event venues. Disaster response staging. Agricultural operations. Any site running an OSHA-watched workforce in temperature extremes.",
+    "faq": [
+      {
+        "q": "Are these mobile?",
+        "a": "Yes. Trailer-mounted or skid-mounted configurations available. Most customers move them with the project phase."
+      },
+      {
+        "q": "Do they meet OSHA heat illness standards?",
+        "a": "Yes. Sized and equipped to the OSHA heat injury and illness prevention framework. We will document compliance for your safety program."
+      },
+      {
+        "q": "Can you integrate site cameras?",
+        "a": "Yes \u2014 most welfare units pair well with a Swift Deploy or Sky Guard nearby for site coverage. Same AI VisionStream account."
+      },
+      {
+        "q": "What is the lead time?",
+        "a": "3-6 weeks for standard configurations."
+      }
+    ],
+    "finalCTAHeading": "Spec a welfare unit.",
+    "finalCTABody": "Tell us crew size and site conditions. We will configure and quote.",
+    "finalCTAButtons": [
+      {
+        "label": "Request a Quote",
+        "url": "/request-a-quote"
+      },
+      {
+        "label": "Talk to an Engineer",
+        "url": "/contact"
+      }
+    ],
+    "schemaType": "Product",
+    "internalLinks": "/products/guard-booths, /products/light-trailers, /industries/construction",
+    "notes": "Image of cooling station on hot weather construction site. Reference OSHA standards explicitly.",
+    "canonical": "https://visiondetectionsystems.com/products/medical-cooling-stations",
+    "ogTitle": "Welfare units that keep crews compliant and on the clock.",
+    "ogDescription": "OSHA-compliant cooling and medical stations for outdoor crews. Power, HVAC, seating, and first-aid integration. Pairs with VDS site infrastructure.",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "product",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .product-summary, .spec-summary",
+    "tags": "mobile surveillance, security trailer",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/products/mobile-surveillance-trailers",
+    "slug": "mobile-surveillance-trailers",
+    "parent": "/products",
+    "pageType": "Product Category",
+    "status": "Launch",
+    "seoTitle": "Remote Surveillance Trailer Solutions | VDS",
+    "metaDescription": "Remote surveillance trailer solutions for construction, parking lots, retail, and more. Rapid deployment, 24/7 monitoring options, and fast quotes.",
+    "announcementBar": "",
+    "h1": "Remote Surveillance Trailer Solutions for Rapid Site Security",
+    "heroEyebrow": "Mobile Surveillance Units (MSUs)",
+    "heroSubhead": "Three trailer platforms engineered for off-grid deployment. Solar-autonomous power, multi-camera arrays, cellular uplink, and direct integration with our 24/7 US Security Operations Center.",
+    "heroCTAPrimary": {
+      "label": "Compare Trailers",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "Request a Quote",
+      "url": "/request-a-quote"
+    },
+    "heroStats": [
+      "500+ deployments",
+      "30+ states",
+      "NDAA Section 889",
+      "24/7 US SOC"
+    ],
+    "body": "Remote surveillance trailer solutions give teams fast, flexible site security coverage without waiting on permanent installation. If you need to deter theft, document incidents, and improve response on a temporary or changing site, a mobile surveillance trailer provides rapid deployment coverage paired with platform visibility and optional remote monitoring.\n\n\n\n## What is a Remote Surveillance Trailer?\n\nA remote surveillance trailer is a mobile, deployable security system designed to provide camera coverage where permanent infrastructure isn\u2019t practical\u2014or where speed matters most. It typically supports:\n\nFast site coverage without permanent installation\n\nOperation across varying site conditions\n\nCentralized access through a cloud platform\n\nOptional monitoring and alert workflows depending on the deployment model\n\n\n\n## Remote Surveillance Trailer vs Mobile Security Trailer\n\nBuyers often use \u201cmobile security trailer\u201d and \u201cremote surveillance trailer\u201d interchangeably. In practice:\n\nRemote surveillance trailer emphasizes access, visibility, and remote operations.\n\nMobile security trailer emphasizes deterrence and rapid deployment for site protection. If your risk is after-hours access, repeated theft, or temporary high exposure, a trailer solution is often the fastest path to meaningful coverage.\n\n\n\n## Key Features of Our Mobile Surveillance Trailers\n\n\n\n### Rapid Deployment for Temporary or Evolving Sites\n\nSecure construction phases, parking lots, events, and incident response without waiting on permanent installs.\n\n\n\n### Solar-powered with Battery Backup for Off-grid Coverage\n\nMaintain continuous monitoring in remote locations and power-limited sites.\n\n\n\n### 4G/5G Connectivity for Instant, Wireless Operation\n\nGet video access and alerts without relying on site Wi-Fi\u2014ideal for remote jobsites.\n\n\n\n### Built-in Compatibility with VisionStream and AI Analytics\n\nCentralize visibility, alerts, and reporting\u2014then layer analytics to reduce noise and speed response.\n\n\n\n### Modular Designs for Flexible Configurations\n\nChoose camera packages and accessories based on your risk\u2014scale from one site to multi-location coverage.\n\n\n\n## Where Mobile Surveillance Trailers Work Best\n\n\n\n### Construction Sites\n\nConstruction sites change weekly, and risk often spikes during early phases and after-hours. A trailer provides fast coverage for equipment, perimeters, and access points without slowing progress.\n\nBest-fit outcomes:\n\nDeter theft and unauthorized entry\n\nDocument incidents with usable evidence\n\nSupport site oversight across multiple projects\n\n\n\n### Parking Lots and Shopping Centers\n\nParking lots are large, exposed environments where visibility and response matter. Trailers help cover drive lanes, entrances, and high-risk zones, especially during peak periods or elevated risk.\n\nBest-fit outcomes:\n\nReduce vandalism and vehicle-related incidents\n\nImprove visibility in low-coverage areas\n\nSupport retail and property operations with faster incident review\n\nMove to the new page URL for parking lots\n\n\n\n### Logistics Yards and Warehouses\n\nYards often have perimeter risk, vehicle movement, and high-value inventory. A trailer provides coverage where fixed coverage is incomplete or where additional deterrence is needed.\n\nBest-fit outcomes:\n\nSupport perimeter coverage\n\nProvide oversight for high-risk zones\n\nImprove reporting and incident review workflows\n\n*Fix typo in Warehousing\n\n\n\n### Public Safety and Municipal Use\n\nTemporary deployments are common during events, high-traffic periods, and public safety initiatives. A mobile solution can provide situational awareness without permanent buildout.\n\nBest-fit outcomes:\n\nRapid coverage where temporary visibility is needed\n\nConsistent recording and retrieval for incidents\n\nScalable deployment planning\n\n*Fix typo in safety\n\n\n\n## How Deployment Works\n\nA trailer deployment should be planned around outcomes, not just \u201cplacing a camera.\u201d\n\nThe Vision Detection Process:\n\nCoverage plan: Define what must be seen (entrances, perimeters, high-value zones).\n\nSite requirements: Confirm constraints (placement, power availability, connectivity needs).\n\nDeployment and configuration: Align camera placement and platform access to your workflow.\n\nOperations: Establish how incidents are reviewed, escalated, and documented.\n\n\n\n## Remote Surveillance Monitoring\n\nSurveillance becomes significantly more valuable when there\u2019s a defined response workflow. Depending on your configuration, monitoring can include:\n\nAlert triggers based on activity patterns and site rules\n\nVerification and escalation paths\n\nReporting that supports accountability and follow-up\n\nWhen monitoring is a priority, pair the trailer deployment with the Remote Video Monitoring platform.\n\nInternal link: /products/remote-video-monitoring/ anchor \u201cremote video monitoring\u201d\n\n\n\n## Why Choose Vision Detection Systems Mobile Surveillance Hardware\n\nVision Detection Systems hardware is built for environments where fixed systems fall short\u2014rapidly changing sites, remote locations, and high-risk areas that require reliable visibility fast. Our mobile surveillance trailers are engineered for deployment readiness, consistent uptime, and seamless integration with platform monitoring and analytics.\n\n\n\n### Proven Reliability in Demanding Environments\n\nBuilt for outdoor sites and challenging conditions where uptime matters.\n\n\n\n### Rapid Deployment with Minimal Setup\n\nFast placement and activation so you can secure the site sooner.\n\n\n\n### Fully Autonomous Power and Connectivity\n\nSolar and battery backup with cellular connectivity for off-grid operation.\n\n\n\n### Backed by Expert Service and Monitoring\n\nSupport and monitoring options designed for operational readiness\u2014not just equipment delivery.\n\n\n\n## What Does a Remote Surveillance Trailer Cost? Buy vs Lease vs Rental\n\nPricing and scope depend on how you plan to use the trailer\u2014and whether you want to purchase, lease, or rent as a deployment strategy. Key factors include:\n\nDeployment duration (short-term, seasonal, long-term): Shorter deployments often favor rental; longer-term coverage may favor lease or purchase.\n\nCoverage complexity (site size, entrances, perimeters, lighting conditions): Larger sites and more critical zones typically require more robust configurations and planning.\n\nCamera package and configuration (wide coverage vs identification detail): The right package depends on whether your priority is deterrence, incident documentation, or response.\n\nMonitoring requirements (hours covered, escalation process, reporting): 24/7 monitoring, after-hours response workflows, and reporting requirements materially affect scope.\n\nMulti-site needs (standardization, user access, reporting structure): Multi-location programs benefit from consistent configurations, centralized access, and repeatable deployment processes.\n\nIf you share your site type, timeline, and preferred procurement path, we\u2019ll recommend the right configuration and deployment approach.\n\nInternal link: /others/purchase-options anchor \u201cpurchase, lease, or rent\u201d\n\n\n\n## Remote Surveillance Trailer FAQs\n\n\n\n### 1) What is a remote surveillance trailer?\n\nA remote surveillance trailer is a mobile, deployable security system that provides camera coverage without permanent installation. It\u2019s designed for rapid deployment on sites like construction projects, parking lots, and temporary risk areas, with centralized access through a cloud platform and optional remote video monitoring.\n\n\n\n### 2) What\u2019s the difference between a remote surveillance trailer and a mobile security trailer?\n\nMost buyers use the terms interchangeably. \u201cRemote surveillance trailer\u201d typically emphasizes remote access, visibility, and platform monitoring, while \u201cmobile security trailer\u201d emphasizes deterrence and rapid deployment. In practice, both refer to the same category of deployable site security units\u2014what matters is the configuration and monitoring workflow.\n\n\n\n### 3) How quickly can a mobile surveillance trailer be deployed?\n\nDeployment time depends on site conditions and coverage goals, but the process is designed for speed: confirm placement requirements, define the coverage plan (entrances/perimeters/high-value zones), deploy the unit, and configure access/alerts. If you have an urgent need (theft, vandalism, project delay), rapid deployment is often the primary reason to choose a trailer.\n\n\n\n### 4) Do mobile surveillance trailers work in remote or off-grid locations?\n\nYes\u2014remote and off-grid sites are a common use case. Many deployments use solar-powered and battery-backed configurations combined with cellular connectivity (4G/5G) to support operation where permanent power and wired internet aren\u2019t available.\n\n\n\n### 5) Can I monitor the trailer remotely, and what happens when activity is detected?\n\nYes. Remote monitoring can include live access to video feeds, alert triggers based on site rules, and escalation workflows. Depending on your setup, the workflow may include verification, notifications, and reporting for accountability and follow-up. For monitoring-specific details, link to: /products/remote-video-monitoring/.\n\n\n\n### 6) How much does a remote surveillance trailer cost, and do you offer lease vs rental vs purchase?\n\nCost depends on deployment duration, site complexity (perimeter size, entrances, lighting), camera package/configuration, and monitoring requirements. Many buyers choose between purchase, lease, or rental based on timeline and budget structure.\n\nInternal link: /others/purchase-options anchor \u201cpurchase, lease, or rent\u201d\n\n\n\n### 7) Are mobile surveillance trailers a good fit for construction sites and parking lots?\n\nYes\u2014construction sites and parking lots are two of the most common applications because they often need fast coverage, flexible placement, and reliable after-hours visibility. A trailer can cover access points, drive lanes, perimeters, and high-risk zones without slowing operations or waiting on permanent installs.\n\n\n\n### 8) Can the trailer configuration be customized (cameras, coverage, upgrades)?\n\nConfigurations are often tailored to the environment and objective\u2014wide-area deterrence, evidence capture, access-point coverage, or operational oversight. The right setup depends on what must be seen (faces, vehicles, entrances) and how you intend to respond when incidents occur.\n\nMAKE THESE TESTIMONIALS SPECIFIC TO THE MOBILE SURVEILLANCE PRODUCT\n\n\n\n## Secure Your Site Fast With a Remote Surveillance Trailer\n\nRapid deployment coverage with 4G/5G connectivity, solar/battery options, and remote video monitoring built for real jobsite conditions.",
+    "faq": [
+      {
+        "q": "How fast can you deploy a trailer?",
+        "a": "Standard lead time is 5-10 business days from signed order to on-site, including SOC onboarding. Expedited deployment is available for active incident response and can compress that to 48-72 hours depending on location."
+      },
+      {
+        "q": "What happens during extended cloudy weather?",
+        "a": "All three trailers are sized to run 21-30+ days with zero direct sun. Battery state-of-charge is monitored continuously by the SOC; if a unit trends toward critical, we dispatch service before it goes dark."
+      },
+      {
+        "q": "Do I need to provide internet?",
+        "a": "No. Every trailer carries dual-carrier cellular as standard. Starlink is available as a $150/month add-on for remote sites with no reliable LTE."
+      },
+      {
+        "q": "Are these trailers NDAA compliant?",
+        "a": "Yes. Every component on the BOM is NDAA Section 889 compliant. We provide signed compliance documentation with every unit for federal, state, and DoD-adjacent projects."
+      },
+      {
+        "q": "Can I move a trailer between sites?",
+        "a": "Yes. Lease customers can relocate units freely. We ask for 48 hours' notice so the SOC can update geofencing and site profiles before the unit goes live at the new location."
+      },
+      {
+        "q": "Can I buy outright instead of leasing?",
+        "a": "Sky Guard is available for purchase at $38,000. Swift Deploy and Boundary Guard Pro purchase pricing is quote-based \u2014 contact us for capex configurations."
+      }
+    ],
+    "finalCTAHeading": "Get a trailer on site",
+    "finalCTABody": "Tell us the site, the threats, and the timeline. We'll come back with a configuration and a quote in one business day.",
+    "finalCTAButtons": [
+      {
+        "label": "Request a Quote",
+        "url": "Book a 15-Min Call"
+      }
+    ],
+    "schemaType": "CollectionPage + Product (x3)",
+    "internalLinks": "/products/sky-guard-msu, /products/swift-deploy-trailer, /products/boundary-guard-pro, /platform, /soc, /case-studies, /pricing",
+    "notes": "PILLAR CONTENT MERGED \u2014 source: VDS _ Pillar Page_ Mobile Surveillance Trailers.docx (Joe-provided)\n\nAnchor page for \"mobile surveillance trailer\" keyword. Internal link target for all blog content on MSUs.",
+    "canonical": "https://visiondetectionsystems.com/products/mobile-surveillance-trailers",
+    "ogTitle": "Remote Surveillance Trailer Solutions for Rapid Site Security",
+    "ogDescription": "Remote surveillance trailer solutions for construction, parking lots, retail, and more. Rapid deployment, 24/7 monitoring options, and fast quotes.",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "product",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .product-summary, .spec-summary",
+    "tags": "mobile surveillance, security trailer, mobile surveillance trailer, MSU",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/products/sky-guard-mobile-surveillance-trailer",
+    "slug": "sky-guard-mobile-surveillance-trailer",
+    "parent": "/products",
+    "pageType": "Product Detail",
+    "status": "Launch",
+    "seoTitle": "Sky Guard MSU \u2014 Thermal Radar Security Trailer | VDS",
+    "metaDescription": "Thermal LWIR + 500ft ground radar + 4K + LPR + active deterrence. 600W solar, 48+ hr battery. From $2,200/mo or $38,000 purchase.",
+    "announcementBar": "Flagship unit. NDAA compliant. Assembled in Pikesville, MD.",
+    "h1": "Sky Guard MSU. Thermal, radar, and 4K on one solar mast.",
+    "heroEyebrow": "Flagship Mobile Surveillance Unit",
+    "heroSubhead": "Thermal LWIR, 500ft ground radar, 4K multi-sensor, LPR, and active deterrence on a 22ft mast. 600W solar, 48+ hour battery. Built for sites where \"we missed it on camera\" is not an acceptable answer.",
+    "heroCTAPrimary": {
+      "label": "Request a Quote",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "Download Spec Sheet",
+      "url": "/downloads/sky-guard-msu-spec.pdf"
+    },
+    "heroStats": [
+      "22ft mast",
+      "500ft radar",
+      "600W solar",
+      "48+ hr battery"
+    ],
+    "body": "## Why thermal and radar belong on the same trailer.\n\nCameras lose people in shadow, weather, and dense vegetation. Thermal LWIR sees heat through all three. Radar sees motion through all three plus fog and rain. Run them together and you have detection that does not care what time it is or what the weather is doing. Run only one and you have a blind spot.\n\nSky Guard MSU is the only mobile unit in our catalog that ships with both, plus a 4K multi-sensor camera, LPR, and active deterrence \u2014 strobe and PA \u2014 on a single 22ft mast.\n\n## Detection stack\n\n**Thermal LWIR.** Detects body heat at long range in zero visible light. Trained AI classifiers on AI VisionStream filter wildlife and weather from human intrusion.\n\n**Ground radar \u2014 500ft.** Detects motion through fog, smoke, and heavy rain. Pairs with thermal for two-modality verification before an alert ever reaches an operator.\n\n**4K multi-sensor camera.** Wide situational coverage plus tight PTZ-class detail on the same mast. Daylight evidence quality, full-color night vision via dual-spectrum optics.\n\n**LPR.** 95%+ accuracy, sub-3-second alerts, immutable plate log feeding the same audit trail as your video.\n\n**Active deterrence.** Multi-stage strobe and PA. SOC operators issue live voice challenges before law enforcement is dispatched. 97% of intrusions resolve at the audio challenge step \u2014 measured across our active fleet.\n\n## Power and environmental\n\n- **Solar.** 600W panel array, sized for full operation at 38N latitude with three consecutive overcast days\n- **Battery.** 48+ hour reserve at full draw including thermal, radar, PTZ, illumination, and cellular\n- **Enclosure.** IP66 \u2014 dust-tight, hose-down rated\n- **Operating range.** -20F to 120F. Tested in Minnesota winters and Arizona summers\n- **Mast.** 22ft, manual or hydraulic lift options\n- **Backhaul.** Dual-SIM cellular standard. Starlink, point-to-point microwave, and hardline options on request\n\n## Pricing\n\n- Lease: from **$2,200/mo** including AI VisionStream\n- Purchase: from **$38,000** plus monthly VMS and optional SOC\n- SOC monitoring: priced per unit or per portfolio\n- Most customers lease for projects under 24 months and purchase for permanent sites\n\n## What ships with every unit\n\n- AI VisionStream account, US-only AWS region\n- 30/60/90-day cloud storage tier of your choice\n- RBAC, MFA, immutable 12-month audit log\n- ONVIF/RTSP integration with any existing fleet\n- Delivery, siting, and commissioning\n- Firmware updates over the air for the lease duration\n\n## Where it earns its keep\n\nConstruction sites with high copper, fuel, or equipment exposure. Utility substations and yards. Critical infrastructure perimeters. Solar and storage farms. Cargo yards. Anywhere a thermal-only or PTZ-only unit would leave a detection gap and a 2 a.m. phone call.",
+    "faq": [
+      {
+        "q": "How does Sky Guard MSU differ from Swift Deploy Trailer?",
+        "a": "Sky Guard adds thermal LWIR, ground radar, and active deterrence to the Swift Deploy feature set, on a taller 22ft mast with 600W of solar and a 48+ hour battery. Pick Sky Guard when you need detection that does not depend on visible light or clear weather."
+      },
+      {
+        "q": "How long does setup take on site?",
+        "a": "Under 30 minutes for a single technician. Delivery, siting, and commissioning are included in lease pricing."
+      },
+      {
+        "q": "Can the active deterrence be triggered automatically?",
+        "a": "Yes \u2014 auto-trigger rules are configurable in AI VisionStream. Most customers prefer SOC-verified human triggering to avoid false escalations. 97% of intrusions resolve at the audio challenge."
+      },
+      {
+        "q": "Is the radar safe in occupied areas?",
+        "a": "Yes. The ground radar runs at sub-watt RF emissions in unlicensed bands. FCC certified. Safe in occupied construction and industrial environments."
+      },
+      {
+        "q": "What is the lead time?",
+        "a": "Typical delivery is 5-10 business days from PO for in-stock configurations. Custom configurations 3-4 weeks."
+      },
+      {
+        "q": "Is purchase financing available?",
+        "a": "Yes \u2014 36 and 60 month options through approved partners. Many customers run a lease-to-own structure."
+      }
+    ],
+    "finalCTAHeading": "Spec a Sky Guard MSU for your site.",
+    "finalCTABody": "Send us the perimeter and timeline. We come back with a quote and a deployment plan in 24 hours.",
+    "finalCTAButtons": [
+      {
+        "label": "Request a Quote",
+        "url": "/request-a-quote"
+      },
+      {
+        "label": "Talk to an Engineer",
+        "url": "/contact"
+      }
+    ],
+    "schemaType": "Product",
+    "internalLinks": "/products/swift-deploy-trailer, /products/boundary-guard-pro, /ai-visionstream, /soc, /case-studies/mid-atlantic-gc, /industries/construction, /industries/utilities",
+    "notes": "Hero image: Sky Guard on site at dusk with mast raised. Cutaway spec diagram below detection stack section. Pricing block in orange. Sticky \"Request Quote\" rail on desktop.",
+    "canonical": "https://visiondetectionsystems.com/products/sky-guard-mobile-surveillance-trailer",
+    "ogTitle": "Sky Guard MSU. Thermal, radar, and 4K on one solar mast.",
+    "ogDescription": "Thermal LWIR + 500ft ground radar + 4K + LPR + active deterrence. 600W solar, 48+ hr battery. From $2,200/mo or $38,000 purchase.",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "product",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .product-summary, .spec-summary",
+    "tags": "mobile surveillance, security trailer, mobile surveillance trailer, MSU, Sky Guard MSU, thermal surveillance, radar",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/products/solar-camera-poles",
+    "slug": "solar-camera-poles",
+    "parent": "/products",
+    "pageType": "Product Detail",
+    "status": "Launch",
+    "seoTitle": "Solar Camera Poles \u2014 Fixed Autonomous Surveillance | VDS",
+    "metaDescription": "Fixed solar-autonomous camera poles for long-term sites. ONVIF/RTSP, AI VisionStream cloud VMS, US SOC monitoring. NDAA compliant.",
+    "announcementBar": "NDAA compliant. Assembled in Pikesville, MD.",
+    "h1": "Solar Camera Poles. Permanent coverage without trenching.",
+    "heroEyebrow": "Fixed Solar Surveillance",
+    "heroSubhead": "When a site is staying put for 24+ months, a trailer is overkill and trenching fiber costs more than the camera. Fixed solar poles deliver the same AI VisionStream and SOC pipeline on a permanent footprint.",
+    "heroCTAPrimary": {
+      "label": "Request a Quote",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "Talk to an Engineer",
+      "url": "/contact"
+    },
+    "heroStats": [
+      "Solar-autonomous",
+      "No trenching",
+      "ONVIF/RTSP",
+      "US SOC integrated"
+    ],
+    "body": "## When a trailer is the wrong tool.\n\nTrailers are designed to move. If a site is staying put for two years or more, the wheels and registration are dead weight. Fixed solar poles trade redeployability for a lower lifetime cost, a smaller footprint, and a permanent install that survives a hard winter without service calls.\n\n## What's on the pole\n\n- 4K or HD camera options\n- Optional PTZ\n- AI analytics on edge plus cloud\n- Optional LPR\n- Solar array sized to site latitude and shading conditions\n- Battery reserve sized for local weather conditions\n- Cellular backhaul standard; hardline available\n\n## Where they earn their keep\n\nPermanent yards. Long-term construction parks. Solar farms. Substations. Storage facilities. Municipal lots. Schools and campuses. Any site where the trailer registration would expire before the project ends.\n\n## How they connect to the platform\n\nSame AI VisionStream account as your trailers. Same SOC. Same audit log. Mix fixed and mobile across a portfolio without managing two vendors.\n\n## Pricing\n\nConfigured per site. Most fixed pole deployments price lower per year than equivalent trailer leases when the engagement runs 24+ months.",
+    "faq": [
+      {
+        "q": "Do you handle the install?",
+        "a": "Yes. Pole, foundation, solar, camera, and commissioning. We coordinate with your GC or municipality on permits."
+      },
+      {
+        "q": "Can I move a fixed pole later?",
+        "a": "Yes, but the cost-benefit usually favors a trailer for sites that move. We will steer you to the right product for your timeline."
+      },
+      {
+        "q": "What about lightning?",
+        "a": "Surge protection and proper grounding are part of every install. Standard for outdoor solar electrical work."
+      },
+      {
+        "q": "Will the solar run cameras through a Northeast winter?",
+        "a": "Yes. Array sizing accounts for local irradiance and shading. Battery reserves are spec'd for multi-day overcast conditions in your specific geography."
+      }
+    ],
+    "finalCTAHeading": "Scope a permanent install.",
+    "finalCTABody": "Send us the site, the timeline, and the threat profile. We will price the right configuration.",
+    "finalCTAButtons": [
+      {
+        "label": "Request a Quote",
+        "url": "/request-a-quote"
+      },
+      {
+        "label": "Talk to an Engineer",
+        "url": "/contact"
+      }
+    ],
+    "schemaType": "Product",
+    "internalLinks": "/products/sky-guard-msu, /products/swift-deploy-trailer, /ai-visionstream, /soc, /industries/utilities, /industries/solar-farms",
+    "notes": "Hero: pole on solar farm. Section for site survey CTA.",
+    "canonical": "https://visiondetectionsystems.com/products/solar-camera-poles",
+    "ogTitle": "Solar Camera Poles. Permanent coverage without trenching.",
+    "ogDescription": "Fixed solar-autonomous camera poles for long-term sites. ONVIF/RTSP, AI VisionStream cloud VMS, US SOC monitoring. NDAA compliant.",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "product",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .product-summary, .spec-summary",
+    "tags": "mobile surveillance, security trailer",
+    "author": "Vision Detection Systems"
+  },
+  {
+    "url": "/products/swift-deploy-surveillance-trailer",
+    "slug": "swift-deploy-surveillance-trailer",
+    "parent": "/products",
+    "pageType": "Product Detail",
+    "status": "Launch",
+    "seoTitle": "Swift Deploy Trailer \u2014 20-Minute Setup, Solar | VDS",
+    "metaDescription": "HD PTZ 30x zoom, dual-spectrum night vision, 300ft detection, AI analytics, strobe + PA. Deploy in under 20 min, one person, no tools. From $1,500/mo.",
+    "announcementBar": "Our most-deployed unit. NDAA compliant. Assembled in Pikesville, MD.",
+    "h1": "Swift Deploy. On site, on solar, on camera in under 20 minutes.",
+    "heroEyebrow": "Most-Deployed Mobile Unit",
+    "heroSubhead": "HD PTZ with 30x zoom, dual-spectrum full-color night vision, AI analytics, 300ft detection, 400W solar, 36+ hour battery. One person, no tools, under 20 minutes from arrival to first frame.",
+    "heroCTAPrimary": {
+      "label": "Request a Quote",
+      "url": "/request-a-quote"
+    },
+    "heroCTASecondary": {
+      "label": "Download Spec Sheet",
+      "url": "/downloads/swift-deploy-spec.pdf"
+    },
+    "heroStats": [
+      "20-min deploy",
+      "30x PTZ zoom",
+      "400W solar",
+      "36+ hr battery"
+    ],
+    "body": "## Built for crews who do not have 90 minutes to babysit a deployment.\n\nMost \"rapid-deploy\" trailers in our category require two people, leveling jacks, mast guy-wires, and a separate cellular commissioning step. Swift Deploy was redesigned in 2023 around a single-operator workflow. Drop legs, raise mast, power on. The cellular link self-registers. AI VisionStream sees the unit before the operator gets back in the truck.\n\nThat redesign is why this is the most-deployed unit in our fleet across 30+ states.\n\n## What's on the mast\n\n**HD PTZ camera, 30x optical zoom.** Reads a face at 300ft and a plate at 200ft. Pan-tilt-zoom controllable from any device on AI VisionStream.\n\n**Dual-spectrum imaging.** Full-color night vision without infrared illuminators that announce the unit's presence. Pairs visible and low-light sensors so footage stays usable from dusk through dawn.\n\n**AI analytics.** On-edge person and vehicle detection. Cloud classifiers filter out wildlife, weather, and vegetation movement so operators only see real events.\n\n**Optional LPR.** 95%+ accuracy, sub-3-second plate alerts, immutable log.\n\n**Strobe and PA.** Active deterrence with SOC-triggered live voice challenge.\n\n## Power and form factor\n\n- **Mast.** 20ft, single-operator manual lift\n- **Solar.** 400W panel array\n- **Battery.** 36+ hour reserve at full draw\n- **Enclosure.** IP66\n- **Operating range.** -20F to 120F\n- **Backhaul.** Dual-SIM cellular standard; Starlink and external antenna options\n- **Detection range.** 300ft\n\n## The deployment claim, broken down\n\n\"Under 20 minutes, one person, no tools\" is the spec. Here is what that looks like in field time:\n\n- 0:00 \u2014 arrive on site, position trailer\n- 2:00 \u2014 drop stabilizer legs\n- 5:00 \u2014 raise mast\n- 8:00 \u2014 power on, cellular handshake\n- 12:00 \u2014 first live frame in AI VisionStream\n- 18:00 \u2014 operator confirms scene, adjusts PTZ presets\n\nThat is the median across our last 200 deployments. We have field data.\n\n## Pricing\n\n- Lease: from **$1,500/mo** including AI VisionStream\n- SOC monitoring: priced per unit or per portfolio\n- Multi-unit and multi-month discounts available\n- Month-to-month after initial term \u2014 no 36-month lock-ins\n\n## When to choose Swift Deploy over Sky Guard MSU\n\nPick Swift Deploy when your sites are well-lit at night, your perimeter is under 300ft, and your primary threat is human intrusion captured by a PTZ camera. Pick Sky Guard MSU when you need thermal, radar, and active deterrence on the same unit, or when sites lose visibility to weather or terrain.\n\n## Where it earns its keep\n\nConstruction sites of all sizes. Equipment yards. Retail parking lots after hours. Cargo staging. Event security. Pop-up retail. Hospitality overflow lots. Anywhere \"we need eyes on this by tomorrow\" gets said in a meeting.",
+    "faq": [
+      {
+        "q": "Really 20 minutes by one person?",
+        "a": "Yes. Median deployment across our last 200 installs is 18 minutes from arrival to first frame in AI VisionStream. No tools required. Stabilizer legs and mast are designed for solo operation."
+      },
+      {
+        "q": "What is the difference between Swift Deploy and a typical competitor trailer?",
+        "a": "Single-operator setup, no tools, factory-commissioned cellular, AI analytics on edge plus cloud, US SOC integration, NDAA compliance, and US assembly. Most competitor trailers require two people and a 60-90 minute install."
+      },
+      {
+        "q": "How does the active deterrence work?",
+        "a": "Mast-mounted strobe and PA. SOC operators speak live through the PA when they verify an intruder. 97% of intrusions resolve at the audio challenge step before law enforcement is dispatched."
+      },
+      {
+        "q": "Will it run through a Northeast winter?",
+        "a": "Yes. Operating range -20F to 120F. 400W of solar plus a 36+ hour battery handles consecutive overcast days. Customers in Minnesota and upstate New York run these year-round."
+      },
+      {
+        "q": "Can I add thermal later?",
+        "a": "We do not retrofit thermal onto Swift Deploy chassis. If thermal is a requirement, Sky Guard MSU is the right unit. Many customers run a mix."
+      },
+      {
+        "q": "What is the shortest lease term?",
+        "a": "Month-to-month after a 30-day minimum. Most construction customers run 6-18 month engagements."
+      }
+    ],
+    "finalCTAHeading": "Get a Swift Deploy on site this week.",
+    "finalCTABody": "Tell us where and when. Standard configurations ship in 5-10 business days from PO.",
+    "finalCTAButtons": [
+      {
+        "label": "Request a Quote",
+        "url": "/request-a-quote"
+      },
+      {
+        "label": "Talk to an Engineer",
+        "url": "/contact"
+      }
+    ],
+    "schemaType": "Product",
+    "internalLinks": "/products/sky-guard-msu, /products/boundary-guard-pro, /ai-visionstream, /soc, /case-studies/mid-atlantic-gc, /industries/construction, /industries/retail",
+    "notes": "Hero: time-lapse video of single tech deploying. Deployment timeline as visual stepper. Pricing block orange. Add comparison table snippet vs. Sky Guard.",
+    "canonical": "https://visiondetectionsystems.com/products/swift-deploy-surveillance-trailer",
+    "ogTitle": "Swift Deploy. On site, on solar, on camera in under 20 minutes.",
+    "ogDescription": "HD PTZ 30x zoom, dual-spectrum night vision, 300ft detection, AI analytics, strobe + PA. Deploy in under 20 min, one person, no tools. From $1,500/mo.",
+    "ogImage": "https://visiondetectionsystems.com/assets/og-default.jpg",
+    "ogType": "product",
+    "robots": "index, follow",
+    "speakable": ".hero-h1, .product-summary, .spec-summary",
+    "tags": "mobile surveillance, security trailer, Swift Deploy trailer, rapid deployment",
+    "author": "Vision Detection Systems"
+  }
+]

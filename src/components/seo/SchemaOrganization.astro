@@ -1,0 +1,53 @@
+---
+const json = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://visiondetectionsystems.com/#organization",
+      "name": "Vision Detection Systems",
+      "alternateName": "VDS",
+      "url": "https://visiondetectionsystems.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://visiondetectionsystems.com/assets/vds-logo.svg",
+        "width": 600,
+        "height": 200
+      },
+      "foundingDate": "2017",
+      "founder": [
+        { "@type": "Person", "name": "David Weingot" },
+        { "@type": "Person", "name": "Steve Weingot" }
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Pikesville",
+        "addressRegion": "MD",
+        "postalCode": "21208",
+        "addressCountry": "US"
+      },
+      "contactPoint": [{
+        "@type": "ContactPoint",
+        "telephone": "+1-410-401-1986",
+        "contactType": "sales",
+        "areaServed": "US",
+        "availableLanguage": "English"
+      }],
+      "sameAs": [
+        "https://www.facebook.com/Vision-Detection-Systems-LLC-112306957216977",
+        "https://www.linkedin.com/company/vision-detection-systems-llc/",
+        "https://www.instagram.com/visiondetectionsystems/"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://visiondetectionsystems.com/#website",
+      "url": "https://visiondetectionsystems.com",
+      "name": "Vision Detection Systems",
+      "publisher": { "@id": "https://visiondetectionsystems.com/#organization" },
+      "inLanguage": "en-US"
+    }
+  ]
+};
+---
+<script type="application/ld+json" set:html={JSON.stringify(json)} />

@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /thank-you-quote
+Disallow: /thank-you-demo
+Disallow: /thank-you-guide
+Disallow: /thank-you-dealer
+Disallow: /portal-login
+
+Sitemap: https://visiondetectionsystems.com/sitemap-index.xml

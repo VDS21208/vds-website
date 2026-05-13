@@ -1,0 +1,61 @@
+---
+export interface Props {
+  eyebrow?: string;
+  h1: string;
+  h1Accent?: string;
+  subhead?: string;
+  ctaPrimary?: { label: string; url: string };
+  ctaSecondary?: { label: string; url: string };
+  stats?: string[];
+  image?: string;
+  variant?: 'dark' | 'light';
+}
+const {
+  eyebrow, h1, h1Accent, subhead, ctaPrimary, ctaSecondary,
+  stats = [], image, variant = 'dark'
+} = Astro.props;
+const isDark = variant === 'dark';
+
+function splitStat(s: string) {
+  const dotSep = s.indexOf(' · ');
+  const dashSep = s.indexOf(' — ');
+  let cutAt = -1;
+  if (dotSep > -1) cutAt = dotSep;
+  else if (dashSep > -1) cutAt = dashSep;
+  else if (s.indexOf('  ') > -1) cutAt = s.indexOf('  ');
+  if (cutAt > -1) {
+    return { value: s.substring(0, cutAt).trim(), label: s.substring(cutAt + 1).trim().replace(/^[·—-]\s*/, '') };
+  }
+  return { value: s, label: '' };
+}
+
+const parsedStats = (stats || []).filter(s => s && s !== '—').map(splitStat);
+const statCount = Math.min(parsedStats.length, 4);
+const gridClass = statCount === 4 ? 'md:grid-cols-4' : statCount === 3 ? 'md:grid-cols-3' : statCount === 2 ? 'md:grid-cols-2' : 'md:grid-cols-1';
+---
+<section class={`relative overflow-hidden ${isDark ? 'bg-navy text-white' : 'bg-offwhite text-navy'}`}>
+  <div class="container-main py-16 md:py-24 lg:py-32 relative z-10">
+    <div class="max-w-3xl">
+      {eyebrow && <div class="eyebrow mb-4 hero-h1-eyebrow">{eyebrow}</div>}
+      <h1 class="hero-h1 mb-6 font-display">
+        {h1}
+        {h1Accent && <span class="block text-orange">{h1Accent}</span>}
+      </h1>
+      {subhead && <p class={`text-lg md:text-xl mb-8 leading-relaxed max-w-2xl ${isDark ? 'text-white/80' : 'text-slate'}`}>{subhead}</p>}
+      <div class="flex flex-wrap gap-3 mb-12">
+        {ctaPrimary && <a href={ctaPrimary.url} class="btn-primary btn-large">{ctaPrimary.label} →</a>}
+        {ctaSecondary && <a href={ctaSecondary.url} class={`btn-secondary btn-large ${isDark ? 'border-white text-white hover:bg-white/10' : 'border-navy text-navy hover:bg-navy/5'}`}>{ctaSecondary.label}</a>}
+      </div>
+    </div>
+    {parsedStats.length > 0 && (
+      <div class={`grid grid-cols-2 ${gridClass} gap-4 pt-8 border-t ${isDark ? 'border-white/10' : 'border-slate/10'}`}>
+        {parsedStats.map((s) => (
+          <div>
+            <div class="text-2xl md:text-3xl font-display font-medium text-orange">{s.value}</div>
+            {s.label && <div class={`text-xs uppercase tracking-wide mt-1 ${isDark ? 'text-white/60' : 'text-slate'}`}>{s.label}</div>}
+          </div>
+        ))}
+      </div>
+    )}
+  </div>
+</section>

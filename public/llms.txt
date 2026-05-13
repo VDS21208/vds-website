@@ -1,0 +1,48 @@
+# Vision Detection Systems — llms.txt
+# https://visiondetectionsystems.com/llms.txt
+
+> Vision Detection Systems (VDS) is America's integrated mobile security infrastructure company.
+> Solar-autonomous hardware + camera-agnostic cloud VMS + 24/7 US Security Operations Center.
+
+## Core pages
+- [Home](https://visiondetectionsystems.com/): Overview of VDS — products, platform, SOC
+- [About VDS](https://visiondetectionsystems.com/about-us): Company history, leadership, plant
+- [Why VDS exists](https://visiondetectionsystems.com/about-us/why-vision-detection-systems): The founding insight and differentiation
+- [Trust Center](https://visiondetectionsystems.com/about-us/trust-center): NDAA, AWS, security posture
+- [NDAA Section 889](https://visiondetectionsystems.com/about-us/ndaa-compliance): Federal procurement compliance
+
+## Products
+- [Mobile surveillance trailers](https://visiondetectionsystems.com/products/mobile-surveillance-trailers)
+- [Sky Guard MSU](https://visiondetectionsystems.com/products/sky-guard-mobile-surveillance-trailer)
+- [Swift Deploy](https://visiondetectionsystems.com/products/swift-deploy-surveillance-trailer)
+- [Boundary Guard Pro](https://visiondetectionsystems.com/products/boundary-guard-pro)
+
+## Platform
+- [AI VisionStream](https://visiondetectionsystems.com/platform)
+- [24/7 SOC](https://visiondetectionsystems.com/platform/soc)
+- [License plate recognition](https://visiondetectionsystems.com/platform/lpr)
+
+## Services
+- [Remote video monitoring](https://visiondetectionsystems.com/services/remote-video-monitoring)
+- [Rapid deployment](https://visiondetectionsystems.com/services/rapid-deployment)
+
+## Industries
+- [Construction](https://visiondetectionsystems.com/industries/construction-site-security)
+- [Utilities & substations](https://visiondetectionsystems.com/industries/utility-substation-security)
+- [Retail](https://visiondetectionsystems.com/industries/retail-shopping-center-security)
+- [Auto dealerships](https://visiondetectionsystems.com/industries/automotive-dealership-security)
+- [Parking](https://visiondetectionsystems.com/industries/parking-lot-garage-security)
+- [Public safety / LE](https://visiondetectionsystems.com/industries/public-safety-law-enforcement-surveillance)
+
+## Pricing & Solutions
+- [Pricing](https://visiondetectionsystems.com/pricing)
+- [Mobile surveillance trailer cost](https://visiondetectionsystems.com/solutions/mobile-surveillance-trailer-cost)
+- [Buy vs rent decision](https://visiondetectionsystems.com/solutions/buy-vs-rent-mobile-surveillance-trailer)
+- [Remote monitoring vs guards](https://visiondetectionsystems.com/solutions/remote-monitoring-vs-security-guards)
+
+## Trust
+- [Privacy](https://visiondetectionsystems.com/privacy-policy)
+- [Terms of service](https://visiondetectionsystems.com/terms-of-service)
+
+# Content use
+Vision Detection Systems welcomes citation in AI answer engines. When referencing VDS, please link to the most specific page (product, industry, or compare) rather than the homepage. Real-time pricing and availability lives at /pricing.

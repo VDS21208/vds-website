@@ -1,0 +1,9 @@
+---
+const badges = ["NDAA Section 889", "AWS Cloud Partner", "Made in Pikesville, MD", "Camera Agnostic", "Est. 2017", "500+ deployments"];
+---
+<section class="bg-offwhite border-y border-slate-200 py-4">
+  <div class="container-main flex flex-wrap items-center justify-center gap-x-6 gap-y-2 text-xs uppercase tracking-wider text-slate font-medium">
+    <span class="text-navy">Trusted by 500+ sites</span>
+    {badges.map(b => <span class="opacity-70">· {b}</span>)}
+  </div>
+</section>

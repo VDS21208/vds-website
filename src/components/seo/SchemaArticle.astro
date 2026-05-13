@@ -1,0 +1,36 @@
+---
+export interface Props {
+  headline: string;
+  description: string;
+  url: string;
+  image?: string;
+  datePublished?: string;
+  dateModified?: string;
+  author?: string;
+  articleSection?: string;
+  keywords?: string;
+}
+const {
+  headline, description, url, image,
+  datePublished = "2026-05-13",
+  dateModified = "2026-05-13",
+  author = "VDS Editorial",
+  articleSection, keywords
+} = Astro.props;
+const json: any = {
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": headline,
+  "description": description,
+  "datePublished": datePublished,
+  "dateModified": dateModified,
+  "author": { "@type": "Organization", "@id": "https://visiondetectionsystems.com/#organization", "name": author },
+  "publisher": { "@id": "https://visiondetectionsystems.com/#organization" },
+  "mainEntityOfPage": { "@type": "WebPage", "@id": url },
+  "speakable": { "@type": "SpeakableSpecification", "cssSelector": [".hero-h1", ".article-summary", "h2"] }
+};
+if (image) json.image = image;
+if (articleSection) json.articleSection = articleSection;
+if (keywords) json.keywords = keywords;
+---
+<script type="application/ld+json" set:html={JSON.stringify(json)} />

@@ -1,0 +1,92 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "20"
+  PYTHON_VERSION = "3.10"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Strict-Transport-Security = "max-age=63072000; includeSubDomains; preload"
+    X-Content-Type-Options = "nosniff"
+    X-Frame-Options = "SAMEORIGIN"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Permissions-Policy = "camera=(), microphone=(), geolocation=()"
+
+# 301 redirects from old visiondetectionsystems.com URLs
+# Auto-generated mapping from src/data/redirects.json
+# Run scripts/sync-netlify-redirects.mjs after build to refresh this list
+
+[[redirects]]
+  from = "/request-quote/"
+  to = "/request-a-quote"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/mobile-surveillance-trailers/"
+  to = "/products/mobile-surveillance-trailers"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/remote-video-monitoring/"
+  to = "/services/remote-video-monitoring"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/construction-site-security-services/"
+  to = "/industries/construction-site-security"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/license-plate-recognition-camera/"
+  to = "/products/license-plate-recognition"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/contact-us/"
+  to = "/contact-us"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/"
+  to = "/resources/blog"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/mission/"
+  to = "/about-us/mission"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/our-plant/"
+  to = "/about-us/our-plant"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/why-vds/"
+  to = "/about-us/why-vision-detection-systems"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/dealer/"
+  to = "/partners/dealer-program"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/join-our-team/"
+  to = "/about-us/careers"
+  status = 301
+  force = true
