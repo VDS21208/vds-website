@@ -6,6 +6,8 @@ import AnnouncementBar from '../components/nav/AnnouncementBar.astro';
 import SchemaOrganization from '../components/seo/SchemaOrganization.astro';
 import SchemaBreadcrumb from '../components/seo/SchemaBreadcrumb.astro';
 import MotionScript from '../components/util/MotionScript.astro';
+import StickyMobileCTA from '../components/util/StickyMobileCTA.astro';
+import ScrollProgress from '../components/util/ScrollProgress.astro';
 
 export interface Props {
   title: string;
@@ -84,6 +86,7 @@ const finalOgDesc = ogDescription || description;
   </head>
   <body class={`bg-white text-navy ${bodyClass}`}>
     <a href="#main-content" class="skip-link">Skip to main content</a>
+    <ScrollProgress />
     {!noNav && (
       <>
         {announcementBar && <AnnouncementBar text={announcementBar} />}
@@ -94,6 +97,7 @@ const finalOgDesc = ogDescription || description;
       <slot />
     </main>
     {!noNav && <Footer />}
+    {!noNav && <StickyMobileCTA />}
     <MotionScript />
   </body>
 </html>

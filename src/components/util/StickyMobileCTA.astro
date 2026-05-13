@@ -1,0 +1,26 @@
+<div class="sticky-mobile-cta" data-sticky-cta>
+  <a href="tel:+14104011986" class="flex-1 flex items-center justify-center gap-2 border border-white/40 text-white text-sm font-medium py-2.5 px-3 rounded-sm">
+    📞 Call
+  </a>
+  <a href="/request-a-quote" class="flex-1 flex items-center justify-center gap-2 bg-orange text-white text-sm font-medium py-2.5 px-3 rounded-sm">
+    Request a quote →
+  </a>
+</div>
+<script is:inline>
+(function() {
+  const bar = document.querySelector('[data-sticky-cta]');
+  if (!bar) return;
+  let lastY = window.scrollY;
+  let visibleAt = 600;
+  function update() {
+    const y = window.scrollY;
+    const goingDown = y > lastY;
+    if (y < visibleAt) { bar.classList.add('is-hidden'); }
+    else if (goingDown && y - lastY > 8) { bar.classList.add('is-hidden'); }
+    else if (!goingDown) { bar.classList.remove('is-hidden'); }
+    lastY = y;
+  }
+  bar.classList.add('is-hidden');
+  window.addEventListener('scroll', update, { passive: true });
+})();
+</script>

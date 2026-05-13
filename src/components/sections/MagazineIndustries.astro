@@ -1,0 +1,82 @@
+---
+import Icon from '../icons/Icon.astro';
+const featured = { name: "Construction", icon: "construction", url: "/industries/construction-site-security", stat: "$340,800", statLabel: "saved on a single $28M project", body: "FBI: >$1B annual US construction theft. Less than 7% of stolen equipment is ever recovered. VDS deployments document 73% theft reduction and $0 insurance claims.", bg: "/assets/webflow/hero-security-1.avif" };
+const secondary = [
+  { name: "Utilities & Substations", icon: "utility", url: "/industries/utility-substation-security", stat: "NERC CIP-014", body: "Thermal + radar perimeter. Documentation pack included.", bg: "/assets/webflow/hero-security-4.avif" },
+  { name: "Retail & Shopping Centers", icon: "retail", url: "/industries/retail-shopping-center-security", stat: "18% YoY", body: "NRF: ORC up 18% with 67% transnational involvement.", bg: "/assets/webflow/hero-security-3.avif" },
+  { name: "Auto Dealerships", icon: "auto", url: "/industries/automotive-dealership-security", stat: "45,000", body: "Catalytic converter claims peaked 2022. VDS LPR captures every plate." },
+  { name: "Parking & Garages", icon: "parking", url: "/industries/parking-lot-garage-security", stat: "24/7", body: "After-hours coverage. Audio talk-down. LE dispatch." },
+  { name: "Public Safety", icon: "government", url: "/industries/public-safety-law-enforcement-surveillance", stat: "NDAA", body: "Section 889 compliant. Sourcewell, GSA, COSTARS." },
+];
+---
+<section class="py-24 md:py-32 bg-offwhite relative overflow-hidden">
+  <div class="dot-pattern-light absolute inset-0 opacity-50"></div>
+  <div class="container-wide relative z-10">
+    <div class="grid lg:grid-cols-12 gap-6 mb-10 items-end">
+      <div class="lg:col-span-7">
+        <div class="eyebrow mb-3">Industries</div>
+        <h2 class="font-display text-navy mb-4">17 verticals.<br><span class="gradient-text-dark">One platform.</span></h2>
+      </div>
+      <div class="lg:col-span-5">
+        <p class="text-lg text-slate-600">From construction sites to substations to retail parking lots — the same solar-autonomous stack adapts to every environment.</p>
+      </div>
+    </div>
+
+    <!-- Featured + secondary grid -->
+    <div class="grid lg:grid-cols-12 gap-5">
+      <!-- Big featured tile -->
+      <a href={featured.url} class="lg:col-span-7 lg:row-span-2 image-card aspect-[4/3] lg:aspect-auto lg:min-h-[600px] zoom-on-hover">
+        <div class="image-card-bg" style={`background-image: url(${featured.bg})`}></div>
+        <div class="image-card-overlay"></div>
+        <div class="image-card-content text-white">
+          <div class="text-orange mb-4"><Icon name={featured.icon} size={40} /></div>
+          <div class="text-5xl md:text-6xl font-display text-orange mb-2 leading-none tracking-tight" data-target={featured.stat}>{featured.stat}</div>
+          <div class="text-sm uppercase tracking-[0.15em] text-white/65 mb-5">{featured.statLabel}</div>
+          <h3 class="font-display text-4xl mb-3">{featured.name}</h3>
+          <p class="text-white/80 max-w-md mb-6 text-[1.0625rem] leading-relaxed">{featured.body}</p>
+          <div class="inline-flex items-center gap-2 text-orange font-medium">See industry page <Icon name="arrow-right" size={18} /></div>
+        </div>
+      </a>
+
+      <!-- Two image cards -->
+      <a href={secondary[0].url} class="lg:col-span-5 image-card aspect-[16/9] lg:aspect-auto lg:min-h-[290px] zoom-on-hover">
+        <div class="image-card-bg" style={`background-image: url(${secondary[0].bg})`}></div>
+        <div class="image-card-overlay"></div>
+        <div class="image-card-content text-white">
+          <div class="text-orange mb-3"><Icon name={secondary[0].icon} size={28} /></div>
+          <div class="text-2xl md:text-3xl font-display text-orange mb-1">{secondary[0].stat}</div>
+          <h3 class="font-display text-xl mb-2">{secondary[0].name}</h3>
+          <p class="text-sm text-white/70">{secondary[0].body}</p>
+        </div>
+      </a>
+
+      <a href={secondary[1].url} class="lg:col-span-5 image-card aspect-[16/9] lg:aspect-auto lg:min-h-[290px] zoom-on-hover">
+        <div class="image-card-bg" style={`background-image: url(${secondary[1].bg})`}></div>
+        <div class="image-card-overlay"></div>
+        <div class="image-card-content text-white">
+          <div class="text-orange mb-3"><Icon name={secondary[1].icon} size={28} /></div>
+          <div class="text-2xl md:text-3xl font-display text-orange mb-1">{secondary[1].stat}</div>
+          <h3 class="font-display text-xl mb-2">{secondary[1].name}</h3>
+          <p class="text-sm text-white/70">{secondary[1].body}</p>
+        </div>
+      </a>
+    </div>
+
+    <!-- Smaller tiles row -->
+    <div class="grid md:grid-cols-3 gap-5 mt-5">
+      {secondary.slice(2).map((s) => (
+        <a href={s.url} class="bg-white border border-slate-200 rounded-lg p-7 card-hover group cursor-spotlight">
+          <div class="text-orange mb-3"><Icon name={s.icon} size={28} /></div>
+          <div class="text-2xl md:text-3xl font-display text-orange mb-1">{s.stat}</div>
+          <h3 class="font-display text-xl mb-2 text-navy group-hover:text-orange transition-colors">{s.name}</h3>
+          <p class="text-sm text-slate-600 mb-4">{s.body}</p>
+          <div class="inline-flex items-center gap-2 text-sm text-orange font-medium group-hover:gap-3 transition-all">See more <Icon name="arrow-right" size={14} /></div>
+        </a>
+      ))}
+    </div>
+
+    <div class="text-center mt-12">
+      <a href="/industries" class="inline-flex items-center gap-2 text-navy hover:text-orange transition-all font-medium border-b border-current pb-1">See all 17 industries <Icon name="arrow-right" size={16} /></a>
+    </div>
+  </div>
+</section>

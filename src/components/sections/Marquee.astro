@@ -1,0 +1,18 @@
+---
+export interface Props {
+  items: Array<{ label: string; logo?: string }>;
+  duration?: number;
+}
+const { items, duration = 40 } = Astro.props;
+const repeated = [...items, ...items];
+---
+<div class="marquee py-2">
+  <div class="marquee-track" style={`animation-duration: ${duration}s`}>
+    {repeated.map((item) => (
+      <div class="flex items-center gap-3 px-4 py-2 whitespace-nowrap text-sm font-medium text-white/70">
+        {item.logo && <img src={item.logo} alt="" class="h-8 w-auto opacity-70" loading="lazy" />}
+        <span>{item.label}</span>
+      </div>
+    ))}
+  </div>
+</div>

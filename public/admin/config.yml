@@ -4,40 +4,61 @@ backend:
   branch: main
   base_url: https://vds-website-omega.vercel.app
   auth_endpoint: api/auth
+  commit_messages:
+    create: "Create {{collection}} “{{slug}}”"
+    update: "Update {{collection}} “{{slug}}”"
+    delete: "Delete {{collection}} “{{slug}}”"
+    uploadMedia: "Upload “{{path}}”"
+    deleteMedia: "Delete “{{path}}”"
 
 publish_mode: editorial_workflow
 media_folder: "public/assets/uploads"
 public_folder: "/assets/uploads"
 site_url: https://vds-website-omega.vercel.app
-display_url: https://vds-website-omega.vercel.app
-logo_url: /assets/vds-logo.svg
+display_url: vds-website-omega.vercel.app
+logo_url: https://vds-website-omega.vercel.app/assets/vds-logo.svg
+
+search: true
+
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacement: "-"
 
 collections:
   - name: "singletons"
-    label: "Top-level pages"
+    label: "📄 Top-level pages"
     label_singular: "page"
+    description: "Homepage, About, Contact, Pricing hubs, Answers, Glossary — standalone pages outside collections."
     folder: "src/content/pages/singletons"
     extension: "md"
     format: "frontmatter"
     create: false
+    delete: false
     slug: "{{slug}}"
-    summary: "{{h1}} — {{url}}"
+    identifier_field: "h1"
+    summary: "{{h1}}  ·  {{url}}"
     fields: &page_fields
-      - { label: "URL (do not change)", name: "url", widget: "string" }
-      - { label: "Collection", name: "collection", widget: "hidden" }
+      - { label: "🔗 URL (don't change)", name: "url", widget: "string", required: true, hint: "Live URL of this page. Editing here breaks routing." }
+      - { label: "Collection (auto)", name: "collection", widget: "hidden" }
       - { label: "Page type", name: "pageType", widget: "string", required: false }
-      - { label: "Parent", name: "parent", widget: "string", required: false }
-      - { label: "Status", name: "status", widget: "select", options: ["Launch", "Expansion"], default: "Launch" }
-      - { label: "SEO title (≤60 chars)", name: "seoTitle", widget: "string", pattern: ['^.{1,60}$', "Max 60 characters"] }
-      - { label: "Meta description (≤155 chars)", name: "metaDescription", widget: "text", pattern: ['^.{1,155}$', "Max 155 characters"] }
+      - { label: "Parent section", name: "parent", widget: "string", required: false }
+      - { label: "📅 Status", name: "status", widget: "select", options: ["Launch", "Expansion"], default: "Launch", hint: "Launch = ship in Phase 1. Expansion = Phase 2." }
+      - { label: "─── SEO ───", name: "_seo_divider", widget: "hidden", default: "" }
+      - { label: "SEO title (≤60)", name: "seoTitle", widget: "string", required: true, pattern: ['^.{1,60}$', "Max 60 characters"] }
+      - { label: "Meta description (≤155)", name: "metaDescription", widget: "text", required: true, pattern: ['^.{1,155}$', "Max 155 characters"] }
+      - { label: "Tags / keywords", name: "tags", widget: "text", required: false }
+      - { label: "Schema type", name: "schemaType", widget: "select", options: ["Article","Product","Service","LocalBusiness","FAQPage","BlogPosting","Organization"], default: "Article" }
+      - { label: "─── Hero ───", name: "_hero_divider", widget: "hidden", default: "" }
       - { label: "Announcement bar (optional)", name: "announcementBar", widget: "string", required: false }
-      - { label: "H1", name: "h1", widget: "string" }
+      - { label: "H1 headline", name: "h1", widget: "string", required: true }
       - { label: "Hero eyebrow", name: "heroEyebrow", widget: "string", required: false }
       - { label: "Hero subhead", name: "heroSubhead", widget: "text", required: false }
       - label: "Hero CTA — primary"
         name: "heroCTAPrimary"
         widget: "object"
         required: false
+        collapsed: true
         fields:
           - { label: "Label", name: "label", widget: "string" }
           - { label: "URL", name: "url", widget: "string" }
@@ -45,217 +66,258 @@ collections:
         name: "heroCTASecondary"
         widget: "object"
         required: false
+        collapsed: true
         fields:
           - { label: "Label", name: "label", widget: "string" }
           - { label: "URL", name: "url", widget: "string" }
-      - label: "Hero stats / badges"
+      - label: "Hero stats / badges (max 4)"
         name: "heroStats"
         widget: "list"
         required: false
-        field: { label: "Stat", name: "value", widget: "string", hint: "Format: 'value · label' (e.g. '$1,500/mo · Starting price')" }
+        max: 4
+        collapsed: true
+        field: { label: "Stat", name: "value", widget: "string", hint: "Format: 'value · label' (e.g., '$1,500/mo · Starting price')" }
       - { label: "Hero image (uploaded)", name: "heroImage", widget: "image", required: false, allow_multiple: false }
+      - { label: "─── FAQ ───", name: "_faq_divider", widget: "hidden", default: "" }
       - label: "FAQ items"
         name: "faq"
         widget: "list"
         required: false
+        collapsed: true
+        summary: "{{fields.q}}"
         fields:
           - { label: "Question", name: "q", widget: "string" }
           - { label: "Answer", name: "a", widget: "markdown" }
-      - { label: "Final CTA — heading", name: "finalCTAHeading", widget: "string", required: false }
-      - { label: "Final CTA — body", name: "finalCTABody", widget: "text", required: false }
-      - label: "Final CTA — buttons"
+      - { label: "─── Final CTA strip ───", name: "_fcta_divider", widget: "hidden", default: "" }
+      - { label: "Final CTA heading", name: "finalCTAHeading", widget: "string", required: false }
+      - { label: "Final CTA body", name: "finalCTABody", widget: "text", required: false }
+      - label: "Final CTA buttons"
         name: "finalCTAButtons"
         widget: "list"
         required: false
+        max: 3
+        collapsed: true
         fields:
           - { label: "Label", name: "label", widget: "string" }
           - { label: "URL", name: "url", widget: "string" }
-      - { label: "Schema type", name: "schemaType", widget: "select", options: ["Article", "Product", "Service", "LocalBusiness", "FAQPage", "BlogPosting", "Organization"], default: "Article" }
-      - { label: "Internal links (comma-separated)", name: "internalLinks", widget: "text", required: false }
+      - { label: "─── Advanced ───", name: "_adv_divider", widget: "hidden", default: "" }
       - { label: "Canonical URL", name: "canonical", widget: "string", required: false }
       - { label: "OG title", name: "ogTitle", widget: "string", required: false }
       - { label: "OG description", name: "ogDescription", widget: "text", required: false }
       - { label: "OG image", name: "ogImage", widget: "image", required: false }
-      - { label: "OG type", name: "ogType", widget: "select", options: ["website", "article", "product"], default: "website" }
-      - { label: "Robots meta", name: "robots", widget: "string", default: "index, follow" }
+      - { label: "OG type", name: "ogType", widget: "select", options: ["website","article","product"], default: "website" }
+      - { label: "Robots", name: "robots", widget: "string", default: "index, follow" }
       - { label: "Speakable selectors (AEO)", name: "speakable", widget: "string", required: false }
       - { label: "Author", name: "author", widget: "string", default: "Vision Detection Systems" }
-      - { label: "Tags / keywords", name: "tags", widget: "text", required: false }
-      - { label: "Notes (internal — not displayed)", name: "notes", widget: "text", required: false }
+      - { label: "Internal links (comma-separated)", name: "internalLinks", widget: "text", required: false }
+      - { label: "Internal notes", name: "notes", widget: "text", required: false }
+      - { label: "─── Body content ───", name: "_body_divider", widget: "hidden", default: "" }
       - { label: "Body (Markdown)", name: "body", widget: "markdown" }
 
   - name: "products"
-    label: "Products"
+    label: "📦 Products"
     label_singular: "product"
+    description: "8 hardware products: Sky Guard MSU, Swift Deploy, Boundary Guard Pro, Solar Camera Poles, Guard Booths, Cooling Stations, Light Trailers, Accessories."
     folder: "src/content/pages/products"
     extension: "md"
     format: "frontmatter"
     create: true
     slug: "{{slug}}"
-    summary: "{{h1}}"
+    identifier_field: "h1"
+    summary: "{{h1}}  ·  {{url}}"
     fields: *page_fields
 
   - name: "industries"
-    label: "Industries"
+    label: "🏗️ Industries"
     label_singular: "industry"
+    description: "17 industry verticals: Construction, Utilities, Retail, Auto Dealerships, Parking, Government, and more."
     folder: "src/content/pages/industries"
     extension: "md"
     format: "frontmatter"
     create: true
     slug: "{{slug}}"
-    summary: "{{h1}}"
+    identifier_field: "h1"
+    summary: "{{h1}}  ·  {{url}}"
     fields: *page_fields
 
   - name: "compare"
-    label: "Compare pages"
+    label: "⚖️ Compare pages"
     label_singular: "comparison"
+    description: "VDS vs LVT, Flock, Verkada, Pro-Vigil, etc. Highest-converting page type on the site."
     folder: "src/content/pages/compare"
     extension: "md"
     format: "frontmatter"
     create: true
     slug: "{{slug}}"
-    summary: "{{h1}}"
+    identifier_field: "h1"
+    summary: "{{h1}}  ·  {{url}}"
     fields: *page_fields
 
   - name: "platform"
-    label: "Platform"
+    label: "☁️ Platform (AI VisionStream)"
     label_singular: "platform page"
+    description: "AI VisionStream platform pages — analytics, SOC, LPR, mobile app, integrations, security."
     folder: "src/content/pages/platform"
     extension: "md"
     format: "frontmatter"
     create: true
     slug: "{{slug}}"
-    summary: "{{h1}}"
+    identifier_field: "h1"
+    summary: "{{h1}}  ·  {{url}}"
     fields: *page_fields
 
   - name: "services"
-    label: "Services"
+    label: "🛠️ Services"
     label_singular: "service"
+    description: "Rapid Deployment, 24/7 SOC, Installation, System Integration, Managed Security, Consulting."
     folder: "src/content/pages/services"
     extension: "md"
     format: "frontmatter"
     create: true
     slug: "{{slug}}"
-    summary: "{{h1}}"
+    identifier_field: "h1"
+    summary: "{{h1}}  ·  {{url}}"
     fields: *page_fields
 
   - name: "solutions"
-    label: "Solutions"
+    label: "💡 Solutions"
     label_singular: "solution"
+    description: "Cost & decision pages. High-intent SEO targets like 'mobile surveillance trailer cost' and 'buy vs rent'."
     folder: "src/content/pages/solutions"
     extension: "md"
     format: "frontmatter"
     create: true
     slug: "{{slug}}"
-    summary: "{{h1}}"
+    identifier_field: "h1"
+    summary: "{{h1}}  ·  {{url}}"
     fields: *page_fields
 
   - name: "guides"
-    label: "Guides"
+    label: "📚 Guides"
     label_singular: "guide"
+    description: "Gated PDF download landing pages — NDAA, Construction Theft Prevention, ROI Calculator, Pricing Guide."
     folder: "src/content/pages/guides"
     extension: "md"
     format: "frontmatter"
     create: true
     slug: "{{slug}}"
-    summary: "{{h1}}"
+    identifier_field: "h1"
+    summary: "{{h1}}  ·  {{url}}"
     fields: *page_fields
 
   - name: "use-cases"
-    label: "Use cases"
+    label: "🎯 Use cases"
     label_singular: "use case"
+    description: "Threat-specific pages — copper theft, cargo theft, catalytic converter theft, vandalism prevention."
     folder: "src/content/pages/use-cases"
     extension: "md"
     format: "frontmatter"
     create: true
     slug: "{{slug}}"
-    summary: "{{h1}}"
+    identifier_field: "h1"
+    summary: "{{h1}}  ·  {{url}}"
     fields: *page_fields
 
   - name: "blog"
-    label: "Blog posts"
+    label: "📝 Blog posts"
     label_singular: "post"
+    description: "Editorial blog content."
     folder: "src/content/pages/blog"
     extension: "md"
     format: "frontmatter"
     create: true
     slug: "{{slug}}"
-    summary: "{{h1}}"
+    identifier_field: "h1"
+    summary: "{{h1}}  ·  {{url}}"
     fields: *page_fields
 
   - name: "case-studies"
-    label: "Case studies"
+    label: "📊 Case studies"
     label_singular: "case study"
+    description: "Customer success stories with hero stats and quotes."
     folder: "src/content/pages/case-studies"
     extension: "md"
     format: "frontmatter"
     create: true
     slug: "{{slug}}"
-    summary: "{{h1}}"
+    identifier_field: "h1"
+    summary: "{{h1}}  ·  {{url}}"
     fields: *page_fields
 
   - name: "about-us"
-    label: "About"
+    label: "🏢 About VDS"
     label_singular: "about page"
+    description: "Mission, Why VDS, Leadership, Trust Center, NDAA Compliance, Our Plant, Sustainability, Press, Careers."
     folder: "src/content/pages/about-us"
     extension: "md"
     format: "frontmatter"
     create: true
     slug: "{{slug}}"
-    summary: "{{h1}}"
+    identifier_field: "h1"
+    summary: "{{h1}}  ·  {{url}}"
     fields: *page_fields
 
   - name: "integrations"
-    label: "Integrations"
+    label: "🔌 Integrations"
     label_singular: "integration"
+    description: "Partner integration pages — Genetec, Lenel, Milestone, Brivo, Immix, Bold, Stages, ServiceNow, Axon-Fusus."
     folder: "src/content/pages/integrations"
     extension: "md"
     format: "frontmatter"
     create: true
     slug: "{{slug}}"
-    summary: "{{h1}}"
+    identifier_field: "h1"
+    summary: "{{h1}}  ·  {{url}}"
     fields: *page_fields
 
   - name: "partners"
-    label: "Partners"
+    label: "🤝 Partners / Dealer Program"
     label_singular: "partner page"
+    description: "Dealer Program, Become a Dealer, White Label, Find a Dealer, Financing, A&E Specifiers."
     folder: "src/content/pages/partners"
     extension: "md"
     format: "frontmatter"
     create: true
     slug: "{{slug}}"
-    summary: "{{h1}}"
+    identifier_field: "h1"
+    summary: "{{h1}}  ·  {{url}}"
     fields: *page_fields
 
   - name: "pricing"
-    label: "Pricing"
+    label: "💰 Pricing"
     label_singular: "pricing page"
+    description: "Public pricing pages — leasing, purchase, subscriptions, dealer pricing."
     folder: "src/content/pages/pricing"
     extension: "md"
     format: "frontmatter"
     create: true
     slug: "{{slug}}"
-    summary: "{{h1}}"
+    identifier_field: "h1"
+    summary: "{{h1}}  ·  {{url}}"
     fields: *page_fields
 
   - name: "locations-state"
-    label: "Locations — states"
+    label: "📍 Locations — states"
     label_singular: "state page"
+    description: "State-level service pages — Maryland, Virginia, Texas, Florida, California, and more."
     folder: "src/content/pages/locations-state"
     extension: "md"
     format: "frontmatter"
     create: true
     slug: "{{slug}}"
-    summary: "{{h1}}"
+    identifier_field: "h1"
+    summary: "{{h1}}  ·  {{url}}"
     fields: *page_fields
 
   - name: "locations-city"
-    label: "Locations — cities"
+    label: "🏙️ Locations — cities"
     label_singular: "city page"
+    description: "City-level service pages — Baltimore, NYC, DC, Philadelphia, Miami, Dallas, LA, Chicago, Boston, and more."
     folder: "src/content/pages/locations-city"
     extension: "md"
     format: "frontmatter"
     create: true
     slug: "{{slug}}"
-    summary: "{{h1}}"
+    identifier_field: "h1"
+    summary: "{{h1}}  ·  {{url}}"
     fields: *page_fields

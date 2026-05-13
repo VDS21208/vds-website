@@ -1,25 +1,30 @@
----
-// Global motion script — IntersectionObserver-based reveal + animated counter
----
 <script is:inline>
 (function() {
   if (typeof window === 'undefined' || !('IntersectionObserver' in window)) return;
   const prefersReduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-  if (prefersReduced) return;
+  if (prefersReduced) {
+    document.querySelectorAll('.reveal').forEach(el => el.classList.add('is-visible'));
+    return;
+  }
 
-  // Auto-tag candidates: every section, every card, hero stat blocks
-  document.querySelectorAll('section, .reveal-auto, .grid > * ').forEach((el, idx) => {
+  // Auto-tag candidates
+  document.querySelectorAll('section').forEach((el) => {
     if (el.closest('header, footer')) return;
     if (el.classList.contains('reveal')) return;
-    // Skip if explicitly opted out
     if (el.dataset.noReveal !== undefined) return;
     el.classList.add('reveal');
   });
 
-  // Staggered children inside grids
-  document.querySelectorAll('.grid').forEach((grid) => {
-    Array.from(grid.children).forEach((child, idx) => {
-      if (idx < 6) child.style.setProperty('--stagger-delay', (idx * 60) + 'ms');
+  // Hero spotlight mouse-follow
+  document.querySelectorAll('[data-hero-spotlight]').forEach((section) => {
+    const spotlight = section.querySelector('.hero-spotlight');
+    if (!spotlight) return;
+    section.addEventListener('mousemove', (e) => {
+      const r = section.getBoundingClientRect();
+      const mx = ((e.clientX - r.left) / r.width * 100);
+      const my = ((e.clientY - r.top) / r.height * 100);
+      spotlight.style.setProperty('--mx', mx + '%');
+      spotlight.style.setProperty('--my', my + '%');
     });
   });
 
@@ -27,13 +32,12 @@
     entries.forEach((e) => {
       if (e.isIntersecting) {
         e.target.classList.add('is-visible');
-        // Trigger count-up if applicable
-        const counters = e.target.querySelectorAll('.hero-stat-value[data-target]');
+        const counters = e.target.querySelectorAll('.hero-stat-value[data-target], .number-display[data-target]');
         counters.forEach(animateCounter);
         obs.unobserve(e.target);
       }
     });
-  }, { threshold: 0.12, rootMargin: '0px 0px -8% 0px' });
+  }, { threshold: 0.08, rootMargin: '0px 0px -6% 0px' });
 
   document.querySelectorAll('.reveal').forEach((el) => obs.observe(el));
 
@@ -46,7 +50,7 @@
     const suffix = m[3] || '';
     const decimals = (m[2].split('.')[1] || '').length;
     if (isNaN(target)) return;
-    const dur = 1200;
+    const dur = 1400;
     const start = performance.now();
     function tick(now) {
       const t = Math.min(1, (now - start) / dur);

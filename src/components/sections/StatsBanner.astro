@@ -1,0 +1,22 @@
+---
+import Icon from '../icons/Icon.astro';
+const stats = [
+  { value: "500+", label: "Active deployments", icon: "shield" },
+  { value: "30+", label: "States covered", icon: "target" },
+  { value: "< 60s", label: "SOC response time", icon: "zap" },
+  { value: "97%", label: "False alarm reduction", icon: "check" },
+];
+---
+<section class="py-16 md:py-20 bg-offwhite border-y border-slate-200">
+  <div class="container-main">
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-6 md:gap-12">
+      {stats.map((s) => (
+        <div class="reveal text-center md:text-left">
+          <div class="text-orange mb-3 inline-flex"><Icon name={s.icon} size={28} /></div>
+          <div class="number-display block">{s.value}</div>
+          <div class="text-xs uppercase tracking-[0.15em] text-slate-600 font-medium mt-2">{s.label}</div>
+        </div>
+      ))}
+    </div>
+  </div>
+</section>

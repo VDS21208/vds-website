@@ -1,0 +1,16 @@
+---
+const stats = ["500+ deployments", "30+ states", "97% false alarm reduction", "< 60s SOC response", "$340,800 saved", "73% theft reduction"];
+const duplicated = [...stats, ...stats, ...stats];
+---
+<section class="bg-navy text-white py-12 md:py-16 overflow-hidden" style="--marquee-bg: #0B1120">
+  <div class="marquee-massive">
+    <div class="marquee-massive-track">
+      {duplicated.map((s, i) => (
+        <div class="flex items-center gap-12 px-12 whitespace-nowrap">
+          <span class="text-stroke headline-mega">{s}</span>
+          <span class="text-orange text-5xl opacity-40">★</span>
+        </div>
+      ))}
+    </div>
+  </div>
+</section>

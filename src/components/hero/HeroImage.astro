@@ -1,4 +1,5 @@
 ---
+import Icon from '../icons/Icon.astro';
 export interface Props {
   eyebrow?: string;
   h1: string;
@@ -25,32 +26,37 @@ function splitStat(s: string) {
   }
   return { value: s, label: '' };
 }
-
 const parsedStats = (stats || []).filter(s => s && s !== '—').map(splitStat);
 const statCount = Math.min(parsedStats.length, 4);
 const gridClass = statCount === 4 ? 'md:grid-cols-4' : statCount === 3 ? 'md:grid-cols-3' : statCount === 2 ? 'md:grid-cols-2' : 'md:grid-cols-1';
 ---
-<section class={`relative overflow-hidden ${isDark ? 'bg-navy text-white' : 'bg-offwhite text-navy'}`} data-no-reveal>
+<section class={`relative overflow-hidden ${isDark ? 'bg-navy text-white' : 'bg-offwhite text-navy'} min-h-[70vh] flex items-center`} data-hero-spotlight data-no-reveal>
   {bgImage && <div class="hero-bg-image" style={`background-image: url(${bgImage})`}></div>}
-  <div class="container-main py-16 md:py-24 lg:py-32 relative z-10">
-    <div class="max-w-3xl">
-      {eyebrow && <div class="eyebrow mb-4 reveal">{eyebrow}</div>}
-      <h1 class="hero-h1 mb-6 font-display reveal">
+  <div class="hero-orb-layer">
+    <div class="gradient-orb gradient-orb-orange" style="width: 500px; height: 500px; top: -150px; right: -80px; opacity: 0.4;"></div>
+    <div class="gradient-orb gradient-orb-blue" style="width: 400px; height: 400px; bottom: -150px; left: -100px; opacity: 0.3; animation-delay: -10s;"></div>
+  </div>
+  <div class="hero-grid-pattern"></div>
+  <div class="hero-spotlight"></div>
+  <div class="container-wide py-20 md:py-24 relative z-10 w-full">
+    <div class="max-w-4xl">
+      {eyebrow && <div class="eyebrow mb-5 animate-fade-up">{eyebrow}</div>}
+      <h1 class="font-display mb-6 leading-[1.02] tracking-tight animate-fade-up" style="animation-delay: 80ms; animation-fill-mode: both;">
         {h1}
         {h1Accent && <span class="block text-orange">{h1Accent}</span>}
       </h1>
-      {subhead && <p class={`text-lg md:text-xl mb-8 leading-relaxed max-w-2xl reveal ${isDark ? 'text-white/85' : 'text-slate'}`} style="transition-delay: 80ms;">{subhead}</p>}
-      <div class="flex flex-wrap gap-3 mb-12 reveal" style="transition-delay: 160ms;">
-        {ctaPrimary && <a href={ctaPrimary.url} class="btn-primary btn-large">{ctaPrimary.label} →</a>}
+      {subhead && <p class={`text-lg md:text-xl mb-9 leading-relaxed max-w-3xl animate-fade-up ${isDark ? 'text-white/85' : 'text-slate-700'}`} style="animation-delay: 160ms; animation-fill-mode: both;">{subhead}</p>}
+      <div class="flex flex-wrap gap-3 mb-12 animate-fade-up" style="animation-delay: 240ms; animation-fill-mode: both;">
+        {ctaPrimary && <a href={ctaPrimary.url} class="btn-primary btn-large">{ctaPrimary.label} <Icon name="arrow-right" size={18} /></a>}
         {ctaSecondary && <a href={ctaSecondary.url} class={`btn-secondary btn-large ${isDark ? 'border-white text-white hover:bg-white/10' : 'border-navy text-navy hover:bg-navy/5'}`}>{ctaSecondary.label}</a>}
       </div>
     </div>
     {parsedStats.length > 0 && (
-      <div class={`grid grid-cols-2 ${gridClass} gap-4 pt-8 border-t reveal ${isDark ? 'border-white/10' : 'border-slate/10'}`} style="transition-delay: 240ms;">
+      <div class={`grid grid-cols-2 ${gridClass} gap-6 pt-10 border-t animate-fade-up ${isDark ? 'border-white/10' : 'border-slate-200'}`} style="animation-delay: 320ms; animation-fill-mode: both;">
         {parsedStats.map((s) => (
           <div>
-            <div class="hero-stat-value text-2xl md:text-3xl font-display font-medium text-orange" data-target={s.value}>{s.value}</div>
-            {s.label && <div class={`text-xs uppercase tracking-wide mt-1 ${isDark ? 'text-white/65' : 'text-slate'}`}>{s.label}</div>}
+            <div class="hero-stat-value font-display text-3xl md:text-4xl font-medium text-orange" data-target={s.value}>{s.value}</div>
+            {s.label && <div class={`text-xs uppercase tracking-[0.15em] mt-2 ${isDark ? 'text-white/55' : 'text-slate-600'}`}>{s.label}</div>}
           </div>
         ))}
       </div>

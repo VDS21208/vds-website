@@ -1,0 +1,31 @@
+---
+import Icon from '../icons/Icon.astro';
+const steps = [
+  { n: 1, icon: "truck", title: "Deploy", body: "VDS rolls a solar-autonomous trailer onto your site. Setup in under 20 minutes — one operator, no tools.", time: "< 72hr" },
+  { n: 2, icon: "eye", title: "Detect", body: "AI VisionStream watches every camera with intrusion zones, virtual tripwires, LPR, and time-of-day rules.", time: "24/7" },
+  { n: 3, icon: "shield", title: "Verify", body: "Our 24/7 US SOC operator confirms the threat with a human eye before escalation. 97% false alarm reduction.", time: "< 60s" },
+  { n: 4, icon: "zap", title: "Deter", body: "Audio talk-down through the trailer PA. Direct LE dispatch with live video. Full incident report filed.", time: "Real-time" },
+];
+---
+<section class="py-20 md:py-28 bg-white">
+  <div class="container-main">
+    <div class="max-w-3xl mb-14 text-center mx-auto reveal">
+      <div class="eyebrow mb-3 justify-center" style="display:inline-flex">How it works</div>
+      <h2 class="font-display mb-4 text-navy">Deploy. Detect. Verify. Deter.</h2>
+      <p class="text-lg text-slate-600">Four steps. One stack. Built and operated by VDS end-to-end.</p>
+    </div>
+    <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-5 reveal">
+      {steps.map((s) => (
+        <div class="process-step group">
+          <div class="flex items-center gap-3 mb-3">
+            <div class="process-step-number">{s.n}</div>
+            <div class="text-orange"><Icon name={s.icon} size={28} /></div>
+          </div>
+          <h3 class="font-display text-2xl mb-2 text-navy">{s.title}</h3>
+          <p class="text-sm text-slate-600 leading-relaxed mb-3">{s.body}</p>
+          <div class="text-xs uppercase tracking-wider text-orange font-medium">{s.time}</div>
+        </div>
+      ))}
+    </div>
+  </div>
+</section>

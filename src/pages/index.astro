@@ -1,22 +1,20 @@
 ---
 import { getCollection } from 'astro:content';
 import Layout from '../layouts/Layout.astro';
-import HeroImage from '../components/hero/HeroImage.astro';
-import TrustStrip from '../components/sections/TrustStrip.astro';
+import TrustMarquee from '../components/sections/TrustMarquee.astro';
+import PinScrollShowcase from '../components/sections/PinScrollShowcase.astro';
+import MagazineIndustries from '../components/sections/MagazineIndustries.astro';
+import ProcessSteps from '../components/sections/ProcessSteps.astro';
+import NumberMarquee from '../components/sections/NumberMarquee.astro';
+import CaseStudyApple from '../components/sections/CaseStudyApple.astro';
 import FAQAccordion from '../components/sections/FAQAccordion.astro';
 import FinalCTAStrip from '../components/sections/FinalCTAStrip.astro';
-import Card from '../components/ui/Card.astro';
 import SchemaFAQ from '../components/seo/SchemaFAQ.astro';
+import Icon from '../components/icons/Icon.astro';
 
 const all = await getCollection('pages');
 const entry = all.find((e) => e.data.url === '/');
-const home = entry?.data || {
-  seoTitle: "VDS — Mobile Security Infrastructure", metaDescription: "Solar-autonomous trailers + AI VMS + 24/7 US SOC.",
-  h1: "Security infrastructure.", heroSubhead: "Solar-autonomous hardware. AI VisionStream cloud platform. 24/7 in-house US Security Operations Center. Under one roof.",
-  heroEyebrow: "HARDWARE + CLOUD VMS + 24/7 US SOC",
-  heroStats: ["$1,500/mo · Starting price", "< 30 min · Deploy time", "97% · False alarm cut", "500+ · Deployments"],
-  faq: []
-};
+const home = entry?.data || { seoTitle: "VDS — Mobile Security Infrastructure", metaDescription: "Solar-autonomous trailers + AI VMS + 24/7 US SOC.", faq: [] };
 ---
 <Layout
   title={home.seoTitle}
@@ -28,112 +26,164 @@ const home = entry?.data || {
 >
   <SchemaFAQ faqs={home.faq || []} />
 
-  <section class="relative overflow-hidden bg-navy text-white">
+  <!-- CINEMATIC HERO -->
+  <section class="relative overflow-hidden bg-navy text-white min-h-[92vh] flex items-center" data-hero-spotlight data-no-reveal>
     <div class="hero-bg-image" style="background-image: url(/assets/webflow/hero-security-1.avif)"></div>
-    <div class="container-main py-20 md:py-28 lg:py-32 relative z-10">
-      <div class="max-w-3xl">
-        <div class="eyebrow mb-4">{home.heroEyebrow || "MOBILE SECURITY INFRASTRUCTURE"}</div>
-        <h1 class="text-hero font-display mb-6 leading-tight">
+    <div class="hero-orb-layer">
+      <div class="gradient-orb gradient-orb-orange float-slow" style="width: 700px; height: 700px; top: -200px; right: -200px;"></div>
+      <div class="gradient-orb gradient-orb-blue" style="width: 500px; height: 500px; bottom: -150px; left: -150px; animation-delay: -8s;"></div>
+      <div class="gradient-orb gradient-orb-gold" style="width: 400px; height: 400px; top: 40%; right: 30%; opacity: 0.2; animation-delay: -4s;"></div>
+    </div>
+    <div class="hero-grid-pattern"></div>
+    <div class="hero-spotlight"></div>
+
+    <div class="container-wide py-24 md:py-32 relative z-10 w-full">
+      <div class="max-w-5xl">
+        <div class="inline-flex items-center gap-2 mb-8 animate-fade-up" style="animation-fill-mode: both;">
+          <span class="pulse-dot"></span>
+          <span class="text-xs uppercase tracking-[0.2em] text-white/70">Now deploying · Q2 2026</span>
+        </div>
+        <h1 class="headline-mega font-display mb-8 animate-fade-up" style="animation-delay: 80ms; animation-fill-mode: both;">
           Security infrastructure.<br>
-          <span class="text-orange">Not just cameras.</span>
+          <span class="gradient-text">Not just cameras.</span>
         </h1>
-        <p class="text-lg md:text-xl text-white/80 mb-8 leading-relaxed max-w-2xl">
-          {home.heroSubhead || "Solar-autonomous hardware. AI VisionStream cloud platform. 24/7 in-house US SOC. Under one roof."}
+        <p class="text-xl md:text-2xl text-white/85 mb-12 max-w-3xl leading-relaxed animate-fade-up font-light" style="animation-delay: 160ms; animation-fill-mode: both;">
+          Solar-autonomous hardware. AI VisionStream cloud platform. 24/7 in-house US Security Operations Center.
+          <span class="block mt-2 text-white">Under one roof.</span>
         </p>
-        <div class="flex flex-wrap gap-3 mb-12">
-          <a href="/request-a-quote" class="btn-primary btn-large">Request a free quote →</a>
+        <div class="flex flex-wrap gap-3 mb-20 animate-fade-up" style="animation-delay: 240ms; animation-fill-mode: both;">
+          <a href="/request-a-quote" class="btn-primary btn-large">Request a free quote <Icon name="arrow-right" size={18} /></a>
           <a href="/products" class="btn-secondary btn-large border-white text-white hover:bg-white/10">See our products</a>
         </div>
-        <div class="grid grid-cols-2 md:grid-cols-4 gap-4 pt-8 border-t border-white/10">
-          {(home.heroStats || []).map((s) => {
-            const parts = s.split(/\s+·\s+|\s{2,}/);
-            return (
-              <div>
-                <div class="text-2xl md:text-3xl font-display font-medium text-orange">{parts[0]}</div>
-                <div class="text-xs uppercase tracking-wide mt-1 text-white/60">{parts.slice(1).join(' ')}</div>
-              </div>
-            );
-          })}
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-6 md:gap-10 pt-10 border-t border-white/10 animate-fade-up" style="animation-delay: 320ms; animation-fill-mode: both;">
+          <div>
+            <div class="font-display text-4xl md:text-5xl font-medium text-orange leading-none" data-target="$1,500/mo">$1,500/mo</div>
+            <div class="text-xs uppercase tracking-[0.15em] text-white/50 mt-3">Starting price</div>
+          </div>
+          <div>
+            <div class="font-display text-4xl md:text-5xl font-medium text-orange leading-none" data-target="< 30 min">&lt; 30 min</div>
+            <div class="text-xs uppercase tracking-[0.15em] text-white/50 mt-3">Deploy time</div>
+          </div>
+          <div>
+            <div class="font-display text-4xl md:text-5xl font-medium text-orange leading-none" data-target="97%">97%</div>
+            <div class="text-xs uppercase tracking-[0.15em] text-white/50 mt-3">False alarm cut</div>
+          </div>
+          <div>
+            <div class="font-display text-4xl md:text-5xl font-medium text-orange leading-none" data-target="500+">500+</div>
+            <div class="text-xs uppercase tracking-[0.15em] text-white/50 mt-3">Deployments</div>
+          </div>
         </div>
       </div>
     </div>
+
+    <!-- Scroll indicator -->
+    <div class="absolute bottom-8 left-1/2 -translate-x-1/2 text-white/40 text-xs uppercase tracking-[0.2em] flex flex-col items-center gap-2 animate-fade-up" style="animation-delay: 600ms; animation-fill-mode: both;">
+      <span>Scroll</span>
+      <span class="float-slow"><Icon name="chevron-down" size={20} /></span>
+    </div>
   </section>
 
-  <TrustStrip />
+  <TrustMarquee />
 
-  <section class="py-20 bg-white">
-    <div class="container-main">
-      <div class="text-center max-w-2xl mx-auto mb-12">
+  <!-- THE PROBLEM (refined) -->
+  <section class="py-24 md:py-32 bg-white relative">
+    <div class="container-wide">
+      <div class="max-w-3xl mb-16 reveal">
         <div class="eyebrow mb-3">The problem</div>
-        <h2 class="text-h2 font-display mb-4">The three gaps in site security</h2>
-        <p class="text-slate">Most sites are protected by some combination of three things — and each has a fatal flaw.</p>
+        <h2 class="font-display mb-5 text-navy">The three gaps in site security.</h2>
+        <p class="text-xl text-slate-600 font-light leading-relaxed">Most sites lean on some combination of three things. Each has a fatal flaw.</p>
       </div>
-      <div class="grid md:grid-cols-3 gap-6">
-        <Card title="Guards: expensive and inconsistent" description="$60K–$110K per FTE per year for 24/7 coverage. No video evidence." cta="Compare VDS vs guards" href="/compare/vds-vs-security-guards" />
-        <Card title="Fixed cameras: can't move" description="Wired power and network requirements add days of install lead time." cta="Compare VDS vs fixed cameras" href="/compare/vds-vs-fixed-cameras" />
-        <Card title="Smart-city programs: exposed data" description="Public ALPR networks have exposed footage. Jan 2026 Flock event." cta="See our privacy model" href="/about-us/trust-center" />
-      </div>
-    </div>
-  </section>
-
-  <section class="py-20 bg-offwhite">
-    <div class="container-main">
-      <div class="text-center max-w-2xl mx-auto mb-12">
-        <div class="eyebrow mb-3">Flagship products</div>
-        <h2 class="text-h2 font-display mb-4">Three trailers, every site</h2>
-      </div>
-      <div class="grid md:grid-cols-3 gap-6">
-        <Card variant="dark" href="/products/sky-guard-mobile-surveillance-trailer" eyebrow="Flagship · $2,200/mo" title="Sky Guard MSU" description="Thermal + radar + 4K + LPR + active deterrence in one solar-autonomous trailer." cta="Spec sheet" />
-        <Card variant="dark" href="/products/swift-deploy-surveillance-trailer" eyebrow="Most popular · $1,500/mo" title="Swift Deploy" description="HD PTZ with 30x optical zoom, dual-spectrum night vision, AI analytics." cta="Spec sheet" />
-        <Card variant="dark" href="/products/boundary-guard-pro" eyebrow="Perimeter · $1,800/mo" title="Boundary Guard Pro" description="500+ linear feet of fence-line coverage with no blind spots." cta="Spec sheet" />
-      </div>
-    </div>
-  </section>
-
-  <section class="py-20 bg-navy text-white">
-    <div class="container-main">
-      <div class="text-center max-w-2xl mx-auto mb-12">
-        <div class="eyebrow mb-3">Case study</div>
-        <h2 class="text-h2 font-display mb-2">$340,800 saved in 12 months</h2>
-        <p class="text-white/70">National GC · $28M Mid-Atlantic project · 2 Swift Deploy + 3 Solar Camera Poles</p>
-      </div>
-      <div class="grid md:grid-cols-3 gap-6 max-w-4xl mx-auto">
-        <div class="bg-white/5 border-l-4 border-orange rounded-md p-6 text-center"><div class="text-3xl font-display text-orange mb-2">73%</div><div class="text-xs uppercase tracking-wider text-white/60">Theft reduction</div></div>
-        <div class="bg-white/5 border-l-4 border-orange rounded-md p-6 text-center"><div class="text-3xl font-display text-orange mb-2">$0</div><div class="text-xs uppercase tracking-wider text-white/60">Insurance claims</div></div>
-        <div class="bg-white/5 border-l-4 border-orange rounded-md p-6 text-center"><div class="text-3xl font-display text-orange mb-2">$32K → $4K</div><div class="text-xs uppercase tracking-wider text-white/60">Monthly security cost</div></div>
-      </div>
-      <div class="text-center mt-8">
-        <a href="/resources/case-studies/mid-atlantic-gc" class="inline-flex items-center text-orange hover:text-white text-sm font-medium">Read the full case study →</a>
+      <div class="grid md:grid-cols-3 gap-6 reveal reveal-children">
+        <a href="/compare/vds-vs-security-guards" class="card-hover cursor-spotlight bg-white border border-slate-200 rounded-xl p-8 group">
+          <div class="flex items-center justify-between mb-6">
+            <div class="text-orange"><Icon name="shield" size={32} /></div>
+            <span class="text-xs uppercase tracking-wider text-slate-400">Gap #1</span>
+          </div>
+          <h3 class="font-display text-2xl mb-3 text-navy group-hover:text-orange transition-colors">Security guards</h3>
+          <p class="text-slate-600 leading-relaxed mb-5">$60K–$110K per FTE for 24/7 coverage. Inconsistent. No video evidence. Documented sleeping-on-shift problem.</p>
+          <div class="text-sm text-orange font-medium inline-flex items-center gap-2 group-hover:gap-3 transition-all">VDS vs guards <Icon name="arrow-right" size={16} /></div>
+        </a>
+        <a href="/compare/vds-vs-fixed-cameras" class="card-hover cursor-spotlight bg-white border border-slate-200 rounded-xl p-8 group">
+          <div class="flex items-center justify-between mb-6">
+            <div class="text-orange"><Icon name="camera" size={32} /></div>
+            <span class="text-xs uppercase tracking-wider text-slate-400">Gap #2</span>
+          </div>
+          <h3 class="font-display text-2xl mb-3 text-navy group-hover:text-orange transition-colors">Fixed cameras</h3>
+          <p class="text-slate-600 leading-relaxed mb-5">Wired power + network adds 5–15 days of install lead time. Can't move when the project does.</p>
+          <div class="text-sm text-orange font-medium inline-flex items-center gap-2 group-hover:gap-3 transition-all">VDS vs fixed cameras <Icon name="arrow-right" size={16} /></div>
+        </a>
+        <a href="/about-us/trust-center" class="card-hover cursor-spotlight bg-white border border-slate-200 rounded-xl p-8 group">
+          <div class="flex items-center justify-between mb-6">
+            <div class="text-orange"><Icon name="lock" size={32} /></div>
+            <span class="text-xs uppercase tracking-wider text-slate-400">Gap #3</span>
+          </div>
+          <h3 class="font-display text-2xl mb-3 text-navy group-hover:text-orange transition-colors">Public ALPR networks</h3>
+          <p class="text-slate-600 leading-relaxed mb-5">Smart-city programs have exposed footage. Reference: Jan 2026 Flock event — 67 cameras publicly streamed.</p>
+          <div class="text-sm text-orange font-medium inline-flex items-center gap-2 group-hover:gap-3 transition-all">See our privacy model <Icon name="arrow-right" size={16} /></div>
+        </a>
       </div>
     </div>
   </section>
 
-  <section class="py-20 bg-white">
-    <div class="container-main">
-      <div class="text-center max-w-2xl mx-auto mb-12">
-        <div class="eyebrow mb-3">Industries</div>
-        <h2 class="text-h2 font-display mb-4">17 verticals · one platform</h2>
+  <!-- PROCESS STEPS -->
+  <ProcessSteps />
+
+  <!-- BIG NUMBER MARQUEE -->
+  <NumberMarquee />
+
+  <!-- PIN SCROLL PRODUCT SHOWCASE -->
+  <PinScrollShowcase />
+
+  <!-- APPLE-STYLE BIG CASE STUDY -->
+  <CaseStudyApple />
+
+  <!-- MAGAZINE INDUSTRIES -->
+  <MagazineIndustries />
+
+  <!-- COMPARISON PREVIEW -->
+  <section class="py-24 md:py-32 bg-navy text-white relative overflow-hidden" data-no-reveal>
+    <div class="dot-pattern absolute inset-0 opacity-25"></div>
+    <div class="hero-orb-layer">
+      <div class="gradient-orb gradient-orb-orange" style="width: 600px; height: 600px; top: 20%; right: -200px; opacity: 0.2;"></div>
+    </div>
+    <div class="container-wide relative z-10">
+      <div class="max-w-3xl mb-12 reveal">
+        <div class="eyebrow mb-3">Compare</div>
+        <h2 class="font-display mb-5">Why buyers leave the leaders.</h2>
+        <p class="text-xl text-white/65 font-light">Hardware-locked. Public surveillance backlash. $1,799/cam/yr license fees. Honest comparisons of every alternative — including where they win.</p>
       </div>
-      <div class="grid grid-cols-2 md:grid-cols-3 gap-4 max-w-4xl mx-auto">
-        <Card href="/industries/construction-site-security" title="Construction" description="$340,800 saved per project." />
-        <Card href="/industries/utility-substation-security" title="Utilities" description="NERC CIP-014. Substation perimeter." />
-        <Card href="/industries/retail-shopping-center-security" title="Retail" description="ORC + parking lot." />
-        <Card href="/industries/automotive-dealership-security" title="Auto dealerships" description="Catalytic converter + vehicle theft." />
-        <Card href="/industries/parking-lot-garage-security" title="Parking & garages" description="24/7 after-hours coverage." />
-        <Card href="/industries/public-safety-law-enforcement-surveillance" title="Government & LE" description="NDAA Section 889." />
+      <div class="grid md:grid-cols-3 gap-5 reveal reveal-children">
+        {[
+          { competitor: "vs. LVT", angle: "All the autonomy. None of the lock-in.", body: "$38K-$52K hardware plus mandatory cloud sub. VDS rental from $1,500/mo. Camera-agnostic, your data stays yours.", url: "/compare/vds-vs-lvt" },
+          { competitor: "vs. Flock", angle: "Private security. Not public surveillance.", body: "Jan 2026: 67 Flock cameras exposed publicly. 30+ city contract cancellations since. VDS cameras stream to your account on AWS US-only.", url: "/compare/vds-vs-flock-safety" },
+          { competitor: "vs. Verkada", angle: "No $1,799/cam/yr. No 2021 hack record.", body: "Cloud security questionnaires don't survive Verkada's track record. VDS is camera-agnostic with NDAA from day one.", url: "/compare/vds-vs-verkada" },
+        ].map((c) => (
+          <a href={c.url} class="card-hover cursor-spotlight group relative glass rounded-xl p-7">
+            <div class="text-xs uppercase tracking-[0.15em] text-orange font-medium mb-4">{c.competitor}</div>
+            <h3 class="font-display text-2xl text-white mb-4 leading-tight">{c.angle}</h3>
+            <p class="text-sm text-white/70 mb-6 leading-relaxed">{c.body}</p>
+            <div class="text-sm text-orange font-medium inline-flex items-center gap-2 group-hover:gap-3 transition-all">See comparison <Icon name="arrow-right" size={16} /></div>
+          </a>
+        ))}
       </div>
-      <div class="text-center mt-8">
-        <a href="/industries" class="inline-flex items-center text-orange hover:text-orange-dark text-sm font-medium">See all 17 industries →</a>
+      <div class="text-center mt-14 reveal">
+        <a href="/compare" class="inline-flex items-center gap-2 text-white hover:text-orange transition-all font-medium border-b border-white/30 hover:border-orange pb-1">See all 11 comparison pages <Icon name="arrow-right" size={16} /></a>
       </div>
     </div>
   </section>
 
-  {home.faq && home.faq.length > 0 && <FAQAccordion heading="Frequently asked questions" faqs={home.faq} />}
+  <FAQAccordion heading="Frequently asked questions" faqs={[
+    { q: "How much does a mobile surveillance trailer cost?", a: "VDS mobile surveillance trailers rent from $1,500 to $2,200 per month depending on configuration. Purchase prices start at $38,000 for the Sky Guard MSU. Pricing includes the trailer, AI VisionStream platform access, and the option to add 24/7 SOC monitoring at $399/site/month." },
+    { q: "How fast can VDS deploy to my site?", a: "Most sites are operational within 72 hours of contract signing in our 30-state service area. Same-day or 24-hour deployment is available from our Pikesville HQ for the MD/DC/N.VA region." },
+    { q: "Is VDS NDAA Section 889 compliant?", a: "Yes. All VDS hardware is NDAA Section 889 compliant, assembled in Pikesville, MD. We do not use Dahua or Hikvision components." },
+    { q: "What is the SOC response time?", a: "Under 60 seconds from alert to operator acknowledgement. AI pre-filtering reduces false alarms by 97%. Confirmed threats trigger audio talk-down through the trailer PA and direct law enforcement dispatch with live video." },
+    { q: "Does VDS work with the cameras I already have?", a: "Yes. AI VisionStream is camera-agnostic and supports any ONVIF/RTSP camera. We do not support Dahua or Hikvision under NDAA Section 889." }
+  ]} />
 
   <FinalCTAStrip
-    heading={home.finalCTAHeading || "Your site. Protected. Starting this week."}
-    body={home.finalCTABody || "Most quotes come back within one business hour."}
-    buttons={home.finalCTAButtons && home.finalCTAButtons.length ? home.finalCTAButtons : [
+    heading="Your site. Protected. Starting this week."
+    body="Most quote requests get a response within one business hour."
+    buttons={[
       { label: "Request a quote", url: "/request-a-quote" },
       { label: "Schedule a demo", url: "/schedule-a-demo" }
     ]}

@@ -1,0 +1,38 @@
+---
+import Icon from '../icons/Icon.astro';
+---
+<section class="bg-white py-24 md:py-32 relative overflow-hidden">
+  <div class="container-wide relative">
+    <div class="max-w-5xl mx-auto text-center mb-16 reveal">
+      <div class="eyebrow mb-4 justify-center" style="display:inline-flex">A customer story</div>
+      <div class="headline-massive text-orange mb-2" data-target="$340,800">$340,800</div>
+      <p class="text-xl md:text-2xl text-slate-700 font-display">saved in 12 months on a single project.</p>
+    </div>
+    <div class="grid lg:grid-cols-2 gap-12 lg:gap-20 max-w-6xl mx-auto items-center">
+      <div class="reveal">
+        <h3 class="font-display text-3xl md:text-4xl text-navy mb-5 leading-tight">National GC. $28M Mid-Atlantic project.<br>Two Swift Deploy + three Solar Camera Poles.</h3>
+        <p class="text-lg text-slate-600 leading-relaxed mb-8">
+          Before VDS: two to three insurance claims a month. After VDS: zero claims in twelve months. Monthly security spend cut from $32,400 to $4,000.
+        </p>
+        <div class="grid grid-cols-3 gap-3 mb-8">
+          <div class="border-l-2 border-orange pl-4 py-2"><div class="font-display text-3xl text-navy" data-target="73%">73%</div><div class="text-xs uppercase tracking-wider text-slate-500 mt-1">Theft reduction</div></div>
+          <div class="border-l-2 border-orange pl-4 py-2"><div class="font-display text-3xl text-navy" data-target="$0">$0</div><div class="text-xs uppercase tracking-wider text-slate-500 mt-1">Claims filed</div></div>
+          <div class="border-l-2 border-orange pl-4 py-2"><div class="font-display text-3xl text-navy" data-target="8.1x">8.1x</div><div class="text-xs uppercase tracking-wider text-slate-500 mt-1">Cost reduction</div></div>
+        </div>
+        <a href="/resources/case-studies/mid-atlantic-gc" class="inline-flex items-center gap-2 text-orange hover:gap-3 transition-all font-medium text-lg">Read the full case study <Icon name="arrow-right" size={20} /></a>
+      </div>
+      <div class="reveal">
+        <div class="image-card aspect-[4/5] zoom-on-hover">
+          <div class="image-card-bg" style="background-image: url(/assets/webflow/hero-security-2.avif)"></div>
+          <div class="image-card-overlay" style="background: linear-gradient(0deg, rgba(11,17,32,0.92) 0%, rgba(11,17,32,0.3) 50%, transparent 100%);"></div>
+          <div class="image-card-content">
+            <blockquote class="text-white font-display text-xl md:text-2xl leading-snug italic mb-4">
+              "We had been filing two or three claims a month before VDS. In twelve months since, we've filed zero. The cameras pay for themselves every time a theft does not happen."
+            </blockquote>
+            <footer class="text-sm text-white/65 font-body not-italic">— VP of Operations, National GC, Mid-Atlantic</footer>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

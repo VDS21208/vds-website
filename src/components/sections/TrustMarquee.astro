@@ -1,0 +1,19 @@
+---
+const badges = [
+  "NDAA Section 889 Compliant", "AWS Cloud Partner", "Assembled in Pikesville, MD",
+  "Camera Agnostic", "30+ States", "Est. 2017", "Sourcewell Awarded", "24/7 US SOC",
+  "NERC CIP-014 Documentation", "SOC 2 In Progress",
+];
+---
+<section class="bg-navy text-white py-6 border-y border-white/5">
+  <div class="marquee">
+    <div class="marquee-track">
+      {[...badges, ...badges].map((b) => (
+        <div class="flex items-center gap-3 px-2 py-2 whitespace-nowrap">
+          <span class="w-1 h-1 rounded-full bg-orange"></span>
+          <span class="text-xs uppercase tracking-[0.2em] text-white/60 font-medium">{b}</span>
+        </div>
+      ))}
+    </div>
+  </div>
+</section>
