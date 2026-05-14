@@ -113,7 +113,12 @@ function makeCollection(name, label, path, extra = []) {
     ui: {
       filename: { readonly: false },
       router: ({ document }) => {
-        return document._sys.relativePath ? `/${name}/${document._sys.filename}/` : "/";
+        const url = document?.url || document?.data?.url;
+        if (url) {
+          const clean = url.startsWith("/") ? url : "/" + url;
+          return clean.endsWith("/") ? clean : clean + "/";
+        }
+        return "/";
       }
     },
     fields: [

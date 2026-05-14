@@ -126,7 +126,14 @@ function makeCollection(name: string, label: string, path: string, extra: any[] 
     ui: {
       filename: { readonly: false },
       router: ({ document }: any) => {
-        return document._sys.relativePath ? `/${name}/${document._sys.filename}/` : "/";
+        // Prefer the frontmatter `url` field (matches real site routes)
+        const url = document?.url || document?.data?.url;
+        if (url) {
+          // Normalize trailing slash
+          const clean = url.startsWith('/') ? url : '/' + url;
+          return clean.endsWith('/') ? clean : clean + '/';
+        }
+        return "/";
       },
     },
     fields: [
