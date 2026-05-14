@@ -39,7 +39,7 @@ finalCTAHeading: Need a trailer in 14 days?
 finalCTABody: Send your site address, duration, and camera count. We confirm availability and lock the rate within one business day.
 finalCTAButtons:
 - label: Request Rental Quote
-  url: See Trailer Specs
+  url: /contact-us/
 schemaType: Article
 internalLinks: /solutions, /solutions/mobile-surveillance-trailer-cost, /solutions/buy-vs-rent-mobile-surveillance-trailer, /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /products/boundary-guard-pro
 canonical: https://visiondetectionsystems.com/solutions/mobile-surveillance-trailer-rental-cost

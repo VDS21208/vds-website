@@ -35,7 +35,7 @@ finalCTAHeading: See the matrix on your sites
 finalCTABody: Send three site addresses. We'll come back with a unit plan, a per-site monthly, and a side-by-side against your current LVT footprint inside 5 business days.
 finalCTAButtons:
 - label: Book the architecture call
-  url: Email three addresses
+  url: /contact-us/
 schemaType: Article
 internalLinks: /compare, /platform, /platform/soc, /hardware/sky-guard-msu, /resources/case-studies/mid-atlantic-gc
 canonical: https://visiondetectionsystems.com/compare/vds-vs-lvt

@@ -35,7 +35,7 @@ finalCTAHeading: Chicago retail loss to ComEd substation, one provider
 finalCTABody: BIPA-aware deployment, US-staffed SOC, 5-7 day lead time. Tell us the site and we'll quote unit count, monthly cost, and procurement path.
 finalCTAButtons:
 - label: Get an Illinois quote
-  url: See ORC retail brief
+  url: /contact-us/
 schemaType: LocalBusiness
 internalLinks: /industries/retail-orc, /compliance/bipa, /procurement/omnia-sourcewell, /products/swift-deploy-surveillance-trailer
 canonical: https://visiondetectionsystems.com/locations/illinois

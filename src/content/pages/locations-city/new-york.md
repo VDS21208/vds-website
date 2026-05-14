@@ -35,7 +35,7 @@ finalCTAHeading: NYC mobile surveillance, on private property only
 finalCTABody: POST Act compliant. No facial recognition. Customer-owned footage. Tell us where the job site is.
 finalCTAButtons:
 - label: Request a NYC quote
-  url: Talk to a deployment engineer
+  url: /contact-us/
 schemaType: LocalBusiness
 internalLinks: /locations/mobile-surveillance-trailers, /locations/new-york, /products/sky-guard-mobile-surveillance-trailer, /industries/construction-security, /industries/retail-orc, /compliance/post-act
 canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailersnew-york

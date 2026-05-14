@@ -14,7 +14,7 @@ heroCTAPrimary:
   label: Start application [#application]
   url: /request-a-quote
 heroCTASecondary:
-  label: Read the program details [/partners/dealer-program]
+  label: Read the program details 
   url: /request-a-quote
 heroStats:
 - 20-min application
@@ -35,7 +35,7 @@ finalCTAHeading: 20 minutes now. 30 days to first deployment.
 finalCTABody: Start the application below, or email the channel team if you want a call before applying.
 finalCTAButtons:
 - label: Start application [#application]
-  url: Email channel team [mailto:partners@visiondetectionsystems.com]
+  url: /contact-us/
 schemaType: WebPage
 internalLinks: /partners, /partners/dealer-program, /partners/white-label, /partners/financing
 canonical: https://visiondetectionsystems.com/partners/become-a-dealer

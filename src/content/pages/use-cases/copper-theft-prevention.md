@@ -37,7 +37,7 @@ finalCTAHeading: One copper theft pays for years of VDS coverage.
 finalCTABody: 30-minute call with an engineer. We'll review your substation locations and propose a deployment plan within 48 hours.
 finalCTAButtons:
 - label: Get a Quote
-  url: Book a Site Walk
+  url: /contact-us/
 schemaType: Article
 internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/boundary-guard-pro, /platform/platform, /platform/soc, /industries/utility-substation-security, /industries/construction-site-security, /industries/utility-substation-security
 canonical: https://visiondetectionsystems.com/use-cases/copper-theft-prevention

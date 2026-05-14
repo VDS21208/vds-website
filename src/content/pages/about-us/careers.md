@@ -35,7 +35,7 @@ finalCTAHeading: One email. One subject line. We read everything.
 finalCTABody: Send your resume to careers@visiondetectionsystems.com with the role name in the subject line. Speculative submissions welcome.
 finalCTAButtons:
 - label: Submit resume [mailto:careers@visiondetectionsystems.com]
-  url: About VDS [/about]
+  url: /about/
 schemaType: JobPosting (per role), AboutPage
 internalLinks: /about, /about-us/leadership, /about-us/trust-center
 canonical: https://visiondetectionsystems.com/about-us/careers

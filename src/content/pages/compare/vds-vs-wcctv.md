@@ -35,7 +35,7 @@ finalCTAHeading: Swap a WCCTV trailer on your current project
 finalCTABody: Send the site address and the WCCTV end-date. We'll deliver a like-for-like replacement and handle the WCCTV pickup coordination.
 finalCTAButtons:
 - label: Book the architecture call
-  url: Send the site address
+  url: /contact-us/
 schemaType: Article
 internalLinks: /compare, /hardware/sky-guard-msu, /verticals/construction, /platform/soc
 canonical: https://visiondetectionsystems.com/compare/vds-vs-wcctv

@@ -26,7 +26,7 @@ finalCTAHeading: Still have a question?
 finalCTABody: If your question is not here, ask. Our engineering and SOC teams reply directly — most responses inside 24 hours.
 finalCTAButtons:
 - label: Ask a question
-  url: Request an assessment
+  url: /request-a-quote/
 schemaType: FAQPage
 canonical: https://visiondetectionsystems.com/resources/faq
 ogTitle: The 30 questions buyers ask most

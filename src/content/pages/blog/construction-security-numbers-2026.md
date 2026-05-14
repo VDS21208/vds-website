@@ -26,7 +26,7 @@ finalCTAHeading: Run your own four numbers
 finalCTABody: A 30-minute call covers your current program, your loss baseline, and a sketch of what the four numbers would look like under VDS monitoring.
 finalCTAButtons:
 - label: Request an assessment
-  url: Read the case study
+  url: /resources/case-studies/
 schemaType: Article
 internalLinks: /resources/case-studies/mid-atlantic-gc, /industries/construction-site-security, /products/swift-deploy-surveillance-trailer, /platform/soc, /resources/blog/60-second-soc
 canonical: https://visiondetectionsystems.com/resources/blog/construction-security-numbers-2026

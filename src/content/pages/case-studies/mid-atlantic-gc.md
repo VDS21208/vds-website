@@ -27,7 +27,7 @@ finalCTAHeading: Scope a similar deployment on your sites
 finalCTABody: A 30-minute call covers your active job count, threat profile, and monthly loss baseline. We send back a written configuration and price inside 48 hours.
 finalCTAButtons:
 - label: Request an assessment
-  url: Download the PDF
+  url: /contact-us/
 schemaType: Article
 internalLinks: /products/swift-deploy-surveillance-trailer, /products/solar-camera-pole, /industries/construction-site-security, /platform/soc, /contact-us
 canonical: https://visiondetectionsystems.com/resources/case-studies/mid-atlantic-gc

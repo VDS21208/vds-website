@@ -35,7 +35,7 @@ finalCTAHeading: Find your state, find your lead time
 finalCTABody: Pick a state page for industries, case studies, and procurement details. Or talk to deployment ops directly if you're in a state we haven't published yet.
 finalCTAButtons:
 - label: Talk to deployment ops
-  url: View pricing
+  url: /request-a-quote/
 schemaType: LocalBusiness
 canonical: https://visiondetectionsystems.com/locations
 ogTitle: Mobile surveillance coverage, state by state

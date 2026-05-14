@@ -34,7 +34,7 @@ finalCTAHeading: Read the guide, then tour the SOC
 finalCTABody: After you read the PDF, schedule a live SOC walkthrough. You will see operators handling real events on real cameras.
 finalCTAButtons:
 - label: Download the Guide (PDF)
-  url: Schedule a SOC Tour
+  url: /schedule-a-demo/
 schemaType: Book
 internalLinks: /services/24-7-soc, /services/video-retrieval, /platform/platform, /guides/mobile-surveillance-trailers
 canonical: https://visiondetectionsystems.com/guides/remote-video-monitoring

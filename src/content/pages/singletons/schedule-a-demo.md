@@ -14,7 +14,7 @@ heroCTAPrimary:
   label: Book a time [#calendly]
   url: /request-a-quote
 heroCTASecondary:
-  label: Request a quote instead [/request-a-quote]
+  label: Request a quote instead 
   url: /request-a-quote
 heroStats:
 - 30-minute call
@@ -37,7 +37,7 @@ finalCTAHeading: 30 minutes of live platform. Pick a slot.
 finalCTABody: Book through the calendar. If your situation needs a longer or custom format, contact sales directly.
 finalCTAButtons:
 - label: Book a time [#calendly]
-  url: Contact sales [/contact]
+  url: /contact/
 schemaType: WebPage, ContactPage
 canonical: https://visiondetectionsystems.com/schedule-a-demo
 ogTitle: 30 minutes. Live platform. Live SOC.

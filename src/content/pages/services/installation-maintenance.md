@@ -39,7 +39,7 @@ finalCTAHeading: Get a site survey on the calendar.
 finalCTABody: 48-hour scheduling in metro markets. Field tech walks the site, documents existing infrastructure, and returns a scoped quote within 5 business days.
 finalCTAButtons:
 - label: Schedule site survey
-  url: Talk to a tech
+  url: /contact-us/
 schemaType: Service
 internalLinks: /services/rapid-deployment, /services/integration, /services/managed, /coverage-map
 canonical: https://visiondetectionsystems.com/services/installation-maintenance

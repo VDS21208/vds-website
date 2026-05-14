@@ -37,7 +37,7 @@ finalCTAHeading: Lease a trailer
 finalCTABody: Quote in one business day. Trailer on site in 5-10 business days. Cancel any month after 90 days.
 finalCTAButtons:
 - label: Get a Lease Quote
-  url: Talk to Sales
+  url: /contact-us/
 schemaType: WebPage
 internalLinks: /pricing, /pricing/purchase-options, /pricing/subscription-plans, /products/mobile-surveillance-trailers, /platform/soc
 canonical: https://visiondetectionsystems.com/pricing/leasing-rentals

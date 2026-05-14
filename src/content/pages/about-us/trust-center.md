@@ -11,10 +11,10 @@ h1: Trust is documented. Not asserted.
 heroEyebrow: Trust Center
 heroSubhead: Every compliance posture, encryption standard, data residency commitment, and audit timeline is published here with version dates and points of contact. If your procurement team needs evidence, this is where it lives.
 heroCTAPrimary:
-  label: Request security documentation [/contact-us]
+  label: Request security documentation 
   url: /request-a-quote
 heroCTASecondary:
-  label: Review NDAA compliance detail [/about-us/ndaa-compliance]
+  label: Review NDAA compliance detail 
   url: /request-a-quote
 heroStats:
 - NDAA Section 889
@@ -39,7 +39,7 @@ finalCTAHeading: Procurement needs evidence. Send the questionnaire.
 finalCTABody: Most security questionnaires close in 5 business days. Send yours to security@visiondetectionsystems.com or use the contact form below.
 finalCTAButtons:
 - label: Request security docs [/contact-us]
-  url: Read NDAA detail [/about-us/ndaa-compliance]
+  url: /about-us/ndaa-compliance/
 schemaType: AboutPage, WebPage
 internalLinks: /about, /about-us/ndaa-compliance, /platform, /platform/soc, /privacy-policy, /terms-of-service, /contact-us
 canonical: https://visiondetectionsystems.com/about-us/trust-center

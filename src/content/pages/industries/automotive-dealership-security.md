@@ -39,7 +39,7 @@ finalCTAHeading: Price your lot
 finalCTABody: Send us the rooftop count, lot footprint, and current security spend. We'll come back within 24 hours with a configuration and monthly pricing.
 finalCTAButtons:
 - label: Get a dealership quote
-  url: Talk to an account executive
+  url: /contact-us/
 schemaType: Service
 internalLinks: /products/swift-deploy-surveillance-trailer, /platform/lpr, /platform/soc, /pricing, /case-studies
 canonical: https://visiondetectionsystems.com/industries/automotive-dealership-security

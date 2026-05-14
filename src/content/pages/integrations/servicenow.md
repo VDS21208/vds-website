@@ -32,7 +32,7 @@ finalCTAHeading: Make physical security events tickets your team actually closes
 finalCTABody: A 30-minute call covers your ServiceNow instance topology, assignment groups, and CMDB mapping. You leave with a written integration plan and a field-mapping document.
 finalCTAButtons:
 - label: Book ServiceNow integration call
-  url: Read API + SDK docs
+  url: /contact-us/
 schemaType: Article
 internalLinks: /integrations, /platform/platform, /platform/api-sdk-access, /platform/soc
 canonical: https://visiondetectionsystems.com/integrations/servicenow

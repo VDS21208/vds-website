@@ -32,7 +32,7 @@ finalCTAHeading: Make your perimeter cameras drive your access panels.
 finalCTABody: A 30-minute call covers your OnGuard or NetBox version, input-point inventory, and lockdown logic. You leave with a written integration plan.
 finalCTAButtons:
 - label: Book LenelS2 integration call
-  url: Read API + SDK docs
+  url: /contact-us/
 schemaType: Article
 internalLinks: /integrations, /platform/platform, /platform/api-sdk-access, /platform/soc, /verticals/healthcare, /verticals/federal
 canonical: https://visiondetectionsystems.com/integrations/lenel

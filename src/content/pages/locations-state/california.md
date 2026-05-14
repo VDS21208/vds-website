@@ -35,7 +35,7 @@ finalCTAHeading: California-grade privacy posture, US-staffed SOC
 finalCTABody: We won't argue the privacy framework with you. We documented it because customers asked. Get a California-specific quote with the MSA attached.
 finalCTAButtons:
 - label: Get a California quote
-  url: Download CA MSA template
+  url: /contact-us/
 schemaType: LocalBusiness
 internalLinks: /compliance/ccpa, /industries/retail-orc, /industries/cannabis, /products/swift-deploy-surveillance-trailer
 canonical: https://visiondetectionsystems.com/locations/california

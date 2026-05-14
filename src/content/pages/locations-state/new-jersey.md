@@ -35,7 +35,7 @@ finalCTAHeading: Port Newark to PSEG, US-staffed SOC, 24-72 hour deployment
 finalCTABody: Cargo theft is measurable. We've reduced it by 87-89% in three published NJ deployments. Tell us the yard and we'll quote.
 finalCTAButtons:
 - label: Get an NJ quote
-  url: See cargo theft brief
+  url: /contact-us/
 schemaType: LocalBusiness
 internalLinks: /industries/cargo-logistics, /industries/utility-substation-security, /procurement/sourcewell, /products/sky-guard-mobile-surveillance-trailer
 canonical: https://visiondetectionsystems.com/locations/new-jersey
@@ -78,4 +78,4 @@ A drayage operator running a 22-acre container staging yard adjacent to Port New
 
 ## New Jersey compliance and procurement
 
-New Jersey has specific data retention considerations for surveillance footage near port and federally-regulated facilities. We document chain of custody, retention windows, and access controls in the NJ MSA. NDAA Section 889 compliant for federally-funded port and infrastructure work — relevant for TSA, Coast Guard, and Port Authority projects.
+New Jersey has specific data retention considerations for surveillance footage near port and federally-regulated facilities. We document chain of custody, retention windows, and access controls in the NJ MSA. NDAA Section 889 compliant for federally-funded port and infrastructure work — relevant for TSA, Coast Guard, and Port Authority projects.

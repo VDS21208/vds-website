@@ -11,10 +11,10 @@ h1: Dealer Program. Margin, support, and rules of the road.
 heroEyebrow: Dealer Program
 heroSubhead: The Authorized Dealer Program is built for security integrators and construction services firms. Margin tiers, deal registration, and program rules below.
 heroCTAPrimary:
-  label: Apply now [/partners/become-a-dealer]
+  label: Apply now 
   url: /request-a-quote
 heroCTASecondary:
-  label: Download the program guide [/assets/vds-dealer-program-guide.pdf]
+  label: Download the program guide 
   url: /request-a-quote
 heroStats:
 - Published margin tiers
@@ -37,7 +37,7 @@ finalCTAHeading: Apply, sign, certify, deploy. About 30 days.
 finalCTABody: The application is 20 minutes. We respond within 5 business days. If you want to talk before applying, the channel team is reachable directly.
 finalCTAButtons:
 - label: Apply now [/partners/become-a-dealer]
-  url: Talk to channel team [mailto:partners@visiondetectionsystems.com]
+  url: /contact-us/
 schemaType: WebPage
 internalLinks: /partners, /partners/become-a-dealer, /partners/white-label, /partners/resources, /partners/financing
 canonical: https://visiondetectionsystems.com/partners/dealer-program

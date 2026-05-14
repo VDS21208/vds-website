@@ -37,7 +37,7 @@ finalCTAHeading: Join the dealer program
 finalCTABody: Apply, get certified, start quoting. Most dealers issue their first VDS quote within 30 days of application approval.
 finalCTAButtons:
 - label: Apply to the Program
-  url: Talk to the Channel Team
+  url: /contact-us/
 schemaType: WebPage
 internalLinks: /pricing, /pricing/subscription-plans, /pricing/leasing-rentals, /pricing/purchase-options, /products/mobile-surveillance-trailers
 canonical: https://visiondetectionsystems.com/pricing/dealers

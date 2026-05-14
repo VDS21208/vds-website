@@ -41,7 +41,7 @@ finalCTAHeading: Scope the integration in 30 minutes.
 finalCTABody: Bring your systems list. We'll tell you what's a standard connector, what's a custom build, and what the timeline looks like.
 finalCTAButtons:
 - label: Scope an integration
-  url: View API docs
+  url: /contact-us/
 schemaType: Service
 internalLinks: /services/monitoring, /products/vms, /developers/api, /security/soc2
 canonical: https://visiondetectionsystems.com/services/system-integration

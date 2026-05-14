@@ -35,7 +35,7 @@ finalCTAHeading: Jacksonville-metro mobile surveillance
 finalCTABody: 60-84 hour deployment. Hurricane redeploy clause standard. NDAA 889 compliant. Tell us where the site is.
 finalCTAButtons:
 - label: Request a Jacksonville quote
-  url: Talk to a deployment engineer
+  url: /contact-us/
 schemaType: LocalBusiness
 internalLinks: /locations/mobile-surveillance-trailers, /locations/florida, /products/sky-guard-mobile-surveillance-trailer, /products/boundary-guard-pro, /industries/port-logistics, /industries/auto-dealer-security, /compliance/ndaa-889
 canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailersjacksonville

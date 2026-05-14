@@ -12,7 +12,7 @@ heroEyebrow: Effective January 2026
 heroSubhead: Published list pricing for Sky Guard MSU, Swift Deploy, and Boundary Guard Pro. SOC monitoring tiers, rental rates, multi-unit pricing, cooperative purchasing (Sourcewell, GSA Schedule), and the typical total cost of ownership for one- and three-year programs.
 heroCTAPrimary:
   label: Download the full pricing guide (PDF)
-  url: gated-form
+  url: /contact-us/
 heroCTASecondary:
   label: Book a deployment review
   url: /contact-us
@@ -37,7 +37,7 @@ finalCTAHeading: Get the procurement package
 finalCTABody: Download the 48-page guide with full TCO tables, cooperative purchasing details, and the standard SLA. Or book a 20-minute deployment review.
 finalCTAButtons:
 - label: Download the pricing guide
-  url: gated-form ; Book deployment review
+  url: /contact-us/
 schemaType: Article
 internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /products/boundary-guard-pro, /guides/roi-calculator, /guides/ndaa-compliance, /contact-us
 canonical: https://visiondetectionsystems.com/guides/pricing-guide-2026

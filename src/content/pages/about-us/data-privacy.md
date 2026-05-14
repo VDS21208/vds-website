@@ -38,7 +38,7 @@ finalCTAHeading: Privacy Review for Your Team
 finalCTABody: Customer privacy, legal, and compliance teams get the DPA, sub-processor list, data flow diagram, and regional residency attestation. Form below, one business day turnaround.
 finalCTAButtons:
 - label: Request Privacy Documentation
-  url: Read Privacy Policy
+  url: /legal/privacy-policy/
 schemaType: WebPage (Trust Center sub-page)
 internalLinks: /about-us/trust-center, /about-us/trust-center/cybersecurity, /about-us/trust-center/sla-uptime, /privacy-policy, /contact-us
 canonical: https://visiondetectionsystems.com/about-us/trust-center/data-privacy

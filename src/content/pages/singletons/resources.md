@@ -27,7 +27,7 @@ finalCTAHeading: Need something specific?
 finalCTABody: If you cannot find what you are looking for, our engineering and SOC teams can answer technical questions directly. Most replies inside 24 hours, often faster.
 finalCTAButtons:
 - label: Ask a question
-  url: Request a site assessment
+  url: /request-a-quote/
 schemaType: Organization
 canonical: https://visiondetectionsystems.com/resources
 ogTitle: Field-tested material from 500+ deployments

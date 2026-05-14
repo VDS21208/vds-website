@@ -37,7 +37,7 @@ finalCTAHeading: Buy a trailer
 finalCTABody: Quote, PO, build, ship. Typical purchase cycle is 4-6 weeks from PO. Service plan starts on delivery.
 finalCTAButtons:
 - label: Get a Purchase Quote
-  url: Talk to Sales
+  url: /contact-us/
 schemaType: WebPage + Offer
 internalLinks: /pricing, /pricing/leasing-rentals, /pricing/subscription-plans, /products/sky-guard-mobile-surveillance-trailer, /products/mobile-surveillance-trailers
 canonical: https://visiondetectionsystems.com/pricing/purchase-options

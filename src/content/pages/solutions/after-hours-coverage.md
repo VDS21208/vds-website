@@ -34,7 +34,7 @@ finalCTAHeading: 10pm to 5am should not be a coverage gap.
 finalCTABody: Send us the property type and incident history. We return a quote in 5 business days.
 finalCTAButtons:
 - label: Quote My Property
-  url: Talk to an Engineer
+  url: /contact-us/
 schemaType: Article
 internalLinks: /products/swift-deploy-surveillance-trailer, /products/sky-guard-mobile-surveillance-trailer, /features/platform, /solutions/parking, /solutions/catalytic-converter-theft-prevention
 canonical: https://visiondetectionsystems.com/solutions/parking/after-hours-coverage

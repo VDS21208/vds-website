@@ -34,7 +34,7 @@ finalCTAHeading: Renewal is closer than you think.
 finalCTABody: Tell us your renewal date and current builder's risk rate. We will show you what a documented theft-prevention program does to your premium math.
 finalCTAButtons:
 - label: Run the Numbers
-  url: Talk to an Engineer
+  url: /contact-us/
 schemaType: Article
 internalLinks: /resources/case-studies/mid-atlantic-gc, /solutions/copper-theft-prevention, /solutions/construction/equipment-theft, /products/sky-guard-mobile-surveillance-trailer, /compliance/ndaa
 canonical: https://visiondetectionsystems.com/solutions/construction/insurance-claim-reduction

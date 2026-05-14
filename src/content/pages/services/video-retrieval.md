@@ -34,7 +34,7 @@ finalCTAHeading: Need a clip pulled now?
 finalCTABody: SOC line is staffed 24/7. Existing customers, call the SOC. New customers, talk to us about adding video retrieval as part of a managed deployment.
 finalCTAButtons:
 - label: Contact the SOC
-  url: Schedule a Demo
+  url: /schedule-a-demo/
 schemaType: Service
 internalLinks: /services/24-7-soc, /platform/platform, /industries/law-enforcement, /guides/security-video-retention
 canonical: https://visiondetectionsystems.com/services/video-retrieval

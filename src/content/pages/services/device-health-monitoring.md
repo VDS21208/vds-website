@@ -34,7 +34,7 @@ finalCTAHeading: See your fleet's telemetry
 finalCTABody: We will pull anonymized health data from a comparable deployment so you can see the dashboard, the alert flow, and the monthly report format.
 finalCTAButtons:
 - label: Schedule Walkthrough
-  url: Download Service Brief
+  url: /contact-us/
 schemaType: Service
 internalLinks: /services/24-7-soc, /services/network-connectivity, /platform/platform, /hardware/mobile-surveillance-trailers
 canonical: https://visiondetectionsystems.com/services/device-health-monitoring

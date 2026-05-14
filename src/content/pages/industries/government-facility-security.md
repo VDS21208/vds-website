@@ -37,7 +37,7 @@ finalCTAHeading: Quote your agency
 finalCTABody: Send us your facility list or a site map. We will scope deployment, identify the right cooperative contract, and return pricing within one business day.
 finalCTAButtons:
 - label: Get Cooperative Pricing
-  url: Schedule a Site Walk
+  url: /schedule-a-demo/
 schemaType: Article
 internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/boundary-guard-pro, /procurement/cooperative-contracts, /compliance/ndaa-889, /industries/public-safety-law-enforcement-surveillance, /industries
 canonical: https://visiondetectionsystems.com/industries/government-facility-security

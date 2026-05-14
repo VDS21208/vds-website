@@ -37,7 +37,7 @@ finalCTAHeading: Scope your exterior coverage
 finalCTABody: Send a campus map or parking layout. We will return a sightline plan, privacy-mask configuration, and pricing within one business day.
 finalCTAButtons:
 - label: Get a Quote
-  url: Schedule a Site Walk
+  url: /schedule-a-demo/
 schemaType: Article
 internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/boundary-guard-pro, /platform/soc, /privacy-by-design, /industries/hospitality-hotel-security, /industries
 canonical: https://visiondetectionsystems.com/industries/hospitality-healthcare-security

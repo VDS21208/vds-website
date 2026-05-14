@@ -26,7 +26,7 @@ finalCTAHeading: Subscribe to the monthly summary
 finalCTABody: One email per month. New posts, plus the one or two industry stories worth your time.
 finalCTAButtons:
 - label: Subscribe
-  url: Read the latest case study
+  url: /resources/case-studies/
 schemaType: Organization
 canonical: https://visiondetectionsystems.com/resources/blog
 ogTitle: Field notes from the people in the trucks and on the consoles

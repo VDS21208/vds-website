@@ -37,7 +37,7 @@ finalCTAHeading: Need Documentation for Procurement?
 finalCTABody: Sourcewell contract, AWS partner verification, NDAA 889 attestation, state procurement compliance — all available inside one business day to procurement, security, and compliance teams.
 finalCTAButtons:
 - label: Request Award Documentation
-  url: Talk to Procurement
+  url: /contact-us/
 schemaType: Organization (with awards/credentials array)
 internalLinks: /about-us/trust-center, /about-us/trust-center/cybersecurity, /about-us/press-kit, /industries/government-municipal, /specifiers
 canonical: https://visiondetectionsystems.com/about-us/awards

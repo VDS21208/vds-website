@@ -35,7 +35,7 @@ finalCTAHeading: Working on a Story?
 finalCTABody: Email press@visiondetectionsystems.com or use the form below. Standard response is same-business-day for working journalists on assignment.
 finalCTAButtons:
 - label: Download Full Press Kit
-  url: Media Inquiry Form
+  url: /contact-us/
 schemaType: Organization (with founder, foundingDate, foundingLocation, sameAs) + ContactPoint for press
 internalLinks: /about-us, /about-us/editorial-team, /about-us/awards, /case-studies, /resources/state-of-mobile-surveillance-2026
 canonical: https://visiondetectionsystems.com/about-us/press-kit

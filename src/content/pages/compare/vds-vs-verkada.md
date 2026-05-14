@@ -35,7 +35,7 @@ finalCTAHeading: Hybrid deployment in one quarter
 finalCTABody: If you're a Verkada shop with an outdoor gap, send your site list. We'll come back with a hybrid coverage plan that protects your existing Verkada investment.
 finalCTAButtons:
 - label: Book the architecture call
-  url: Send us your site list
+  url: /contact-us/
 schemaType: Article
 internalLinks: /compare, /platform, /platform/soc, /security/architecture, /hardware
 canonical: https://visiondetectionsystems.com/compare/vds-vs-verkada

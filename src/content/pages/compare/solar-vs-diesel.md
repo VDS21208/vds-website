@@ -37,7 +37,7 @@ finalCTAHeading: Pick the right power source for your specific site
 finalCTABody: Send the site address and expected load. We'll come back with a sun-angle analysis, load model, and the right power configuration for your deployment.
 finalCTAButtons:
 - label: Book the architecture call
-  url: Send the site address
+  url: /contact-us/
 schemaType: Article
 internalLinks: /compare, /hardware, /platform
 canonical: https://visiondetectionsystems.com/compare/solar-vs-diesel

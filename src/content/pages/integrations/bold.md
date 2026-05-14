@@ -32,7 +32,7 @@ finalCTAHeading: Get verified video to your Manitou operators in under a second.
 finalCTABody: VDS coordinates directly with your central station. A 30-minute call covers your account map, action patterns, and dispatch routing.
 finalCTAButtons:
 - label: Book Bold Group integration call
-  url: Read API + SDK docs
+  url: /contact-us/
 schemaType: Article
 internalLinks: /integrations, /platform/platform, /platform/api-sdk-access, /platform/soc
 canonical: https://visiondetectionsystems.com/integrations/bold

@@ -35,7 +35,7 @@ finalCTAHeading: Charlotte-metro mobile surveillance
 finalCTABody: 48-72 hour deployment from contract sign. Tell us where the site is.
 finalCTAButtons:
 - label: Request a Charlotte quote
-  url: Talk to a deployment engineer
+  url: /contact-us/
 schemaType: LocalBusiness
 internalLinks: /locations/mobile-surveillance-trailers, /locations/north-carolina, /products/sky-guard-mobile-surveillance-trailer, /industries/construction-security, /industries/utility-substation-security, /industries/auto-dealer-security
 canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailerscharlotte

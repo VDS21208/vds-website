@@ -35,7 +35,7 @@ finalCTAHeading: DFW mobile surveillance
 finalCTABody: NDAA-compliant, data-center-construction ready, and dispatched from a Texas staging hub. Tell us the site.
 finalCTAButtons:
 - label: Request a DFW quote
-  url: Talk to a deployment engineer
+  url: /contact-us/
 schemaType: LocalBusiness
 internalLinks: /locations/mobile-surveillance-trailers, /locations/texas, /products/boundary-guard-pro, /industries/construction-security, /industries/data-center, /industries/auto-dealer-security, /industries/oil-gas-security
 canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailersdallas

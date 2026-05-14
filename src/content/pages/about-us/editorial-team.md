@@ -34,7 +34,7 @@ finalCTAHeading: Talk to a Subject Matter Expert
 finalCTABody: Customer security teams, journalists, and industry researchers can connect directly with VDS editorial authors for technical questions, on-record sources, or detailed background.
 finalCTAButtons:
 - label: Contact Editorial Team
-  url: View Latest Articles
+  url: /resources/blog/
 schemaType: WebPage with Person schema for each named author (when bios populated)
 internalLinks: /resources, /resources/webinars, /about-us, /about-us/press-kit, /resources/state-of-mobile-surveillance-2026
 canonical: https://visiondetectionsystems.com/about-us/editorial-team

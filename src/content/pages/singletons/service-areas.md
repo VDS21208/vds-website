@@ -37,7 +37,7 @@ finalCTAHeading: Find Out When VDS Can Reach Your Site
 finalCTABody: Drop in your site address and we'll return a deployment tier and an estimated drive-time window inside one business day.
 finalCTAButtons:
 - label: Check My Site
-  url: Schedule a Call
+  url: /schedule-a-demo/
 schemaType: Service + Place (with areaServed array of US states)
 canonical: https://visiondetectionsystems.com/service-areas
 ogTitle: Where VDS Deploys

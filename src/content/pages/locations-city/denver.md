@@ -35,7 +35,7 @@ finalCTAHeading: Denver-metro mobile surveillance
 finalCTABody: 72-96 hour deployment from contract sign. Units rated to -20F. Tell us where the site is.
 finalCTAButtons:
 - label: Request a Denver quote
-  url: Talk to a deployment engineer
+  url: /contact-us/
 schemaType: LocalBusiness
 internalLinks: /locations/mobile-surveillance-trailers, /locations/colorado, /products/sky-guard-mobile-surveillance-trailer, /products/boundary-guard-pro, /industries/construction-security, /industries/oil-gas-security, /industries/cannabis-security
 canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailersdenver

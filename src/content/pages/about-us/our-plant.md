@@ -32,7 +32,7 @@ finalCTAHeading: Come see how it's built.
 finalCTABody: Schedule a tour, request compliance documentation, or see the open roles on the floor.
 finalCTAButtons:
 - label: Schedule a Plant Tour
-  url: View Open Roles
+  url: /about-us/careers/
 schemaType: Organization
 internalLinks: /about-us, /about-us/mission, /about-us/why-vision-detection-systems, /careers, /compliance/ndaa, /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer
 canonical: https://visiondetectionsystems.com/about-us/our-plant

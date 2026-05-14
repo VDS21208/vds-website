@@ -37,7 +37,7 @@ finalCTAHeading: Run the math on your specific site
 finalCTABody: Send us your current guard monthly and the site address. We'll come back with a side-by-side TCO and a 90-day pilot proposal.
 finalCTAButtons:
 - label: Book the architecture call
-  url: Send your guard cost
+  url: /contact-us/
 schemaType: Article
 internalLinks: /compare, /platform/soc, /resources/case-studies/mid-atlantic-gc, /hardware/sky-guard-msu
 canonical: https://visiondetectionsystems.com/compare/vds-vs-security-guards

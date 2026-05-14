@@ -39,7 +39,7 @@ finalCTAHeading: Build your quote
 finalCTABody: Pick the trailers, the cameras, and the SOC coverage. Get a configured price in two minutes.
 finalCTAButtons:
 - label: Build a Quote
-  url: Talk to Sales
+  url: /contact-us/
 schemaType: WebPage + PriceSpecification (x multiple)
 canonical: https://visiondetectionsystems.com/pricing
 ogTitle: Pricing, in Public

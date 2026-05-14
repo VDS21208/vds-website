@@ -34,7 +34,7 @@ finalCTAHeading: Download the 2026 edition
 finalCTABody: 42 pages, written by engineers and operators, free. Email it to yourself and read on the plane.
 finalCTAButtons:
 - label: Download the Guide (PDF)
-  url: Schedule an Engineer Call
+  url: /schedule-a-demo/
 schemaType: Book
 internalLinks: /hardware/mobile-surveillance-trailers, /platform/platform, /services/24-7-soc, /guides/remote-video-monitoring
 canonical: https://visiondetectionsystems.com/guides/mobile-surveillance-trailers

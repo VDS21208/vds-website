@@ -35,7 +35,7 @@ finalCTAHeading: Find a unit in your city
 finalCTABody: Pick your metro or request a quote and we'll route you to the nearest deployment engineer.
 finalCTAButtons:
 - label: Find my city
-  url: Request a quote
+  url: /request-a-quote/
 schemaType: LocalBusiness
 canonical: https://visiondetectionsystems.com/locations/mobile-surveillance-trailers
 ogTitle: Mobile surveillance trailers, city by city

@@ -26,7 +26,7 @@ finalCTAHeading: Want a walkthrough specific to your site?
 finalCTABody: 'We can record a custom walkthrough using your site plans and threat profile. Typical turnaround: one week. Useful for board presentations and procurement evaluation.'
 finalCTAButtons:
 - label: Request a custom walkthrough
-  url: Schedule a SOC tour
+  url: /schedule-a-demo/
 schemaType: Organization
 canonical: https://visiondetectionsystems.com/resources/videos
 ogTitle: Watch the hardware, the SOC, and the customer sites

@@ -34,7 +34,7 @@ finalCTAHeading: Register for the Next Live
 finalCTABody: Email and company name. Nothing else required. Calendar invite and the deck arrive at registration.
 finalCTAButtons:
 - label: Register for Construction Theft 2026
-  url: Register for NDAA 889
+  url: /about-us/ndaa-compliance/
 schemaType: Event (per live webinar) + CollectionPage (hub)
 canonical: https://visiondetectionsystems.com/resources/webinars
 ogTitle: VDS Webinars

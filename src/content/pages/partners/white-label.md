@@ -11,10 +11,10 @@ h1: White Label. Your brand on the chassis. Your script in the SOC.
 heroEyebrow: White Label Program
 heroSubhead: 'For integrators deploying 100+ units annually, VDS offers a white-label program: custom chassis branding, customer-facing VMS branding, custom SOC operator scripting, and direct manufacturing integration.'
 heroCTAPrimary:
-  label: Schedule a white-label discovery call [/schedule-a-demo]
+  label: Schedule a white-label discovery call 
   url: /request-a-quote
 heroCTASecondary:
-  label: Read the standard dealer program [/partners/dealer-program]
+  label: Read the standard dealer program 
   url: /request-a-quote
 heroStats:
 - 100+ unit minimum
@@ -35,7 +35,7 @@ finalCTAHeading: White label is a conversation, not a form.
 finalCTABody: Schedule a 30-minute discovery call. Bring your volume forecast, your geography, and the customer profile. We will tell you within a week whether the program fits.
 finalCTAButtons:
 - label: Schedule discovery call [/schedule-a-demo]
-  url: Email partner team [mailto:partners@visiondetectionsystems.com]
+  url: /contact-us/
 schemaType: WebPage
 internalLinks: /partners, /partners/dealer-program, /partners/financing
 canonical: https://visiondetectionsystems.com/partners/white-label

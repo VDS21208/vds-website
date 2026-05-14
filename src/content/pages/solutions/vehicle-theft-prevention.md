@@ -34,7 +34,7 @@ finalCTAHeading: One pull pays for the program for two years.
 finalCTABody: Send us a lot map and your vehicle mix. We return a quote in 48 hours.
 finalCTAButtons:
 - label: Quote My Lot
-  url: Talk to an Engineer
+  url: /contact-us/
 schemaType: Article
 internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /products/solar-camera-poles, /solutions/catalytic-converter-theft-prevention, /features/lpr
 canonical: https://visiondetectionsystems.com/solutions/auto/vehicle-theft-prevention

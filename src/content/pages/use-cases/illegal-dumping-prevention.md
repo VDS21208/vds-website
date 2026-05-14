@@ -37,7 +37,7 @@ finalCTAHeading: Stop paying for other people's trash.
 finalCTABody: 30-minute call with an engineer. Site walk and quote within 48 hours.
 finalCTAButtons:
 - label: Get a Quote
-  url: Book a Site Walk
+  url: /contact-us/
 schemaType: Article
 internalLinks: /products/swift-deploy-surveillance-trailer, /platform/platform, /platform/soc, /industries/construction-site-security, /industries/community-safety, /industries/commercial-property-security, /industries/community-safety
 canonical: https://visiondetectionsystems.com/use-cases/illegal-dumping-prevention

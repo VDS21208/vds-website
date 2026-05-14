@@ -35,7 +35,7 @@ finalCTAHeading: Skip the install lead time on your next site
 finalCTABody: If you've been quoted a fixed install and the timeline doesn't work, send the site address. We'll deliver a VDS trailer faster than the electrician arrives.
 finalCTAButtons:
 - label: Book the architecture call
-  url: Send the site address
+  url: /contact-us/
 schemaType: Article
 internalLinks: /compare, /hardware, /platform, /verticals/construction
 canonical: https://visiondetectionsystems.com/compare/vds-vs-fixed-cameras

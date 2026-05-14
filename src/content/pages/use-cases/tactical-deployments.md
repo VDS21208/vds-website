@@ -35,7 +35,7 @@ finalCTAHeading: Need a Trailer on Site This Week?
 finalCTABody: Tell us the site, the trigger, and the timeline. Tactical engagements get a same-business-day quote and a deployment-ops point of contact assigned within the hour.
 finalCTAButtons:
 - label: Request Tactical Deployment
-  url: Call Deployment Ops
+  url: /contact-us/
 schemaType: Service
 internalLinks: /service-areas, /products/sky-guard-mobile-surveillance-trailer, /platform/soc, /industries/government-municipal, /industries/utility-substation-security
 canonical: https://visiondetectionsystems.com/use-cases/tactical-deployments

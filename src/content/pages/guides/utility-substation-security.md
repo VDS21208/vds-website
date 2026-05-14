@@ -12,7 +12,7 @@ heroEyebrow: NERC CIP-014 R5 physical security
 heroSubhead: Since the December 2022 Moore County attack, FERC and NERC have sharpened scrutiny on physical security for transmission substations. This guide covers the threat actor profiles, NERC CIP-014 R5 plan requirements, and a deployment design that has cleared cooperative and IOU audit cycles.
 heroCTAPrimary:
   label: Download the full guide (PDF)
-  url: gated-form
+  url: /contact-us/
 heroCTASecondary:
   label: Talk to a utility engineer
   url: /contact-us
@@ -36,7 +36,7 @@ finalCTAHeading: Harden the substation without an outage window
 finalCTABody: Download the 36-page guide with the CIP-014 R5 plan language and placement diagrams. Or book a 30-minute call with our utility engineering lead.
 finalCTAButtons:
 - label: Download the guide
-  url: gated-form ; Book utility engineering call
+  url: /contact-us/
 schemaType: Article
 internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/boundary-guard-pro, /guides/ndaa-compliance, /compliance, /contact-us
 canonical: https://visiondetectionsystems.com/guides/utility-substation-security

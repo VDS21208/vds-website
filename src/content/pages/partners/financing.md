@@ -14,7 +14,7 @@ heroCTAPrimary:
   label: Talk to finance [mailto:finance@visiondetectionsystems.com]
   url: /request-a-quote
 heroCTASecondary:
-  label: See standard pricing [/pricing]
+  label: See standard pricing 
   url: /request-a-quote
 heroStats:
 - 36/48/60-month leases
@@ -37,7 +37,7 @@ finalCTAHeading: Match the financing to the project. Not the other way around.
 finalCTABody: Tell the finance team what you are deploying, for how long, and how your accounting team prefers to structure it. We will quote against that.
 finalCTAButtons:
 - label: Talk to finance [mailto:finance@visiondetectionsystems.com]
-  url: Request a quote [/request-a-quote]
+  url: /request-a-quote/
 schemaType: WebPage
 internalLinks: /partners, /pricing, /request-a-quote, /resources/case-studies/mid-atlantic-gc
 canonical: https://visiondetectionsystems.com/partners/financing

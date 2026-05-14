@@ -37,7 +37,7 @@ finalCTAHeading: See what 24/7 US-based monitoring actually costs
 finalCTABody: Tell us your camera count and site type. We'll return a quote and a side-by-side comparison vs your current monitoring or guard line item.
 finalCTAButtons:
 - label: Get a Quote
-  url: Tour the SOC
+  url: /platform/
 schemaType: Article
 internalLinks: /solutions, /solutions/remote-monitoring-vs-security-guards, /solutions/mobile-surveillance-trailer-cost, /platform/soc, /platform/pricing
 canonical: https://visiondetectionsystems.com/solutions/remote-video-monitoring-cost

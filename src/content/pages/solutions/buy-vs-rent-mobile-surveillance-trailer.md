@@ -39,7 +39,7 @@ finalCTAHeading: Get both quotes side by side
 finalCTABody: Send your site details. We'll return a rent quote, a buy quote, and a 5-year cash flow comparison in 48 hours.
 finalCTAButtons:
 - label: Get Both Quotes
-  url: Download Decision Matrix
+  url: /contact-us/
 schemaType: Article
 internalLinks: /solutions, /solutions/mobile-surveillance-trailer-cost, /solutions/mobile-surveillance-trailer-rental-cost, /products/sky-guard-mobile-surveillance-trailer
 canonical: https://visiondetectionsystems.com/solutions/buy-vs-rent-mobile-surveillance-trailer

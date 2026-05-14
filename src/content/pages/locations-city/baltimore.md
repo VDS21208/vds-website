@@ -35,7 +35,7 @@ finalCTAHeading: Same-day Baltimore deployment
 finalCTABody: Most Baltimore-metro deployments power on within 6 hours of contract sign. Tell us where the site is.
 finalCTAButtons:
 - label: Request same-day deployment
-  url: Schedule a site walk
+  url: /schedule-a-demo/
 schemaType: LocalBusiness
 internalLinks: /locations/mobile-surveillance-trailers, /locations/maryland, /products/sky-guard-mobile-surveillance-trailer, /industries/construction-security, /industries/port-logistics, /industries/auto-dealer-security
 canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailersbaltimore

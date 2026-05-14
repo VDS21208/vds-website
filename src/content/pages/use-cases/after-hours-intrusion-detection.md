@@ -37,7 +37,7 @@ finalCTAHeading: 73% theft reduction. $340,800 saved. One site.
 finalCTABody: 30-minute call with an engineer. Site walk, deployment plan, and quote within 48 hours.
 finalCTAButtons:
 - label: Get a Quote
-  url: See the Case Study
+  url: /resources/case-studies/
 schemaType: Article
 internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /platform/platform, /platform/soc, /resources/case-studies/mid-atlantic-gc, /industries/construction-site-security, /industries/retail-shopping-center-security, /industries/automotive-dealership-security, /industries/warehouse-logistics-security, /industries/critical-infrastructure-security
 canonical: https://visiondetectionsystems.com/use-cases/after-hours-intrusion-detection

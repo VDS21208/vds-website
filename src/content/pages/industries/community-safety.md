@@ -37,7 +37,7 @@ finalCTAHeading: Quote your community
 finalCTABody: Send us your amenity layout or a Google Maps pin. We will scope the deployment and return pricing within one business day.
 finalCTAButtons:
 - label: Get HOA Pricing
-  url: Schedule a Site Walk
+  url: /schedule-a-demo/
 schemaType: Article
 internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /products/boundary-guard-pro, /platform/soc, /privacy-by-design, /industries
 canonical: https://visiondetectionsystems.com/industries/community-safety

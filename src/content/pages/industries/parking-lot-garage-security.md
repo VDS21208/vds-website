@@ -37,7 +37,7 @@ finalCTAHeading: Price your lot
 finalCTABody: Send us the lot address, footprint, and current configuration. We'll respond within 24 hours with a sized configuration and monthly pricing.
 finalCTAButtons:
 - label: Get a lot quote
-  url: Talk to a parking specialist
+  url: /contact-us/
 schemaType: Service
 internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/solar-camera-poles, /platform/lpr, /platform/soc, /pricing
 canonical: https://visiondetectionsystems.com/industries/parking-lot-garage-security

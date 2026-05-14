@@ -36,7 +36,7 @@ finalCTAHeading: You are in the right place if your camera does not move
 finalCTABody: If your use case is a fixed site — construction yard, utility substation, retail lot, municipal property — VDS is the right vendor. If it is a vehicle or a person, the named vendors above are where to start.
 finalCTAButtons:
 - label: I need a fixed-site quote
-  url: Open the top-10 shortlist
+  url: /compare/top-mobile-surveillance-companies/
 schemaType: Article
 internalLinks: /products/sky-guard, /products/swift-deploy-surveillance-trailer, /products/boundary-guard-pro, /platform/platform, /platform/soc, /compare/top-mobile-surveillance-companies, /compare
 canonical: https://visiondetectionsystems.com/compare/fixed-site-vs-fleet-surveillance

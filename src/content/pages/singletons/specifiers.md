@@ -37,7 +37,7 @@ finalCTAHeading: Request the A&E Presentation
 finalCTABody: Live presentation by VDS engineering, scoped to your audience and project pipeline. Specifier resources delivered alongside.
 finalCTAButtons:
 - label: Request A&E Presentation
-  url: Download Spec Sheet Pack
+  url: /contact-us/
 schemaType: Service (with audience = "A&E professionals")
 canonical: https://visiondetectionsystems.com/specifiers
 ogTitle: Specifier Portal

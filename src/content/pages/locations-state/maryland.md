@@ -35,7 +35,7 @@ finalCTAHeading: Maryland deployments ship from a yard 20 minutes from your jobs
 finalCTABody: Same-day delivery is routine. Tell us where the site is and we'll quote a unit count, lead time, and monthly rate in one call.
 finalCTAButtons:
 - label: Schedule a Maryland deployment
-  url: Visit Pikesville HQ
+  url: /contact-us/
 schemaType: LocalBusiness
 internalLinks: /resources/case-studies/mid-atlantic-gc, /products/sky-guard-mobile-surveillance-trailer, /industries/construction-site-security, /platform/soc
 canonical: https://visiondetectionsystems.com/locations/maryland

@@ -35,7 +35,7 @@ finalCTAHeading: Nashville-metro mobile surveillance
 finalCTABody: 60-84 hour deployment from contract sign. TN OCR cooperative purchasing eligible. Tell us where the site is.
 finalCTAButtons:
 - label: Request a Nashville quote
-  url: Talk to a deployment engineer
+  url: /contact-us/
 schemaType: LocalBusiness
 internalLinks: /locations/mobile-surveillance-trailers, /locations/tennessee, /products/sky-guard-mobile-surveillance-trailer, /industries/construction-security, /industries/healthcare-security, /industries/data-center-security
 canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailersnashville

@@ -34,7 +34,7 @@ finalCTAHeading: Make the next theft a 60-second SOC intervention.
 finalCTABody: Tell us your site layout, equipment list, and active risk exposures. We return a deployable design within 48 hours.
 finalCTAButtons:
 - label: Get a Design
-  url: Talk to an Engineer
+  url: /contact-us/
 schemaType: Article
 internalLinks: /products/swift-deploy-surveillance-trailer, /products/sky-guard-mobile-surveillance-trailer, /solutions/copper-theft-prevention, /solutions/construction/insurance-claim-reduction, /resources/case-studies/mid-atlantic-gc
 canonical: https://visiondetectionsystems.com/solutions/construction/equipment-theft

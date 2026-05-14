@@ -11,10 +11,10 @@ h1: Dealer resources. Decks, sheets, calculators, and templates.
 heroEyebrow: Dealer Resources
 heroSubhead: Active VDS dealers can access the current sales toolkit below. New material is added monthly. Login is required; if you are an active dealer without portal access, contact your channel manager.
 heroCTAPrimary:
-  label: Log into the dealer portal [/dealer-portal/login]
+  label: Log into the dealer portal 
   url: /request-a-quote
 heroCTASecondary:
-  label: Become a dealer [/partners/become-a-dealer]
+  label: Become a dealer 
   url: /request-a-quote
 heroStats:
 - Monthly asset updates
@@ -35,7 +35,7 @@ finalCTAHeading: Resources live behind a login. Access lives in the dealer agree
 finalCTABody: Log in if you are an active dealer. Apply to the program if you are not.
 finalCTAButtons:
 - label: Log in to portal [/dealer-portal/login]
-  url: Apply to become a dealer [/partners/become-a-dealer]
+  url: /partners/become-a-dealer/
 schemaType: WebPage
 internalLinks: /partners, /partners/dealer-program, /partners/become-a-dealer
 canonical: https://visiondetectionsystems.com/partners/resources

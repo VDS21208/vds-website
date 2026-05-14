@@ -11,10 +11,10 @@ h1: NDAA Section 889 Compliance
 heroEyebrow: NDAA Compliance
 heroSubhead: Every VDS unit shipped since 2022 is Section 889 Part A and Part B compliant. Bill-of-materials traceability is maintained quarterly. Procurement attestation package available on request.
 heroCTAPrimary:
-  label: Request attestation package [/contact-us]
+  label: Request attestation package 
   url: /request-a-quote
 heroCTASecondary:
-  label: Return to Trust Center [/about-us/trust-center]
+  label: Return to Trust Center 
   url: /request-a-quote
 heroStats:
 - Part A + Part B compliant
@@ -35,7 +35,7 @@ finalCTAHeading: Federal procurement needs paperwork. We have the paperwork.
 finalCTABody: Request the standard Section 889 attestation package or send your project-specific requirements. Standard turnaround is 3 business days.
 finalCTAButtons:
 - label: Request attestation [/contact-us]
-  url: Return to Trust Center [/about-us/trust-center]
+  url: /about-us/trust-center/
 schemaType: AboutPage
 internalLinks: /about-us/trust-center, /products/sky-guard, /products/swift-deploy-surveillance-trailer, /products/boundary-guard-pro, /contact-us
 canonical: https://visiondetectionsystems.com/about-us/ndaa-compliance

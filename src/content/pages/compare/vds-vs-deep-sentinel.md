@@ -36,7 +36,7 @@ finalCTAHeading: Not sure which one fits?
 finalCTABody: Tell us about the site. If Deep Sentinel is the right answer we will say so on the call. No quota for routing buyers to the wrong product.
 finalCTAButtons:
 - label: Scope my site
-  url: Book a 20-min call
+  url: /contact-us/
 schemaType: Article
 internalLinks: /products/swift-deploy-surveillance-trailer, /products/sky-guard, /platform/soc, /compliance/ndaa, /industries/construction-site-security, /industries/utility-substation-security, /compare
 canonical: https://visiondetectionsystems.com/compare/vds-vs-deep-sentinel

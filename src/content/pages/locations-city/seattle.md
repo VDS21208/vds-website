@@ -35,7 +35,7 @@ finalCTAHeading: Seattle-metro mobile surveillance
 finalCTABody: 72-96 hour deployment. WA privacy framing built into every contract. Tell us where the site is.
 finalCTAButtons:
 - label: Request a Seattle quote
-  url: Talk to a deployment engineer
+  url: /contact-us/
 schemaType: LocalBusiness
 internalLinks: /locations/mobile-surveillance-trailers, /locations/washington, /products/sky-guard-mobile-surveillance-trailer, /industries/construction-security, /industries/retail-orc, /industries/port-logistics
 canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailersseattle

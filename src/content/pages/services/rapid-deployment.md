@@ -39,7 +39,7 @@ finalCTAHeading: Tell us about the site.
 finalCTABody: 30-minute call, site survey within 48 hours, trailer on the ground inside 72 hours of signature. We start the clock when you do.
 finalCTAButtons:
 - label: Schedule deployment
-  url: See unit specs
+  url: /contact-us/
 schemaType: Service
 internalLinks: /services/monitoring, /services/managed, /products/mobile-trailer, /resources/case-studies/mid-atlantic-340k, /industries/construction-site-security
 canonical: https://visiondetectionsystems.com/services/rapid-deployment

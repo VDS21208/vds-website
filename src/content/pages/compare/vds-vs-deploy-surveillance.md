@@ -37,7 +37,7 @@ finalCTAHeading: Considering both? Get the side-by-side
 finalCTABody: We will pull your current vendor quote and map it line-by-line against VDS Swift Deploy or Sky Guard. 24-hour turnaround.
 finalCTAButtons:
 - label: Get the side-by-side
-  url: Book a 20-min call
+  url: /contact-us/
 schemaType: Article
 internalLinks: /products/sky-guard, /products/swift-deploy-surveillance-trailer, /platform/platform, /platform/soc, /compliance/ndaa, /resources/case-studies/mid-atlantic-gc, /compare
 canonical: https://visiondetectionsystems.com/compare/vds-vs-deploy-surveillance

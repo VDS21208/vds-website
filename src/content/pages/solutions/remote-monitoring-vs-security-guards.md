@@ -39,7 +39,7 @@ finalCTAHeading: Build the business case for replacing guards
 finalCTABody: Send your current guard line item. We'll return a side-by-side TCO and an implementation timeline you can take to your CFO.
 finalCTAButtons:
 - label: Run the Numbers
-  url: Read the Hero Case Study
+  url: /resources/case-studies/
 schemaType: Article
 internalLinks: /solutions, /solutions/remote-video-monitoring-cost, /compare/vds-vs-security-guards, /resources/case-studies, /platform/soc
 canonical: https://visiondetectionsystems.com/solutions/remote-monitoring-vs-security-guards

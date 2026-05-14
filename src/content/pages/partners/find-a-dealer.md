@@ -14,7 +14,7 @@ heroCTAPrimary:
   label: Search dealers [#dealer-search]
   url: /request-a-quote
 heroCTASecondary:
-  label: Request a quote directly [/request-a-quote]
+  label: Request a quote directly 
   url: /request-a-quote
 heroStats:
 - 30+ states covered
@@ -34,7 +34,7 @@ finalCTAHeading: Found a dealer? Contact them directly. Not finding one? Talk to
 finalCTABody: Use the directory to find a regional dealer. If your state is not covered, request a quote directly and VDS direct sales will respond.
 finalCTAButtons:
 - label: Search dealers [#dealer-search]
-  url: Request a quote directly [/request-a-quote]
+  url: /request-a-quote/
 schemaType: WebPage
 internalLinks: /partners, /partners/become-a-dealer, /request-a-quote, /contact-us
 canonical: https://visiondetectionsystems.com/partners/find-a-dealer

@@ -37,7 +37,7 @@ finalCTAHeading: Quote your campus
 finalCTABody: Send your campus map or a list of sites. We will scope deployment and return cooperative-purchasing pricing within one business day.
 finalCTAButtons:
 - label: Get Campus Pricing
-  url: Schedule a Site Walk
+  url: /schedule-a-demo/
 schemaType: Article
 internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /products/boundary-guard-pro, /procurement/cooperative-contracts, /platform/soc, /industries
 canonical: https://visiondetectionsystems.com/industries/school-campus-security

@@ -34,7 +34,7 @@ finalCTAHeading: One question, one department, one response time.
 finalCTABody: Pick the right inbox above for the fastest answer. Or use the general form below and we will route it.
 finalCTAButtons:
 - label: Send a message [#contact-form]
-  url: Schedule a demo [/schedule-a-demo]
+  url: /schedule-a-demo/
 schemaType: ContactPage, Organization
 canonical: https://visiondetectionsystems.com/contact-us
 ogTitle: Direct lines. By department. By urgency.

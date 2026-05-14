@@ -35,7 +35,7 @@ finalCTAHeading: Triangle to Charlotte, utility to lab construction, one provide
 finalCTABody: Tell us the site and the asset. We'll quote unit count, lead time, and monthly cost — and confirm Duke or Sourcewell procurement paths if relevant.
 finalCTAButtons:
 - label: Get an NC quote
-  url: Talk to utilities sales
+  url: /contact-us/
 schemaType: LocalBusiness
 internalLinks: /industries/utility-substation-security, /industries/construction-site-security, /procurement/duke-energy, /products/boundary-guard-pro
 canonical: https://visiondetectionsystems.com/locations/north-carolina

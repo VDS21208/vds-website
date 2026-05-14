@@ -11,10 +11,10 @@ h1: Founder-operated. Engineering-led. Accountable in writing.
 heroEyebrow: Leadership
 heroSubhead: VDS is led by the people who built the first units and answered the first SOC calls. The same operating principle applies today across hardware, software, and monitoring.
 heroCTAPrimary:
-  label: Read the founding argument [/about-us/why-vision-detection-systems]
+  label: Read the founding argument 
   url: /request-a-quote
 heroCTASecondary:
-  label: Contact leadership [/contact-us]
+  label: Contact leadership 
   url: /request-a-quote
 heroStats:
 - Founded 2017
@@ -32,7 +32,7 @@ finalCTAHeading: Talk to leadership when the contract value justifies it.
 finalCTABody: Enterprise procurements above $250,000 ACV get a founder on the discovery call. Send your scope and timeline.
 finalCTAButtons:
 - label: Contact leadership [/contact-us]
-  url: Request a quote [/request-a-quote]
+  url: /request-a-quote/
 schemaType: AboutPage, Person (x2)
 internalLinks: /about, /about-us/why-vision-detection-systems, /about-us/press, /about-us/careers, /contact-us
 canonical: https://visiondetectionsystems.com/about-us/leadership

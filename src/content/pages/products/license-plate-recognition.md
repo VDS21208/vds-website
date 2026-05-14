@@ -37,7 +37,7 @@ finalCTAHeading: Price out your LPR deployment
 finalCTABody: Tell us the lanes, the speeds, and the use case. We'll spec the cameras and price the lane count in one business day.
 finalCTAButtons:
 - label: Get a Quote
-  url: Book a 15-Min Demo
+  url: /schedule-a-demo/
 schemaType: Product
 internalLinks: /platform/lpr, /platform/soc, /pricing, /pricing/dealers, /products
 canonical: https://visiondetectionsystems.com/products/license-plate-recognition

@@ -35,7 +35,7 @@ finalCTAHeading: Bring numbers to your next procurement meeting
 finalCTABody: Send your site details. We'll return a quote, a TCO model, and a recommended configuration in 48 hours.
 finalCTAButtons:
 - label: Get a Quote
-  url: Download Pricing Sheet
+  url: /request-a-quote/
 schemaType: Article
 canonical: https://visiondetectionsystems.com/solutions
 ogTitle: 'Solutions: Cost Analysis and Decision Frameworks for Mobile Surveillance'

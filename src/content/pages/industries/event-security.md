@@ -37,7 +37,7 @@ finalCTAHeading: Tell us when load-in starts and we'll be there 24 hours before.
 finalCTABody: Send the event dates, the venue, and the lot count. We'll return a coverage plan and a fixed-price quote.
 finalCTAButtons:
 - label: Get an Event Quote
-  url: See Rental Terms
+  url: /contact-us/
 schemaType: Article
 internalLinks: /products/sky-guard | /products/swift-deploy-surveillance-trailer | /products/boundary-guard-pro | /platform/platform | /pricing
 canonical: https://visiondetectionsystems.com/industries/event-security

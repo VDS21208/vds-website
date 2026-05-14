@@ -38,7 +38,7 @@ finalCTAHeading: Book the assessment.
 finalCTABody: 30-minute scoping call to confirm the right engagement. On-site work begins within 2 weeks. Written deliverable inside 3 weeks of the site visit.
 finalCTAButtons:
 - label: Book an assessment
-  url: See sample deliverable
+  url: /contact-us/
 schemaType: Service
 internalLinks: /services/managed, /resources/ndaa-section-889, /insights/insurance-premium-credits, /about-us/team
 canonical: https://visiondetectionsystems.com/services/consulting

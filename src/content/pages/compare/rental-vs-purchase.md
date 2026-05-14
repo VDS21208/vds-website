@@ -36,7 +36,7 @@ finalCTAHeading: Run the math on your specific deployment
 finalCTABody: Tell us the site count, expected duration, and capex vs. opex preference. We'll come back with both proposals side-by-side.
 finalCTAButtons:
 - label: Book the architecture call
-  url: Download the TCO worksheet
+  url: /guides/roi-calculator/
 schemaType: Article
 internalLinks: /compare, /hardware, /pricing
 canonical: https://visiondetectionsystems.com/compare/rental-vs-purchase

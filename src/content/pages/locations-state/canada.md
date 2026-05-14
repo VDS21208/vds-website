@@ -34,7 +34,7 @@ finalCTAHeading: Two ways to work with VDS in Canada today
 finalCTABody: Cross-border programs are live now. Direct Canadian deployments are on the roadmap. Tell us which you need.
 finalCTAButtons:
 - label: Talk to sales about cross-border
-  url: Notify me at Canadian launch
+  url: /contact-us/
 schemaType: Article
 internalLinks: /locations, /locations/canada/toronto, /locations/canada/vancouver, /guides/mobile-surveillance-canada, /products/sky-guard-mobile-surveillance-trailer, /company/about
 canonical: https://visiondetectionsystems.com/locations/canada

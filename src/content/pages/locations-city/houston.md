@@ -35,7 +35,7 @@ finalCTAHeading: Houston-metro mobile surveillance
 finalCTABody: 72-96 hour deployment. Hurricane redeploy clause standard. Rated to 120F. Tell us where the site is.
 finalCTAButtons:
 - label: Request a Houston quote
-  url: Talk to a deployment engineer
+  url: /contact-us/
 schemaType: LocalBusiness
 internalLinks: /locations/mobile-surveillance-trailers, /locations/texas, /products/sky-guard-mobile-surveillance-trailer, /products/boundary-guard-pro, /industries/oil-gas-security, /industries/port-logistics, /industries/petrochemical-security
 canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailershouston

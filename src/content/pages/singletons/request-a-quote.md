@@ -14,7 +14,7 @@ heroCTAPrimary:
   label: Start step 1 [#step-1]
   url: /request-a-quote
 heroCTASecondary:
-  label: Schedule a demo first [/schedule-a-demo]
+  label: Schedule a demo first 
   url: /request-a-quote
 heroStats:
 - 2 business day response
@@ -34,7 +34,7 @@ finalCTAHeading: Two forms. Five minutes. Two business days to a real quote.
 finalCTABody: Start with step 1 below. If you would rather schedule a demo first, the demo page is one click away.
 finalCTAButtons:
 - label: Start step 1 [#step-1]
-  url: Schedule a demo [/schedule-a-demo]
+  url: /schedule-a-demo/
 schemaType: WebPage, ContactPage
 canonical: https://visiondetectionsystems.com/request-a-quote
 ogTitle: Quote in two steps. Response in two business days.

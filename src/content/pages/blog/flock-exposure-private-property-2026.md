@@ -26,7 +26,7 @@ finalCTAHeading: Run these questions on your current vendor
 finalCTABody: A 30-minute procurement consultation covers the three questions above as applied to your current and prospective vendors. We give you a written comparison summary at no cost, whether you choose VDS or not.
 finalCTAButtons:
 - label: Request a consultation
-  url: Read the NDAA white paper
+  url: /about-us/ndaa-compliance/
 schemaType: Article
 internalLinks: /compliance/ndaa-889, /resources, /platform/soc, /resources/faq, /resources/blog/60-second-soc
 canonical: https://visiondetectionsystems.com/resources/blog/flock-exposure-private-property-2026

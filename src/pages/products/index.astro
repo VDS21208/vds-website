@@ -6,6 +6,7 @@ import TrustStrip from '../../components/sections/TrustStrip.astro';
 import PageBody from '../../components/sections/PageBody.astro';
 import SchemaArticle from '../../components/seo/SchemaArticle.astro';
 import SchemaFAQ from '../../components/seo/SchemaFAQ.astro';
+import Icon from '../../components/icons/Icon.astro';
 import { heroImageUrl } from '../../lib/heroImage.ts';
 
 const all = await getCollection('pages');
@@ -13,6 +14,48 @@ const entry = all.find((e) => e.data.url === '/products');
 if (!entry) throw new Error("No content for /products");
 const page = entry.data;
 const { Content } = await entry.render();
+
+// Pull every product entry for the e-commerce grid
+const products = all
+  .filter((e: any) => e.data.collection === 'products' && e.data.url !== '/products')
+  .map((e: any) => ({
+    url: e.data.url,
+    title: e.data.h1 || e.data.seoTitle,
+    description: e.data.metaDescription || '',
+    eyebrow: e.data.heroEyebrow || 'Mobile Surveillance',
+    stats: e.data.heroStats || [],
+    image: e.data.heroImage || '',
+  }));
+
+// Map each product to an image (Webflow imagery)
+const PRODUCT_IMAGE: Record<string, string> = {
+  '/products/sky-guard-mobile-surveillance-trailer': '/assets/webflow/product-1.avif',
+  '/products/swift-deploy-surveillance-trailer': '/assets/webflow/product-2.avif',
+  '/products/boundary-guard-pro': '/assets/webflow/product-3.avif',
+  '/products/mobile-surveillance-trailers': '/assets/webflow/product-4.avif',
+  '/products/solar-camera-poles': '/assets/webflow/product-5.avif',
+  '/products/livescan-thermal-imaging': '/assets/webflow/camera-product.avif',
+  '/products/sentry-ai-monitoring': '/assets/webflow/frame-28.webp',
+};
+function imageFor(url: string): string {
+  return PRODUCT_IMAGE[url] || '/assets/webflow/camera-product.avif';
+}
+
+// Quick badges per product
+function badgeFor(url: string): string {
+  if (url.includes('sky-guard')) return 'Flagship';
+  if (url.includes('swift-deploy')) return 'Most popular';
+  if (url.includes('boundary-guard')) return 'Long-range';
+  return 'NDAA';
+}
+
+// 4 quick filter pills (visual only — pre-wired data attrs for future filtering)
+const filters = [
+  { label: 'All products', value: 'all', count: products.length },
+  { label: 'Mobile trailers', value: 'trailer', count: products.filter(p => p.url.includes('trailer') || p.url.includes('msu')).length },
+  { label: 'Fixed / pole', value: 'pole', count: products.filter(p => p.url.includes('pole')).length },
+  { label: 'Software', value: 'software', count: products.filter(p => p.url.includes('sentry') || p.url.includes('livescan')).length },
+];
 ---
 <Layout
   title={page.seoTitle}
@@ -28,6 +71,71 @@ const { Content } = await entry.render();
   <SchemaFAQ faqs={page.faq} />
   <HeroImage bgImage={heroImageUrl({ url: page.url, tags: page.tags, pageType: page.pageType, heroImage: page.heroImage })} eyebrow={page.heroEyebrow} h1={page.h1} subhead={page.heroSubhead} ctaPrimary={page.heroCTAPrimary} ctaSecondary={page.heroCTASecondary} stats={page.heroStats} />
   <TrustStrip />
-  <section class="py-12 md:py-16 bg-white"><div class="container-main"><article class="prose-vds"><Content /></article></div></section>
+
+  <!-- Filter bar + product grid (e-commerce style) -->
+  <section class="py-16 md:py-20 bg-offwhite">
+    <div class="container-main">
+      <div class="flex items-center justify-between flex-wrap gap-4 mb-10">
+        <div>
+          <div class="eyebrow mb-2">Catalog</div>
+          <h2 class="font-display text-navy text-3xl md:text-4xl">Shop the lineup</h2>
+        </div>
+        <div class="flex flex-wrap gap-2">
+          {filters.map((f, i) => (
+            <button type="button" class={`text-xs font-medium px-4 py-2 rounded-full transition-colors ${i === 0 ? 'bg-navy text-white' : 'bg-white border border-slate-200 text-slate-700 hover:border-orange hover:text-orange'}`} data-filter={f.value}>
+              {f.label} <span class="text-[0.6875rem] opacity-70 ml-1">{f.count}</span>
+            </button>
+          ))}
+        </div>
+      </div>
+
+      <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        {products.map((p) => (
+          <a href={p.url} class="group bg-white rounded-xl overflow-hidden border border-slate-200 hover:border-orange transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_20px_40px_-16px_rgba(232,98,26,0.25)] flex flex-col">
+            <div class="relative aspect-[4/3] bg-slate-100 overflow-hidden">
+              <img src={imageFor(p.url)} alt={p.title} loading="lazy" class="absolute inset-0 w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" />
+              <div class="absolute top-3 left-3 inline-flex items-center gap-1 bg-orange text-white text-[0.625rem] uppercase tracking-wider font-medium px-2.5 py-1 rounded-sm">{badgeFor(p.url)}</div>
+            </div>
+            <div class="p-6 flex flex-col flex-1">
+              <div class="text-[0.625rem] uppercase tracking-[0.18em] text-orange font-medium mb-2">{p.eyebrow}</div>
+              <h3 class="font-display text-xl text-navy group-hover:text-orange transition-colors mb-2 leading-tight">{p.title}</h3>
+              <p class="text-sm text-slate-600 leading-relaxed mb-4 line-clamp-3 flex-1">{p.description}</p>
+              <div class="flex items-center justify-between pt-4 border-t border-slate-100">
+                <span class="text-xs text-slate-500">View details</span>
+                <span class="inline-flex items-center gap-1 text-sm font-medium text-orange group-hover:gap-2 transition-all">
+                  Explore <Icon name="arrow-right" size={14} />
+                </span>
+              </div>
+            </div>
+          </a>
+        ))}
+      </div>
+
+      <!-- Comparison teaser -->
+      <div class="mt-12 bg-white border border-slate-200 rounded-xl p-8 flex items-center justify-between flex-wrap gap-6">
+        <div class="flex items-center gap-4">
+          <div class="w-12 h-12 rounded-lg bg-orange/10 text-orange flex items-center justify-center">
+            <Icon name="split" size={22} />
+          </div>
+          <div>
+            <div class="font-display text-lg text-navy">Not sure which is right?</div>
+            <p class="text-sm text-slate-600 mt-0.5">Compare 11 mobile surveillance vendors side-by-side.</p>
+          </div>
+        </div>
+        <a href="/compare/" class="inline-flex items-center gap-2 bg-navy text-white text-sm font-medium px-5 py-2.5 rounded-md hover:bg-navy-light transition-colors">
+          See the comparison <Icon name="arrow-right" size={14} />
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Original content body below -->
+  <section class="py-16 md:py-20 bg-white">
+    <div class="container-main">
+      <div class="max-w-3xl mx-auto">
+        <article class="prose-vds"><Content /></article>
+      </div>
+    </div>
+  </section>
   <PageBody body="" faq={page.faq} finalCTAHeading={page.finalCTAHeading} finalCTABody={page.finalCTABody} finalCTAButtons={page.finalCTAButtons} />
 </Layout>

@@ -34,7 +34,7 @@ finalCTAHeading: Quote your deployment
 finalCTABody: Send us your site list. We will return survey timing, deployment timeline, and a deployed-cost estimate within 2 business days.
 finalCTAButtons:
 - label: Request a Site Survey
-  url: View Coverage Map
+  url: /contact-us/
 schemaType: Service
 internalLinks: /services/network-connectivity, /services/device-health-monitoring, /hardware/mobile-surveillance-trailers, /about-us/coverage
 canonical: https://visiondetectionsystems.com/services/deployment-logistics

@@ -37,7 +37,7 @@ finalCTAHeading: Get the side-by-side scorecard
 finalCTABody: We will populate a custom matrix with your current vendor's SLA, retention, NDAA status, and SOC location pulled from your actual contract. 24-hour turnaround.
 finalCTAButtons:
 - label: Request scorecard
-  url: Book a 20-min call
+  url: /contact-us/
 schemaType: Article
 internalLinks: /products/sky-guard, /products/swift-deploy-surveillance-trailer, /products/boundary-guard-pro, /platform/platform, /platform/soc, /compliance/ndaa, /resources/case-studies/mid-atlantic-gc, /compare
 canonical: https://visiondetectionsystems.com/compare/top-mobile-surveillance-companies

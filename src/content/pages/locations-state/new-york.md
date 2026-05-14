@@ -35,7 +35,7 @@ finalCTAHeading: Privacy-aware deployment, NYC-grade insurance, US-staffed SOC
 finalCTABody: We won't argue the privacy framework with you. Tell us the site and we'll quote unit count, lead time, monthly cost, and the correct NY procurement path.
 finalCTAButtons:
 - label: Get a New York quote
-  url: Download NY privacy framework
+  url: /legal/privacy-policy/
 schemaType: LocalBusiness
 internalLinks: /compliance/privacy-framework, /industries/construction-site-security, /procurement/nys-ogs, /products/swift-deploy-surveillance-trailer
 canonical: https://visiondetectionsystems.com/locations/new-york

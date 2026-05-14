@@ -12,7 +12,7 @@ heroEyebrow: Short-term deployments and rent-vs-buy math
 heroSubhead: Not every site needs a 12-month contract. Construction phases, seasonal retail, festivals, and emergency deployments all run shorter. This guide is the math on when to rent, when to commit, and how to structure mixed portfolios that flex with project pace.
 heroCTAPrimary:
   label: Download the full guide (PDF)
-  url: gated-form
+  url: /contact-us/
 heroCTASecondary:
   label: Get a short-term quote
   url: /contact-us
@@ -36,7 +36,7 @@ finalCTAHeading: Match the surveillance term to the project term
 finalCTABody: Download the 24-page guide with the full rate card and break-even math. Or get a quote for your specific duration.
 finalCTAButtons:
 - label: Download the guide
-  url: gated-form ; Get short-term quote
+  url: /request-a-quote/
 schemaType: Article
 internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /products/boundary-guard-pro, /guides/pricing-guide-2026, /guides/event-security, /guides/construction-theft-prevention, /contact-us
 canonical: https://visiondetectionsystems.com/guides/temporary-surveillance

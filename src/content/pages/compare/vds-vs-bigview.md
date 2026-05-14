@@ -37,7 +37,7 @@ finalCTAHeading: Run a 30-day pilot
 finalCTABody: Drop a VDS unit on your site, run it next to whatever you have today, and let the field data settle it. We show up with hardware, AI, and SOC integration in one week.
 finalCTAButtons:
 - label: Request a pilot
-  url: Book a 20-min call
+  url: /contact-us/
 schemaType: Article
 internalLinks: /platform/platform, /products/sky-guard, /platform/soc, /compliance/ndaa, /resources/case-studies/mid-atlantic-gc, /compare
 canonical: https://visiondetectionsystems.com/compare/vds-vs-bigview

@@ -35,7 +35,7 @@ finalCTAHeading: Permian to Austin, one call, one quote
 finalCTABody: Tell us the site, the asset, and the loss exposure. We'll quote unit count, lead time, and monthly cost — no engineering call required.
 finalCTAButtons:
 - label: Get a Texas quote
-  url: See the oil & gas case study
+  url: /resources/case-studies/
 schemaType: LocalBusiness
 internalLinks: /industries/oil-and-gas, /industries/automotive-dealership-security, /products/sky-guard-mobile-surveillance-trailer, /resources/case-studies/permian-operator
 canonical: https://visiondetectionsystems.com/locations/texas

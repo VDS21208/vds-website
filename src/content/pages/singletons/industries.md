@@ -36,7 +36,7 @@ finalCTAHeading: Find the configuration for your site
 finalCTABody: Tell us your industry, site size, and current loss profile. We'll respond within 24 hours with a sized configuration and pricing.
 finalCTAButtons:
 - label: Book a site assessment
-  url: Talk to an engineer
+  url: /contact-us/
 schemaType: CollectionPage
 canonical: https://visiondetectionsystems.com/industries
 ogTitle: Industries we protect

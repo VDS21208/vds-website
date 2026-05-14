@@ -35,7 +35,7 @@ finalCTAHeading: Virginia state procurement ready
 finalCTABody: eVA registered, NDAA 889 compliant, and on the state procurement packet. Tell us the project.
 finalCTAButtons:
 - label: Request a Richmond quote
-  url: Download the procurement packet
+  url: /contact-us/
 schemaType: LocalBusiness
 internalLinks: /locations/mobile-surveillance-trailers, /locations/virginia, /products/boundary-guard-pro, /industries/government, /industries/university-campus, /compliance/ndaa-889
 canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailersrichmond

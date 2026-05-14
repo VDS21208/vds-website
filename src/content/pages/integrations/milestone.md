@@ -32,7 +32,7 @@ finalCTAHeading: Extend XProtect to the edge without extending your trenching bu
 finalCTABody: A 30-minute scoping call covers your XProtect version, the rules that should fire from VDS events, and the LPR fields you want exposed.
 finalCTAButtons:
 - label: Book Milestone integration call
-  url: Read API + SDK docs
+  url: /contact-us/
 schemaType: Article
 internalLinks: /integrations, /platform/platform, /platform/api-sdk-access, /hardware/solar-trailers, /platform/lpr
 canonical: https://visiondetectionsystems.com/integrations/milestone

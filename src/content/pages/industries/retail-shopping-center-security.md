@@ -37,7 +37,7 @@ finalCTAHeading: Price a multi-store program
 finalCTABody: Send us the store count, lot footprint, and current LP program scope. We'll respond within 24 hours with a sized program and unit-economics breakdown.
 finalCTAButtons:
 - label: Get a multi-store quote
-  url: Talk to a retail specialist
+  url: /contact-us/
 schemaType: Service
 internalLinks: /products/swift-deploy-surveillance-trailer, /products/solar-camera-poles, /platform/lpr, /platform/soc, /pricing
 canonical: https://visiondetectionsystems.com/industries/retail-shopping-center-security

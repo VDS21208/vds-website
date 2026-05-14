@@ -32,7 +32,7 @@ finalCTAHeading: Eight reasons. One quote. Fifteen minutes.
 finalCTABody: Tell us about the site. We will price it, scope it, and walk you through what gets deployed and when.
 finalCTAButtons:
 - label: Request a Quote
-  url: See the Hardware
+  url: /products/
 schemaType: Organization
 internalLinks: /about-us, /about-us/mission, /about-us/our-plant, /platform/soc, /platform/platform, /products, /compliance/ndaa
 canonical: https://visiondetectionsystems.com/about-us/why-vision-detection-systems
@@ -99,4 +99,4 @@ We have been deploying since 2017. 500+ units across 30+ states. That is 7 full 
 
 ## The summary
 
-If you only need one of these eight, plenty of vendors will sell you one. If you need the whole stack â
+If you only need one of these eight, plenty of vendors will sell you one. If you need the whole stack 

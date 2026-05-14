@@ -37,7 +37,7 @@ finalCTAHeading: Cover the lease without running a line.
 finalCTABody: Send us your active and planned site list. We'll map the deployment, attach NDAA documentation, and price the program.
 finalCTAButtons:
 - label: Get a Wellsite Coverage Plan
-  url: See Pricing
+  url: /request-a-quote/
 schemaType: Article
 internalLinks: /products/sky-guard | /products/solar-camera-poles | /products/boundary-guard-pro | /compliance/ndaa | /platform/platform
 canonical: https://visiondetectionsystems.com/industries/oil-gas-security

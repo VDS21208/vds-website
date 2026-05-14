@@ -37,7 +37,7 @@ finalCTAHeading: Compliance, deterrence, and dispatch — covered.
 finalCTABody: Send the location list and state. We'll return a deployment plan, state-specific compliance summary, and the monthly.
 finalCTAButtons:
 - label: Get a License-Aligned Quote
-  url: Talk to a Specialist
+  url: /contact-us/
 schemaType: Article
 internalLinks: /products/sky-guard | /products/swift-deploy-surveillance-trailer | /products/boundary-guard-pro | /platform/platform | /compliance
 canonical: https://visiondetectionsystems.com/industries/cannabis-dispensary-security

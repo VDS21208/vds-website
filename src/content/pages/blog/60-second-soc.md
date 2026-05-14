@@ -26,7 +26,7 @@ finalCTAHeading: See the SOC in person
 finalCTABody: The Pikesville SOC is open for scheduled tours. You will sit at an operator console, watch a live alert workflow, and ask the people on the floor whatever you want.
 finalCTAButtons:
 - label: Schedule a tour
-  url: Watch the SOC walkthrough
+  url: /platform/
 schemaType: Article
 internalLinks: /platform/soc, /resources/videos, /resources/blog/construction-security-numbers-2026, /resources/case-studies, /resources
 canonical: https://visiondetectionsystems.com/resources/blog/60-second-soc

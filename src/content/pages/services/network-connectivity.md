@@ -34,7 +34,7 @@ finalCTAHeading: Check coverage at your sites
 finalCTABody: Send us your site addresses or coordinates. We will run a four-carrier coverage check against the latest tower data and tell you which sites need Starlink.
 finalCTAButtons:
 - label: Run a Coverage Check
-  url: Talk to an Engineer
+  url: /contact-us/
 schemaType: Service
 internalLinks: /services/device-health-monitoring, /industries/law-enforcement, /hardware/mobile-surveillance-trailers, /services/24-7-soc
 canonical: https://visiondetectionsystems.com/services/network-connectivity

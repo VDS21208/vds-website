@@ -35,7 +35,7 @@ finalCTAHeading: Add outdoor coverage to a Spot AI deployment
 finalCTABody: Send your outdoor gap site list. We'll come back with a hybrid coverage plan that respects your Spot AI investment.
 finalCTAButtons:
 - label: Book the architecture call
-  url: Send your gap list
+  url: /contact-us/
 schemaType: Article
 internalLinks: /compare, /platform, /platform/soc, /hardware
 canonical: https://visiondetectionsystems.com/compare/vds-vs-spot-ai

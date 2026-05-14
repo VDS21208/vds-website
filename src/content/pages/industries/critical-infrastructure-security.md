@@ -37,7 +37,7 @@ finalCTAHeading: Compliance is a configuration, not a hope.
 finalCTABody: Send your site list. We'll return a deployment plan, framework alignment summary, and pricing within 72 hours.
 finalCTAButtons:
 - label: Get a Site Assessment
-  url: Download Compliance Brief
+  url: /contact-us/
 schemaType: Article
 internalLinks: /products/sky-guard | /products/solar-camera-poles | /products/boundary-guard-pro | /platform/platform | /compliance/ndaa | /about-us/trust-center
 canonical: https://visiondetectionsystems.com/industries/critical-infrastructure-security

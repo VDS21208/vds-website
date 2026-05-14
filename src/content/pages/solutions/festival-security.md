@@ -34,7 +34,7 @@ finalCTAHeading: The producer doesn't lose sleep when the equipment compound is 
 finalCTABody: Tell us your event dates, site, and category. We return a deploy plan and quote within 5 business days.
 finalCTAButtons:
 - label: Quote My Event
-  url: Talk to an Engineer
+  url: /contact-us/
 schemaType: Article
 internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /features/lpr, /features/rapid-deploy, /solutions/events
 canonical: https://visiondetectionsystems.com/solutions/events/festival-security

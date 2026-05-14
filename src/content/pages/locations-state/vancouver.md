@@ -34,7 +34,7 @@ finalCTAHeading: Vancouver coverage, two paths
 finalCTABody: Cross-border programs available today. Vancouver-only deployments through a Canadian operator we'll point you to.
 finalCTAButtons:
 - label: Talk about cross-border
-  url: Join Vancouver waitlist
+  url: /compare/top-mobile-surveillance-companies/
 schemaType: LocalBusiness
 internalLinks: /locations/canada, /locations/canada/toronto, /guides/mobile-surveillance-canada, /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /industries/construction-site-security, /industries/warehouse-logistics-security-logistics
 canonical: https://visiondetectionsystems.com/locations/canada/vancouver

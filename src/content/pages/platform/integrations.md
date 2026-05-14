@@ -12,7 +12,7 @@ heroEyebrow: Integrations
 heroSubhead: Native integrations with the access control, alarm monitoring, ITSM, and notification systems already deployed at your sites. No middleware. No CSV exports.
 heroCTAPrimary:
   label: See full list
-  url: '#integrations'
+  url: /contact-us/
 heroCTASecondary:
   label: Talk to an engineer
   url: /contact-us

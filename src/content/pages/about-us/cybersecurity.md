@@ -38,7 +38,7 @@ finalCTAHeading: Need More Detail for Your Security Review?
 finalCTABody: Enterprise security teams get the full control documentation package, pentest summary, and SIG/CAIQ responses under NDA. One form, one business day turnaround.
 finalCTAButtons:
 - label: Request Security Documentation
-  url: Talk to Security Engineering
+  url: /contact-us/
 schemaType: WebPage (Trust Center sub-page, breadcrumbed under Organization)
 internalLinks: /about-us/trust-center, /about-us/trust-center/data-privacy, /about-us/trust-center/sla-uptime, /platform/soc, /contact-us
 canonical: https://visiondetectionsystems.com/about-us/trust-center/cybersecurity

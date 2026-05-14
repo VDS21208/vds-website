@@ -32,7 +32,7 @@ finalCTAHeading: Cooperate with law enforcement without giving away your camera 
 finalCTABody: A 30-minute call covers your sharing policy, your authorized users, and the agencies you want to be able to send to. You leave with a written authorization document and a setup-time estimate.
 finalCTAButtons:
 - label: Book Axon-Fusus integration call
-  url: Read the privacy model
+  url: /legal/privacy-policy/
 schemaType: Article
 internalLinks: /integrations, /platform/platform, /platform/api-sdk-access, /about-us/trust-center/privacy, /platform/soc
 canonical: https://visiondetectionsystems.com/integrations/axon-fusus

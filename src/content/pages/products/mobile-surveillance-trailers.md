@@ -39,7 +39,7 @@ finalCTAHeading: Get a trailer on site
 finalCTABody: Tell us the site, the threats, and the timeline. We'll come back with a configuration and a quote in one business day.
 finalCTAButtons:
 - label: Request a Quote
-  url: Book a 15-Min Call
+  url: /contact-us/
 schemaType: CollectionPage + Product (x3)
 internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /products/boundary-guard-pro, /platform, /platform/soc, /case-studies, /pricing
 canonical: https://visiondetectionsystems.com/products/mobile-surveillance-trailers

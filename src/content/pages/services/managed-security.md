@@ -38,7 +38,7 @@ finalCTAHeading: See the managed quote against your current spend.
 finalCTABody: Send your current security budget breakdown (or a recent monthly invoice). We'll quote managed services side-by-side. No deck-only sales.
 finalCTAButtons:
 - label: Get managed quote
-  url: Read full case study
+  url: /resources/case-studies/
 schemaType: Service
 internalLinks: /services/monitoring, /services/rapid-deployment, /services/installation-maintenance, /resources/case-studies/mid-atlantic-340k, /pricing
 canonical: https://visiondetectionsystems.com/services/managed-security

@@ -35,7 +35,7 @@ finalCTAHeading: Mobile surveillance is its own program
 finalCTABody: If you are buying $50K+ a year of mobile surveillance, buy it direct. If you are an integrator, partner with us at /partners. Either way, get a real quote.
 finalCTAButtons:
 - label: Get a direct quote
-  url: Apply to partner program
+  url: /contact-us/
 schemaType: Article
 internalLinks: /products/sky-guard, /products/swift-deploy-surveillance-trailer, /products/boundary-guard-pro, /partners, /platform/soc, /compliance/ndaa, /compare
 canonical: https://visiondetectionsystems.com/compare/vds-vs-using-an-integrator

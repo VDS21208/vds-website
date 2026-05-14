@@ -32,7 +32,7 @@ finalCTAHeading: Make VDS fit your stack, not the other way around.
 finalCTABody: A 30-minute call with a VDS integration engineer covers your current VMS, access platform, central station, and ITSM tooling. You leave with a written integration plan and a setup-time estimate.
 finalCTAButtons:
 - label: Book integration scoping call
-  url: Read API + SDK docs
+  url: /contact-us/
 schemaType: Article
 canonical: https://visiondetectionsystems.com/integrations
 ogTitle: AI VisionStream works with the systems you already trust.

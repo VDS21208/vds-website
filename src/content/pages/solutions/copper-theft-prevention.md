@@ -34,7 +34,7 @@ finalCTAHeading: One substation event pays for the program.
 finalCTABody: Send us your substation list. We return a fleet coverage proposal within 5 business days, prioritized by exposure.
 finalCTAButtons:
 - label: Send Substation List
-  url: Talk to an Engineer
+  url: /contact-us/
 schemaType: Article
 internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/boundary-guard-pro, /solutions/utility, /solutions/utility/substation-intrusion, /compliance/nerc-cip
 canonical: https://visiondetectionsystems.com/solutions/utility/copper-theft-prevention

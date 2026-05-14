@@ -35,7 +35,7 @@ finalCTAHeading: Need the Full SLA Document?
 finalCTABody: Enterprise and prospect security teams get the contractual SLA document, historical uptime data, and the credit policy worked example.
 finalCTAButtons:
 - label: View Status Page
-  url: Download SLA Document
+  url: /about-us/sla-uptime/
 schemaType: WebPage (Trust Center sub-page)
 internalLinks: /about-us/trust-center, /about-us/trust-center/cybersecurity, /about-us/trust-center/data-privacy, /platform/soc, /contact-us
 canonical: https://visiondetectionsystems.com/about-us/trust-center/sla-uptime

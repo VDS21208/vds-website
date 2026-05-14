@@ -32,7 +32,7 @@ finalCTAHeading: Forward verified events with video attached.
 finalCTABody: We will coordinate directly with your central station to configure the Immix integration. A 30-minute call covers your account structure and response plans.
 finalCTAButtons:
 - label: Book Immix integration call
-  url: Read API + SDK docs
+  url: /contact-us/
 schemaType: Article
 internalLinks: /integrations, /platform/platform, /platform/api-sdk-access, /platform/soc
 canonical: https://visiondetectionsystems.com/integrations/immix

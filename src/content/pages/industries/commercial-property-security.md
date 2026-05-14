@@ -37,7 +37,7 @@ finalCTAHeading: One surveillance program from groundbreak to stabilization.
 finalCTABody: Send the property pro forma or the site plan. We'll match the deployment to the phase and price the program through year three.
 finalCTAButtons:
 - label: Get a Property Assessment
-  url: See Pricing
+  url: /request-a-quote/
 schemaType: Article
 internalLinks: /industries/construction-site-security | /products/sky-guard | /products/swift-deploy-surveillance-trailer | /platform/platform | /pricing
 canonical: https://visiondetectionsystems.com/industries/commercial-property-security

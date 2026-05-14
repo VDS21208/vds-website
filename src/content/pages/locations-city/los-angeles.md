@@ -35,7 +35,7 @@ finalCTAHeading: LA mobile surveillance, CCPA-clean
 finalCTABody: Customer-owned footage. No community ALPR. No facial recognition. Tell us the project.
 finalCTAButtons:
 - label: Request an LA quote
-  url: Read the CCPA framing
+  url: /contact-us/
 schemaType: LocalBusiness
 internalLinks: /locations/mobile-surveillance-trailers, /locations/california, /products/boundary-guard-pro, /industries/construction-security, /industries/cannabis, /industries/port-logistics, /industries/film-event, /compliance/ccpa
 canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailerslos-angeles

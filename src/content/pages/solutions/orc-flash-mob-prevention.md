@@ -34,7 +34,7 @@ finalCTAHeading: The event will happen. The plates do not have to vanish with th
 finalCTABody: Send us your store list and current LP setup. We return a parking-lot coverage proposal in 5 business days.
 finalCTAButtons:
 - label: Quote My Stores
-  url: Talk to an Engineer
+  url: /contact-us/
 schemaType: Article
 internalLinks: /products/swift-deploy-surveillance-trailer, /products/sky-guard-mobile-surveillance-trailer, /features/lpr, /solutions/retail, /solutions/retail/parking-lot-crime
 canonical: https://visiondetectionsystems.com/solutions/retail/orc-flash-mob-prevention

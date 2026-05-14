@@ -35,7 +35,7 @@ finalCTAHeading: Pick a comparison, or skip the comparisons and book a call
 finalCTABody: 20 minutes, one site address, no slide deck. We'll pull sun angle, cell coverage, and a preliminary unit count before you hang up.
 finalCTAButtons:
 - label: Book the architecture call
-  url: Download the combined PDF
+  url: /contact-us/
 schemaType: Article
 canonical: https://visiondetectionsystems.com/compare
 ogTitle: How VDS compares

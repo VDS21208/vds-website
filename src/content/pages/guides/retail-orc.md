@@ -12,7 +12,7 @@ heroEyebrow: Loss prevention for multi-store operators
 heroSubhead: The 2024 NRF National Retail Security Survey reported an 18% year-over-year shoplifting increase, and 67% of retailers identified transnational organized crime groups involved in their losses. This guide is the response playbook — parking lot deterrence, flash-mob protocols, and the audio talk-down scripts our SOC uses every night.
 heroCTAPrimary:
   label: Download the full guide (PDF)
-  url: gated-form
+  url: /contact-us/
 heroCTASecondary:
   label: Talk to a retail security engineer
   url: /contact-us
@@ -36,7 +36,7 @@ finalCTAHeading: Move the perimeter to the parking lot
 finalCTABody: Download the 34-page guide with the flash-mob playbook and verbatim audio scripts. Or book 20 minutes with a retail security engineer.
 finalCTAButtons:
 - label: Download the guide
-  url: gated-form ; Book retail security call
+  url: /contact-us/
 schemaType: Article
 internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/boundary-guard-pro, /products/swift-deploy-surveillance-trailer, /guides/temporary-surveillance, /guides/roi-calculator, /contact-us
 canonical: https://visiondetectionsystems.com/guides/retail-orc

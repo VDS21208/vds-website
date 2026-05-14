@@ -37,7 +37,7 @@ finalCTAHeading: Audit-ready surveillance from the first transformer to year ten
 finalCTABody: Send the site plan or the development pro forma. We'll return a deployment plan, control mapping, and a phased budget.
 finalCTAButtons:
 - label: Get a Facility Assessment
-  url: Download SOC 2 Control Mapping
+  url: /platform/
 schemaType: Article
 internalLinks: /products/sky-guard | /products/solar-camera-poles | /products/boundary-guard-pro | /platform/platform | /compliance | /about-us/trust-center
 canonical: https://visiondetectionsystems.com/industries/data-center-security

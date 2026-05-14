@@ -37,7 +37,7 @@ finalCTAHeading: Assess your substation
 finalCTABody: Send us the substation location, fence-line distance, and current physical security plan status. We'll respond within 48 hours with a configuration and NDAA / CIP-014 documentation package.
 finalCTAButtons:
 - label: Request a substation assessment
-  url: Talk to a security engineer
+  url: /contact-us/
 schemaType: Service
 internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/boundary-guard-pro, /compliance/ndaa, /platform/soc, /security/aws-partner
 canonical: https://visiondetectionsystems.com/industries/utility-substation-security

@@ -38,7 +38,7 @@ finalCTAHeading: Get the GoView side-by-side
 finalCTABody: Send us a GoView quote and we will map it line-by-line against VDS Swift Deploy or Sky Guard. 24-hour turnaround.
 finalCTAButtons:
 - label: Get the side-by-side
-  url: Book a 20-min call
+  url: /contact-us/
 schemaType: Article
 internalLinks: /products/swift-deploy-surveillance-trailer, /products/sky-guard, /platform/platform, /platform/soc, /compliance/ndaa, /compare
 canonical: https://visiondetectionsystems.com/compare/vds-vs-goview

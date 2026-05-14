@@ -37,7 +37,7 @@ finalCTAHeading: Audit-ready perimeter across every yard, depot, and terminal.
 finalCTABody: Send the yard list and federal framework scope. We'll return a deployment plan, control alignment summary, and pricing.
 finalCTAButtons:
 - label: Get a Yard Assessment
-  url: Download Transit Compliance Brief
+  url: /contact-us/
 schemaType: Article
 internalLinks: /products/sky-guard | /products/boundary-guard-pro | /products/swift-deploy-surveillance-trailer | /platform/platform | /compliance/ndaa
 canonical: https://visiondetectionsystems.com/industries/transportation-transit-security

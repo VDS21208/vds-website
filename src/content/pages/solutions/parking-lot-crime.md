@@ -34,7 +34,7 @@ finalCTAHeading: The next incident does not have to come with a deposition.
 finalCTABody: Send a site plan and incident history. We return a coverage design within 5 business days.
 finalCTAButtons:
 - label: Quote My Property
-  url: Talk to an Engineer
+  url: /contact-us/
 schemaType: Article
 internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /solutions/retail, /solutions/retail/orc-flash-mob-prevention, /solutions/parking/after-hours-coverage
 canonical: https://visiondetectionsystems.com/solutions/retail/parking-lot-crime

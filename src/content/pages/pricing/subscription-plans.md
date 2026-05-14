@@ -37,7 +37,7 @@ finalCTAHeading: Pick a plan
 finalCTABody: Start with Standard or Pro, change tiers any time, cancel any month. Enterprise customers, talk to sales.
 finalCTAButtons:
 - label: Start a Subscription
-  url: Talk to Sales
+  url: /contact-us/
 schemaType: WebPage + Offer (x3 tiers)
 internalLinks: /pricing, /pricing/leasing-rentals, /pricing/purchase-options, /platform, /platform/soc, /products/license-plate-recognition
 canonical: https://visiondetectionsystems.com/pricing/subscription-plans

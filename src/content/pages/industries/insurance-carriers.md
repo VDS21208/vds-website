@@ -37,7 +37,7 @@ finalCTAHeading: Talk to Our Channel Team
 finalCTABody: Carrier program conversations start with your risk engineering or stewardship lead. We'll scope the partnership structure and a representative-site pilot in the first call.
 finalCTAButtons:
 - label: Talk to Our Channel Team
-  url: Download Carrier Program Brief
+  url: /contact-us/
 schemaType: Service
 internalLinks: /case-studies, /platform/soc, /about-us/trust-center, /try-vds-pilot, /products/sky-guard-mobile-surveillance-trailer
 canonical: https://visiondetectionsystems.com/industries/insurance-carriers

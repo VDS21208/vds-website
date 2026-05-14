@@ -11,10 +11,10 @@ h1: A channel program built around an integrated stack.
 heroEyebrow: Partners
 heroSubhead: VDS works with security integrators, construction services firms, and regional resellers who want to sell solar-autonomous mobile surveillance backed by a 24/7 US SOC. Margin is real. Support is staffed. Training is included.
 heroCTAPrimary:
-  label: Become a dealer [/partners/become-a-dealer]
+  label: Become a dealer 
   url: /request-a-quote
 heroCTASecondary:
-  label: Find an existing dealer [/partners/find-a-dealer]
+  label: Find an existing dealer 
   url: /request-a-quote
 heroStats:
 - Active dealers in 30+ states
@@ -35,7 +35,7 @@ finalCTAHeading: Two paths. Pick one.
 finalCTABody: Apply to become a dealer, or schedule a 30-minute partnership intro call to discuss territory, volume, and program fit.
 finalCTAButtons:
 - label: Apply to become a dealer [/partners/become-a-dealer]
-  url: Schedule a call [/schedule-a-demo]
+  url: /schedule-a-demo/
 schemaType: WebPage
 canonical: https://visiondetectionsystems.com/partners
 ogTitle: A channel program built around an integrated stack.

@@ -37,7 +37,7 @@ finalCTAHeading: Stop the spray before it starts.
 finalCTABody: 30-minute call with an engineer. Site walk and quote within 48 hours.
 finalCTAButtons:
 - label: Get a Quote
-  url: Book a Site Walk
+  url: /contact-us/
 schemaType: Article
 internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /platform/platform, /platform/soc, /industries/construction-site-security, /industries/retail-shopping-center-security, /industries/school-campus-security, /industries/community-safety, /industries/community-safety, /industries/commercial-property-security
 canonical: https://visiondetectionsystems.com/use-cases/vandalism-prevention

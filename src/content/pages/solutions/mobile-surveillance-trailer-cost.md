@@ -38,7 +38,7 @@ finalCTAHeading: Get a fixed-price quote for your site
 finalCTABody: Send camera count, site duration, and address. We return a quote and TCO model in 48 hours, with no obligation to buy.
 finalCTAButtons:
 - label: Get a Quote
-  url: See Trailer Specs
+  url: /contact-us/
 schemaType: Article
 internalLinks: /solutions, /solutions/mobile-surveillance-trailer-rental-cost, /solutions/buy-vs-rent-mobile-surveillance-trailer, /solutions/remote-video-monitoring-cost, /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /products/boundary-guard-pro
 canonical: https://visiondetectionsystems.com/solutions/mobile-surveillance-trailer-cost

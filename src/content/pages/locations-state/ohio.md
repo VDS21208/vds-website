@@ -35,7 +35,7 @@ finalCTAHeading: From the Intel footprint to the Rickenbacker corridor
 finalCTABody: Tell us the site and the asset class. We'll quote unit count, lead time, monthly cost, and the correct OH procurement vehicle in one call.
 finalCTAButtons:
 - label: Get an Ohio quote
-  url: See logistics case study
+  url: /resources/case-studies/
 schemaType: LocalBusiness
 internalLinks: /industries/warehouse-logistics-security, /industries/utility-substation-security, /procurement/sourcewell, /products/boundary-guard-pro
 canonical: https://visiondetectionsystems.com/locations/ohio

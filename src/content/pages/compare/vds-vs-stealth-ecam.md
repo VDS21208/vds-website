@@ -35,7 +35,7 @@ finalCTAHeading: One contract, one brand, since 2017
 finalCTABody: If you're running ECAM monitoring on a multi-site portfolio, send the address list. We'll come back with a consolidated platform proposal in 5 business days.
 finalCTAButtons:
 - label: Book the architecture call
-  url: Send your site list
+  url: /contact-us/
 schemaType: Article
 internalLinks: /compare, /platform/soc, /platform, /verticals/multi-site
 canonical: https://visiondetectionsystems.com/compare/vds-vs-stealth-ecam

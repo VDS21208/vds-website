@@ -37,7 +37,7 @@ finalCTAHeading: 90 seconds to act. We respond in under 60.
 finalCTABody: 30-minute call with an engineer. Lot walk and quote within 48 hours.
 finalCTAButtons:
 - label: Get a Quote
-  url: Book a Lot Walk
+  url: /contact-us/
 schemaType: Article
 internalLinks: /products/swift-deploy-surveillance-trailer, /products/sky-guard-mobile-surveillance-trailer, /platform/platform, /platform/soc, /industries/automotive-dealership-security, /industries/warehouse-logistics-security, /industries/hospitality-healthcare-security, /industries/hospitality-healthcare-security, /industries/commercial-property-security
 canonical: https://visiondetectionsystems.com/use-cases/catalytic-converter-theft-prevention

@@ -34,7 +34,7 @@ finalCTAHeading: Replace a multi-vendor monitoring stack with one contract
 finalCTABody: If you're running Pro-Vigil on a multi-site portfolio, send the address list and current monthlies. We'll come back with a consolidated proposal in 5 business days.
 finalCTAButtons:
 - label: Book the architecture call
-  url: Send your site list
+  url: /contact-us/
 schemaType: Article
 internalLinks: /compare, /platform, /platform/soc, /verticals/commercial-real-estate
 canonical: https://visiondetectionsystems.com/compare/vds-vs-pro-vigil

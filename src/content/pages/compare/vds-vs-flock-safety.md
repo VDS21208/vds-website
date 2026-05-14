@@ -37,7 +37,7 @@ finalCTAHeading: Replace a Flock contract on one site this quarter
 finalCTABody: Send the address and the council vote (or HOA minutes). We'll come back with a 90-day pilot proposal you can put on the next agenda.
 finalCTAButtons:
 - label: Book the architecture call
-  url: Send us the site address
+  url: /contact-us/
 schemaType: Article
 internalLinks: /compare, /platform, /platform/soc, /security/architecture, /verticals/municipal
 canonical: https://visiondetectionsystems.com/compare/vds-vs-flock-safety

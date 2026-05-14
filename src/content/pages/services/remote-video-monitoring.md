@@ -39,7 +39,7 @@ finalCTAHeading: Tour the SOC. Or talk to the director.
 finalCTABody: We host customer tours weekly. If you can't make it to Maryland, the director will take a 30-minute call and walk you through the operator console live.
 finalCTAButtons:
 - label: Schedule SOC tour
-  url: Get monitoring quote
+  url: /request-a-quote/
 schemaType: Service
 internalLinks: /services/rapid-deployment, /services/managed, /platform/soc, /about-us/team, /resources/case-studies/mid-atlantic-340k
 canonical: https://visiondetectionsystems.com/services/remote-video-monitoring

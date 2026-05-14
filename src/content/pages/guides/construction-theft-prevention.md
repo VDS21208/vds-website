@@ -12,7 +12,7 @@ heroEyebrow: Risk reduction for GCs and developers
 heroSubhead: The FBI puts US construction theft above $1 billion annually with under 7% of stolen equipment ever recovered. Copper, tools, lumber, fuel, and skid steers all walk off active sites. This guide is the deployment playbook from a $28M Mid-Atlantic GC that cut theft 73% in 12 months and saved $340,800.
 heroCTAPrimary:
   label: Download the full guide (PDF)
-  url: gated-form
+  url: /contact-us/
 heroCTASecondary:
   label: See the case study
   url: /resources/case-studies/mid-atlantic-gc
@@ -36,7 +36,7 @@ finalCTAHeading: Stop explaining the same losses
 finalCTABody: Download the full 42-page guide with the case study and deployment playbook. Or book a site walkthrough with a deployment engineer.
 finalCTAButtons:
 - label: Download the guide
-  url: gated-form ; Book site walkthrough
+  url: /contact-us/
 schemaType: Article
 internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/boundary-guard-pro, /products/swift-deploy-surveillance-trailer, /resources/case-studies/mid-atlantic-gc, /guides/temporary-surveillance, /guides/ndaa-compliance, /contact-us
 canonical: https://visiondetectionsystems.com/guides/construction-theft-prevention

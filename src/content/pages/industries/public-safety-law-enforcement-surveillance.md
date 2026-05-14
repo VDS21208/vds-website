@@ -39,7 +39,7 @@ finalCTAHeading: Request a procurement package
 finalCTABody: Send us the agency, application, and contract vehicle (Sourcewell, GSA, or direct RFP). We'll respond within 48 hours with a sized configuration, NDAA documentation, and applicable pricing.
 finalCTAButtons:
 - label: Request a procurement package
-  url: Talk to a government account executive
+  url: /contact-us/
 schemaType: Service
 internalLinks: /products/swift-deploy-surveillance-trailer, /products/sky-guard-mobile-surveillance-trailer, /products/solar-camera-poles, /products/boundary-guard-pro, /compliance/ndaa, /procurement/sourcewell, /procurement/gsa, /platform/soc
 canonical: https://visiondetectionsystems.com/industries/public-safety-law-enforcement-surveillance

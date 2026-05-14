@@ -33,7 +33,7 @@ finalCTAHeading: Tell us the threat. We'll design the system.
 finalCTABody: 30-minute call with an engineer. Site walk if you're in our coverage area. Quote in 48 hours.
 finalCTAButtons:
 - label: Get a Quote
-  url: Book a Site Walk
+  url: /contact-us/
 schemaType: WebPage
 canonical: https://visiondetectionsystems.com/use-cases
 ogTitle: Built for the threat you actually have.

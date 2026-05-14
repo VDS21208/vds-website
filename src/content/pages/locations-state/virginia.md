@@ -35,7 +35,7 @@ finalCTAHeading: 889 compliance, 24-hour NoVA deployment, one phone call
 finalCTABody: Tell us the site, the asset class, and the procurement vehicle. We'll come back with a quote that clears federal compliance review.
 finalCTAButtons:
 - label: Request a Virginia quote
-  url: Download 889 attestation template
+  url: /contact-us/
 schemaType: LocalBusiness
 internalLinks: /industries/data-centers, /compliance/ndaa-889, /procurement/gsa-sourcewell, /products/sky-guard-mobile-surveillance-trailer
 canonical: https://visiondetectionsystems.com/locations/virginia

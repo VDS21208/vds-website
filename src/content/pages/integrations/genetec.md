@@ -32,7 +32,7 @@ finalCTAHeading: Add solar-autonomous coverage to Security Center without adding
 finalCTABody: A VDS integration engineer will scope your Security Center version, federation topology, and required event types in 30 minutes. You leave with a written deployment plan.
 finalCTAButtons:
 - label: Book Genetec integration call
-  url: Read API + SDK docs
+  url: /contact-us/
 schemaType: Article
 internalLinks: /integrations, /platform/platform, /platform/api-sdk-access, /platform/soc, /hardware/solar-trailers
 canonical: https://visiondetectionsystems.com/integrations/genetec

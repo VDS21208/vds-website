@@ -34,7 +34,7 @@ finalCTAHeading: 90 seconds is not enough time for a guard. It is enough for VDS
 finalCTABody: Tell us your lot size, vehicle mix, and current loss frequency. We quote a perimeter design that fits inside the 90-second window.
 finalCTAButtons:
 - label: Quote My Lot
-  url: Talk to an Engineer
+  url: /contact-us/
 schemaType: Article
 internalLinks: /products/swift-deploy-surveillance-trailer, /products/sky-guard-mobile-surveillance-trailer, /solutions/auto, /solutions/auto/vehicle-theft-prevention, /features/lpr
 canonical: https://visiondetectionsystems.com/solutions/catalytic-converter-theft-prevention

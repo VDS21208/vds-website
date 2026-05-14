@@ -39,7 +39,7 @@ finalCTAHeading: Price your construction site
 finalCTABody: Send us the site address, footprint, and phase schedule. We'll come back within 24 hours with a sized configuration, monthly pricing, and deployment date.
 finalCTAButtons:
 - label: Get a project quote
-  url: Read the Mid-Atlantic GC case study
+  url: /resources/case-studies/
 schemaType: Service
 internalLinks: /products/swift-deploy-surveillance-trailer, /products/solar-camera-poles, /products/sky-guard-mobile-surveillance-trailer, /resources/case-studies/mid-atlantic-gc, /platform/soc, /pricing
 canonical: https://visiondetectionsystems.com/industries/construction-site-security

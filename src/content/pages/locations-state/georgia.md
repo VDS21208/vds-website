@@ -35,7 +35,7 @@ finalCTAHeading: Atlanta to Savannah, construction to port to production
 finalCTABody: Four verticals, one regional lead, one quote. Tell us the site and we'll come back with unit count, lead time, and procurement path.
 finalCTAButtons:
 - label: Get a Georgia quote
-  url: See port logistics case study
+  url: /resources/case-studies/
 schemaType: LocalBusiness
 internalLinks: /industries/warehouse-logistics-security, /industries/construction-site-security, /industries/film-production, /products/sky-guard-mobile-surveillance-trailer
 canonical: https://visiondetectionsystems.com/locations/georgia

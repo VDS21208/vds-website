@@ -37,7 +37,7 @@ finalCTAHeading: Cover the yard, not just the building.
 finalCTABody: Send us your site map and we'll mark up exactly where the units go and what the monthly looks like.
 finalCTAButtons:
 - label: Get a Yard Coverage Plan
-  url: See Pricing
+  url: /request-a-quote/
 schemaType: Article
 internalLinks: /products/sky-guard | /products/boundary-guard-pro | /products/swift-deploy-surveillance-trailer | /platform/platform | /industries
 canonical: https://visiondetectionsystems.com/industries/warehouse-logistics-security

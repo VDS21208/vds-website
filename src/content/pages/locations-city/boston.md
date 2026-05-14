@@ -35,7 +35,7 @@ finalCTAHeading: Boston-metro mobile surveillance
 finalCTABody: 24-72 hour deployment from contract sign. Tell us where the job site is and which counties.
 finalCTAButtons:
 - label: Request a Boston quote
-  url: Talk to a deployment engineer
+  url: /contact-us/
 schemaType: LocalBusiness
 internalLinks: /locations/mobile-surveillance-trailers, /locations/massachusetts, /products/sky-guard-mobile-surveillance-trailer, /industries/construction-security, /industries/university-campus-security, /industries/retail-orc
 canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailersboston

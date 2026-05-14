@@ -14,7 +14,7 @@ heroCTAPrimary:
   label: Email the press desk [mailto:press@visiondetectionsystems.com]
   url: /request-a-quote
 heroCTASecondary:
-  label: Download press kit [/assets/vds-press-kit.zip]
+  label: Download press kit 
   url: /request-a-quote
 heroStats:
 - 1-business-day response
@@ -32,7 +32,7 @@ finalCTAHeading: One press desk. One contact. One business day.
 finalCTABody: Send your topic, outlet, and deadline. Credentialed press gets a response within one business day.
 finalCTAButtons:
 - label: Email press desk [mailto:press@visiondetectionsystems.com]
-  url: Download press kit [/assets/vds-press-kit.zip]
+  url: /assets/vds-press-kit.zip/
 schemaType: AboutPage
 internalLinks: /about, /about-us/leadership, /case-studies
 canonical: https://visiondetectionsystems.com/about-us/press

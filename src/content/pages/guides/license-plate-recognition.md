@@ -34,7 +34,7 @@ finalCTAHeading: Get the technical reference
 finalCTABody: 32 pages, state-by-state privacy table, camera spec checklist. Engineering teams find this useful even when they are not buying yet.
 finalCTAButtons:
 - label: Download the Guide (PDF)
-  url: Schedule a Demo
+  url: /schedule-a-demo/
 schemaType: Book
 internalLinks: /platform/platform, /industries/warehouse-logistics-security, /industries/law-enforcement, /services/video-retrieval
 canonical: https://visiondetectionsystems.com/guides/license-plate-recognition

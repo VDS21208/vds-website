@@ -34,7 +34,7 @@ finalCTAHeading: Build on AI VisionStream
 finalCTABody: Request API access and we will provision a sandbox tenant, ship you the Postman collection, and route you to a solutions engineer.
 finalCTAButtons:
 - label: Request API Access
-  url: View Developer Docs
+  url: /contact-us/
 schemaType: TechArticle
 internalLinks: /platform/platform, /platform/cloud-video-surveillance, /industries/construction-site-security, /platform/integrations
 canonical: https://visiondetectionsystems.com/platform/api-sdk-access

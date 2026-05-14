@@ -34,7 +34,7 @@ finalCTAHeading: Lose the next spool, or lose zero.
 finalCTABody: Book a site walk with a VDS engineer. We map your laydown yard, fence exposures, and access roads, then quote a defended-perimeter design in 48 hours.
 finalCTAButtons:
 - label: Schedule Site Walk
-  url: Talk to an Engineer
+  url: /contact-us/
 schemaType: Article
 internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/boundary-guard-pro, /solutions/construction, /resources/case-studies/mid-atlantic-gc, /solutions/construction/insurance-claim-reduction
 canonical: https://visiondetectionsystems.com/solutions/copper-theft-prevention

@@ -34,7 +34,7 @@ finalCTAHeading: Toronto coverage, two paths
 finalCTABody: Cross-border programs available today through VDS. Toronto-only deployments through a Canadian operator we'll point you to.
 finalCTAButtons:
 - label: Talk about cross-border
-  url: Join Toronto waitlist
+  url: /compare/top-mobile-surveillance-companies/
 schemaType: LocalBusiness
 internalLinks: /locations/canada, /locations/canada/vancouver, /guides/mobile-surveillance-canada, /products/sky-guard-mobile-surveillance-trailer, /industries/construction-site-security
 canonical: https://visiondetectionsystems.com/locations/canada/toronto

@@ -27,7 +27,7 @@ finalCTAHeading: Scope a dealer lot deployment
 finalCTABody: A 30-minute call covers your lot count, current loss baseline, and LPR integration requirements. We send back a written configuration inside 48 hours.
 finalCTAButtons:
 - label: Request an assessment
-  url: Download the PDF
+  url: /contact-us/
 schemaType: Article
 internalLinks: /products/swift-deploy-surveillance-trailer, /platform/lpr, /industries/auto-dealership, /platform/soc, /resources/case-studies/mid-atlantic-gc
 canonical: https://visiondetectionsystems.com/resources/case-studies/auto-dealership-southeast

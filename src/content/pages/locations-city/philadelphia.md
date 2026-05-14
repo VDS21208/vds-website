@@ -35,7 +35,7 @@ finalCTAHeading: Next-day Philly deployment
 finalCTABody: Philadelphia metro deployments power on within 24 hours of contract sign. Tell us the site.
 finalCTAButtons:
 - label: Request a Philly quote
-  url: Schedule a site walk
+  url: /schedule-a-demo/
 schemaType: LocalBusiness
 internalLinks: /locations/mobile-surveillance-trailers, /locations/pennsylvania, /products/sky-guard-mobile-surveillance-trailer, /industries/construction-security, /industries/port-logistics, /industries/university-campus, /compliance/pa-costars
 canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailersphiladelphia

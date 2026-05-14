@@ -34,7 +34,7 @@ finalCTAHeading: Stop the next hookup before the trailer clears the gate.
 finalCTABody: Send us a yard map and door count. We return a coverage proposal in 5 business days.
 finalCTAButtons:
 - label: Quote My Yard
-  url: Talk to an Engineer
+  url: /contact-us/
 schemaType: Article
 internalLinks: /products/boundary-guard-pro, /products/swift-deploy-surveillance-trailer, /products/sky-guard-mobile-surveillance-trailer, /features/lpr, /solutions/warehouse
 canonical: https://visiondetectionsystems.com/solutions/warehouse/cargo-theft-yard

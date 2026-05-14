@@ -12,7 +12,7 @@ heroEyebrow: Festivals, fairs, and temporary venues
 heroSubhead: 'Music festivals, county fairs, sporting events, and pop-up venues create temporary high-density risk: parking lot theft, vendor zone shrink, crowd surge, ticket fraud, and after-hours teardown losses. This playbook is the deployment design from 200+ events covered.'
 heroCTAPrimary:
   label: Download the full guide (PDF)
-  url: gated-form
+  url: /contact-us/
 heroCTASecondary:
   label: Get an event quote
   url: /contact-us
@@ -36,7 +36,7 @@ finalCTAHeading: Cover the event before it starts losing money
 finalCTABody: Download the 30-page playbook with the pre-event survey checklist and rental rate math. Or get a quote for your event date.
 finalCTAButtons:
 - label: Download the guide
-  url: gated-form ; Get event quote
+  url: /request-a-quote/
 schemaType: Article
 internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /products/boundary-guard-pro, /guides/temporary-surveillance, /contact-us
 canonical: https://visiondetectionsystems.com/guides/event-security

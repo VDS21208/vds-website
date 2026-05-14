@@ -35,7 +35,7 @@ finalCTAHeading: Phoenix-metro mobile surveillance
 finalCTABody: 72-96 hour deployment. Units rated to 120F. Solar-native. Tell us where the site is.
 finalCTAButtons:
 - label: Request a Phoenix quote
-  url: Talk to a deployment engineer
+  url: /contact-us/
 schemaType: LocalBusiness
 internalLinks: /locations/mobile-surveillance-trailers, /locations/arizona, /products/sky-guard-mobile-surveillance-trailer, /products/boundary-guard-pro, /industries/construction-security, /industries/data-center-security, /industries/copper-theft-prevention
 canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailersphoenix

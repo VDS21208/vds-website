@@ -35,7 +35,7 @@ finalCTAHeading: Miami mobile surveillance, hurricane-ready
 finalCTABody: Every Florida contract includes documented pull/store/redeploy protocols at no extra charge for the first two named storms per year.
 finalCTAButtons:
 - label: Request a Miami quote
-  url: Read the hurricane protocol
+  url: /contact-us/
 schemaType: LocalBusiness
 internalLinks: /locations/mobile-surveillance-trailers, /locations/florida, /products/sky-guard-mobile-surveillance-trailer, /industries/construction-security, /industries/hospitality-healthcare-security, /industries/port-logistics
 canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailersmiami

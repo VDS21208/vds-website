@@ -36,7 +36,7 @@ finalCTAHeading: Plan your Canadian deployment honestly
 finalCTABody: If you have a North American portfolio, talk to us about cross-border structure. If you're Canada-only today, the operators we list on our Canada page will serve you better than we would.
 finalCTAButtons:
 - label: Talk about cross-border
-  url: See Canada operations page
+  url: /contact-us/
 schemaType: Article
 internalLinks: /locations/canada, /locations/canada/toronto, /locations/canada/vancouver, /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /products/boundary-guard-pro, /company/about
 canonical: https://visiondetectionsystems.com/guides/mobile-surveillance-canada

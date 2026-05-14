@@ -26,7 +26,7 @@ finalCTAHeading: Ready to scope your own deployment?
 finalCTABody: A 30-minute assessment call covers your threat profile, site footprint, and budget. We send back a written proposal inside 48 hours.
 finalCTAButtons:
 - label: Request an assessment
-  url: Talk to an engineer
+  url: /contact-us/
 schemaType: Organization
 canonical: https://visiondetectionsystems.com/resources/case-studies
 ogTitle: Verified outcomes from real deployments

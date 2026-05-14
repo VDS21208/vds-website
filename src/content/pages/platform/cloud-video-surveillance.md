@@ -34,7 +34,7 @@ finalCTAHeading: See AI VisionStream on your cameras
 finalCTABody: 30-minute live demo with your floor plan and camera count. We will show retention, AI events, audit log, and user permissions on actual deployments.
 finalCTAButtons:
 - label: Schedule Demo
-  url: Download Platform Brief
+  url: /contact-us/
 schemaType: Product
 internalLinks: /platform/platform, /platform/api-sdk-access, /services/24-7-soc, /guides/security-video-retention
 canonical: https://visiondetectionsystems.com/platform/cloud-video-surveillance

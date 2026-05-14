@@ -37,7 +37,7 @@ finalCTAHeading: Download the 2026 Report
 finalCTABody: 47 pages, free, no phone-call qualification, no sales pitch in the PDF. Email and company name to receive the report and the data appendix.
 finalCTAButtons:
 - label: Download the 2026 Report
-  url: Read Executive Summary
+  url: /contact-us/
 schemaType: Report / Article (with author, publisher, datePublished, citation)
 canonical: https://visiondetectionsystems.com/resources/state-of-mobile-surveillance-2026
 ogTitle: State of Mobile Surveillance in North America — 2026 Report

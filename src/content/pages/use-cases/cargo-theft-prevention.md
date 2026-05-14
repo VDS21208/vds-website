@@ -37,7 +37,7 @@ finalCTAHeading: Stop losing trailers. Start logging every plate.
 finalCTABody: 30-minute call with an engineer. Yard walkthrough and deployment plan within 48 hours.
 finalCTAButtons:
 - label: Get a Quote
-  url: Book a Site Walk
+  url: /contact-us/
 schemaType: Article
 internalLinks: /products/boundary-guard-pro, /products/swift-deploy-surveillance-trailer, /platform/platform, /platform/soc, /industries/warehouse-logistics-security, /industries/warehouse-logistics-security, /industries/warehouse-logistics-security
 canonical: https://visiondetectionsystems.com/use-cases/cargo-theft-prevention

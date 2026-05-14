@@ -26,7 +26,7 @@ finalCTAHeading: For press inquiries
 finalCTABody: Same-day response on active news cycles. Email press@visiondetectionsystems.com or call the Pikesville HQ main line.
 finalCTAButtons:
 - label: Email press contact
-  url: Download press kit
+  url: /about-us/press-kit/
 schemaType: Organization
 canonical: https://visiondetectionsystems.com/resources/news
 ogTitle: News, press, and executive commentary

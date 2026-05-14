@@ -39,7 +39,7 @@ finalCTAHeading: Start with a site assessment.
 finalCTABody: 30-minute call with a deployment engineer. We map the perimeter, identify gaps, and price the right combination of services. No deck-only sales reps.
 finalCTAButtons:
 - label: Request site assessment
-  url: Call (410) 555-0100
+  url: /contact-us/
 schemaType: Service / ItemList
 canonical: https://visiondetectionsystems.com/services
 ogTitle: Six services. One accountable team. Zero finger-pointing.

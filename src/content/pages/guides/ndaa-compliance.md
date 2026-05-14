@@ -12,7 +12,7 @@ heroEyebrow: Federal & critical-infrastructure procurement
 heroSubhead: Section 889 of the 2019 NDAA prohibits federal agencies — and any entity receiving federal grant or loan dollars — from using covered telecommunications and video surveillance equipment. The list includes Dahua, Hikvision, Hytera, Huawei, and ZTE, plus any OEM-rebranded variant. This guide gives you the audit-ready procurement language and approved substitutions.
 heroCTAPrimary:
   label: Download the full guide (PDF)
-  url: gated-form
+  url: /contact-us/
 heroCTASecondary:
   label: Talk to a compliance engineer
   url: /contact-us
@@ -36,7 +36,7 @@ finalCTAHeading: Get the compliance package
 finalCTABody: Download the 28-page PDF with sample RFP language and the full equipment substitution matrix. Or book 20 minutes with a compliance engineer to review your current spec.
 finalCTAButtons:
 - label: Download the guide
-  url: gated-form ; Book compliance review
+  url: /contact-us/
 schemaType: Article
 internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /products/boundary-guard-pro, /guides/utility-substation-security, /compliance, /contact-us
 canonical: https://visiondetectionsystems.com/guides/ndaa-compliance

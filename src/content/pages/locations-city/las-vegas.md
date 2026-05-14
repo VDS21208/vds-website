@@ -35,7 +35,7 @@ finalCTAHeading: Las Vegas mobile surveillance
 finalCTABody: 72-96 hour deployment. Construction, exterior, parking, and events — not gaming interior. Tell us where the site is.
 finalCTAButtons:
 - label: Request a Vegas quote
-  url: Talk to a deployment engineer
+  url: /contact-us/
 schemaType: LocalBusiness
 internalLinks: /locations/mobile-surveillance-trailers, /locations/nevada, /products/sky-guard-mobile-surveillance-trailer, /products/boundary-guard-pro, /industries/construction-security, /industries/event-security, /industries/parking-garage-security
 canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailerslas-vegas

@@ -35,7 +35,7 @@ finalCTAHeading: Chicagoland mobile surveillance, BIPA-clean
 finalCTABody: No biometrics. No facial recognition. Customer-owned footage. Tell us the site.
 finalCTAButtons:
 - label: Request a Chicago quote
-  url: Read the BIPA framing
+  url: /contact-us/
 schemaType: LocalBusiness
 internalLinks: /locations/mobile-surveillance-trailers, /locations/illinois, /products/swift-deploy-surveillance-trailer, /industries/retail-orc, /industries/construction-security, /industries/transit, /industries/rail-intermodal, /compliance/bipa
 canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailerschicago

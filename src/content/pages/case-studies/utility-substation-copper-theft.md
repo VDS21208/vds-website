@@ -27,7 +27,7 @@ finalCTAHeading: Scope a substation perimeter deployment
 finalCTABody: A 45-minute scoping call covers your substation count, current perimeter posture, and regulatory profile. We send back a written configuration that meets your CIP and 889 requirements.
 finalCTAButtons:
 - label: Request an assessment
-  url: Download the PDF
+  url: /contact-us/
 schemaType: Article
 internalLinks: /products/sky-guard-mobile-surveillance-trailer, /industries/utility-energy, /platform/soc, /compliance/ndaa-889, /resources/nerc-cip-perimeter
 canonical: https://visiondetectionsystems.com/resources/case-studies/utility-substation-copper-theft

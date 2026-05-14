@@ -35,7 +35,7 @@ finalCTAHeading: See if a case study fits your site
 finalCTABody: Tell us your vertical and site type. We'll send the most comparable case study and a deployment template for your operation.
 finalCTAButtons:
 - label: Read the Hero Case Study
-  url: Request Your Vertical
+  url: /contact-us/
 schemaType: Article
 internalLinks: /solutions, /resources/case-studies, /resources/case-studies/mid-atlantic-gc, /resources/case-studies, /resources/case-studies, /resources/case-studies, /resources/case-studies
 canonical: https://visiondetectionsystems.com/solutions/case-study-example

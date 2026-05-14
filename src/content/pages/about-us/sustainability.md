@@ -11,10 +11,10 @@ h1: Sustainability is an operating cost line. We measure it that way.
 heroEyebrow: Sustainability
 heroSubhead: We do not run a corporate ESG program. We run a hardware company that ships solar-powered units because grid hookups cost more than solar arrays. The environmental numbers come out of the operations data.
 heroCTAPrimary:
-  label: See the platform [/platform]
+  label: See the platform 
   url: /request-a-quote
 heroCTASecondary:
-  label: Request unit-level energy data [/contact-us]
+  label: Request unit-level energy data 
   url: /request-a-quote
 heroStats:
 - 100% solar-primary
@@ -35,7 +35,7 @@ finalCTAHeading: The math is on the operations report, not on a poster.
 finalCTABody: For sustainability-driven procurement, request unit-level energy data for your specific deployment count and duration.
 finalCTAButtons:
 - label: Request energy data [/contact-us]
-  url: See pricing [/pricing]
+  url: /pricing/
 schemaType: AboutPage
 internalLinks: /about, /platform, /products/sky-guard, /pricing
 canonical: https://visiondetectionsystems.com/about-us/sustainability

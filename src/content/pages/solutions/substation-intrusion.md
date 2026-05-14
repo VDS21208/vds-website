@@ -34,7 +34,7 @@ finalCTAHeading: Move detection upstream of the incident.
 finalCTABody: Schedule a CIP-014 site assessment. We map your detection gaps against R4/R5 requirements and quote a deployable solution.
 finalCTAButtons:
 - label: Request CIP-014 Assessment
-  url: Talk to an Engineer
+  url: /contact-us/
 schemaType: Article
 internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/boundary-guard-pro, /solutions/utility, /solutions/utility/copper-theft-prevention, /compliance/nerc-cip
 canonical: https://visiondetectionsystems.com/solutions/utility/substation-intrusion

@@ -36,7 +36,7 @@ finalCTAHeading: Building a North American program?
 finalCTABody: We will scope your US footprint and refer Canadian sites to a Zedcor counterpart if that is the right structure. No markup, no kickback — we just want you to have the right operator in each country.
 finalCTAButtons:
 - label: Scope a US program
-  url: Cross-border intro
+  url: /contact-us/
 schemaType: Article
 internalLinks: /products/sky-guard, /platform/soc, /compliance/ndaa, /platform/platform, /partners, /compare
 canonical: https://visiondetectionsystems.com/compare/vds-vs-zedcor

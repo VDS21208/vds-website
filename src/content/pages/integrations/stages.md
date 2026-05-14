@@ -32,7 +32,7 @@ finalCTAHeading: Keep your Stages central station. Add verified video.
 finalCTABody: A 30-minute call covers your account map and action plans. VDS coordinates directly with your monitoring partner.
 finalCTAButtons:
 - label: Book Stages integration call
-  url: Read API + SDK docs
+  url: /contact-us/
 schemaType: Article
 internalLinks: /integrations, /platform/platform, /platform/api-sdk-access, /platform/soc
 canonical: https://visiondetectionsystems.com/integrations/stages

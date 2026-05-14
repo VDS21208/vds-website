@@ -35,7 +35,7 @@ finalCTAHeading: Build season and storm season, one provider
 finalCTABody: We've executed four hurricane redeploys without losing a unit. Tell us the site and we'll quote coverage that survives both seasons.
 finalCTAButtons:
 - label: Get a Florida quote
-  url: Download hurricane redeploy plan
+  url: /contact-us/
 schemaType: LocalBusiness
 internalLinks: /industries/construction-site-security, /industries/hospitality-healthcare-security, /resources/hurricane-protocol, /products/sky-guard-mobile-surveillance-trailer
 canonical: https://visiondetectionsystems.com/locations/florida

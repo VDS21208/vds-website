@@ -35,7 +35,7 @@ finalCTAHeading: Federal-ready mobile surveillance
 finalCTABody: NDAA 889 attestation, GSA Schedule, and SAM.gov registration available on request. Tell us the project.
 finalCTAButtons:
 - label: Request a federal quote
-  url: Download the 889 attestation
+  url: /contact-us/
 schemaType: LocalBusiness
 internalLinks: /locations/mobile-surveillance-trailers, /locations/washington-dc, /locations/virginia, /locations/maryland, /compliance/ndaa-889, /compliance/gsa-schedule, /industries/federal
 canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailerswashington-dc

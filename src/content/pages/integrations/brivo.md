@@ -32,7 +32,7 @@ finalCTAHeading: Stop firing lockdowns on false alarms.
 finalCTABody: A 30-minute call covers your Brivo site map, which doors should respond to which zones, and how your tenants want lockdowns communicated.
 finalCTAButtons:
 - label: Book Brivo integration call
-  url: Read API + SDK docs
+  url: /contact-us/
 schemaType: Article
 internalLinks: /integrations, /platform/platform, /platform/api-sdk-access, /verticals/commercial-real-estate, /verticals/multi-family
 canonical: https://visiondetectionsystems.com/integrations/brivo

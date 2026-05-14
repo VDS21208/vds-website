@@ -32,7 +32,7 @@ finalCTAHeading: See what closing the three gaps looks like on your site.
 finalCTABody: 15-minute consult with a deployment engineer. We will walk a site map, identify the actual exposure, and price it transparently.
 finalCTAButtons:
 - label: Book a Consult
-  url: See Our Hardware
+  url: /products/
 schemaType: Organization
 internalLinks: /about-us, /about-us/why-vision-detection-systems, /about-us/our-plant, /platform/soc, /products/sky-guard-mobile-surveillance-trailer, /platform/platform
 canonical: https://visiondetectionsystems.com/about-us/mission

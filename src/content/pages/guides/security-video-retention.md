@@ -34,7 +34,7 @@ finalCTAHeading: Get the framework, then build the policy
 finalCTABody: 26 pages, state-by-state table, working policy template. Bring it to your legal team — they will appreciate not having to start from scratch.
 finalCTAButtons:
 - label: Download the Guide (PDF)
-  url: Talk to Compliance Engineering
+  url: /contact-us/
 schemaType: Book
 internalLinks: /platform/cloud-video-surveillance, /services/video-retrieval, /industries/hospitality-healthcare-security, /industries/financial-services
 canonical: https://visiondetectionsystems.com/guides/security-video-retention

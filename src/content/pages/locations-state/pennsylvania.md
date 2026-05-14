@@ -35,7 +35,7 @@ finalCTAHeading: Marcellus to Philadelphia, well pad to borough downtown
 finalCTABody: One provider, one procurement vehicle for PA (COSTARS), one monthly bill. Tell us the site and we'll quote.
 finalCTAButtons:
 - label: Get a PA quote
-  url: Talk to municipal sales
+  url: /contact-us/
 schemaType: LocalBusiness
 internalLinks: /industries/oil-and-gas, /industries/community-safety, /procurement/costars, /products/sky-guard-mobile-surveillance-trailer
 canonical: https://visiondetectionsystems.com/locations/pennsylvania

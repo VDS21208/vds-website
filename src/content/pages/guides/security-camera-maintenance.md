@@ -34,7 +34,7 @@ finalCTAHeading: Get the checklist your team will actually use
 finalCTABody: 24 pages, with a one-page checklist suitable for printing and keeping in the truck.
 finalCTAButtons:
 - label: Download the Guide (PDF)
-  url: Request a Maintenance Audit
+  url: /request-a-quote/
 schemaType: Book
 internalLinks: /services/device-health-monitoring, /platform/platform, /services/deployment-logistics, /guides/mobile-surveillance-trailers
 canonical: https://visiondetectionsystems.com/guides/security-camera-maintenance

@@ -37,7 +37,7 @@ finalCTAHeading: Quote your property
 finalCTABody: Send us the property map or a Google Maps pin. We will scope parking, valet, and amenity coverage and return pricing within one business day.
 finalCTAButtons:
 - label: Get Hotel Pricing
-  url: Schedule a Site Walk
+  url: /schedule-a-demo/
 schemaType: Article
 internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/boundary-guard-pro, /platform/soc, /industries/hospitality-healthcare-security, /industries
 canonical: https://visiondetectionsystems.com/industries/hospitality-hotel-security

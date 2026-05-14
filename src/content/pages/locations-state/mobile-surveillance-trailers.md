@@ -35,7 +35,7 @@ finalCTAHeading: Find a unit in your city
 finalCTABody: Pick your metro or request a quote and we'll route you to the nearest deployment engineer.
 finalCTAButtons:
 - label: Find my city
-  url: Request a quote
+  url: /request-a-quote/
 schemaType: LocalBusiness
 internalLinks: /locations/products/mobile-surveillance-trailersbaltimore, /locations/products/mobile-surveillance-trailersnew-york, /locations/products/mobile-surveillance-trailerswashington-dc, /locations/products/mobile-surveillance-trailersphiladelphia, /locations/products/mobile-surveillance-trailersrichmond, /locations/products/mobile-surveillance-trailersmiami, /locations/products/mobile-surveillance-trailersdallas, /locations/products/mobile-surveillance-trailerslos-angeles, /locations/products/mobile-surveillance-trailerschicago, /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /products/boundary-guard-pro
 canonical: https://visiondetectionsystems.com/locations/mobile-surveillance-trailers
