@@ -3,31 +3,184 @@ import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 import HeroImage from '../../components/hero/HeroImage.astro';
 import TrustStrip from '../../components/sections/TrustStrip.astro';
-import PageBody from '../../components/sections/PageBody.astro';
-import SchemaArticle from '../../components/seo/SchemaArticle.astro';
-import SchemaFAQ from '../../components/seo/SchemaFAQ.astro';
-import { heroImageUrl } from '../../lib/heroImage.ts';
+import FAQAccordion from '../../components/sections/FAQAccordion.astro';
+import FinalCTAStrip from '../../components/sections/FinalCTAStrip.astro';
+import Icon from '../../components/icons/Icon.astro';
 
 const all = await getCollection('pages');
-const entry = all.find((e) => e.data.url === '/pricing');
-if (!entry) throw new Error("No content for /pricing");
-const page = entry.data;
-const { Content } = await entry.render();
+const entry = all.find((e: any) => e.data.url === '/pricing' || e.data.url === '/pricing/');
+const page = entry?.data || {
+  seoTitle: 'Pricing | Vision Detection Systems',
+  metaDescription: 'Transparent VDS pricing — rental and purchase tiers, AI add-ons, monitoring options.',
+  h1: 'Pricing that scales with your needs',
+  heroSubhead: 'Simple. Transparent. No hidden activation fees. Rent or buy, monitor or self-monitor — mix and match per site.',
+  faq: [],
+  finalCTAHeading: 'Need a custom quote?',
+  finalCTABody: '',
+  finalCTAButtons: [{ label: 'Request a quote', url: '/request-a-quote/' }, { label: 'Schedule a demo', url: '/schedule-a-demo/' }],
+  canonical: 'https://visiondetectionsystems.com/pricing/',
+};
+
+const plans = [
+  {
+    name: 'Rent',
+    tag: 'Most flexible',
+    badge: false,
+    price: '$1,500',
+    unit: '/mo',
+    blurb: 'Per-trailer rental. Includes hardware, AI VisionStream, and standard support.',
+    features: [
+      'Sky Guard / Swift Deploy trailer',
+      'AI VisionStream cloud platform',
+      'Standard analytics package',
+      'Free deployment within 30-state service area',
+      'Replacement-on-failure SLA',
+      'Cancel month-to-month',
+    ],
+    cta: { label: 'Get a quote', url: '/request-a-quote/' },
+    secondary: { label: 'See trailers', url: '/products/' },
+  },
+  {
+    name: 'Buy',
+    tag: 'Best long-term value',
+    badge: true,
+    price: 'from $38K',
+    unit: 'one-time',
+    blurb: 'Own the hardware. Pay only for cloud platform and optional SOC.',
+    features: [
+      'Sky Guard MSU from $38K',
+      'Swift Deploy from $32K',
+      'Platform from $99/cam/mo',
+      'Optional 24/7 SOC',
+      'NDAA 889 compliant',
+      'Channel financing available',
+    ],
+    cta: { label: 'Get a quote', url: '/request-a-quote/' },
+    secondary: { label: 'TCO calculator', url: '/guides/roi-calculator/' },
+  },
+  {
+    name: '24/7 SOC',
+    tag: 'Add-on per site',
+    badge: false,
+    price: '$399',
+    unit: '/site/mo',
+    blurb: 'Real US operators monitoring your sites with <60s average escalation.',
+    features: [
+      'In-house US-based operators',
+      'AI pre-filter (97% false-alarm reduction)',
+      'Audio talk-down through trailer PA',
+      'Direct law-enforcement dispatch',
+      'Mon-Fri or 24/7 coverage tiers',
+      'Per-incident reporting & audit log',
+    ],
+    cta: { label: 'Add SOC', url: '/contact-us/' },
+    secondary: { label: 'SOC details', url: '/platform/soc/' },
+  },
+];
+
+const aiAddons = [
+  { name: 'License Plate Recognition', price: '$49/cam/mo', url: '/platform/analytics/license-plate-recognition/' },
+  { name: 'Fire & Smoke Detection', price: '$59/cam/mo', url: '/platform/analytics/fire-smoke-detection/' },
+  { name: 'People Counting', price: '$29/cam/mo', url: '/platform/analytics/people-counting/' },
+  { name: 'Loitering Detection', price: '$29/cam/mo', url: '/platform/analytics/loitering-detection/' },
+  { name: 'Object Detection', price: '$39/cam/mo', url: '/platform/analytics/object-detection/' },
+  { name: 'Face Recognition', price: 'Contact', url: '/platform/analytics/face-recognition/' },
+];
 ---
-<Layout
-  title={page.seoTitle}
-  description={page.metaDescription}
-  ogTitle={page.ogTitle}
-  ogDescription={page.ogDescription}
-  ogImage={page.ogImage}
-  robots={page.robots}
-  parent={page.parent || "Home"}
-  h1={page.h1}
->
-  <SchemaArticle headline={page.h1} description={page.metaDescription} url={page.canonical} keywords={page.tags} />
-  <SchemaFAQ faqs={page.faq} />
-  <HeroImage bgImage={heroImageUrl({ url: page.url, tags: page.tags, pageType: page.pageType, heroImage: page.heroImage })} eyebrow={page.heroEyebrow} h1={page.h1} subhead={page.heroSubhead} ctaPrimary={page.heroCTAPrimary} ctaSecondary={page.heroCTASecondary} stats={page.heroStats} />
+<Layout title={page.seoTitle} description={page.metaDescription} parent="Home" h1={page.h1}>
+  <!-- Pricing hero -->
+  <section class="relative bg-navy text-white py-24 md:py-32 overflow-hidden">
+    <div class="dot-pattern absolute inset-0 opacity-20"></div>
+    <div class="hero-orb-layer">
+      <div class="gradient-orb gradient-orb-orange" style="width:600px;height:600px;top:-200px;right:-150px;opacity:0.22;"></div>
+      <div class="gradient-orb gradient-orb-blue" style="width:500px;height:500px;bottom:-200px;left:-100px;opacity:0.18;animation-delay:-7s;"></div>
+    </div>
+    <div class="container-wide relative z-10 max-w-4xl">
+      <div class="eyebrow mb-4">Pricing</div>
+      <h1 class="font-display text-5xl md:text-6xl leading-tight mb-6">Plans that scale<br/><span class="gradient-text">with your needs.</span></h1>
+      <p class="text-xl md:text-2xl text-white/80 leading-relaxed mb-8 font-light max-w-3xl">{page.heroSubhead}</p>
+    </div>
+  </section>
+
   <TrustStrip />
-  <section class="py-12 md:py-16 bg-white"><div class="container-main"><article class="prose-vds"><Content /></article></div></section>
-  <PageBody body="" faq={page.faq} finalCTAHeading={page.finalCTAHeading} finalCTABody={page.finalCTABody} finalCTAButtons={page.finalCTAButtons} />
+
+  <!-- 3 PLAN CARDS -->
+  <section class="py-20 md:py-24 bg-offwhite relative">
+    <div class="container-wide">
+      <div class="grid lg:grid-cols-3 gap-6">
+        {plans.map((p) => (
+          <div class={`relative bg-white border ${p.badge ? 'border-orange shadow-[0_20px_40px_-16px_rgba(232,98,26,0.3)] lg:-translate-y-3' : 'border-slate-200'} rounded-2xl p-8 flex flex-col`}>
+            {p.badge && <div class="absolute -top-3 left-1/2 -translate-x-1/2 inline-flex items-center gap-1.5 bg-orange text-white text-[0.625rem] uppercase tracking-[0.18em] font-medium px-3 py-1.5 rounded-full"><Icon name="check" size={10} /> Most popular</div>}
+            <div class="text-[0.6875rem] uppercase tracking-[0.18em] text-orange font-medium mb-2">{p.tag}</div>
+            <h3 class="font-display text-3xl text-navy mb-2">{p.name}</h3>
+            <p class="text-sm text-slate-600 leading-relaxed mb-6">{p.blurb}</p>
+            <div class="flex items-baseline gap-2 mb-7 pb-7 border-b border-slate-200">
+              <span class="font-display text-5xl text-navy">{p.price}</span>
+              <span class="text-slate-500 text-sm">{p.unit}</span>
+            </div>
+            <ul class="space-y-3 mb-7 flex-1">
+              {p.features.map((f) => (
+                <li class="flex items-start gap-3 text-[0.9375rem] text-slate-700">
+                  <span class="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-orange/10 text-orange flex items-center justify-center"><Icon name="check" size={10} /></span>
+                  <span>{f}</span>
+                </li>
+              ))}
+            </ul>
+            <a href={p.cta.url} class={`block text-center font-medium py-3 px-5 rounded-md transition-all mb-2 ${p.badge ? 'bg-orange hover:bg-orange-dark text-white' : 'bg-navy hover:bg-navy-light text-white'}`}>{p.cta.label}</a>
+            <a href={p.secondary.url} class="block text-center text-sm text-slate-500 hover:text-orange py-2 transition-colors">{p.secondary.label} →</a>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- AI ANALYTICS PRICING -->
+  <section class="py-20 bg-white">
+    <div class="container-wide max-w-5xl">
+      <div class="text-center max-w-2xl mx-auto mb-12">
+        <div class="eyebrow mb-3 justify-center">Activate per camera</div>
+        <h2 class="font-display text-navy text-3xl md:text-4xl leading-tight">AI analytics<br/><span class="gradient-text-dark">on demand pricing.</span></h2>
+        <p class="text-slate-600 mt-5 leading-relaxed">Add any analytic to any camera, only when you need it. Cancel monthly.</p>
+      </div>
+      <div class="border border-slate-200 rounded-xl overflow-hidden">
+        {aiAddons.map((a, i) => (
+          <a href={a.url} class={`grid grid-cols-12 gap-4 px-6 py-5 ${i % 2 === 0 ? 'bg-white' : 'bg-offwhite'} border-t first:border-t-0 border-slate-100 hover:bg-orange/5 hover:border-orange/20 transition-colors group`}>
+            <div class="col-span-8 flex items-center gap-3">
+              <span class="inline-flex items-center justify-center w-8 h-8 rounded-md bg-orange/10 text-orange group-hover:bg-orange group-hover:text-white transition-colors"><Icon name="eye" size={14} /></span>
+              <span class="font-display text-base text-navy group-hover:text-orange transition-colors">{a.name}</span>
+            </div>
+            <div class="col-span-3 text-right font-display text-base text-orange">{a.price}</div>
+            <div class="col-span-1 text-right text-slate-400 group-hover:text-orange transition-colors"><Icon name="arrow-right" size={16} /></div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- WHAT'S INCLUDED COMPARISON -->
+  <section class="py-20 bg-offwhite">
+    <div class="container-wide max-w-5xl">
+      <div class="text-center mb-10">
+        <div class="eyebrow mb-3 justify-center">What's included</div>
+        <h2 class="font-display text-navy text-3xl md:text-4xl">Every VDS plan includes.</h2>
+      </div>
+      <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-4">
+        {[
+          { icon: 'shield', title: 'NDAA 889 compliant', body: 'US-engineered hardware. No Dahua, no Hikvision.' },
+          { icon: 'cpu', title: 'AI VisionStream', body: 'Cloud-native VMS. AWS US-only.' },
+          { icon: 'eye', title: 'Standard analytics', body: 'Intrusion, line-cross, time-of-day rules.' },
+          { icon: 'phone', title: 'Onboarding + training', body: 'Live walkthrough. Recorded videos.' },
+        ].map((b) => (
+          <div class="bg-white border border-slate-200 rounded-xl p-6">
+            <div class="inline-flex items-center justify-center w-10 h-10 rounded-md bg-orange/10 text-orange mb-3"><Icon name={b.icon} size={16} /></div>
+            <h3 class="font-display text-base text-navy mb-1.5">{b.title}</h3>
+            <p class="text-sm text-slate-600 leading-relaxed">{b.body}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <FAQAccordion heading="Pricing FAQ" faqs={page.faq || []} />
+  {page.finalCTAHeading && <FinalCTAStrip heading={page.finalCTAHeading} body={page.finalCTABody} buttons={page.finalCTAButtons || []} />}
 </Layout>

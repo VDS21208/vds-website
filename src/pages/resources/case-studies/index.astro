@@ -1,33 +1,53 @@
 ---
 import { getCollection } from 'astro:content';
 import Layout from '../../../layouts/Layout.astro';
-import HeroImage from '../../../components/hero/HeroImage.astro';
-import TrustStrip from '../../../components/sections/TrustStrip.astro';
-import PageBody from '../../../components/sections/PageBody.astro';
-import SchemaArticle from '../../../components/seo/SchemaArticle.astro';
-import SchemaFAQ from '../../../components/seo/SchemaFAQ.astro';
-import { heroImageUrl } from '../../../lib/heroImage.ts';
+import Icon from '../../../components/icons/Icon.astro';
 
 const all = await getCollection('pages');
-const entry = all.find((e) => e.data.url === '/resources/case-studies');
-if (!entry) throw new Error("No content for /resources/case-studies");
-const page = entry.data;
-const { Content } = await entry.render();
+const studies = all
+  .filter((e: any) => e.data.collection === 'case-studies')
+  .map((e: any) => e.data);
+
+const COVERS = ['/assets/webflow/hero-security-1.avif', '/assets/webflow/hero-security-2.avif', '/assets/webflow/hero-security-3.avif', '/assets/webflow/hero-security-4.avif'];
+const STATS = ['73% theft cut', '$340K saved', '18% YoY drop', '45K claims prevented'];
 ---
-<Layout
-  title={page.seoTitle}
-  description={page.metaDescription}
-  ogTitle={page.ogTitle}
-  ogDescription={page.ogDescription}
-  ogImage={page.ogImage}
-  robots={page.robots}
-  parent={page.parent || "Home"}
-  h1={page.h1}
->
-  <SchemaArticle headline={page.h1} description={page.metaDescription} url={page.canonical} keywords={page.tags} />
-  <SchemaFAQ faqs={page.faq} />
-  <HeroImage bgImage={heroImageUrl({ url: page.url, tags: page.tags, pageType: page.pageType, heroImage: page.heroImage })} eyebrow={page.heroEyebrow} h1={page.h1} subhead={page.heroSubhead} ctaPrimary={page.heroCTAPrimary} ctaSecondary={page.heroCTASecondary} stats={page.heroStats} />
-  <TrustStrip />
-  <section class="py-12 md:py-16 bg-white"><div class="container-main"><article class="prose-vds"><Content /></article></div></section>
-  <PageBody body="" faq={page.faq} finalCTAHeading={page.finalCTAHeading} finalCTABody={page.finalCTABody} finalCTAButtons={page.finalCTAButtons} />
+<Layout title="VDS Case Studies · Real customer outcomes" description="Real outcomes from VDS deployments: construction, substations, retail, auto dealerships." parent="Resources" h1="Real customer outcomes">
+  <section class="relative bg-navy text-white py-24 md:py-28 overflow-hidden">
+    <div class="dot-pattern absolute inset-0 opacity-20"></div>
+    <div class="hero-orb-layer">
+      <div class="gradient-orb gradient-orb-orange" style="width:600px;height:600px;top:-200px;right:-150px;opacity:0.2;"></div>
+    </div>
+    <div class="container-wide relative z-10 max-w-4xl">
+      <div class="eyebrow mb-4">Case Studies</div>
+      <h1 class="font-display text-5xl md:text-6xl leading-tight mb-6">Outcomes that<br/><span class="gradient-text">stand on their own.</span></h1>
+      <p class="text-xl md:text-2xl text-white/80 leading-relaxed font-light max-w-3xl">Real numbers from real deployments. Construction sites, substations, retail centers, and auto dealerships that switched to VDS.</p>
+    </div>
+  </section>
+
+  <section class="py-20 bg-offwhite">
+    <div class="container-wide">
+      <div class="grid md:grid-cols-2 gap-6">
+        {studies.map((s: any, i: number) => (
+          <a href={s.url} class="group bg-white rounded-xl overflow-hidden border border-slate-200 hover:border-orange transition-all hover:-translate-y-1 hover:shadow-xl flex flex-col">
+            <div class="relative aspect-[16/9] bg-navy overflow-hidden">
+              <img src={COVERS[i % COVERS.length]} alt={s.h1} loading="lazy" class="absolute inset-0 w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" />
+              <div class="absolute inset-0 bg-gradient-to-t from-navy via-navy/40 to-transparent"></div>
+              <div class="absolute top-4 left-4 inline-flex items-center gap-1.5 bg-orange text-white text-[0.625rem] uppercase tracking-[0.15em] font-medium px-3 py-1.5 rounded-sm">
+                Case Study
+              </div>
+              <div class="absolute bottom-4 left-4 right-4">
+                <div class="font-display text-3xl md:text-4xl text-orange leading-none">{STATS[i % STATS.length]}</div>
+                <div class="text-xs uppercase tracking-[0.15em] text-white/70 mt-2">Measured outcome</div>
+              </div>
+            </div>
+            <div class="p-7">
+              <h3 class="font-display text-xl text-navy group-hover:text-orange transition-colors mb-2 leading-snug">{s.h1}</h3>
+              <p class="text-sm text-slate-600 leading-relaxed mb-4">{s.metaDescription}</p>
+              <span class="inline-flex items-center gap-1 text-sm text-orange font-medium group-hover:gap-2 transition-all">Read the full study <Icon name="arrow-right" size={14} /></span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
 </Layout>

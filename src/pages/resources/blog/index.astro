@@ -1,33 +1,53 @@
 ---
 import { getCollection } from 'astro:content';
 import Layout from '../../../layouts/Layout.astro';
-import HeroImage from '../../../components/hero/HeroImage.astro';
-import TrustStrip from '../../../components/sections/TrustStrip.astro';
-import PageBody from '../../../components/sections/PageBody.astro';
-import SchemaArticle from '../../../components/seo/SchemaArticle.astro';
-import SchemaFAQ from '../../../components/seo/SchemaFAQ.astro';
-import { heroImageUrl } from '../../../lib/heroImage.ts';
+import Icon from '../../../components/icons/Icon.astro';
 
 const all = await getCollection('pages');
-const entry = all.find((e) => e.data.url === '/resources/blog');
-if (!entry) throw new Error("No content for /resources/blog");
-const page = entry.data;
-const { Content } = await entry.render();
+const posts = all
+  .filter((e: any) => e.data.collection === 'blog')
+  .map((e: any) => e.data)
+  .sort((a, b) => a.h1.localeCompare(b.h1));
+
+// Cover image mapping
+const COVERS = ['/assets/webflow/slider-1.webp', '/assets/webflow/slider-2.webp', '/assets/webflow/slider-3.webp', '/assets/webflow/slider-4.webp', '/assets/webflow/slider-5.webp', '/assets/webflow/frame-28.webp', '/assets/webflow/frame-29.webp', '/assets/webflow/frame-30.webp', '/assets/webflow/frame-31.webp'];
 ---
-<Layout
-  title={page.seoTitle}
-  description={page.metaDescription}
-  ogTitle={page.ogTitle}
-  ogDescription={page.ogDescription}
-  ogImage={page.ogImage}
-  robots={page.robots}
-  parent={page.parent || "Home"}
-  h1={page.h1}
->
-  <SchemaArticle headline={page.h1} description={page.metaDescription} url={page.canonical} keywords={page.tags} />
-  <SchemaFAQ faqs={page.faq} />
-  <HeroImage bgImage={heroImageUrl({ url: page.url, tags: page.tags, pageType: page.pageType, heroImage: page.heroImage })} eyebrow={page.heroEyebrow} h1={page.h1} subhead={page.heroSubhead} ctaPrimary={page.heroCTAPrimary} ctaSecondary={page.heroCTASecondary} stats={page.heroStats} />
-  <TrustStrip />
-  <section class="py-12 md:py-16 bg-white"><div class="container-main"><article class="prose-vds"><Content /></article></div></section>
-  <PageBody body="" faq={page.faq} finalCTAHeading={page.finalCTAHeading} finalCTABody={page.finalCTABody} finalCTAButtons={page.finalCTAButtons} />
+<Layout title="VDS Blog · Field reports, deployment data, industry news" description="VDS field reports, deployment data, industry news, and security insights from the people who deploy mobile surveillance every day." parent="Resources" h1="From the field">
+  <section class="relative bg-navy text-white py-24 md:py-28 overflow-hidden">
+    <div class="dot-pattern absolute inset-0 opacity-20"></div>
+    <div class="hero-orb-layer">
+      <div class="gradient-orb gradient-orb-orange" style="width:600px;height:600px;top:-200px;right:-150px;opacity:0.2;"></div>
+    </div>
+    <div class="container-wide relative z-10 max-w-4xl">
+      <div class="eyebrow mb-4">Blog</div>
+      <h1 class="font-display text-5xl md:text-6xl leading-tight mb-6">From the field.<br/><span class="gradient-text">Real deployments.</span></h1>
+      <p class="text-xl md:text-2xl text-white/80 leading-relaxed font-light max-w-3xl">Industry trends, deployment lessons, and security analysis from the team that operates 500+ mobile surveillance trailers across 30 states.</p>
+    </div>
+  </section>
+
+  <section class="py-20 bg-offwhite">
+    <div class="container-wide">
+      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {posts.map((post: any, i: number) => (
+          <a href={post.url} class="group bg-white rounded-xl overflow-hidden border border-slate-200 hover:border-orange transition-all hover:-translate-y-1 hover:shadow-xl flex flex-col">
+            <div class="relative aspect-[16/10] bg-navy overflow-hidden">
+              <img src={COVERS[i % COVERS.length]} alt={post.h1} loading="lazy" class="absolute inset-0 w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" />
+              <div class="absolute inset-0 bg-gradient-to-t from-navy/40 to-transparent"></div>
+              <div class="absolute top-3 left-3 inline-flex items-center gap-1.5 bg-orange text-white text-[0.625rem] uppercase tracking-[0.15em] font-medium px-2.5 py-1 rounded-sm">
+                Field Report
+              </div>
+            </div>
+            <div class="p-6 flex flex-col flex-1">
+              <h3 class="font-display text-lg text-navy group-hover:text-orange transition-colors mb-2 leading-snug">{post.h1}</h3>
+              <p class="text-sm text-slate-600 leading-relaxed line-clamp-3 mb-4 flex-1">{post.metaDescription}</p>
+              <div class="flex items-center justify-between pt-4 border-t border-slate-100">
+                <span class="text-xs text-slate-500 uppercase tracking-wider">{post.pageType || 'Article'}</span>
+                <span class="inline-flex items-center gap-1 text-sm text-orange font-medium group-hover:gap-2 transition-all">Read <Icon name="arrow-right" size={14} /></span>
+              </div>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
 </Layout>

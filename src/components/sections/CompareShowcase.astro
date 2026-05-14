@@ -1,0 +1,235 @@
+---
+import Icon from '../icons/Icon.astro';
+export interface Props { page: any }
+const { page } = Astro.props;
+const url = page.url || '';
+
+// Per-comparison data
+type CompareData = {
+  competitor: string;
+  ourLabel: string;
+  theirLabel: string;
+  rows: { feature: string; us: boolean | string; them: boolean | string; note?: string }[];
+  wins: string[];
+  vendorLogos: string[];
+};
+
+const DATA: Record<string, CompareData> = {
+  '/compare/vds-vs-lvt': {
+    competitor: 'LVT',
+    ourLabel: 'VDS',
+    theirLabel: 'LiveView Technologies',
+    rows: [
+      { feature: 'Starting price', us: '$1,500/mo', them: '$38K-$52K hardware + sub' },
+      { feature: 'Camera-agnostic', us: true, them: false, note: 'LVT is hardware-locked' },
+      { feature: 'NDAA Section 889 compliant', us: true, them: true },
+      { feature: 'US-engineered & assembled', us: true, them: true },
+      { feature: 'Solar-autonomous', us: true, them: true },
+      { feature: 'In-house US SOC', us: true, them: 'Limited' },
+      { feature: 'Bring-your-own cameras', us: true, them: false },
+      { feature: 'Mandatory cloud subscription', us: 'Optional', them: 'Required' },
+      { feature: 'Open API', us: true, them: 'Limited' },
+      { feature: 'Per-camera AI pricing', us: true, them: false },
+    ],
+    wins: [
+      'No $38K-$52K hardware upfront — VDS rents from $1,500/mo',
+      'Camera-agnostic — bring Axis, Hanwha, Bosch, your existing fleet',
+      'Your data stays yours — US-only AWS, no vendor lock',
+      'Per-camera AI billing vs. bundled seat tax',
+    ],
+    vendorLogos: ['LVT', 'Pro-Vigil', 'Stealth', 'WCCTV', 'BIGView', 'Deploy Surveillance', 'GoView'],
+  },
+  '/compare/vds-vs-flock-safety': {
+    competitor: 'Flock',
+    ourLabel: 'VDS',
+    theirLabel: 'Flock Safety',
+    rows: [
+      { feature: 'Privacy model', us: 'Private · your account', them: 'Smart-city · LE-shared' },
+      { feature: 'NDAA Section 889 compliant', us: true, them: true },
+      { feature: 'Public exposure risk', us: 'Zero', them: 'Documented (Jan 2026 incident)' },
+      { feature: 'Solar-autonomous trailer', us: true, them: false },
+      { feature: 'On-site audio talk-down', us: true, them: false },
+      { feature: 'Camera-agnostic', us: true, them: false },
+      { feature: 'Use case', us: 'Site security', them: 'ALPR + community policing' },
+      { feature: 'Data ownership', us: 'Customer', them: 'Shared with LE network' },
+      { feature: 'In-house 24/7 SOC', us: true, them: false },
+      { feature: '30-state service area', us: true, them: 'US-wide ALPR' },
+    ],
+    wins: [
+      'Jan 2026: 67 Flock cameras exposed publicly. Zero VDS cameras have ever been.',
+      '30+ city contract cancellations since the Flock incident',
+      'VDS cameras stream to YOUR account on AWS US-only — never shared',
+      'Audio talk-down at the moment of intrusion (Flock can\'t)',
+    ],
+    vendorLogos: ['Flock', 'LVT', 'Verkada', 'Rekor', 'Vigilant Solutions', 'Genetec', 'OpenALPR'],
+  },
+  '/compare/vds-vs-verkada': {
+    competitor: 'Verkada',
+    ourLabel: 'VDS',
+    theirLabel: 'Verkada',
+    rows: [
+      { feature: 'License model', us: 'Per-camera per-mo', them: '$1,799/cam/yr' },
+      { feature: 'Camera-agnostic', us: true, them: false, note: 'Verkada locks to their hardware' },
+      { feature: 'NDAA Section 889', us: true, them: true },
+      { feature: 'Mobile/solar deployment', us: true, them: false, note: 'Verkada is fixed-only' },
+      { feature: 'In-house US SOC', us: true, them: false },
+      { feature: 'Past security incident', us: 'None', them: '2021 hack (>150K cameras)' },
+      { feature: 'Open API', us: true, them: 'Limited' },
+      { feature: 'Bring your own cameras', us: true, them: false },
+    ],
+    wins: [
+      'No $1,799/cam/yr seat tax — VDS bills per-analytic, on-demand',
+      'Camera-agnostic — Verkada locks you to their hardware',
+      'VDS has no public security incident — Verkada had a major 2021 hack',
+      'Mobile + fixed coverage from one platform',
+    ],
+    vendorLogos: ['Verkada', 'Eagle Eye', 'Rhombus', 'Spot AI', 'Meraki MV'],
+  },
+  '/compare/vds-vs-security-guards': {
+    competitor: 'Security Guards',
+    ourLabel: 'VDS',
+    theirLabel: 'Manned Guards',
+    rows: [
+      { feature: '24/7 coverage cost', us: '$1,500-2,500/mo', them: '$60K-$110K per FTE' },
+      { feature: 'Consistency', us: 'AI never sleeps', them: 'Variable, human factors' },
+      { feature: 'Video evidence', us: 'Always recorded', them: 'Witness only' },
+      { feature: 'Audio deterrence', us: true, them: true },
+      { feature: 'Audit trail', us: 'Full', them: 'Logbook only' },
+      { feature: 'Multi-site coverage', us: 'Unlimited', them: 'Per-site staffing' },
+      { feature: 'NDAA & SOC 2', us: true, them: 'N/A' },
+      { feature: 'No-show risk', us: '0', them: 'Documented' },
+    ],
+    wins: [
+      'One VDS trailer replaces ~3-5 guard FTEs at <20% the cost',
+      'Always-on AI + 24/7 in-house SOC operators',
+      'Video evidence for every incident — no witness disputes',
+      'Documented sleeping-on-shift and no-show problems eliminated',
+    ],
+    vendorLogos: ['Allied Universal', 'Securitas', 'GardaWorld', 'G4S', 'Securis'],
+  },
+  '/compare/vds-vs-fixed-cameras': {
+    competitor: 'Fixed Cameras',
+    ourLabel: 'VDS',
+    theirLabel: 'Traditional Fixed CCTV',
+    rows: [
+      { feature: 'Install time', us: '<30 minutes', them: '5-15 days' },
+      { feature: 'Trenching needed', us: false, them: true },
+      { feature: 'Permits required', us: 'Rarely', them: 'Often' },
+      { feature: 'Relocatable', us: true, them: false },
+      { feature: 'Solar-autonomous', us: true, them: false },
+      { feature: 'AI VisionStream included', us: true, them: 'Add-on' },
+      { feature: 'In-house SOC option', us: true, them: 'Third-party' },
+      { feature: 'NDAA compliant', us: true, them: 'Varies' },
+    ],
+    wins: [
+      'Operational in <30 minutes vs. 5-15 days of trenching/permits',
+      'Moves with your project — fixed cameras can\'t',
+      'Solar = no power infrastructure needed at remote sites',
+      'AI + SOC included by default — no third-party stitching',
+    ],
+    vendorLogos: ['Axis', 'Hanwha', 'Bosch', 'Pelco', 'Avigilon', 'Hikvision', 'UNV'],
+  },
+};
+
+const FALLBACK: CompareData = {
+  competitor: 'Competitor',
+  ourLabel: 'VDS',
+  theirLabel: 'Other',
+  rows: [
+    { feature: 'NDAA Section 889 compliant', us: true, them: 'Varies' },
+    { feature: 'US-engineered & assembled', us: true, them: 'Varies' },
+    { feature: 'Solar-autonomous trailer', us: true, them: 'Varies' },
+    { feature: 'Camera-agnostic', us: true, them: 'Varies' },
+    { feature: 'In-house US SOC', us: true, them: 'Often outsourced' },
+    { feature: 'Per-camera AI', us: true, them: 'Bundled' },
+    { feature: 'Public security incidents', us: 'None', them: 'Varies' },
+  ],
+  wins: [
+    'US-engineered + 24/7 in-house SOC',
+    'Camera-agnostic — bring your existing fleet',
+    'Per-camera AI billing, no bundled seat tax',
+    'NDAA 889 compliant out of the box',
+  ],
+  vendorLogos: ['LVT', 'Flock', 'Verkada', 'Pro-Vigil', 'Stealth', 'WCCTV'],
+};
+
+const d = DATA[url] || FALLBACK;
+---
+<!-- VENDOR LOGO BAND -->
+<section class="bg-offwhite py-10 border-y border-slate-200">
+  <div class="container-wide">
+    <div class="text-center mb-6">
+      <div class="text-[0.6875rem] uppercase tracking-[0.2em] text-slate-500 font-medium">Buyers usually evaluate VDS against</div>
+    </div>
+    <div class="marquee">
+      <div class="marquee-track">
+        {[...d.vendorLogos, ...d.vendorLogos].map((logo) => (
+          <div class="flex items-center justify-center px-6 text-base font-display font-medium text-slate-400 hover:text-navy transition-colors whitespace-nowrap">{logo}</div>
+        ))}
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- HEAD-TO-HEAD MATRIX -->
+<section class="py-20 md:py-24 bg-white">
+  <div class="container-wide">
+    <div class="text-center max-w-2xl mx-auto mb-12">
+      <div class="eyebrow mb-3 justify-center">Side by side</div>
+      <h2 class="font-display text-navy text-3xl md:text-4xl leading-tight">{d.ourLabel} vs {d.competitor}<br/><span class="gradient-text-dark">in plain English.</span></h2>
+    </div>
+
+    <div class="max-w-5xl mx-auto rounded-2xl overflow-hidden border border-slate-200 shadow-sm">
+      <!-- Header row -->
+      <div class="grid grid-cols-12 bg-navy text-white">
+        <div class="col-span-6 px-6 py-5 text-sm font-medium uppercase tracking-[0.15em] text-white/55">Feature</div>
+        <div class="col-span-3 px-6 py-5 text-center">
+          <div class="font-display text-lg text-orange">{d.ourLabel}</div>
+          <div class="text-[0.625rem] uppercase tracking-[0.15em] text-white/55 mt-0.5">Vision Detection Systems</div>
+        </div>
+        <div class="col-span-3 px-6 py-5 text-center">
+          <div class="font-display text-lg text-white/85">{d.competitor}</div>
+          <div class="text-[0.625rem] uppercase tracking-[0.15em] text-white/55 mt-0.5">{d.theirLabel}</div>
+        </div>
+      </div>
+
+      {d.rows.map((r, i) => (
+        <div class={`grid grid-cols-12 ${i % 2 === 0 ? 'bg-white' : 'bg-offwhite'} border-t border-slate-100`}>
+          <div class="col-span-6 px-6 py-4 text-[0.9375rem] text-navy font-medium flex items-center">{r.feature}</div>
+          <div class="col-span-3 px-6 py-4 text-center text-sm flex items-center justify-center text-navy">
+            {typeof r.us === 'boolean' ? (
+              r.us ? <span class="inline-flex items-center justify-center w-7 h-7 rounded-full bg-emerald-100 text-emerald-600"><Icon name="check" size={14} /></span> : <span class="inline-flex items-center justify-center w-7 h-7 rounded-full bg-rose-100 text-rose-500"><Icon name="x" size={14} /></span>
+            ) : <span class="font-medium text-orange">{r.us}</span>}
+          </div>
+          <div class="col-span-3 px-6 py-4 text-center text-sm flex items-center justify-center text-slate-600">
+            {typeof r.them === 'boolean' ? (
+              r.them ? <span class="inline-flex items-center justify-center w-7 h-7 rounded-full bg-emerald-100 text-emerald-600"><Icon name="check" size={14} /></span> : <span class="inline-flex items-center justify-center w-7 h-7 rounded-full bg-rose-100 text-rose-500"><Icon name="x" size={14} /></span>
+            ) : <span class="text-slate-500">{r.them}</span>}
+          </div>
+        </div>
+      ))}
+    </div>
+  </div>
+</section>
+
+<!-- KEY WINS BAND -->
+<section class="bg-navy text-white py-20 md:py-24 relative overflow-hidden">
+  <div class="dot-pattern absolute inset-0 opacity-15"></div>
+  <div class="hero-orb-layer">
+    <div class="gradient-orb gradient-orb-orange" style="width:600px;height:600px;top:-200px;right:-150px;opacity:0.18;"></div>
+  </div>
+  <div class="container-wide relative z-10 max-w-5xl">
+    <div class="eyebrow mb-3">Why buyers switch to VDS</div>
+    <h2 class="font-display text-3xl md:text-4xl leading-tight mb-12">Four reasons buyers<br/><span class="gradient-text">choose VDS over {d.competitor}.</span></h2>
+    <div class="grid md:grid-cols-2 gap-5">
+      {d.wins.map((w, i) => (
+        <div class="bg-navy-light/60 border border-white/10 rounded-xl p-6 hover:border-orange/40 transition-colors">
+          <div class="flex items-start gap-4">
+            <span class="flex-shrink-0 inline-flex items-center justify-center w-8 h-8 rounded-md bg-orange text-white font-display text-sm font-medium">{String(i+1).padStart(2,'0')}</span>
+            <p class="text-base text-white/85 leading-relaxed">{w}</p>
+          </div>
+        </div>
+      ))}
+    </div>
+  </div>
+</section>

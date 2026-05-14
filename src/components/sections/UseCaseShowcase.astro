@@ -1,0 +1,240 @@
+---
+import Icon from '../icons/Icon.astro';
+export interface Props { page: any }
+const { page } = Astro.props;
+const url = page.url || '';
+
+type UseCaseData = {
+  beforeImg: string;
+  afterImg: string;
+  beforeLabel: string;
+  afterLabel: string;
+  beforeBullets: string[];
+  afterBullets: string[];
+  impact: { stat: string; label: string }[];
+};
+
+const DATA: Record<string, UseCaseData> = {
+  '/use-cases/copper-theft-prevention': {
+    beforeImg: '/assets/webflow/hero-security-4.avif',
+    afterImg: '/assets/webflow/hero-security-1.avif',
+    beforeLabel: 'Before VDS',
+    afterLabel: 'After VDS',
+    beforeBullets: [
+      '$400+/lb scrap copper attracts repeat crews',
+      'No 24/7 monitoring at remote substations',
+      'Police response averages 18-22 minutes',
+      'Six-figure annual copper loss',
+    ],
+    afterBullets: [
+      'Thermal + radar perimeter detects pre-cut',
+      'AI loitering alert triggers in <3 seconds',
+      'Audio talk-down chases crew before cutting starts',
+      'LE dispatched with live video & site address',
+    ],
+    impact: [
+      { stat: '$340K', label: 'copper saved on one substation' },
+      { stat: '<3s', label: 'AI alert latency' },
+      { stat: '<60s', label: 'SOC operator escalation' },
+      { stat: '0', label: 'incidents post-deployment' },
+    ],
+  },
+  '/use-cases/cargo-theft-prevention': {
+    beforeImg: '/assets/webflow/hero-security-3.avif',
+    afterImg: '/assets/webflow/product-2.avif',
+    beforeLabel: 'Before VDS',
+    afterLabel: 'After VDS',
+    beforeBullets: [
+      '$15-30B annual US cargo theft losses',
+      'Yards rely on overnight guards or no coverage',
+      'Stolen trailers often empty before police arrive',
+      'Insurance premiums climbing year-over-year',
+    ],
+    afterBullets: [
+      'LPR at gate + perimeter intrusion AI',
+      'Vehicle classification distinguishes 18-wheeler from car',
+      'Stolen-trailer hotlist matching at every gate',
+      'Audio talk-down + LE dispatch on confirmed match',
+    ],
+    impact: [
+      { stat: '95%+', label: 'LPR accuracy on trailers' },
+      { stat: '<3s', label: 'hotlist match latency' },
+      { stat: '24/7', label: 'solar coverage' },
+      { stat: 'NDAA', label: '889 compliant' },
+    ],
+  },
+  '/use-cases/catalytic-converter-theft-prevention': {
+    beforeImg: '/assets/webflow/product-2.avif',
+    afterImg: '/assets/webflow/camera-product.avif',
+    beforeLabel: 'Before VDS',
+    afterLabel: 'After VDS',
+    beforeBullets: [
+      '45K catalytic converter claims at peak',
+      'Dealerships lose 3-5 cats/week on hot lots',
+      'Insurance costs surging — some dealers uninsurable',
+      'Standard cameras miss night-time cut crews',
+    ],
+    afterBullets: [
+      'Thermal-enabled object detection works at night',
+      'LPR identifies repeat-offender vehicles',
+      'Audio talk-down activates the moment a person enters lot',
+      '24/7 SOC monitoring means real eyes during peak risk hours',
+    ],
+    impact: [
+      { stat: '45K', label: 'industry claims at peak' },
+      { stat: '$1K-3K', label: 'avg per-cat loss' },
+      { stat: '<60s', label: 'audio talk-down' },
+      { stat: '95%+', label: 'LPR repeat-offender match' },
+    ],
+  },
+  '/use-cases/illegal-dumping-prevention': {
+    beforeImg: '/assets/webflow/hero-security-2.avif',
+    afterImg: '/assets/webflow/hero-security-1.avif',
+    beforeLabel: 'Before VDS',
+    afterLabel: 'After VDS',
+    beforeBullets: [
+      'Cleanup costs $10K-$100K+ per incident',
+      'Property owner liable for hazardous dump',
+      'Standard cameras miss license plates in dark',
+      'Repeat dumpers know unmonitored sites',
+    ],
+    afterBullets: [
+      'LPR captures every plate at the access point',
+      'Object detection classifies trucks vs cars',
+      'Audio talk-down stops dump in progress',
+      'Evidence pack auto-compiled for prosecution',
+    ],
+    impact: [
+      { stat: '$10K-$100K', label: 'avg cleanup cost saved' },
+      { stat: '95%+', label: 'LPR accuracy at night' },
+      { stat: '<3s', label: 'object detection latency' },
+      { stat: '0', label: 'liability incidents' },
+    ],
+  },
+  '/use-cases/after-hours-intrusion-detection': {
+    beforeImg: '/assets/webflow/hero-security-4.avif',
+    afterImg: '/assets/webflow/hero-security-1.avif',
+    beforeLabel: 'Before VDS',
+    afterLabel: 'After VDS',
+    beforeBullets: [
+      'Sites unmonitored 12+ hours overnight',
+      'Cameras record but no one watches',
+      'Alarms have 90%+ false-alarm rate',
+      'Police response delayed by alarm verification',
+    ],
+    afterBullets: [
+      'AI pre-filter reduces false alarms by 97%',
+      'In-house US SOC operators verify in <60 seconds',
+      'Audio talk-down deters before damage occurs',
+      'Verified video sent directly to responding officers',
+    ],
+    impact: [
+      { stat: '97%', label: 'false-alarm reduction' },
+      { stat: '<60s', label: 'verified SOC response' },
+      { stat: '24/7', label: 'in-house US operators' },
+      { stat: '0', label: 'unverified dispatch calls' },
+    ],
+  },
+};
+
+const FALLBACK: UseCaseData = {
+  beforeImg: '/assets/webflow/hero-security-1.avif',
+  afterImg: '/assets/webflow/hero-security-2.avif',
+  beforeLabel: 'Without VDS',
+  afterLabel: 'With VDS',
+  beforeBullets: [
+    'Reactive monitoring — incidents found after the fact',
+    'High false-alarm rates fatigue security teams',
+    'Manual review of hours of footage post-incident',
+    'No real-time deterrence capability',
+  ],
+  afterBullets: [
+    'AI pre-filters eliminate 97% of false alarms',
+    'Verified SOC alerts in <60 seconds',
+    'Audio talk-down deters at the moment',
+    'Auto-tagged event search across all footage',
+  ],
+  impact: [
+    { stat: '97%', label: 'false-alarm reduction' },
+    { stat: '<60s', label: 'SOC verification' },
+    { stat: '24/7', label: 'in-house US monitoring' },
+    { stat: 'NDAA', label: '889 compliant' },
+  ],
+};
+
+const d = DATA[url] || FALLBACK;
+---
+<!-- BEFORE / AFTER PANELS -->
+<section class="py-20 md:py-24 bg-offwhite relative overflow-hidden">
+  <div class="dot-pattern-light absolute inset-0 opacity-50"></div>
+  <div class="container-wide relative z-10">
+    <div class="text-center max-w-2xl mx-auto mb-12">
+      <div class="eyebrow mb-3 justify-center">The shift</div>
+      <h2 class="font-display text-navy text-3xl md:text-4xl leading-tight">From reactive<br/><span class="gradient-text-dark">to in front of it.</span></h2>
+    </div>
+    <div class="grid md:grid-cols-2 gap-5 max-w-6xl mx-auto">
+      <!-- BEFORE -->
+      <div class="relative rounded-xl overflow-hidden border border-rose-200 bg-white">
+        <div class="relative aspect-[16/10] bg-slate-900 overflow-hidden">
+          <img src={d.beforeImg} alt="Before" class="absolute inset-0 w-full h-full object-cover" style="filter: grayscale(0.6) brightness(0.5);" />
+          <div class="absolute inset-0 bg-gradient-to-t from-slate-900 to-transparent"></div>
+          <div class="absolute top-4 left-4 inline-flex items-center gap-1.5 bg-rose-500/90 text-white text-xs font-medium uppercase tracking-[0.15em] px-3 py-1.5 rounded">
+            <Icon name="x" size={12} /> {d.beforeLabel}
+          </div>
+        </div>
+        <div class="p-7">
+          <h3 class="font-display text-xl text-navy mb-4">The way it used to be.</h3>
+          <ul class="space-y-3">
+            {d.beforeBullets.map((b) => (
+              <li class="flex items-start gap-3 text-[0.9375rem] text-slate-700 leading-relaxed">
+                <span class="flex-shrink-0 mt-1 w-1.5 h-1.5 rounded-full bg-rose-400"></span>
+                <span>{b}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </div>
+
+      <!-- AFTER -->
+      <div class="relative rounded-xl overflow-hidden border border-orange/30 bg-white shadow-[0_20px_40px_-16px_rgba(232,98,26,0.25)]">
+        <div class="relative aspect-[16/10] bg-navy overflow-hidden">
+          <img src={d.afterImg} alt="After" class="absolute inset-0 w-full h-full object-cover" />
+          <div class="absolute inset-0 bg-gradient-to-t from-navy/70 to-transparent"></div>
+          <div class="absolute top-4 left-4 inline-flex items-center gap-1.5 bg-orange text-white text-xs font-medium uppercase tracking-[0.15em] px-3 py-1.5 rounded">
+            <Icon name="check" size={12} /> {d.afterLabel}
+          </div>
+        </div>
+        <div class="p-7">
+          <h3 class="font-display text-xl text-navy mb-4">The way it works now.</h3>
+          <ul class="space-y-3">
+            {d.afterBullets.map((b) => (
+              <li class="flex items-start gap-3 text-[0.9375rem] text-slate-800 leading-relaxed">
+                <span class="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-orange/15 text-orange flex items-center justify-center">
+                  <Icon name="check" size={10} />
+                </span>
+                <span>{b}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- IMPACT STATS -->
+<section class="bg-navy text-white py-20 relative overflow-hidden">
+  <div class="dot-pattern absolute inset-0 opacity-15"></div>
+  <div class="container-wide relative z-10">
+    <div class="eyebrow mb-3">Impact</div>
+    <h2 class="font-display text-3xl md:text-4xl leading-tight mb-12 max-w-3xl">What the<br/><span class="gradient-text">numbers look like.</span></h2>
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-6 md:gap-10">
+      {d.impact.map((s) => (
+        <div>
+          <div class="font-display text-4xl md:text-5xl text-orange leading-none">{s.stat}</div>
+          <div class="text-xs uppercase tracking-[0.15em] text-white/55 mt-3">{s.label}</div>
+        </div>
+      ))}
+    </div>
+  </div>
+</section>
