@@ -24,7 +24,6 @@ const home = entry?.data || { seoTitle: "VDS — Mobile Security Infrastructure"
   ogTitle={home.ogTitle || home.seoTitle}
   ogDescription={home.ogDescription || home.metaDescription}
   ogImage={home.ogImage}
-  announcementBar="Now deploying Q2 2026 — most sites active within 72 hours · Call (410) 401-1986"
 >
   <SchemaFAQ faqs={home.faq || []} />
 
@@ -43,10 +42,6 @@ const home = entry?.data || { seoTitle: "VDS — Mobile Security Infrastructure"
 
     <div class="container-wide py-24 md:py-32 relative z-10 w-full">
       <div class="max-w-5xl">
-        <div class="inline-flex items-center gap-2 mb-8 animate-fade-up" style="animation-fill-mode: both;">
-          <span class="pulse-dot"></span>
-          <span class="text-xs uppercase tracking-[0.2em] text-white/70">Now deploying · Q2 2026</span>
-        </div>
         <h1 class="headline-mega font-display mb-8 animate-fade-up" style="animation-delay: 80ms; animation-fill-mode: both;">
           Security infrastructure.<br>
           <span class="gradient-text">Not just cameras.</span>
