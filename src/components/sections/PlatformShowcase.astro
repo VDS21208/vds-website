@@ -1,0 +1,194 @@
+---
+import Icon from '../icons/Icon.astro';
+
+const steps = [
+  { num: '01', label: 'Aggregate', desc: 'Connect any camera, NVR, IoT or drone — no special hardware required.', icon: 'camera' },
+  { num: '02', label: 'Manage', desc: 'Single pane of glass across sites, users, sub-accounts, roles.', icon: 'cpu' },
+  { num: '03', label: 'AI + Analyze', desc: 'Activate AI per-camera, on-demand. LPR, fire, loitering, objects.', icon: 'eye' },
+  { num: '04', label: 'React', desc: 'Notify, dispatch, talk down, share footage — sub-60-second SOC.', icon: 'shield' },
+];
+
+const aiModules = [
+  { name: 'License Plate Recognition', stat: '95%+', sub: 'accuracy', desc: 'Sub-3s alerts. Hotlist matching. Watchlist alerts.', url: '/platform/lpr/' },
+  { name: 'Fire & Smoke', stat: '<30s', sub: 'pre-flame detection', desc: 'Early-stage flame and smoke before sensors trigger.', url: '/platform/ai-video-analytics/' },
+  { name: 'People Counting', stat: 'Real-time', sub: 'zone + dwell', desc: 'Entry/exit counts, occupancy compliance, heatmaps.', url: '/platform/ai-video-analytics/' },
+  { name: 'Loitering Detection', stat: 'Per-zone', sub: 'duration alerts', desc: 'Catch precursors to vandalism, theft, break-ins.', url: '/platform/ai-video-analytics/' },
+  { name: 'Object Detection', stat: 'Multi-class', sub: 'people · vehicles · packages', desc: 'Real-time classification with confidence scoring.', url: '/platform/ai-video-analytics/' },
+  { name: 'Virtual Tripwire', stat: 'Multi-zone', sub: 'directional logic', desc: 'Polygon zones with in/out/cross triggers.', url: '/platform/ai-video-analytics/' },
+];
+
+const stats = [
+  { value: '95%+', label: 'LPR accuracy' },
+  { value: '<60s', label: 'SOC escalation' },
+  { value: '<3s', label: 'Alert latency' },
+  { value: '99.999%', label: 'AWS uptime' },
+  { value: '17', label: 'AI modules' },
+  { value: '500+', label: 'Deployments' },
+];
+
+const integrations = [
+  'Axis', 'Hanwha', 'Bosch', 'Pelco', 'Avigilon', 'UNV', 'Vivotek', 'Genetec',
+  'Milestone', 'Hikvision', 'AWS', 'NVIDIA', 'Intel', 'IFTTT', 'Zapier', 'Twilio'
+];
+---
+<!-- HERO MOCKUP: animated dashboard SVG -->
+<section class="relative bg-navy text-white py-20 md:py-28 overflow-hidden">
+  <div class="dot-pattern absolute inset-0 opacity-20"></div>
+  <div class="hero-orb-layer">
+    <div class="gradient-orb gradient-orb-orange" style="width:600px;height:600px;top:-200px;right:-150px;opacity:0.25;"></div>
+    <div class="gradient-orb gradient-orb-blue" style="width:500px;height:500px;bottom:-200px;left:-100px;opacity:0.2;animation-delay:-7s;"></div>
+  </div>
+  <div class="container-wide relative z-10">
+    <div class="grid lg:grid-cols-12 gap-10 items-center">
+      <div class="lg:col-span-5">
+        <div class="eyebrow mb-4">Live Platform</div>
+        <h2 class="font-display text-4xl md:text-5xl leading-tight mb-5">A single pane<br/><span class="gradient-text">across every camera.</span></h2>
+        <p class="text-lg text-white/75 leading-relaxed mb-8">Live grid view, instant clip search, AI-event timeline, multi-site map — all from one browser tab. Mobile apps included.</p>
+        <a href="/schedule-a-demo/" class="inline-flex items-center gap-2 bg-orange hover:bg-orange-dark text-white font-medium px-6 py-3 rounded-md transition-all">See it live <Icon name="arrow-right" size={16} /></a>
+      </div>
+      <!-- Animated dashboard mockup -->
+      <div class="lg:col-span-7">
+        <div class="relative rounded-xl border border-white/15 bg-gradient-to-br from-navy-light to-navy overflow-hidden shadow-2xl">
+          <!-- Browser chrome -->
+          <div class="flex items-center gap-2 px-4 py-3 border-b border-white/10 bg-navy/50">
+            <span class="w-2.5 h-2.5 rounded-full bg-red-400/60"></span>
+            <span class="w-2.5 h-2.5 rounded-full bg-amber-400/60"></span>
+            <span class="w-2.5 h-2.5 rounded-full bg-emerald-400/60"></span>
+            <div class="ml-3 flex-1 text-[0.6875rem] text-white/40 truncate">app.visiondetectionsystems.com/sites/all</div>
+          </div>
+          <div class="grid grid-cols-12 gap-3 p-4">
+            <!-- Sidebar -->
+            <div class="col-span-3 space-y-2">
+              <div class="h-7 rounded bg-orange/20 border-l-2 border-orange flex items-center pl-2"><span class="text-[0.625rem] text-orange font-medium">All Sites</span></div>
+              <div class="h-6 rounded bg-white/5 flex items-center pl-2"><span class="text-[0.625rem] text-white/55">Construction · 8</span></div>
+              <div class="h-6 rounded bg-white/5 flex items-center pl-2"><span class="text-[0.625rem] text-white/55">Substations · 4</span></div>
+              <div class="h-6 rounded bg-white/5 flex items-center pl-2"><span class="text-[0.625rem] text-white/55">Auto · 12</span></div>
+              <div class="h-6 rounded bg-white/5 flex items-center pl-2"><span class="text-[0.625rem] text-white/55">Retail · 6</span></div>
+              <div class="h-6 rounded bg-white/5 flex items-center pl-2"><span class="text-[0.625rem] text-white/55">Logistics · 3</span></div>
+            </div>
+            <!-- Camera grid -->
+            <div class="col-span-9 grid grid-cols-3 gap-2">
+              <div class="aspect-video rounded bg-gradient-to-br from-slate-700 to-slate-900 relative overflow-hidden">
+                <div class="absolute top-1 left-1 text-[0.5rem] text-white/85 bg-black/40 px-1 rounded">SITE 14 · LOT A</div>
+                <div class="absolute bottom-1 left-1 text-[0.5rem] text-emerald-400 bg-black/40 px-1 rounded">● LIVE</div>
+                <div class="absolute inset-0 flex items-center justify-center"><div class="w-12 h-8 border-2 border-orange/60 rounded-sm animate-pulse"></div></div>
+              </div>
+              <div class="aspect-video rounded bg-gradient-to-br from-amber-900 to-slate-900 relative overflow-hidden">
+                <div class="absolute top-1 left-1 text-[0.5rem] text-white/85 bg-black/40 px-1 rounded">SITE 22 · GATE</div>
+                <div class="absolute bottom-1 right-1 text-[0.5rem] text-amber-400 bg-black/40 px-1 rounded">LPR · ABC1234</div>
+              </div>
+              <div class="aspect-video rounded bg-gradient-to-br from-blue-900 to-slate-900 relative overflow-hidden">
+                <div class="absolute top-1 left-1 text-[0.5rem] text-white/85 bg-black/40 px-1 rounded">SITE 07 · PERIMETER</div>
+                <div class="absolute bottom-1 left-1 text-[0.5rem] text-emerald-400 bg-black/40 px-1 rounded">● LIVE</div>
+              </div>
+              <div class="aspect-video rounded bg-gradient-to-br from-slate-700 to-slate-900 relative overflow-hidden">
+                <div class="absolute top-1 left-1 text-[0.5rem] text-white/85 bg-black/40 px-1 rounded">SITE 03 · MAST 2</div>
+                <div class="absolute bottom-1 right-1 text-[0.5rem] text-red-400 bg-black/40 px-1 rounded animate-pulse">⚠ INTRUSION</div>
+              </div>
+              <div class="aspect-video rounded bg-gradient-to-br from-slate-800 to-slate-900 relative overflow-hidden">
+                <div class="absolute top-1 left-1 text-[0.5rem] text-white/85 bg-black/40 px-1 rounded">SITE 09 · NORTH</div>
+                <div class="absolute bottom-1 left-1 text-[0.5rem] text-emerald-400 bg-black/40 px-1 rounded">● LIVE</div>
+              </div>
+              <div class="aspect-video rounded bg-gradient-to-br from-orange-900 to-slate-900 relative overflow-hidden">
+                <div class="absolute top-1 left-1 text-[0.5rem] text-white/85 bg-black/40 px-1 rounded">SITE 18 · BAY 4</div>
+                <div class="absolute bottom-1 right-1 text-[0.5rem] text-orange-400 bg-black/40 px-1 rounded">FIRE/SMOKE</div>
+              </div>
+            </div>
+          </div>
+          <!-- Footer alert bar -->
+          <div class="px-4 py-2 border-t border-white/10 bg-navy/50 flex items-center gap-3 text-[0.625rem]">
+            <span class="inline-flex items-center gap-1.5 text-orange"><span class="w-1.5 h-1.5 rounded-full bg-orange animate-pulse"></span>3 active alerts</span>
+            <span class="text-white/40">·</span>
+            <span class="text-white/55">SOC ack: 14s avg</span>
+            <span class="text-white/40">·</span>
+            <span class="text-white/55">187 cameras online</span>
+            <span class="text-white/40">·</span>
+            <span class="text-emerald-400">99.97% uptime</span>
+          </div>
+        </div>
+        <div class="text-[0.625rem] uppercase tracking-[0.2em] text-white/40 mt-3 text-center">Stylized UI · representative</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- HOW IT WORKS — 4-step animated flow -->
+<section class="py-20 md:py-24 bg-offwhite relative overflow-hidden">
+  <div class="dot-pattern-light absolute inset-0 opacity-50"></div>
+  <div class="container-wide relative z-10">
+    <div class="text-center max-w-2xl mx-auto mb-14">
+      <div class="eyebrow mb-3 justify-center">How it works</div>
+      <h2 class="font-display text-navy text-4xl md:text-5xl leading-tight">From camera to action.<br/><span class="gradient-text-dark">In four steps.</span></h2>
+    </div>
+    <div class="grid md:grid-cols-4 gap-5 relative">
+      <!-- Connecting line behind cards -->
+      <div class="hidden md:block absolute top-12 left-[12.5%] right-[12.5%] h-px bg-gradient-to-r from-orange/30 via-orange to-orange/30"></div>
+      {steps.map((s, i) => (
+        <div class="relative bg-white border border-slate-200 rounded-xl p-7 hover:border-orange transition-all duration-300 hover:-translate-y-1 hover:shadow-lg group">
+          <div class="absolute -top-4 left-7 inline-flex items-center justify-center w-8 h-8 rounded-full bg-orange text-white text-xs font-display font-medium">{s.num}</div>
+          <div class="text-orange mb-3 mt-2"><Icon name={s.icon} size={28} /></div>
+          <h3 class="font-display text-xl text-navy mb-2 group-hover:text-orange transition-colors">{s.label}</h3>
+          <p class="text-sm text-slate-600 leading-relaxed">{s.desc}</p>
+        </div>
+      ))}
+    </div>
+  </div>
+</section>
+
+<!-- AI MODULES BENTO -->
+<section class="py-20 md:py-24 bg-white">
+  <div class="container-wide">
+    <div class="flex items-end justify-between flex-wrap gap-6 mb-12">
+      <div class="max-w-2xl">
+        <div class="eyebrow mb-3">AI Analytics</div>
+        <h2 class="font-display text-navy text-4xl md:text-5xl leading-tight">17 analytics modules.<br/><span class="gradient-text-dark">Activate on demand.</span></h2>
+      </div>
+      <a href="/platform/ai-video-analytics/" class="inline-flex items-center gap-2 text-navy hover:text-orange font-medium border-b border-navy/30 hover:border-orange pb-1 transition-colors">All AI modules <Icon name="arrow-right" size={16} /></a>
+    </div>
+    <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-5">
+      {aiModules.map((m) => (
+        <a href={m.url} class="group block bg-offwhite border border-slate-200 rounded-xl p-7 hover:border-orange hover:shadow-lg transition-all hover:-translate-y-1">
+          <div class="flex items-baseline justify-between mb-3">
+            <span class="font-display text-3xl text-orange">{m.stat}</span>
+            <span class="text-[0.625rem] uppercase tracking-[0.15em] text-slate-500">{m.sub}</span>
+          </div>
+          <h3 class="font-display text-lg text-navy mb-2 group-hover:text-orange transition-colors">{m.name}</h3>
+          <p class="text-sm text-slate-600 leading-relaxed mb-4">{m.desc}</p>
+          <span class="inline-flex items-center gap-1 text-xs text-orange font-medium group-hover:gap-2 transition-all">Learn more <Icon name="arrow-right" size={12} /></span>
+        </a>
+      ))}
+    </div>
+  </div>
+</section>
+
+<!-- STATS BAND -->
+<section class="py-16 md:py-20 bg-navy text-white relative overflow-hidden">
+  <div class="dot-pattern absolute inset-0 opacity-15"></div>
+  <div class="container-wide relative z-10">
+    <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-6 md:gap-10">
+      {stats.map((s) => (
+        <div class="text-center md:text-left">
+          <div class="font-display text-4xl md:text-5xl text-orange leading-none" data-target={s.value}>{s.value}</div>
+          <div class="text-xs uppercase tracking-[0.15em] text-white/55 mt-3">{s.label}</div>
+        </div>
+      ))}
+    </div>
+  </div>
+</section>
+
+<!-- INTEGRATIONS MARQUEE -->
+<section class="py-12 bg-white border-y border-slate-200">
+  <div class="container-wide">
+    <div class="text-center mb-8">
+      <div class="eyebrow mb-3 justify-center">Camera-agnostic</div>
+      <h3 class="font-display text-navy text-2xl">Works with the cameras and platforms you already own.</h3>
+    </div>
+    <div class="marquee">
+      <div class="marquee-track">
+        {[...integrations, ...integrations].map((logo) => (
+          <div class="flex items-center justify-center px-6 text-sm font-medium text-slate-500 hover:text-navy transition-colors whitespace-nowrap">{logo}</div>
+        ))}
+      </div>
+    </div>
+  </div>
+</section>
