@@ -15,7 +15,7 @@ const NAV_ICONS: Record<string, string> = {
   'Partners': 'target',
 };
 ---
-<header class="sticky top-0 z-40 bg-navy/95 backdrop-blur-md text-white transition-all duration-200" data-sticky-nav transition:persist>
+<header class="sticky top-0 z-40 bg-navy text-white transition-all duration-200 shadow-[0_2px_8px_rgba(11,17,32,0.18)]" data-sticky-nav transition:persist>
   <div class="relative">
     <div class="container-wide flex items-center justify-between py-3 border-b border-white/5">
       <a href="/" class="flex items-center gap-3 group" aria-label="Vision Detection Systems home">
@@ -66,11 +66,9 @@ const NAV_ICONS: Record<string, string> = {
   const nav = document.querySelector('[data-sticky-nav]') as HTMLElement;
   const onScroll = () => {
     if (window.scrollY > 40) {
-      nav?.classList.add('shadow-xl', 'bg-navy/98');
-      nav?.classList.remove('bg-navy/95');
+      nav?.classList.add('shadow-2xl');
     } else {
-      nav?.classList.remove('shadow-xl', 'bg-navy/98');
-      nav?.classList.add('bg-navy/95');
+      nav?.classList.remove('shadow-2xl');
     }
   };
   window.addEventListener('scroll', onScroll, { passive: true });
