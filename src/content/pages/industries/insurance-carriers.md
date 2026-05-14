@@ -109,6 +109,4 @@ A $28M Mid-Atlantic GC project deployed Sky Guard MSU under SOC monitoring. Twel
 
 - 73% reduction in theft and vandalism incidents versus the customer's prior-project baseline
 - Zero insurance claims filed across the deployment window
-- $340,800 in documented loss avoidance, audited by the customer's controller
-
-That's one project, one trailer, one carrier whose 
+- $340,80

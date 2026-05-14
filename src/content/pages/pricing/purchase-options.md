@@ -122,6 +122,4 @@ Ownership means you own the maintenance. We offer three service tiers for traile
 
 Most purchase customers run Standard service. Premium is typical for fleet owners with mission-critical deployments where downtime cost exceeds the plan price.
 
-## Trade-in
-
-If you bought a trailer from us 4+ years ago and want to refresh, we offer trade-in credit toward a new unit. Typical trade-in
+## Tr

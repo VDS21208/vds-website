@@ -20,7 +20,7 @@ heroStats:
 - 30+ GA units
 - 5-7 day lead time
 - NDAA 889 compliant
-- Sourcewell + state cooperative
+-  + state cooperative
 heroImage: ''
 faq:
 - q: Can you cover Port of Savannah-adjacent yards?
@@ -78,6 +78,4 @@ A Savannah-based logistics operator running a 60-acre container yard adjacent to
 
 ## Georgia compliance and procurement
 
-Georgia has no statewide ALPR restriction affecting our deployments. We hold Sourcewell and the Georgia Statewide Contract for relevant security categories. NDAA Section 889 compliant for federally-funded work, including TSA and federal port-adjacent deployments.
-
-For film and event production, we coordinate with the Georgia Film Offi
+Georgia has no statewide ALPR restriction affecting our deployments. We hold and the Georgia Statewide Contract for relevant security categories. NDAA Section 889 compliant for federally-funded work, including TSA 

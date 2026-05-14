@@ -5,19 +5,19 @@ const { faqs, heading = "Frequently asked questions" } = Astro.props;
 if (!faqs || faqs.length === 0) return null;
 ---
 <section class="py-20 md:py-24 bg-white">
-  <div class="container-main max-w-3xl">
-    <div class="eyebrow mb-3">FAQ</div>
-    <h2 class="font-display mb-10 text-navy">{heading}</h2>
-    <div class="space-y-1">
-      {faqs.map(({q, a}) => (
-        <details class="group border-b border-slate-200 py-5">
-          <summary class="flex items-start justify-between cursor-pointer text-[1.0625rem] font-medium text-navy gap-4 list-none [&::-webkit-details-marker]:hidden">
-            <span class="flex-1 faq-question">{q}</span>
-            <span class="text-orange flex-shrink-0 group-open:rotate-45 transition-transform duration-300"><Icon name="arrow-right" size={20} /></span>
-          </summary>
-          <div class="mt-4 text-[0.9375rem] text-slate-600 leading-relaxed faq-answer">{a}</div>
-        </details>
-      ))}
-    </div>
-  </div>
+ <div class="container-main max-w-3xl">
+ <div class="eyebrow mb-3">FAQ</div>
+ <h2 class="font-display mb-10 text-navy">{heading}</h2>
+ <div class="space-y-1">
+ {faqs.map(({q, a}) => (
+ <details class="group border-b border-slate-200 py-5">
+ <summary class="flex items-start justify-between cursor-pointer text-[1.0625rem] font-medium text-navy gap-4 list-none [&::-webkit-details-marker]:hidden">
+ <span class="flex-1 faq-question">{q}</span>
+ <span class="text-orange flex-shrink-0 group-open:rotate-45 transition-transform duration-300"><Icon name="arrow-right" size={20} /></span>
+ </summary>
+ <div class="mt-4 text-[0.9375rem] text-slate-600 leading-relaxed faq-answer">{a}</div>
+ </details>
+ ))}
+ </div>
+ </div>
 </section>

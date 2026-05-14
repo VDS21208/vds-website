@@ -80,4 +80,4 @@ A Bethesda-based general contractor running a $180M mixed-use build in Howard Co
 
 We're an MD-registered business, MBE-eligible prime on several active state contracts, and we hold the cooperative purchasing vehicles most MD counties and municipalities use. NDAA Section 889 compliant for any federally-funded work — relevant for FEMA, DOT, and DoD-adjacent projects.
 
-Maryland has no statewide ALPR restriction that affects our typical deployments, but Baltimore City has s
+Maryland has n

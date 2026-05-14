@@ -405,6 +405,4 @@ Mobile deployments require added checks for power (solar/battery) and connectivi
 
 Security camera maintenance is only valuable if it produces two outcomes: reliable uptime and usable footage when an incident happens. If you want the quickest path to improvement, start by locking in the basics: run weekly feed checks, schedule monthly lens cleaning and night-performance reviews, and complete a quarterly retrieval drill to confirm retention, timestamps, and export workflows.
 
-If your sites are high-risk, after-hours incidents are common, or you manage multiple locations, maintenance alone may not be enough. In those cases, pair your maintenance routine with remote video monitoring so outages, blind spots, and alert issues surface faster—and so your team has a clear escalation and reporting workflow.
-
-Want a maintenance plan tailored to your property type and risk level? Explore remote video monitoring and request a quote for a commercial-ready surveillance program.
+If your sites are high-risk, after-hours incidents are common, or you manage multiple lo

@@ -346,6 +346,4 @@ If incidents happen after-hours or you need faster response, monitoring is often
 
 ## Construction Site Security with Mobile Surveillance Trailers: Get a Coverage Plan and Quote
 
-If you want construction site coverage that holds up in real incidents, start with a risk-zone map and deploy mobile surveillance trailers to cover entrances/exits, laydown yards, and equipment zones first. Validate night footage with real clips, define a response workflow, and update placement as the project phases change.
-
-To move fast, explore our mobile surveillance trailers and request a configuration based on your site siz
+If you want construction site coverage that holds up in real incidents, start 

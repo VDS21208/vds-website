@@ -35,7 +35,7 @@ featureTiles:
   - title: Alarm & dispatch
     body: Immix, Patriot, Bold, Sureview, Stages.
   - title: Cloud & AI
-    body: AWS, NVIDIA, Intel, AWS Partner Network. SOC 2.
+    body: AWS, NVIDIA, Intel, AWS Partner Network. .
 finalCTAHeading: See Technology Partners on your own cameras.
 finalCTABody: 20 minutes. Live demo. We'll ingest one of your existing camera feeds during the call.
 finalCTAButtons:
@@ -68,7 +68,7 @@ Genetec Security Center, Milestone XProtect, Avigilon Control Center.
 Immix, Patriot, Bold, Sureview, Stages.
 
 ### Cloud & AI
-AWS, NVIDIA, Intel, AWS Partner Network. SOC 2.
+AWS, NVIDIA, Intel, AWS Partner Network. .
 
 
 ## How it fits with VDS
@@ -78,9 +78,4 @@ VDS deploys **solar-autonomous mobile surveillance trailers** that come pre-inte
 ## Compliance & security
 
 - AWS US-only · TLS 1.3 · AES-256
-- NDAA Section 889 compliant
-- SOC 2 documented
-- GDPR / CCPA / PIPEDA aware
-- Configurable retention
-
-[See full security posture →](/about-us/cybersecurity/)
+- NDAA Sect

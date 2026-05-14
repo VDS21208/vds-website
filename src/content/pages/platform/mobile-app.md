@@ -71,4 +71,4 @@ MFA. RBAC. Session expiration. Device registration. Push notifications go throug
 
 ## Works with or without the SOC
 
-If you run a 24/7 SOC contract, the app is a window into what the operators are doing in real time. If you do not, the app is the primary alert 
+If you run a 24/7 SOC contract, the app is a window into what 

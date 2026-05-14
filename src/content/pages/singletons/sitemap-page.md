@@ -104,6 +104,4 @@ tags: mobile surveillance, VDS
 - [Sitemap (this page)](/sitemap-page)
 - [XML sitemap for search engines](/sitemap.xml)
 
-## Looking for something specific?
-
-If a page is not listed here or you cannot find what you need, contact sales@visiondetecti
+## Looking for s

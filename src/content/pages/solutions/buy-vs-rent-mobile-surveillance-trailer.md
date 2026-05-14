@@ -138,4 +138,4 @@ Buying saves about $38K over 5 years and leaves you with a depreciable asset. Re
 
 ## The redeployment factor
 
-Most of our customers ultimately rent because portfolio flexibility outweighs the dollar savings. A construction firm with 12 active projects over 3 years doesn't want to own 4 trailers and idle them between jobs. They rent 6, redeploy as projects start and finish, and
+Most of our customers ultimately rent because portfolio flexibility outweighs the dollar savings. A construction firm 

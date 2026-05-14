@@ -374,10 +374,4 @@ Common Mistakes That Increase Theft Risk
 
 **Poor equipment documentation:** Missing serial numbers, photos, and ownership records complicate recovery efforts and insurance claims.
 
-**Delayed incident reporting:** Quick reporting improves recovery chances and provides law enforcement with fresh evidence.
-
-Get Professional Construction Site Security
-
-Construction site theft threatens project timelines, budgets, and profitability across the industry. While basic security measures help, professional surveillance monitoring provides the most effective deterrence and response.
-
-Mobile surve
+**Delayed incident rep

@@ -72,6 +72,4 @@ A $28M Mid-Atlantic construction project replaced a guard service with VDS Manag
 
 ## Why one roof matters
 
-When your perimeter is a single contract, the failure modes shrink. A camera goes offline and our SOC sees it before you do — and dispatches our field tech, not yours. An alarm trips at 3 a.m. and the operator already knows the site layout because our deployment engineer built the camera plan. A new phase opens on the construction project and the same crew redeploys the trailers — they don't bill discovery time.
-
-That's the operating model. Pick the service that fits, or stack them.
+When your perimeter is a single contract, the failure modes shrink. A camera goes offline and our SOC sees it before you do — and dispatches our field tech, not yours. An alarm trips at 3 a.m. and the operator already knows the site layout because our deployment engineer built the camera plan. A new phase opens on the construction project and the same crew redeploys the trailers — they don't bill disc

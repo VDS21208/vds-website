@@ -97,5 +97,4 @@ GC project executives, risk managers, CFOs reviewing insurance lines, and site s
 ## Related products
 
 - **[Sky Guard MSU](/products/sky-guard-mobile-surveillance-trailer)** — $2,200/mo. Solar-autonomous, 30-day deployment to teardown.
-- **[Boundary Guard Pro](/products/boundary-guard-pro)** — $1,800/mo. Perimeter analytics for lay-down yards.
-- **[Swift Deploy](/produ
+- **[Boundary Guard Pro](/pr

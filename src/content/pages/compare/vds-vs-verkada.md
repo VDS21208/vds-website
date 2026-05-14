@@ -110,5 +110,4 @@ We will tell you when Verkada is the right answer. For pure indoor corporate, it
 ## Switching from Verkada (or running both)
 
 1. **Audit your camera estate.** If you're 80% indoor enterprise and 20% perimeter/outdoor, the right architecture is often Verkada indoor + VDS outdoor. Both feed your security team.
-2. **Re-license decision.** If your Verkada licenses renew in <12 months and you have an outdoor gap, we can rent units to bridge.
-3. **Integrate, don't rip.** Our platform can ingest a Verkada RTSP stream where th
+2. **Re-license decision.** If your Verkada licenses renew in <12 months and you have an outd

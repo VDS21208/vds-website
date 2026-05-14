@@ -126,8 +126,4 @@ A single guard FTE for 24/7 single-site coverage (3 shifts plus overlap) runs $6
 When evaluating any vendor, ask:
 - Are deployment and pickup included or billed separately?
 - What is the cellular data overage rate?
-- Is the VMS license per-camera or per-trailer?
-- Is there a deposit, and what is the return condition?
-- What is the response SLA if a trailer goes offline?
-
-Most vendors price th
+- Is the VMS license per-camera or per-tr

@@ -69,4 +69,4 @@ Put a guard inside, mount VDS hardware on the roof, or both. The booth becomes t
 
 ## Where they earn their keep
 
-Construction site entrances. Industrial gates. Logistics yards. Apartment and residential complex
+Construction sit

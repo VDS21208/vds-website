@@ -75,6 +75,4 @@ For a customer with an active Brivo account: 2 to 4 business days. Required on c
 01:35 — Tenant security manager opens the VDS app on iPhone. Sees the video, the talk-down audio log, and the Brivo door-state changes on one timeline.
 01:38 — Manager unlocks the personnel door from Brivo to let arriving private security in. Unlock event lands on the VDS timeline automatically.
 
-## Pricing
-
-The Brivo integration is included with any AI VisionStream enterprise subscri
+## 

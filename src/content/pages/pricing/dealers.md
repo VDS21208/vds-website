@@ -117,4 +117,4 @@ The dealer application is short. We're looking for:
 - A named technical contact and a named sales contact
 - Brief overview of your geographic and vertical focus
 
-Most applications are approved within 5 business days. We'll schedule a 30-minute kickoff to walk through the portal, deal registration, and certification before your first quote goes out.
+Most applications are approved within 5 business days. We'll

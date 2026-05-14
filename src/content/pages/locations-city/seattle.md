@@ -80,6 +80,4 @@ A tech-campus general contractor running a 12-acre Bellevue construction site si
 
 **WA POST Act framing.** Washington's police accountability framework, while focused on public-agency use of surveillance, sets a reference point for how private vendors are expected to operate in the state. We default to the strictest applicable framing: customer-owned footage, no city or state agency standing access, law enforcement access only via subpoena or warrant served on the customer.
 
-**Washington wiretap statute (RCW 9.73).** Washington is a two-party-consent state for audio recording. Our units capture video only by default; audio is disabled unless the customer has documented all-party consent.
-
-**Port of Seattle access.** TWIC credentialing applies on the se
+**Washington wiretap statute (RCW 9.73).** Washington is a two-party-consent state for audio recording. Our units capture video only by default; audio is disabled unless the customer has docu

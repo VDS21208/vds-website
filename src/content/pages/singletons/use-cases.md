@@ -68,6 +68,4 @@ Combined with AI VisionStream rule sets tuned for each threat and a 24/7 US Secu
 
 ## What every use case includes
 
-Solar-autonomous hardware (no trenching, no utility hookup). Camera-agnostic cloud VMS (works with your existing IP cameras). 24/7 US Security Operations Center (not offshore, not subcontracted). NDAA 889 compliant. AI VisionStream analytics on AWS with 95%+ LPR accuracy in under 3 seconds.
-
-One vendor, one platform, one accountable team.
+Solar-autonomous hardware (no trenching, no utility hookup). Camera-agnostic cloud VMS (works with your existing IP cameras). 24/7 US Security Operations Center (not offshore, not subcontracted). NDAA 889 compliant. AI VisionStream analytics on AWS with 95%+ LPR 

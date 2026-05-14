@@ -4,85 +4,85 @@ const { content } = Astro.props;
 
 // Lightweight markdown renderer — handles ##, ###, ####, bold, lists, paragraphs, tables, links
 function escape(s: string) {
-  return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+ return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 }
 function renderInline(s: string) {
-  return s
-    .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
-    .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2">$1</a>')
-    .replace(/`([^`]+)`/g, '<code>$1</code>');
+ return s
+ .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+ .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2">$1</a>')
+ .replace(/`([^`]+)`/g, '<code>$1</code>');
 }
 function renderTable(rows: string[]) {
-  if (rows.length < 2) return '';
-  const headerRow = rows[0].split('|').map(c => c.trim()).filter(Boolean);
-  const bodyRows = rows.slice(2).map(r => r.split('|').map(c => c.trim()).filter((_, i, arr) => arr.length > 1 ? true : true).slice(1, -1).filter((_, i, arr) => true));
-  // Simpler table render
-  const headers = rows[0].split('|').slice(1, -1).map(c => c.trim());
-  const body = rows.slice(2).map(r => r.split('|').slice(1, -1).map(c => c.trim()));
-  let html = '<table><thead><tr>';
-  headers.forEach(h => html += `<th>${renderInline(h)}</th>`);
-  html += '</tr></thead><tbody>';
-  body.forEach(row => {
-    html += '<tr>';
-    row.forEach(c => html += `<td>${renderInline(c)}</td>`);
-    html += '</tr>';
-  });
-  html += '</tbody></table>';
-  return html;
+ if (rows.length < 2) return '';
+ const headerRow = rows[0].split('|').map(c => c.trim()).filter(Boolean);
+ const bodyRows = rows.slice(2).map(r => r.split('|').map(c => c.trim()).filter((_, i, arr) => arr.length > 1 ? true : true).slice(1, -1).filter((_, i, arr) => true));
+ // Simpler table render
+ const headers = rows[0].split('|').slice(1, -1).map(c => c.trim());
+ const body = rows.slice(2).map(r => r.split('|').slice(1, -1).map(c => c.trim()));
+ let html = '<table><thead><tr>';
+ headers.forEach(h => html += `<th>${renderInline(h)}</th>`);
+ html += '</tr></thead><tbody>';
+ body.forEach(row => {
+ html += '<tr>';
+ row.forEach(c => html += `<td>${renderInline(c)}</td>`);
+ html += '</tr>';
+ });
+ html += '</tbody></table>';
+ return html;
 }
 
 function render(md: string) {
-  if (!md) return '';
-  const lines = md.split('\n');
-  let html = '';
-  let buf: string[] = [];
-  let mode: 'p' | 'ul' | 'ol' | 'table' | null = null;
-  let tableBuf: string[] = [];
+ if (!md) return '';
+ const lines = md.split('\n');
+ let html = '';
+ let buf: string[] = [];
+ let mode: 'p' | 'ul' | 'ol' | 'table' | null = null;
+ let tableBuf: string[] = [];
 
-  const flush = () => {
-    if (mode === 'p' && buf.length) {
-      html += `<p>${renderInline(buf.join(' '))}</p>`;
-    } else if (mode === 'ul' && buf.length) {
-      html += '<ul>' + buf.map(li => `<li>${renderInline(li)}</li>`).join('') + '</ul>';
-    } else if (mode === 'ol' && buf.length) {
-      html += '<ol>' + buf.map(li => `<li>${renderInline(li)}</li>`).join('') + '</ol>';
-    } else if (mode === 'table' && tableBuf.length) {
-      html += renderTable(tableBuf);
-    }
-    buf = [];
-    tableBuf = [];
-    mode = null;
-  };
+ const flush = () => {
+ if (mode === 'p' && buf.length) {
+ html += `<p>${renderInline(buf.join(' '))}</p>`;
+ } else if (mode === 'ul' && buf.length) {
+ html += '<ul>' + buf.map(li => `<li>${renderInline(li)}</li>`).join('') + '</ul>';
+ } else if (mode === 'ol' && buf.length) {
+ html += '<ol>' + buf.map(li => `<li>${renderInline(li)}</li>`).join('') + '</ol>';
+ } else if (mode === 'table' && tableBuf.length) {
+ html += renderTable(tableBuf);
+ }
+ buf = [];
+ tableBuf = [];
+ mode = null;
+ };
 
-  for (const raw of lines) {
-    const line = raw;
-    if (/^####\s/.test(line)) { flush(); html += `<h4>${renderInline(line.replace(/^####\s/, ''))}</h4>`; continue; }
-    if (/^###\s/.test(line)) { flush(); html += `<h3>${renderInline(line.replace(/^###\s/, ''))}</h3>`; continue; }
-    if (/^##\s/.test(line)) { flush(); html += `<h2>${renderInline(line.replace(/^##\s/, ''))}</h2>`; continue; }
-    if (/^\|/.test(line)) {
-      if (mode !== 'table') { flush(); mode = 'table'; }
-      tableBuf.push(line);
-      continue;
-    }
-    if (/^[-*]\s/.test(line)) {
-      if (mode !== 'ul') { flush(); mode = 'ul'; }
-      buf.push(line.replace(/^[-*]\s/, ''));
-      continue;
-    }
-    if (/^\d+\.\s/.test(line)) {
-      if (mode !== 'ol') { flush(); mode = 'ol'; }
-      buf.push(line.replace(/^\d+\.\s/, ''));
-      continue;
-    }
-    if (line.trim() === '') {
-      flush();
-      continue;
-    }
-    if (mode !== 'p') { flush(); mode = 'p'; }
-    buf.push(line);
-  }
-  flush();
-  return html;
+ for (const raw of lines) {
+ const line = raw;
+ if (/^####\s/.test(line)) { flush(); html += `<h4>${renderInline(line.replace(/^####\s/, ''))}</h4>`; continue; }
+ if (/^###\s/.test(line)) { flush(); html += `<h3>${renderInline(line.replace(/^###\s/, ''))}</h3>`; continue; }
+ if (/^##\s/.test(line)) { flush(); html += `<h2>${renderInline(line.replace(/^##\s/, ''))}</h2>`; continue; }
+ if (/^\|/.test(line)) {
+ if (mode !== 'table') { flush(); mode = 'table'; }
+ tableBuf.push(line);
+ continue;
+ }
+ if (/^[-*]\s/.test(line)) {
+ if (mode !== 'ul') { flush(); mode = 'ul'; }
+ buf.push(line.replace(/^[-*]\s/, ''));
+ continue;
+ }
+ if (/^\d+\.\s/.test(line)) {
+ if (mode !== 'ol') { flush(); mode = 'ol'; }
+ buf.push(line.replace(/^\d+\.\s/, ''));
+ continue;
+ }
+ if (line.trim() === '') {
+ flush();
+ continue;
+ }
+ if (mode !== 'p') { flush(); mode = 'p'; }
+ buf.push(line);
+ }
+ flush();
+ return html;
 }
 
 const html = render(content);

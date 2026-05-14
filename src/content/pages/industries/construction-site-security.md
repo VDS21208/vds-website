@@ -237,6 +237,4 @@ resolve correctly on the new site before publishing.
 
 <p>Yes, VDS mobile surveillance trailers deploy in 30 minutes and include everything needed for immediate coverage — cameras, AI analytics, 24/7 monitoring, cellular connectivity, and solar power. No infrastructure investment required. Trailers reposition as construction phases change and can be relocated to new projects when the current site completes.</p>
 
-<p>Free site assessment. Custom coverage plan. Most deployments active within 72 hours of agreement. <a href="/request-a-quote">Request your construction security assessment</a>.</p>
-
-<p>Sources: <a href="https://www.fbi.gov/investigate/violent-crime/orc" rel="nofollow">FBI Organized Retail Crime</a> | <a href="https://www.nicb.org/news/news-releases/equipment-theft-costs-construction-industry-300-million-400-mill
+<p>Free site assessment. Custom coverage plan. Most deployments active within 72 hours of agreement. <a href="/request-a-quote">Request your construction security ass

@@ -94,4 +94,4 @@ A 3-day, 65,000-attendee festival in the Mountain West deployed VDS across the b
 
 ## Pricing
 
-Event pricing is quoted per event. Single-day events from $5,000. Multi-day festivals typical $18,000-$45,000 depending on site complexity. Multi-month even
+Event pricing is quoted per event. Single-day even

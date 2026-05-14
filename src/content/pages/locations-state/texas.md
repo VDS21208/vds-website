@@ -20,7 +20,7 @@ heroStats:
 - 60+ TX units
 - 5-10 day new-build lead time
 - Permian-rated solar
-- NDAA + Sourcewell
+- NDAA + 
 heroImage: ''
 faq:
 - q: Do your solar units actually hold charge in West Texas summer?
@@ -30,7 +30,7 @@ faq:
 - q: Do you work with Texas auto dealer groups?
   a: Yes. Active on dealer rooftops across Houston, Dallas-Fort Worth, San Antonio, and Austin. Ask for the dealership deployment template.
 - q: Is BuyBoard available for Texas school districts and counties?
-  a: BuyBoard accepts Sourcewell crosswalk for our category. We'll confirm pre-quote.
+  a: BuyBoard accepts  crosswalk for our category. We'll confirm pre-quote.
 finalCTAHeading: Permian to Austin, one call, one quote
 finalCTABody: Tell us the site, the asset, and the loss exposure. We'll quote unit count, lead time, and monthly cost — no engineering call required.
 finalCTAButtons:
@@ -78,6 +78,4 @@ A Permian-focused E&P operator running 14 tank battery sites across Reeves and L
 
 ## Texas compliance and procurement
 
-Texas has no statewide ALPR restriction relevant to our typical deployments. We're an active Sourcewell vendor — most Texas ISDs, county governments, and many cities procure under Sourcewell or BuyBoard. GSA Schedule available for federal end customers (relevant for Customs and Border Protection and other federal-adjacent work along the border).
-
-NDAA Section 889 c
+Texas has no statewide ALPR restriction relevant to our typical deployments. We're an active vendor — most Texas ISDs, county governments, and many cities procure under or BuyBoard. GSA Schedule available for fed

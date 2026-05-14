@@ -76,4 +76,4 @@ One vendor relationship. Consistent reporting on the US side. Defensible complia
 
 ## What changes when VDS launches in Toronto
 
-When we do open GTA operations, you can expect the same model as our US footprint: solar-autonomous hardware, camera-agnostic cloud VMS, 24/7 SOC. Differences will include Canadian data residency, Eastern Time SOC alignment, and bilingual support availability. Pricing will be published in C
+When we do open GTA operations, you can expect the same model as our US footprint: solar-autonomous hardware, camera-agnostic cloud VMS, 24/7 SOC. Differences will include Canadian data residency, Easter

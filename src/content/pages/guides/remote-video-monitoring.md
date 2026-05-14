@@ -117,4 +117,4 @@ We sell monitoring. Most monitoring vendors hide their response times, their sta
 
 ## Audience
 
-Loss prevention directors, risk managers, security directors, construction project managers, multi-site operations leaders. If you are evaluating whether to add monitori
+Loss prevention directors, risk managers

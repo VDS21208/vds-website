@@ -1,57 +1,57 @@
 ---
 import Icon from '../icons/Icon.astro';
 export interface Props {
-  competitor: string;
-  rows: Array<{ feature: string; vds: string | boolean; them: string | boolean; emphasis?: boolean }>;
+ competitor: string;
+ rows: Array<{ feature: string; vds: string | boolean; them: string | boolean; emphasis?: boolean }>;
 }
 const { competitor, rows } = Astro.props;
 
 function renderCell(value: string | boolean) {
-  if (value === true) return { icon: 'check', text: 'Yes', color: 'text-emerald-400' };
-  if (value === false) return { icon: 'close', text: 'No', color: 'text-red-400' };
-  return { text: value, color: '' };
+ if (value === true) return { icon: 'check', text: 'Yes', color: 'text-emerald-400' };
+ if (value === false) return { icon: 'close', text: 'No', color: 'text-red-400' };
+ return { text: value, color: '' };
 }
 ---
 <section class="py-20 md:py-28 bg-navy text-white" data-no-reveal>
-  <div class="container-wide">
-    <table class="sticky-compare-table w-full max-w-5xl mx-auto">
-      <thead class="bg-navy">
-        <tr class="border-b border-white/15">
-          <th class="text-left py-5 pr-4 text-xs uppercase tracking-[0.15em] text-white/60 font-medium">Feature</th>
-          <th class="text-left py-5 pr-4">
-            <div class="flex items-center gap-2">
-              <span class="text-orange font-display text-xl font-semibold">VDS</span>
-              <span class="pulse-dot"></span>
-            </div>
-          </th>
-          <th class="text-left py-5">
-            <span class="text-white/85 font-display text-xl">{competitor}</span>
-          </th>
-        </tr>
-      </thead>
-      <tbody>
-        {rows.map((r) => {
-          const v = renderCell(r.vds);
-          const t = renderCell(r.them);
-          return (
-            <tr class={`border-b border-white/8 hover:bg-white/3 ${r.emphasis ? 'bg-white/3' : ''}`}>
-              <td class="py-5 pr-4 text-sm md:text-base text-white/85 font-medium">{r.feature}</td>
-              <td class="py-5 pr-4">
-                <div class={`inline-flex items-center gap-2 text-sm md:text-base ${v.color || 'text-orange'}`}>
-                  {v.icon && <Icon name={v.icon} size={20} />}
-                  <span>{v.text}</span>
-                </div>
-              </td>
-              <td class="py-5">
-                <div class={`inline-flex items-center gap-2 text-sm md:text-base ${t.color || 'text-white/60'}`}>
-                  {t.icon && <Icon name={t.icon} size={20} />}
-                  <span>{t.text}</span>
-                </div>
-              </td>
-            </tr>
-          );
-        })}
-      </tbody>
-    </table>
-  </div>
+ <div class="container-wide">
+ <table class="sticky-compare-table w-full max-w-5xl mx-auto">
+ <thead class="bg-navy">
+ <tr class="border-b border-white/15">
+ <th class="text-left py-5 pr-4 text-xs uppercase tracking-[0.15em] text-white/60 font-medium">Feature</th>
+ <th class="text-left py-5 pr-4">
+ <div class="flex items-center gap-2">
+ <span class="text-orange font-display text-xl font-semibold">VDS</span>
+ <span class="pulse-dot"></span>
+ </div>
+ </th>
+ <th class="text-left py-5">
+ <span class="text-white/85 font-display text-xl">{competitor}</span>
+ </th>
+ </tr>
+ </thead>
+ <tbody>
+ {rows.map((r) => {
+ const v = renderCell(r.vds);
+ const t = renderCell(r.them);
+ return (
+ <tr class={`border-b border-white/8 hover:bg-white/3 ${r.emphasis ? 'bg-white/3' : ''}`}>
+ <td class="py-5 pr-4 text-sm md:text-base text-white/85 font-medium">{r.feature}</td>
+ <td class="py-5 pr-4">
+ <div class={`inline-flex items-center gap-2 text-sm md:text-base ${v.color || 'text-orange'}`}>
+ {v.icon && <Icon name={v.icon} size={20} />}
+ <span>{v.text}</span>
+ </div>
+ </td>
+ <td class="py-5">
+ <div class={`inline-flex items-center gap-2 text-sm md:text-base ${t.color || 'text-white/60'}`}>
+ {t.icon && <Icon name={t.icon} size={20} />}
+ <span>{t.text}</span>
+ </div>
+ </td>
+ </tr>
+ );
+ })}
+ </tbody>
+ </table>
+ </div>
 </section>

@@ -89,4 +89,4 @@ NDAA Section 889 compliant. AWS Cloud Partner. US-only AWS regions. Assembled in
 
 ## How we engage.
 
-Lease from $1,500/mo (Swift Deploy) or $2,200/mo (Sky Guard). Purchase Sky Guard MSU from $38,000. Mix and match across a site. Add SOC monitoring per unit or per portfolio. Scale up for a six-month construction phase
+Lease from $1,500/mo (Swift Deploy) or $2,200/mo (Sky Guard). Purchase Sky Guard MSU from $38,000. Mix and match a

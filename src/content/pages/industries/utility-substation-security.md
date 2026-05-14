@@ -76,7 +76,7 @@ A typical configuration is **one Sky Guard MSU** at the access point with **Boun
 
 **NDAA Section 889 compliant.** No Hikvision, Dahua, Huawei, or HiSilicon components. The compliance certificate is on file and shipped with every deployment.
 
-**AWS Partner.** Cloud VMS runs on AWS with TLS 1.3 in transit and AES-256 at rest. Data residency, retention controls, and SOC 2 evidence available under NDA.
+**AWS Partner.** Cloud VMS runs on AWS with TLS 1.3 in transit and AES-256 at rest. Data residency, retention controls, and evidence available under NDA.
 
 **Solar-autonomous deployment.** No utility tap means no scope of work for your own crews, no permit cycle, and no waiting for distribution to free up a circuit. The unit lands on a trailer or skid and is operational in 4 hours.
 
@@ -86,4 +86,4 @@ A typical configuration is **one Sky Guard MSU** at the access point with **Boun
 
 ## What utility buyers ask
 
-Most utility security directors come from law enforcement or military backgrounds. They want to know exactly who is on the other end of the alarm, what their training looks like, and how fast they actually respond. The honest answer: SOC operators are trained in security 
+Most utility security directors come from law enforcement or military backgrounds. They want to know exactly who is on the other end of the alarm, what their training l

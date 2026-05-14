@@ -25,7 +25,7 @@ faq:
 - q: Are VDS systems NERC CIP-014 compliant?
   a: CIP-014 is a utility obligation, not a vendor certification. VDS systems are designed to support a CIP-014 R5 compliant physical security plan — the guide includes sample plan language. Final compliance rests with the registered entity.
 - q: Do you support cooperative purchasing for utility procurement?
-  a: Yes. VDS is available through Sourcewell, which most cooperative utilities use as a pre-vetted contract vehicle. Cuts procurement timeline from months to weeks.
+  a: Yes. VDS is available through , which most cooperative utilities use as a pre-vetted contract vehicle. Cuts procurement timeline from months to weeks.
 - q: How do you handle sites without cellular coverage?
   a: Cellular + satellite failover is available on Sky Guard MSU for remote substations. SOC monitoring continues uninterrupted across backhaul switchover.
 - q: What about Section 889 compliance?
@@ -48,7 +48,7 @@ robots: index, follow
 speakable: .hero-h1, .article-summary, h2
 author: Vision Detection Systems
 tags: utility security, NERC CIP-014, substation, buyer's guide, VDS guide
-notes: Utility buyer cycle is long. CIP-014 R5 language is the entry point. Sourcewell badge important here.
+notes: Utility buyer cycle is long. CIP-014 R5 language is the entry point.  badge important here.
 ---
 
 ## What's in the full guide
@@ -60,7 +60,7 @@ notes: Utility buyer cycle is long. CIP-014 R5 language is the entry point. Sour
 - Substation perimeter design — fence-line analytics, gate detection, switchyard interior
 - Communication redundancy (cellular + satellite failover) for sites without fiber
 - Sample CIP-014 R5 plan language, audit-tested
-- Cooperative purchasing routes (Sourcewell)
+- Cooperative purchasing routes ()
 
 ## Free excerpt: what changed after Moore County
 
@@ -96,5 +96,4 @@ Utility security directors, NERC compliance officers, transmission planners, coo
 ## Related products
 
 - **[Sky Guard MSU](/products/sky-guard-mobile-surveillance-trailer)** — $2,200/mo. Primary substation deployment unit.
-- **[Boundary Guard Pro](/products/boundary-guard-pro)** — $1,800/mo. Fence-line and perimeter analytics.
-- **[Swift Deploy](/products/swift-deploy-surveillance-t
+- **[Boundary Guard Pro](

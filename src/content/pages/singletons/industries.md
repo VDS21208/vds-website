@@ -71,10 +71,8 @@ What changes per industry is camera placement, analytics rule sets, escalation t
 
 **Parking Lots & Garages** — Operators (LAZ, ABM, ParkMobile-class) facing vehicle break-in, vandalism, and assault liability. Center-of-lot Sky Guard plus perimeter poles deliver coverage without trenching the asphalt.
 
-**Government & Public Safety** — Federal, state, municipal property — parks, motor pools, public works yards, water districts. NDAA Section 889 compliant. Available via Sourcewell and GSA cooperative purchasing. This is private-property surveillance, not community-wide camera networks.
+**Government & Public Safety** — Federal, state, municipal property — parks, motor pools, public works yards, water districts. NDAA Section 889 compliant. Available via and GSA cooperative purchasing. This is private-property surveillance, not community-wide camera networks.
 
 ## Eleven additional verticals
 
-Logistics & distribution yards. Cannabis cultivation and dispensaries. Marinas. Self-storage. Cold storage. Solar and wind farms. Mining and aggregates. Schools and campuses (private property only). Houses of worship. Multifamily residential. Critical infrastructure (telecom, data centers).
-
-Each runs the same hardware and software stack with a different analytics rule set.
+Logistics & distribution yards. Cannabis cultivation and dispensaries. Marinas. Self-storage. Cold storage. Solar and wind farms. Mining and aggregates. Schools and campuses (private property only). Houses of worship. Multifamily residential. Critical infrastructure (telecom, dat

@@ -192,4 +192,4 @@ Get Professional Construction Site Surveillance That Qualifies for Insurance Dis
 
 Implementing construction site security cameras insurance-compliant surveillance requires expertise in both security technology and insurance requirements. The wrong system wastes money without delivering the premium reductions that justify the investment.
 
-Vision Detection Systems provides comprehensive surveillance solutions designed to meet insurance underwriter requirements while delivering measurable theft prevention results. Our systems include 24/7 professional monitoring, documented response protocols, and evidence-ready footage retrieval 
+Vision Detection Systems provides comprehensive surveillance solutions designed to meet i

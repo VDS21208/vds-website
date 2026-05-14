@@ -132,6 +132,4 @@ The result is an all-weather, low-light-immune, AI-pre-filtered detection system
 
 ## Related references
 
-- [Glossary of industry terms](/glossary/)
-- [Compare VDS vs fixed cameras](/compare/vds-vs-fixed-cameras/)
-- [Why thermal matters for copper theft](/use-cases/copper-theft-prevention/)
+- [Glossary of indust

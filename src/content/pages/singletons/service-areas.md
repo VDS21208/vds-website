@@ -87,4 +87,4 @@ Deployment is not complete until the SOC dashboard shows the unit green and the 
 
 We expand based on demand. If you operate a multi-site program in a state outside the current 30+ footprint, our deployment engineering team will scope what regional staging and dispatch logistics would cost for your portfolio.
 
-Three of our current standard-tier states were added in 2024-2025 because a single enterprise customer asked. We are not interested in symbolic national coverage — we add states when the operational math works.
+Three of our current standard-tier states were added in 2024-2025 because a single enterprise customer asked. We a

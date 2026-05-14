@@ -82,4 +82,4 @@ A data center general contractor running a 240-acre Aurora campus build-out sign
 
 **Colorado wiretap statute (C.R.S. § 18-9-303).** Colorado is a one-party-consent state for audio, but our units capture video only by default unless the customer has a documented business reason and signage.
 
-**High-altitude solar.** Above 7,500 feet, solar yield varies seasonally. We size the array conservatively and offer grid o
+**High-altitude solar.** Above

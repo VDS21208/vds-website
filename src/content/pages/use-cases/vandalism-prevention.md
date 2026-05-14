@@ -81,4 +81,4 @@ Repeat offender identification is part of the value. VDS preserves evidence acro
 
 ## ROI math
 
-A school with monthly graffiti incidents at $800 cleanup runs $9,600/year plus paint, plus staff time, plus parent complaints. A single Swift Deploy at $18,000/year prevents the recurring damage, the cluster pattern, and the long-term reputational drift. Construction sites avoid much larger one-time hits — $10,
+A school with monthly graffiti incidents at $800 cleanup runs $9,600/year plus paint, plus staff time, plus parent complaints. A single Swift Deploy at $18,000/year prevents the recurring damage, the cluster pattern, and 

@@ -81,5 +81,3 @@ For a central station already running Manitou: 3 to 5 business days. Required on
 04:21 — LE on-scene. Suspect on the property detained. Signal closed in Manitou; VDS audit record sealed.
 
 ## Pricing
-
-The Bold Group Manitou integration is included with any AI VisionStream enterprise subscript

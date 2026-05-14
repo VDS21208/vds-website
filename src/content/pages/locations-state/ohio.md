@@ -20,7 +20,7 @@ heroStats:
 - 25+ OH units
 - 5-7 day lead time
 - NDAA 889 compliant
-- Sourcewell + state cooperative
+-  + state cooperative
 heroImage: ''
 faq:
 - q: Are you active on the Intel New Albany footprint?
@@ -37,7 +37,7 @@ finalCTAButtons:
 - label: Get an Ohio quote
   url: /resources/case-studies/
 schemaType: LocalBusiness
-internalLinks: /industries/warehouse-logistics-security, /industries/utility-substation-security, /procurement/sourcewell, /products/boundary-guard-pro
+internalLinks: /industries/warehouse-logistics-security, /industries/utility-substation-security, /procurement/, /products/boundary-guard-pro
 canonical: https://visiondetectionsystems.com/locations/ohio
 ogTitle: Mobile surveillance for Ohio's logistics and semiconductor boom
 ogDescription: Mobile surveillance for Ohio's Intel chip plant construction, Columbus-Cincinnati logistics hubs, and AEP utility infrastructure
@@ -78,6 +78,4 @@ A logistics 3PL operating two cross-dock facilities in the Rickenbacker corridor
 
 ## Ohio compliance and procurement
 
-Ohio has no statewide ALPR restriction affecting our deployments. We're on the Ohio State Term Schedule for relevant security categories and Sourcewell is broadly accepted by Ohio counties, municipalities, and school districts. NDAA Section 889 compliant for any federally-funded work.
-
-For utility-sector deployments, we coordinate with AEP and Duke Energy Ohio's vendo
+Ohio has no statewide ALPR restriction affecting our deployments. We're on the Ohio State Term Schedule for relevant security categories and is broadly accepted by Ohio counties, municipalities, and school districts. NDAA Section 889 comp

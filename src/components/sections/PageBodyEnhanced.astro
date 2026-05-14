@@ -4,9 +4,9 @@ import FAQAccordion from './FAQAccordion.astro';
 import FinalCTAStrip from './FinalCTAStrip.astro';
 
 export interface Props {
-  Content: any;
-  page: any;
-  related?: Array<{ url: string; title: string; description?: string }>;
+ Content: any;
+ page: any;
+ related?: Array<{ url: string; title: string; description?: string }>;
 }
 
 const { Content, page } = Astro.props;
@@ -16,13 +16,13 @@ const ctaBody = page.finalCTABody;
 const ctaButtons = page.finalCTAButtons || [];
 ---
 <section class="py-12 md:py-16 bg-white">
-  <div class="container-main">
-    <div class="max-w-3xl mx-auto">
-      <article class="prose-vds">
-        <Content />
-      </article>
-    </div>
-  </div>
+ <div class="container-main">
+ <div class="max-w-3xl mx-auto">
+ <article class="prose-vds">
+ <Content />
+ </article>
+ </div>
+ </div>
 </section>
 
 {hasFAQ && <FAQAccordion faqs={page.faq} />}

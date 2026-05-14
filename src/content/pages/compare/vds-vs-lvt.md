@@ -110,6 +110,4 @@ At month 37, the LVT customer is sitting on hardware that needs maintenance cont
 ## Switching from LVT
 
 1. **Inventory week 1.** We map your existing LVT sites against a VDS site plan. Where redeployment is appropriate, our trailers replace LVT units one-for-one. Where you have hard-mounted infrastructure, our VMS ingests those streams via ONVIF.
-2. **Parallel run weeks 2-3.** New VDS units deploy alongside LVT for a side-by-side reality check. Your team sees both feeds in our VMS.
-3. **Cutover week 4.** LVT contracts wind down on their renewal calendar. VDS takes 100% of monitoring.
-4. *
+2. **Parallel run weeks 2-3.** New VDS units deploy alongside LVT for a side-by-side reality check. Your team sees both feeds

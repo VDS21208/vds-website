@@ -268,17 +268,15 @@ VDS flagship mobile surveillance unit. Combines LWIR thermal, 500ft ground radar
 
 Staffed facility that monitors security events 24/7/365. VDS SOC is US-based, in-house, with under 60-second escalation and 97% false alarm reduction.
 
-### SOC 2 / SOC 2 Type II
+### / 
 
-Service Organization Control 2 audit framework for service providers handling customer data. Evaluates security, availability, processing integrity, confidentiality, and privacy. VDS SOC 2 Type II audit is in progress.
+Service Organization Control 2 audit framework for service providers handling customer data. Evaluates security, availability, processing integrity, confidentiality, and privacy. VDS audit is in progress.
 
 ### Solar-Autonomous
 
 Powered entirely by solar panels with battery backup. No grid hookup or generator required for normal operation. VDS Sky Guard MSU has 600W solar input + 48+ hour battery autonomy.
 
-### Sourcewell
-
-Cooperative purchasing contract used by government agencies. VDS is available on Sourcewell.
+### contract used by government agencies. VDS is available on .
 
 ### Speakable Schema
 
@@ -302,14 +300,4 @@ AI VisionStream feature that applies different detection rules during configurab
 
 ### Virtual Tripwire
 
-AI analytic that triggers an alert when an object crosses a virtual line drawn on the camera view. Directional (e.g., entering only) or bidirectional.
-
-### VMS / Video Management System
-
-Software that ingests, stores, and surfaces video from cameras. AI VisionStream is a cloud VMS — no on-site DVR or NVR required.
-
-## W
-
-### WCAG / Web Content Accessibility Guidelines
-
-W3C accessibility standard. VDS targets WCAG 2.1 AA — color contrast ≥4.5:1, keyboard navigation, alt text on images, captions on video.
+AI analytic that triggers an alert when an object crosses a virtual line drawn on the camera view. Directional (e.g., en

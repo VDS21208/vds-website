@@ -121,10 +121,4 @@ Customers can pull video to local archive at any time. Retention applies to clou
 ## Volume pricing
 
 | Cameras | Standard | Pro |
-|---|---|---|
-| 1-49 | $39 | $69 |
-| 50-149 | $35 | $62 |
-| 150-499 | $32 | $56 |
-| 500+ | Enterprise | Enterprise |
-
-Volume tiers apply a
+|---|

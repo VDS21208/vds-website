@@ -78,7 +78,7 @@ Rental is the right answer when:
 - **Project or site duration exceeds 14 months.** The math flips.
 - **You have multiple simultaneous sites.** Volume tiers start at 5 units and unlock 8-15% reductions.
 - **You're funded under a multi-year capital budget.** Annual subscription line is easier to defend than recurring rental procurement.
-- **You qualify for cooperative purchasing.** Sourcewell and GSA Schedule contract pricing is annual-structured.
+- **You qualify for cooperative purchasing.** and GSA Schedule contract pricing is annual-structured.
 
 ## Free excerpt: rental rate card preview
 
@@ -109,5 +109,4 @@ Project managers running multi-phase work, event producers, retail asset protect
 
 ## Related products
 
-- **[Sky Guard MSU](/products/sky-guard-mobile-surveillance-trailer)** — $2,200/mo contract, rental rates available
-- **[Swift Deploy](/products/swift-deploy-surveillance-trailer)** — $1,500/mo contract, rental rates av
+- **[Sky Guard MSU](/products/sky-guard-mobile-surveillance-trailer)** — $2,200/mo contra

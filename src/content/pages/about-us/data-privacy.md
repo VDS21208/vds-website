@@ -102,4 +102,4 @@ Video and analytics data: 30, 60, or 90 days based on customer plan. Audit logs:
 Customers can request deletion of specific video segments, full site data, or full account data at any time. Deletion executes within 30 days, with cryptographic destruction of the underlying encryption keys to render any residual storage unrecoverable.
 
 ### Contract termination
-On termination, customer data is exportable for 60 days. After 60 days, all customer data is purged from primary and backup storage within 30 add
+On termination, customer data i

@@ -1,50 +1,50 @@
 ---
 import Icon from '../icons/Icon.astro';
 const tiles = [
-  { src: '/assets/webflow/hero-security-1.avif', tag: 'Construction', stat: '73%', sub: 'theft reduction', place: 'Mid-Atlantic GC' },
-  { src: '/assets/webflow/hero-security-2.avif', tag: 'Substation', stat: '$340K', sub: 'copper saved', place: 'Mid-Atlantic Utility' },
-  { src: '/assets/webflow/hero-security-3.avif', tag: 'Retail', stat: '18%', sub: 'ORC drop YoY', place: 'Big-box retailer' },
-  { src: '/assets/webflow/hero-security-4.avif', tag: 'Public Safety', stat: 'NDAA', sub: '889 compliant', place: 'County deployment' },
-  { src: '/assets/webflow/slider-1.webp', tag: 'Auto Dealer', stat: '45K', sub: 'catalytic claims/yr', place: 'Southeast Auto Group' },
-  { src: '/assets/webflow/slider-2.webp', tag: 'Logistics', stat: '24/7', sub: 'fleet yard coverage', place: 'Regional 3PL' },
+ { src: '/assets/webflow/hero-security-1.avif', tag: 'Construction', stat: '73%', sub: 'theft reduction', place: 'Mid-Atlantic GC' },
+ { src: '/assets/webflow/hero-security-2.avif', tag: 'Substation', stat: '$340K', sub: 'copper saved', place: 'Mid-Atlantic Utility' },
+ { src: '/assets/webflow/hero-security-3.avif', tag: 'Retail', stat: '18%', sub: 'ORC drop YoY', place: 'Big-box retailer' },
+ { src: '/assets/webflow/hero-security-4.avif', tag: 'Public Safety', stat: 'NDAA', sub: '889 compliant', place: 'County deployment' },
+ { src: '/assets/webflow/slider-1.webp', tag: 'Auto Dealer', stat: '45K', sub: 'catalytic claims/yr', place: 'Southeast Auto Group' },
+ { src: '/assets/webflow/slider-2.webp', tag: 'Logistics', stat: '24/7', sub: 'fleet yard coverage', place: 'Regional 3PL' },
 ];
 ---
 <section class="relative bg-navy py-24 md:py-28 overflow-hidden">
-  <div class="dot-pattern absolute inset-0 opacity-20"></div>
-  <div class="hero-orb-layer">
-    <div class="gradient-orb gradient-orb-orange" style="width:600px;height:600px;top:-200px;left:-150px;opacity:0.2;"></div>
-    <div class="gradient-orb gradient-orb-blue" style="width:500px;height:500px;bottom:-200px;right:-150px;opacity:0.18;animation-delay:-6s;"></div>
-  </div>
-  <div class="container-wide relative z-10">
-    <div class="flex items-end justify-between flex-wrap gap-6 mb-12 reveal">
-      <div class="max-w-2xl">
-        <div class="eyebrow mb-3" style="color:#E8621A;">From the field</div>
-        <h2 class="font-display text-white text-4xl md:text-5xl leading-tight">Six industries.<br/><span class="gradient-text">One platform.</span></h2>
-      </div>
-      <p class="text-white/70 text-lg max-w-md leading-relaxed">Real deployments across the verticals VDS protects every day.</p>
-    </div>
+ <div class="dot-pattern absolute inset-0 opacity-20"></div>
+ <div class="hero-orb-layer">
+ <div class="gradient-orb gradient-orb-orange" style="width:600px;height:600px;top:-200px;left:-150px;opacity:0.2;"></div>
+ <div class="gradient-orb gradient-orb-blue" style="width:500px;height:500px;bottom:-200px;right:-150px;opacity:0.18;animation-delay:-6s;"></div>
+ </div>
+ <div class="container-wide relative z-10">
+ <div class="flex items-end justify-between flex-wrap gap-6 mb-12 reveal">
+ <div class="max-w-2xl">
+ <div class="eyebrow mb-3" style="color:#E8621A;">From the field</div>
+ <h2 class="font-display text-white text-4xl md:text-5xl leading-tight">Six industries.<br/><span class="gradient-text">One platform.</span></h2>
+ </div>
+ <p class="text-white/70 text-lg max-w-md leading-relaxed">Real deployments across the verticals VDS protects every day.</p>
+ </div>
 
-    <div class="grid grid-cols-2 md:grid-cols-3 gap-4 md:gap-5">
-      {tiles.map((t) => (
-        <div class="group relative aspect-[4/3] rounded-xl overflow-hidden border border-white/10 hover:border-orange/50 transition-all duration-500">
-          <img src={t.src} alt={t.tag} loading="lazy" class="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" />
-          <div class="absolute inset-0 bg-gradient-to-t from-navy via-navy/60 to-navy/10"></div>
-          <div class="absolute top-3 left-3">
-            <span class="inline-flex items-center text-[0.625rem] uppercase tracking-[0.15em] font-medium text-white bg-orange/90 px-2.5 py-1 rounded-sm">{t.tag}</span>
-          </div>
-          <div class="absolute bottom-0 left-0 right-0 p-5 md:p-6">
-            <div class="font-display text-3xl md:text-4xl text-orange leading-none mb-1">{t.stat}</div>
-            <div class="text-sm text-white/85 leading-tight">{t.sub}</div>
-            <div class="text-[0.6875rem] uppercase tracking-[0.15em] text-white/45 mt-3">{t.place}</div>
-          </div>
-        </div>
-      ))}
-    </div>
+ <div class="grid grid-cols-2 md:grid-cols-3 gap-4 md:gap-5">
+ {tiles.map((t) => (
+ <div class="group relative aspect-[4/3] rounded-xl overflow-hidden border border-white/10 hover:border-orange/50 transition-all duration-500">
+ <img src={t.src} alt={t.tag} loading="lazy" class="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" />
+ <div class="absolute inset-0 bg-gradient-to-t from-navy via-navy/60 to-navy/10"></div>
+ <div class="absolute top-3 left-3">
+ <span class="inline-flex items-center text-[0.625rem] uppercase tracking-[0.15em] font-medium text-white bg-orange/90 px-2.5 py-1 rounded-sm">{t.tag}</span>
+ </div>
+ <div class="absolute bottom-0 left-0 right-0 p-5 md:p-6">
+ <div class="font-display text-3xl md:text-4xl text-orange leading-none mb-1">{t.stat}</div>
+ <div class="text-sm text-white/85 leading-tight">{t.sub}</div>
+ <div class="text-[0.6875rem] uppercase tracking-[0.15em] text-white/45 mt-3">{t.place}</div>
+ </div>
+ </div>
+ ))}
+ </div>
 
-    <div class="text-center mt-14 reveal">
-      <a href="/industries/" class="inline-flex items-center gap-2 text-white hover:text-orange transition-all font-medium border-b border-white/30 hover:border-orange pb-1">
-        See all 17 industries we protect <Icon name="arrow-right" size={16} />
-      </a>
-    </div>
-  </div>
+ <div class="text-center mt-14 reveal">
+ <a href="/industries/" class="inline-flex items-center gap-2 text-white hover:text-orange transition-all font-medium border-b border-white/30 hover:border-orange pb-1">
+ See all 17 industries we protect <Icon name="arrow-right" size={16} />
+ </a>
+ </div>
+ </div>
 </section>

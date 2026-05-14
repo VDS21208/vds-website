@@ -143,8 +143,4 @@ Buy when:
 - You have capex available and prefer ownership
 - Your asset depreciation policy favors capitalization
 
-Full break-even math is on [Buy vs Rent](/solutions/buy-vs-rent-mobile-surveillance-trailer). At Sky Guard rates, break-even hits around month 24.
-
-## Insurance and liability
-
-You'll need a Certificate of Insurance naming VDS as additional insured. Most general liabil
+Full break-even math is on [Buy vs Rent](/solutions/buy-vs-rent-mobile-surveillance-trailer). At Sky Guard rates

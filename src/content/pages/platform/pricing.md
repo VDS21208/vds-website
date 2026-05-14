@@ -115,8 +115,4 @@ Discounts apply to platform line items. SOC monitoring tiers separately.
 - Audit log access fees — none
 - API call fees up to 100 req/sec — none
 
-If a competitor's quote includes any of the above, you can use ours to negotiate. Or just switch.
-
-## Contracts
-
-- Monthly billing on credit card or ACH for Essential and Professional
+If a competitor's quote includes any of the above, you ca

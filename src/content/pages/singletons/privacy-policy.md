@@ -118,8 +118,4 @@ VDS maintains technical and organizational measures appropriate to the risk, inc
 
 We will post material changes to this policy on this page and update the "last updated" date. For changes that materially affect existing customers, we will provide notice via email and in-product notification.
 
-## 12. Contact
-
-For privacy inquiries, verified rights requests, or questions about this policy:
-
-**Privacy contact:** privacy@visiond
+## 12. Con

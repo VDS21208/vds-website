@@ -361,6 +361,4 @@ Do monthly night-read checks, keep lenses clean, confirm the capture point hasn�
 
 If you want accurate LPR results, don’t start by shopping features—start by tightening your capture point, reducing skew, and validating plate readability at night with real clips. Once the camera placement and lighting are right, you can layer on watchlists, alerting, and reporting workflows that turn plate reads into real security outcomes.
 
-If you’re planning LPR for a parking lot, start with a coverage plan that addresses entrances, drive lanes, and nighttime evidence readiness using parking lot surveillance cameras for 24/7 monitoring. If you need verified response and consistent escalation, explore remote video monitoring.
-
-Ready to design the right capture point and workflow for your site? Request a quote and we’ll recommend an LPR deployment approach based on your entrances, lighting, timeline, and operating requirements.
+If you’re planning LPR for a parking lot, start with a coverage plan that addresses entrances, drive lanes, and nighttime evidenc

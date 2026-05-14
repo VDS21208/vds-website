@@ -95,16 +95,16 @@ If you got here looking for solar-autonomous surveillance trailers, the shortlis
 Answer these three questions:
 
 1. **Does the camera need to move continuously with a vehicle or person?**
-   - Yes → fleet / in-car / body-worn. Talk to Axon, Apollo, Safety Vision, AngelTrax, Digital Ally, Utility, or TSI Video.
-   - No → fixed-site mobile surveillance. Talk to VDS.
+ - Yes → fleet / in-car / body-worn. Talk to Axon, Apollo, Safety Vision, AngelTrax, Digital Ally, Utility, or TSI Video.
+ - No → fixed-site mobile surveillance. Talk to VDS.
 
 2. **Will the camera sit at a fixed location for weeks or months, then redeploy to a new site?**
-   - Yes → fixed-site mobile surveillance. This is VDS.
-   - No → not VDS.
+ - Yes → fixed-site mobile surveillance. This is VDS.
+ - No → not VDS.
 
 3. **Is your primary use case officer accountability, court-admissible body-cam evidence, or fleet driver behavior?**
-   - Yes → fleet / in-car / body-worn.
-   - No, your use case is theft deterrence, perimeter monitoring, and remote site oversight → fixed-site mobile surveillance.
+ - Yes → fleet / in-car / body-worn.
+ - No, your use case is theft deterrence, perimeter monitoring, and remote site oversight → fixed-site mobile surveillance.
 
 ## Where the two markets sometimes overlap
 
@@ -114,4 +114,4 @@ The key is that the procurement, RFP language, evaluation criteria, and vendor l
 
 ## Where VDS wins inside fixed-site mobile surveillance
 
-500+ deployments across 30+ states. Three product lines (Sky Guard MSU, Swift Deploy, Boundary Guard Pro). AI VisionStream — camera-agnostic ONVIF/RTSP, 95%+ LPR at sub-3-second match. 24/7 in-house US SOC with sub-60-second escalation and 97% false-alarm reduction. NDAA Section 889 compliant. US AWS-only data residency. Published pricing from $1,500/mo (Swift Deploy) and from $38,000 purchase (Sky Guard)
+500+ deployments across 30+ states. Three product lines (Sky Guard MSU, Swift Deploy, Boundary Guard Pro). AI VisionStream — camera-agnostic ONVIF/RTSP, 95%+ LPR at sub-3-second match. 24/7 in-house US SOC with sub-60-second escalation and 97% false-alarm reduction. NDA

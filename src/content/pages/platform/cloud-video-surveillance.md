@@ -101,8 +101,6 @@ Events route to the VDS 24/7 SOC, to customer SMS/email/webhook, or to a third-p
 - MFA available tenant-wide, enforceable by role
 - SAML SSO supported (Okta, Azure AD, Google Workspace)
 - 12-month immutable audit log, exportable for compliance review
-- SOC 2 Type II controls inherited from AWS; VDS SOC 2 report available under NDA
+- controls inherited from AWS; VDS report available under NDA
 
-## Cost model
-
-Per-camera, per-month subscription. Storage is included up to the retention tier you select. Bandwidth is included. Softw
+#

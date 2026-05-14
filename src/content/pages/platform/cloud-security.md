@@ -23,8 +23,8 @@ heroStats:
 - 12-month audit log
 heroImage: ''
 faq:
-- q: Are you SOC 2 certified?
-  a: SOC 2 Type II report available under NDA. Audit cycle is annual.
+- q: Are you ?
+  a:  report available under NDA. Audit cycle is annual.
 - q: Can I bring my own KMS key?
   a: Customer-managed keys (CMK) via AWS KMS are available on enterprise tiers.
 - q: How long is the audit log retained?
@@ -72,7 +72,7 @@ notes: This page does a lot of competitive work via the "what we will not do" li
 
 ## Audit log
 
-Every user action, every alert event, every camera state change, every rule edit, every clip share — logged in an immutable 12-month audit trail. Exportable to JSON, CSV, or your SIEM via webhook. Required for SOC 2 customers. Available on every tier.
+Every user action, every alert event, every camera state change, every rule edit, every clip share — logged in an immutable 12-month audit trail. Exportable to JSON, CSV, or your SIEM via webhook. Required for customers. Available on every tier.
 
 ## Network and supply chain
 
@@ -89,8 +89,4 @@ Every user action, every alert event, every camera state change, every rule edit
 - We will not run a pattern-of-life database across customer plates
 - We will not store data outside the United States
 
-These are not aspirational. They are architectural. If you want the specifics, the security packet runs 28 pages.
-
-## Vulnerability disclosure
-
-Coordinated disclosure at security@visiondetectionsystems.com. We publis
+These are not aspirational. They are architectural. If you want the specifics, t

@@ -87,6 +87,4 @@ For a typical 3-5 acre site, **two Swift Deploys at $3,000/month** delivers full
 
 The Mid-Atlantic GC case: 73% reduction in theft incidents across three active sites, $0 insurance claims filed in 12 months, $340,800 net savings against prior security spend.
 
-## Pricing
-
-Equipment-focused setup starts at **$3,000/month** (two Swift Deploys). Add Sky Guard MSU for 
+## Pric

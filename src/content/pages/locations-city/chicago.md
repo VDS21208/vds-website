@@ -82,4 +82,4 @@ A Mag Mile retail loss-prevention director signed three Swift Deploy units ($4,5
 
 **Chicago DOT permits.** Right-of-way placement in the City of Chicago requires a CDOT permit. We file on the customer's behalf. Typical issuance: 5–7 business days.
 
-**Rail and intermodal access.** Class I railroad intermodal yard access requires railroad-specific cre
+**Rail an

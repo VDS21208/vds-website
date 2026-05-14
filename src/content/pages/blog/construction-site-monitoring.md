@@ -384,8 +384,4 @@ General contractors often undermine monitoring effectiveness through implementat
 
 **Ignoring Weather Factors:** Not accounting for seasonal weather patterns that affect camera visibility and equipment operation. Rain, snow, and extreme temperatures impact monitoring effectiveness.
 
-**Insufficient Lighting Integration:** Relying solely on camera night vision without adequate lighting for incident verification. Poor lighting quality reduces monitoring team ability to confirm threats accurately.
-
-Get Professional Construction Site Monitoring
-
-Construction theft and vandalism threaten project timelines, budgets, and safety protocols. Professional monitoring systems provide verified incident response, evidence-ready doc
+**Insufficient Lighting Integration:** Rely

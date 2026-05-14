@@ -1,24 +1,24 @@
 ---
 import Icon from '../icons/Icon.astro';
 export interface Props {
-  href?: string;
-  title: string;
-  description?: string;
-  eyebrow?: string;
-  cta?: string;
-  icon?: string;
-  variant?: 'light' | 'dark';
+ href?: string;
+ title: string;
+ description?: string;
+ eyebrow?: string;
+ cta?: string;
+ icon?: string;
+ variant?: 'light' | 'dark';
 }
 const { href, title, description, eyebrow, cta, icon, variant = 'light' } = Astro.props;
 const Tag = href ? 'a' : 'div';
 const base = variant === 'dark'
-  ? 'block bg-navy-light text-white border border-white/10'
-  : 'block bg-white text-navy border border-slate-200';
+ ? 'block bg-navy-light text-white border border-white/10'
+ : 'block bg-white text-navy border border-slate-200';
 ---
 <Tag href={href} class={`${base} rounded-lg p-7 card-hover group`}>
-  {icon && <div class="text-orange mb-4"><Icon name={icon} size={28} /></div>}
-  {eyebrow && <div class="text-xs uppercase tracking-[0.15em] text-orange font-medium mb-3">{eyebrow}</div>}
-  <h3 class={`font-display text-2xl mb-3 group-hover:text-orange transition-colors ${variant === 'dark' ? 'text-white' : 'text-navy'}`}>{title}</h3>
-  {description && <p class={`text-[0.9375rem] leading-relaxed ${variant === 'dark' ? 'text-white/70' : 'text-slate-600'}`}>{description}</p>}
-  {cta && <div class="text-sm text-orange font-medium mt-4 inline-flex items-center gap-2 group-hover:gap-3 transition-all">{cta} <Icon name="arrow-right" size={16} /></div>}
+ {icon && <div class="text-orange mb-4"><Icon name={icon} size={28} /></div>}
+ {eyebrow && <div class="text-xs uppercase tracking-[0.15em] text-orange font-medium mb-3">{eyebrow}</div>}
+ <h3 class={`font-display text-2xl mb-3 group-hover:text-orange transition-colors ${variant === 'dark' ? 'text-white' : 'text-navy'}`}>{title}</h3>
+ {description && <p class={`text-[0.9375rem] leading-relaxed ${variant === 'dark' ? 'text-white/70' : 'text-slate-600'}`}>{description}</p>}
+ {cta && <div class="text-sm text-orange font-medium mt-4 inline-flex items-center gap-2 group-hover:gap-3 transition-all">{cta} <Icon name="arrow-right" size={16} /></div>}
 </Tag>

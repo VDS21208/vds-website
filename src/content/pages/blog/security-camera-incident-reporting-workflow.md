@@ -310,6 +310,4 @@ Temporary deployments using mobile surveillance security trailers
 
 ## Turn Footage Into Action: Standardize Incident Reporting and Get Help Fast
 
-If incidents are happening and your team is scrambling for footage, the fix isn’t “more cameras.” It’s a repeatable incident reporting workflow, evidence-ready exports, and an escalation plan that works after-hours and across sites. Vision Detection Systems can help you tighten your workflow, improve retrieval speed, and pair recording with remote monitoring so critical events are verified, documented, and preserved before footage overwrites.
-
-Request a demo today and see how we can help secure your site.
+If incidents are happening and your team is scrambling for footage, the fix isn’t “more cameras.” It’s a repeatable incident reporting workflow, evidence-ready exports, and an escalation plan t

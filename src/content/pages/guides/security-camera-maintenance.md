@@ -111,5 +111,4 @@ This is the maintenance regimen VDS field engineers follow on customer cameras u
 
 ## Free excerpts
 
-- [The one-page quarterly checklist (PDF)](/guides/security-camera-maintenance/#checklist)
-- [Lens cleaning: the four-step technique](/guides/security-camera-maint
+- [The one-page quarterly checklist (PDF

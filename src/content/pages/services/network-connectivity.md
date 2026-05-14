@@ -93,4 +93,4 @@ For police, sheriff, fire, EMS, and emergency-management deployments, FirstNet p
 
 ## Cellular signal mapping at install
 
-Every site survey includes a live RF measurement on all four carriers. We deliver a one-page coverage report showing RSRP, RSRQ, and SINR per carrier so the customer knows what was measured, not just promised. If a site fails to meet a minimum-RSRP threshold on all four cellular paths, Starlink is added at our cost.
+Every site survey includes a live RF measurement on all four carriers. We deliver a one-page coverage report showing RSRP, RSRQ, and SINR per carrier so the customer knows what was measured, not just promised. If 

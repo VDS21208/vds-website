@@ -415,8 +415,4 @@ resolve correctly on the new site before publishing.
 
 ### What types of properties are best suited for remote monitoring?
 
-<p>Construction sites, retail parking lots, warehouses, auto dealerships, and outdoor storage facilities benefit most from remote monitoring. Properties with large perimeters, after-hours risk, and limited existing infrastructure see the greatest cost savings and coverage improvements with VDS solutions.</p>
-
-<p><strong>Find out how much you're overpaying for guard services.</strong> VDS builds a side-by-side cost comparison for your specific site, including current guard expenses, VDS coverage options, and potential savings. <a href="/request-a-quote">Request your custom security assessment</a> to see the numbers for your property.</p>
-
-<!-- Schema: Article, FAQPage -->
+<p>Construction sites, retail parking lots, warehouses, auto dealerships, and outdoor storage facilities benefit most from remote monitoring. Properties with large perimeters, after-hours risk, and limited existing infrastructure see the greatest cost

@@ -79,4 +79,4 @@ If you're evaluating two or three vendors at once, open them in tabs. Every matr
 
 ## What we will not do
 
-We won't compare on vibes. Every "where competitor wins" callout has to be defensible in front of that competitor's sales team. Every "where VDS wins" callout has a source — an FTC docket, a court filing, a city council vote, a manufacturer spec sheet, or a deployment of ours we can name on a call under NDA.
+We won't compare on vibes. Every "where competitor wins" callout has to be defensible in front of that competitor's sales team. Every "where VDS wins" callout has a source — an FTC docket, a court filing, a city council 

@@ -107,4 +107,4 @@ Most applicants ask three questions before submitting. Answers below; full FAQ o
 
 The application form is embedded here. Fields match the structure described above. Submission goes to the channel team queue and a confirmation email is sent immediately.
 
-For organizations that prefer to start with a conversation: email **partners@visiondetectionsystems.com** with subject "Dealer interest — [Your Company]" and a 2–3 sentence company description. The channel team will respond within 2 business days.
+For organizations that prefer to start with a conversation: email **partners@visiondetectionsystems.com** with subject "Dealer interes

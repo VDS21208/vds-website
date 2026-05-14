@@ -20,7 +20,7 @@ heroStats:
 - 35+ NC units
 - 5-7 day lead time
 - Duke Energy approved supplier
-- NDAA + Sourcewell
+- NDAA + 
 heroImage: ''
 faq:
 - q: Are you an approved vendor for Duke Energy?
@@ -29,10 +29,10 @@ faq:
   a: Yes. These sites typically run 8-15 units across 200-500 acre footprints. We've executed similar deployments in three states.
 - q: How fast can you respond to a Duke Energy storm event?
   a: 24-48 hours from request to first unit on site. We pre-coordinate when a named storm enters the cone.
-- q: Is Sourcewell accepted for NC procurement?
+- q: Is  accepted for NC procurement?
   a: Yes, by most NC counties, municipalities, school systems, and the state cooperative purchasing program.
 finalCTAHeading: Triangle to Charlotte, utility to lab construction, one provider
-finalCTABody: Tell us the site and the asset. We'll quote unit count, lead time, and monthly cost — and confirm Duke or Sourcewell procurement paths if relevant.
+finalCTABody: Tell us the site and the asset. We'll quote unit count, lead time, and monthly cost — and confirm Duke or  procurement paths if relevant.
 finalCTAButtons:
 - label: Get an NC quote
   url: /contact-us/
@@ -78,6 +78,4 @@ A general contractor running a $90M biotech lab expansion in Durham asked us to 
 
 ## North Carolina compliance and procurement
 
-North Carolina has no statewide ALPR restriction affecting our deployments. We're a Duke Energy approved vendor (relevant for utility-adjacent work statewide). Sourcewell is widely accepted across NC counties, school systems, and the NC State Cooperative Purchasing program. NDAA Section 889 compliant for any federally-funded work.
-
-For storm response, we coordinate with Duke Energy and NC Emer
+North Carolina has no statewide ALPR restriction affecting our deployments. We're a Duke Energy approved vendor (relevant for utility-adjacent work statewide). is widely accepted across NC counties, school systems, and the NC State Cooperative Purchasi

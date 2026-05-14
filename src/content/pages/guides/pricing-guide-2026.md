@@ -9,7 +9,7 @@ metaDescription: 2026 pricing for VDS Sky Guard MSU ($2,200/mo), Swift Deploy ($
 announcementBar: ''
 h1: 2026 Mobile Surveillance Pricing Guide
 heroEyebrow: Effective January 2026
-heroSubhead: Published list pricing for Sky Guard MSU, Swift Deploy, and Boundary Guard Pro. SOC monitoring tiers, rental rates, multi-unit pricing, cooperative purchasing (Sourcewell, GSA Schedule), and the typical total cost of ownership for one- and three-year programs.
+heroSubhead: Published list pricing for Sky Guard MSU, Swift Deploy, and Boundary Guard Pro. SOC monitoring tiers, rental rates, multi-unit pricing, cooperative purchasing (, GSA Schedule), and the typical total cost of ownership for one- and three-year programs.
 heroCTAPrimary:
   label: Download the full pricing guide (PDF)
   url: /contact-us/
@@ -20,13 +20,13 @@ heroStats:
 - Sky Guard MSU $2,200/mo
 - Swift Deploy $1,500/mo
 - Boundary Guard Pro $1,800/mo
-- Sourcewell + GSA
+-  + GSA
 heroImage: ''
 faq:
 - q: Is pricing negotiable for large deployments?
   a: Volume tiers are published in the full guide (5+, 10+, 25+ units). Pricing below those tiers is a published rate, not negotiable case-by-case.
-- q: How does Sourcewell pricing compare to direct?
-  a: Same list price, faster procurement. Sourcewell's value is contract vehicle access, not a discount line.
+- q: How does  pricing compare to direct?
+  a: Same list price, faster procurement. 's value is contract vehicle access, not a discount line.
 - q: Are there hidden fees?
   a: No. The monthly rate is the rate. Add-ons (LPR, satellite, integrations) are line-itemed and published.
 - q: What happens at contract renewal?
@@ -49,7 +49,7 @@ robots: index, follow
 speakable: .hero-h1, .article-summary, h2
 author: Vision Detection Systems
 tags: buyer's guide, VDS guide
-notes: Publishing list prices in plain text is a deliberate trust signal. Most competitors hide prices. Surface Sourcewell + GSA prominently.
+notes: Publishing list prices in plain text is a deliberate trust signal. Most competitors hide prices. Surface  + GSA prominently.
 ---
 
 ## What's in the full guide
@@ -60,7 +60,7 @@ notes: Publishing list prices in plain text is a deliberate trust signal. Most c
 - SOC monitoring tiers and what's included at each level
 - Rental rate cards (3-day, 14-day, 30-day, 90-day)
 - Multi-unit volume pricing tiers (5+, 10+, 25+ units)
-- Sourcewell cooperative purchasing rates
+- rates
 - GSA Schedule federal pricing
 - Total cost of ownership tables — 12-month, 24-month, 36-month
 - What's included vs add-ons (LPR, satellite backhaul, custom integrations)
@@ -101,7 +101,7 @@ What's not included (transparent add-ons):
 
 ## Free excerpt: cooperative purchasing
 
-**Sourcewell** — Pre-vetted cooperative contract used by most US public agencies, school districts, utilities, and cooperatives. Pricing matches list with the procurement cycle compression: skip the RFP, go straight to PO. Typical procurement timeline drops from 90+ days to 14 days.
+**** — Pre-vetted cooperative contract used by most US public agencies, school districts, utilities, and cooperatives. Pricing matches list with the procurement cycle compression: skip the RFP, go straight to PO. Typical procurement timeline drops from 90+ days to 14 days.
 
 **GSA Schedule** — Federal pricing path with Section 889 documentation pre-filed. Available for direct federal agency procurement and federally funded state/local projects.
 
@@ -117,9 +117,4 @@ Net: monthly subscription wins on year-one cash, breaks even at month 36 vs purc
 
 ## Who this is for
 
-Procurement officers, CFOs, security directors building budgets, and any buyer benchmarking vendor proposals.
-
-## Related products
-
-- **[Sky Guard MSU](/products/sky-guard-mobile-surveillance-trailer)** — Full spec sheet
-- **[Swift Deploy](/products/swift-depl
+Procurement officers, CFOs, security 

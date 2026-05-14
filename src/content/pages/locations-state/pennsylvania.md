@@ -20,7 +20,7 @@ heroStats:
 - 35+ PA units
 - 24-72hr lead time
 - PA COSTARS active
-- NDAA + Sourcewell
+- NDAA + 
 heroImage: ''
 faq:
 - q: Are you on COSTARS?
@@ -79,6 +79,4 @@ A Marcellus E&P operator running 11 well pads across Susquehanna and Bradford co
 
 ## Pennsylvania compliance and procurement
 
-We're an active vendor on COSTARS, the Pennsylvania state cooperative purchasing program used by most PA municipalities, school districts, and counties. Sourcewell is also widely accepted. NDAA Section 889 compliant for federally-funded work, including PennDOT federal-aid projects.
-
-PA has no statewide ALPR restriction affecting our typical deployments. For municipal downtown camera d
+We're an active vendor on COSTARS, the Pennsylvania state cooperative purchasing program used by most PA municipalities, school districts, and counties. is also widely accepted. NDAA Section 889 compliant for federally-funded work, including PennDOT federal-aid pr

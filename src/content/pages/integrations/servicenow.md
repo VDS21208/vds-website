@@ -81,6 +81,4 @@ For a customer with an existing ServiceNow instance and an OAuth application reg
 20:24 — LE on-scene, intruder gone. Engineer resolves the ServiceNow incident with notes; resolution syncs back to VDS.
 20:25 — Both systems hold the closed record with full SLA timing.
 
-## Pricing
-
-The ServiceNow integration is included with any AI VisionStream enterprise subscriptio
+## Pri

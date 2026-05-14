@@ -80,6 +80,4 @@ A high-rise general contractor running a 38-story tower in Long Island City swit
 
 **No facial recognition.** Our cloud VMS does not run facial recognition. We've audited our pipeline specifically against NYC's vendor-disclosure standards.
 
-**NYC DOT ROW permits.** Any placement on a sidewalk, shoulder, or other city ROW requires a permit. We file. Typical issuance: 3–5 business days.
-
-**NYS labor law.** Audio capture i
+**NYC DOT ROW permits.** Any placement on a sidewalk, shoulder, or other city ROW requires a 

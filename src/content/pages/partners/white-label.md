@@ -65,7 +65,7 @@ White labeling at VDS is not a sticker on a chassis. It is a manufacturing and o
 ## What does not get white-labeled
 
 - **Underlying engineering documentation.** Component data sheets, certifications, NDAA attestations remain VDS-branded. Customers who ask for this documentation see VDS authorship.
-- **SOC 2 and security audit reports.** These are issued to VDS as the underlying processor.
+- ** and security audit reports.** These are issued to VDS as the underlying processor.
 - **AWS hosting.** The platform is on AWS under VDS's account. Custom AWS account hosting is available at the strategic-partner level with separate pricing.
 - **Regulatory compliance attestations.** NDAA, FCC, and other regulatory documents reference VDS as the manufacturer of record.
 
@@ -103,6 +103,4 @@ White-label onboarding takes 60–90 days from contract signature, depending on 
 ## What we expect from white-label partners
 
 - A real brand and a real customer base — this is not a vehicle for arbitrage or quick reselling
-- A capable sales and support organization that can stand behind a customer-facing brand
-- Adherence to VDS quality and operational standards in customer communications
-- A multi-year volume commitment
+- A capable sales and support organization that can stand behind a customer-facing 

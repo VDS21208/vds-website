@@ -43,7 +43,7 @@ finalCTAButtons:
 - label: Scope an integration
   url: /contact-us/
 schemaType: Service
-internalLinks: /services/monitoring, /products/vms, /developers/api, /security/soc2
+internalLinks: /services/monitoring, /products/vms, /developers/api, /security/
 canonical: https://visiondetectionsystems.com/services/system-integration
 ogTitle: Your cameras. Your access control. Your ERP. Our analytics and SOC on top.
 ogDescription: Camera-agnostic VMS with ONVIF/RTSP support. Integrate with Genetec, Lenel, Avigilon, ServiceNow, SAP. Keep the cameras you have
@@ -53,7 +53,7 @@ robots: index, follow
 speakable: .hero-h1, .hero-subhead, h2
 author: Vision Detection Systems
 tags: mobile surveillance, VDS
-notes: Page references SOC 2 — verify status before publishing. API documentation link should point to developer portal once published.
+notes: Page references  — verify status before publishing. API documentation link should point to developer portal once published.
 ---
 
 If a security vendor tells you their system only works with their cameras, they're selling lock-in, not security. We're not in that business.
@@ -116,4 +116,4 @@ Most integrations close inside 30 days. Complex multi-system integrations run 60
 
 ## Security of the integration itself
 
-SAML 2.0 / OIDC SSO. SCIM provisioning. API tokens scoped per integration and rotated quarterly. All API traffic over TLS 1.3. Audit logs exportable to your SIEM (Splunk, Datadog, Sentinel). SOC 2 Type II report available under NDA.
+SAML 2.0 / OIDC SSO. SCIM provisioning. API tokens scoped per integration and rot

@@ -89,6 +89,4 @@ We are honest about what we make and what we buy. The line matters for traceabil
 
 Customers and prospects are welcome to tour the facility. We schedule tours weekly. You will see the floor, meet the team, and watch a unit go through QC. Federal and utility customers conducting compliance audits get a structured walkthrough with documentation.
 
-## Working at the plant
-
-We hire technicians, electricians, network engineers, programmers, and QC inspectors. If y
+## Working at t

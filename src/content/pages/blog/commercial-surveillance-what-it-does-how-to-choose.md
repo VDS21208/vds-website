@@ -281,8 +281,4 @@ Cost depends on coverage scope, camera configuration, retention needs, monitorin
 
 If you’re evaluating commercial surveillance, the right next step is to match the system type to your timeline and site conditions.
 
-If you need rapid coverage, start with a remote surveillance trailer.
-
-If you need escalation workflows and documented response, explore remote video monitoring surveillance.
-
-Ready for a coverage plan and deployment recommendation? Request a quote for a commercial surveillance program built around your site and timeline.
+If you need rapid coverage, start w

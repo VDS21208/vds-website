@@ -80,4 +80,4 @@ Field notes from VDS engineers, SOC supervisors, and account directors. Topics: 
 
 ## What we do not publish
 
-We do not publish customer logos without written permission, theft footage without a signed release, or claim-rate statistics we cannot tie to a billing 
+We do not publish customer logos without written permission, theft

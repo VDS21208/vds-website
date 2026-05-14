@@ -115,5 +115,4 @@ The .ai TLD is a marketing signal. It is not a product signal. AI in mobile surv
 
 If you are running a BIGView pilot and want to evaluate moving the program to VDS:
 
-1. **Week 1** — Site review and platform shadow. We ingest your existing cameras via ONVIF/RTSP at no platform license fee.
-2. **Week 2** — Hardware deployment if need
+1. **Week 1** — Site review and platform s

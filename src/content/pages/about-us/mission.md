@@ -87,4 +87,4 @@ These are the things we do not compromise on, regardless of price pressure or gr
 
 ## Where we are going
 
-7 years of field data tells us where the next gaps are: edge AI for specific threat classes, faster deploy times, lower watts-per-channel, and tighter integration with the responders who actually show up. That is the roadmap. The 
+7 years of field data tells us where the next gaps are: edge AI for specific threat classes, faster deploy times, lower watts-per-ch

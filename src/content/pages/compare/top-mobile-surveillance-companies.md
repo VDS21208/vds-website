@@ -124,6 +124,4 @@ Field data: 500+ deployments across 30+ states. Hero case study with a $28M Mid-
 | Deploy Surveillance | Not published |
 | GoView | Partial |
 
-## Switching / next step
-
-If you are running an RFP and need a structured side-by-side, request the VDS comparison pack at /schedule-a-demo. Include your 
+## Switching / nex

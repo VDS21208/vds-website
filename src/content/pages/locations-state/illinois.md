@@ -20,7 +20,7 @@ heroStats:
 - 25+ IL units
 - 5-7 day lead time
 - NDAA 889 compliant
-- Sourcewell + Omnia Partners
+-  + Omnia Partners
 heroImage: ''
 faq:
 - q: Does VDS use facial recognition in Illinois?
@@ -30,14 +30,14 @@ faq:
 - q: Do you work with ComEd?
   a: Yes, on substation construction-phase and storm response work. We hold the standard insurance and qualifications.
 - q: Is Omnia Partners accepted by Illinois local governments?
-  a: Yes, broadly. Sourcewell is also accepted by most counties, municipalities, and school districts.
+  a: Yes, broadly.  is also accepted by most counties, municipalities, and school districts.
 finalCTAHeading: Chicago retail loss to ComEd substation, one provider
 finalCTABody: BIPA-aware deployment, US-staffed SOC, 5-7 day lead time. Tell us the site and we'll quote unit count, monthly cost, and procurement path.
 finalCTAButtons:
 - label: Get an Illinois quote
   url: /contact-us/
 schemaType: LocalBusiness
-internalLinks: /industries/retail-orc, /compliance/bipa, /procurement/omnia-sourcewell, /products/swift-deploy-surveillance-trailer
+internalLinks: /industries/retail-orc, /compliance/bipa, /procurement/omnia-, /products/swift-deploy-surveillance-trailer
 canonical: https://visiondetectionsystems.com/locations/illinois
 ogTitle: Mobile surveillance for Chicago retail loss and construction
 ogDescription: Mobile surveillance for Chicago metro ORC response, construction, transit-adjacent projects, and ComEd infrastructure. 5-7 day deployment across Illinois.
@@ -80,4 +80,4 @@ A national retailer's Chicago metro distribution center was logging an average o
 
 Illinois has specific privacy considerations for ALPR and biometric data under BIPA (Biometric Information Privacy Act). Our standard deployments do not use facial recognition or biometric identification — analytics are object and behavior based. We document this in the Illinois MSA.
 
-We hold Sourcewell and Omnia Partners cooperative contracts, both widely accepted by Illinois counties, municipalities, and school systems. NDA
+We hold S

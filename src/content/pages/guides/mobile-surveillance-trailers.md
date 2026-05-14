@@ -106,4 +106,4 @@ The hardware sections were written by our senior engineers, the software section
 
 ## How to use it
 
-The fastest path: download, jump to Part 5, read the RFP language, take it to your procurement team. The thorough path: read Parts 1-4 first, then build your own spec, then use Part 5 to write the 
+The fastest path: download, jump to Part 5, read the RFP language, take it to y

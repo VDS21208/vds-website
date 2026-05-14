@@ -128,4 +128,4 @@ If you signed a multi-year commit, early termination is governed by your MSA —
 
 ## Damage, loss, and insurance
 
-Standard leases require the customer to maintain general liability and property coverage naming VDS as additional insured. We provide a sample certificate. Normal wear and tear is on us; custome
+Standard leases require the customer to maintain gener

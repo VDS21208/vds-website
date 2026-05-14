@@ -116,6 +116,4 @@ Both companies advertise AI-driven monitoring with human operators in the loop. 
 
 - **You are a homeowner** — Deep Sentinel.
 - **You run a single small business storefront** — Deep Sentinel.
-- **You are a GC, utility, municipal site manager, retail park operator, or multi-site enterprise** — VDS.
-- **You need to move the cameras every few weeks** — VDS.
-- **You have a si
+- **You are a GC, utility, municipal site manager, retail 

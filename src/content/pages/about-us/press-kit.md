@@ -58,7 +58,7 @@ notes: Executive headshot placeholders — actual headshots to be supplied by VD
 - **Founders:** David Weingot, Joe Kruk
 - **Footprint:** 500+ deployments across 30+ states
 - **Products:** Sky Guard MSU, Swift Deploy, Boundary Guard Pro (mobile surveillance trailers); AI VisionStream (camera-agnostic cloud VMS); 24/7 US-based Security Operations Center
-- **Compliance:** NDAA Section 889 compliant, AWS Cloud Partner, Sourcewell awarded contract holder
+- **Compliance:** NDAA Section 889 compliant, AWS Cloud Partner, contract holder
 - **Hero customer outcome:** 73% theft reduction, $0 insurance claims, $340,800 documented savings over 12 months at a $28M Mid-Atlantic GC project
 
 ## Logo pack
@@ -119,4 +119,4 @@ Direct media contact for editorial inquiries, on-record quotes, executive interv
 - **Response standard:** same-business-day for journalists on deadline, two business days for non-time-sensitive
 - **Phone:** Available on request for journalists with active assignments
 
-We do not respond to outbound pitches from PR agencies via the press inbox. Customer references, case study materials, and analyst briefings route through this channel.
+We do not respond to

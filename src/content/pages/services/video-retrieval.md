@@ -113,4 +113,4 @@ For requests crossing jurisdictions with privacy obligations (HIPAA-adjacent hea
 
 ## Pricing
 
-Standard retrieval is included with every AI VisionStream tenant up to 25 requests per site per month. Higher-volume tenants and certified evidence integration
+Standard retrieval is included wit

@@ -154,8 +154,4 @@ Eliminate false alarms. Make operators faster. Catch threats earlier.
 
 - **In cloud** — bulk analytics, historical search, model training
 - **On edge** (VDS trailers) — sub-second latency for safety-critical alerts
-- **Hybrid** — pre-filter at edge, deep analysis in cloud
-
-## Pricing model
-
-Activate per camera, per analytic. No bundled minimum. Scale up or down monthly. [See pricing →](/platform/pricing/)
+- **Hybrid** — pre-filter at ed

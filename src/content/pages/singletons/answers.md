@@ -69,12 +69,12 @@ faq:
   a: Yes. The platform includes a SOC console for your security team. Many customers run a hybrid model — their team handles business-hours, VDS SOC covers nights and weekends.
 - q: Is VDS NDAA Section 889 compliant?
   a: Yes. All VDS hardware is NDAA Section 889 compliant, assembled in Pikesville, MD. We do not use Dahua or Hikvision components. Compliance documentation is available on request for federal, utility, and state procurement.
-- q: Do you have SOC 2 certification?
-  a: 'SOC 2 Type II audit is in progress. Target completion: late 2026. Current security posture: AWS Cloud Partner with US-only data residency, TLS 1.3, AES-256 at rest, RBAC with MFA, immutable 12-month audit log.'
+- q: Do you have  certification?
+  a: ' audit is in progress. Target completion: late 2026. Current security posture: AWS Cloud Partner with US-only data residency, TLS 1.3, AES-256 at rest, RBAC with MFA, immutable 12-month audit log.'
 - q: Is the data ever sold or shared with third parties?
   a: No. Customer data is never sold. Footage is not shared with third parties (including law enforcement) without your authorization. Each customer's data is isolated; we do not pool customer data into a public network.
-- q: Is VDS available on Sourcewell, GSA, or other cooperative purchasing contracts?
-  a: Yes. VDS is available through Sourcewell. GSA Schedule pending. State contracts available in MD, VA, TX, FL, PA (COSTARS). Contact procurement@visiondetectionsystems.com for cooperative purchasing inquiries.
+- q: Is VDS available on , GSA, or other cooperative purchasing contracts?
+  a: Yes. VDS is available through . GSA Schedule pending. State contracts available in MD, VA, TX, FL, PA (COSTARS). Contact procurement@visiondetectionsystems.com for cooperative purchasing inquiries.
 - q: Does VDS work for construction sites?
   a: 'Yes. Construction is VDS''s largest industry. The hero case study: a $28M Mid-Atlantic project saved $340,800 in 12 months using 2 Swift Deploy trailers + 3 Solar Camera Poles — 73% theft reduction, zero insurance claims.'
 - q: Can VDS protect utility substations and meet NERC CIP-014?
@@ -220,17 +220,17 @@ Yes. The platform includes a SOC console for your security team. Many customers 
 
 Yes. All VDS hardware is NDAA Section 889 compliant, assembled in Pikesville, MD. We do not use Dahua or Hikvision components. Compliance documentation is available on request for federal, utility, and state procurement.
 
-### Do you have SOC 2 certification?
+### Do you have certification?
 
-SOC 2 Type II audit is in progress. Target completion: late 2026. Current security posture: AWS Cloud Partner with US-only data residency, TLS 1.3, AES-256 at rest, RBAC with MFA, immutable 12-month audit log.
+ audit is in progress. Target completion: late 2026. Current security posture: AWS Cloud Partner with US-only data residency, TLS 1.3, AES-256 at rest, RBAC with MFA, immutable 12-month audit log.
 
 ### Is the data ever sold or shared with third parties?
 
 No. Customer data is never sold. Footage is not shared with third parties (including law enforcement) without your authorization. Each customer's data is isolated; we do not pool customer data into a public network.
 
-### Is VDS available on Sourcewell, GSA, or other cooperative purchasing contracts?
+### Is VDS available on , GSA, or other cooperative purchasing contracts?
 
-Yes. VDS is available through Sourcewell. GSA Schedule pending. State contracts available in MD, VA, TX, FL, PA (COSTARS). Contact procurement@visiondetectionsystems.com for cooperative purchasing inquiries.
+Yes. VDS is available through . GSA Schedule pending. State contracts available in MD, VA, TX, FL, PA (COSTARS). Contact procurement@visiondetectionsystems.com for cooperative purchasing inquiries.
 
 ## Industries
 
@@ -274,8 +274,4 @@ Pro-Vigil and Stealth (now ECAM) are monitoring services. VDS owns the hardware,
 
 ### Is VDS cheaper than security guards?
 
-Yes. A single 24/7 guard FTE costs $60,000-$110,000 per year in 2026. A VDS Sky Guard MSU plus SOC is approximately $31,000 per year — and the trailer captures evidence guards do not. Documented ROI: a $28M Mid-Atlantic GC cut security costs from $32,400/mo to $4,000/mo.
-
-### What is the difference between mobile surveillance trailers and fixed cameras?
-
-Fixed cameras are wired, permanent, and require power + network. Mobile trailers are solar-autonomous, redeployable, and operational in under 20 minutes. For project-based sites (construction, events), trailers eliminate install lead-times and follow the work.
+Yes. A single 24/7 guard FTE costs $60,000-$110,000 per year in 2026. A VDS Sky Guard MSU plus SOC is approximately $31,000 per year — and the trailer captures evidence guards do not. Documented ROI: a $28M Mid-Atlant

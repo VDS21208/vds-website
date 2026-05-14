@@ -30,7 +30,7 @@ faq:
 - q: Can you deploy ALPR in California?
   a: Yes, with the contractual framework that satisfies §1798.90.5 — retention limits, access logs, no third-party sharing. We will not deploy ALPR without that framework executed.
 - q: Do you work with California state procurement?
-  a: Yes. We hold California cooperative purchasing credentials and Sourcewell is accepted by most California cities, counties, and special districts.
+  a: Yes. We hold California cooperative purchasing credentials and  is accepted by most California cities, counties, and special districts.
 finalCTAHeading: California-grade privacy posture, US-staffed SOC
 finalCTABody: We won't argue the privacy framework with you. We documented it because customers asked. Get a California-specific quote with the MSA attached.
 finalCTAButtons:
@@ -80,4 +80,4 @@ A Bay Area-based developer running two podium-construction multifamily projects 
 
 CCPA and CPRA compliance is documented in our standard California MSA. Default video retention is 30 days rolling — customers can extend with documented business purpose, never via casual request. ALPR features, where deployed, comply with California Civil Code §1798.90.5 retention and disclosure requirements.
 
-NDAA Section 889 compliant for federally-funded California work. We hold California state cooperative purchasing credentials and 
+NDAA Section 889 compliant 

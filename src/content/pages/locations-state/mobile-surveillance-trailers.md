@@ -82,6 +82,4 @@ Three things vary by metro and matter when you're choosing a vendor:
 
 - Hero stat (crime rate, construction starts, port volume, etc.)
 - Top three to five industries we protect locally
-- Coverage zone and lead time from nearest VDS hub
-- An anonymized local deployment example
-- City or state compliance note (POST Act, 
+- Coverage zone and lead time from nearest

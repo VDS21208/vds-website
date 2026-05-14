@@ -134,4 +134,4 @@ At 36 months the prices are similar. The difference is risk: if your site change
 
 1. **Re-scope the urgent need.** Most projects scoped for fixed install can run VDS at the perimeter during the install lead time, then decide whether the fixed install is still needed.
 2. **Pilot the trailer.** A single Sky Guard deployment for 90 days proves out coverage and cost.
-3. **Decide on permanent architecture.** Many customers find the trailer becomes the permanent answer for outdoor perimeter and the fixed install scope shrinks to just the building interior.
+3. **Decide on permanent architecture.** Many 

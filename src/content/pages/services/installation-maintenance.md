@@ -106,4 +106,4 @@ Construction sites change phases. Lay-down yards relocate. Substation outages en
 
 W-2 field technicians, not 1099 contractors. Background-checked. OSHA-30 minimum. Tower-climber certified where height work is required. Insured under VDS general liability and workers' comp — your project doesn't carry the risk.
 
-We subcontract only for trenching, electrical above 600V, and licensed crane work. Every subcontractor goes through our vendor compliance check.
+We subcontract only for tre

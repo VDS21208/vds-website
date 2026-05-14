@@ -100,6 +100,4 @@ Strategic Partners may have agreed-upon exclusivity in specific verticals (e.g.,
 - **Day 1–5:** Channel team review, intro call scheduled
 - **Day 6–10:** Dealer agreement issued
 - **Day 11–20:** Agreement signed, certification scheduled
-- **Day 21–30:** Certification completed, lead routing activated, first deal scoped
-
-Most dealers are deploying their first unit within 45 days of application.
+- **Day 21–30:** Certification completed, lead r

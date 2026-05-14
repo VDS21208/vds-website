@@ -108,6 +108,4 @@ That is the median across our last 200 deployments. We have field data.
 
 Pick Swift Deploy when your sites are well-lit at night, your perimeter is under 300ft, and your primary threat is human intrusion captured by a PTZ camera. Pick Sky Guard MSU when you need thermal, radar, and active deterrence on the same unit, or when sites lose visibility to weather or terrain.
 
-## Where it earns its keep
-
-Construction sites of all sizes. Equipment yards. Retail parking lots after hours. Cargo staging. Event security
+## Where it earns 

@@ -72,8 +72,4 @@ Permanent yards. Long-term construction parks. Solar farms. Substations. Storage
 
 ## How they connect to the platform
 
-Same AI VisionStream account as your trailers. Same SOC. Same audit log. Mix fixed and mobile across a portfolio without managing two vendors.
-
-## Pricing
-
-Configured per site. Most fixed pole deployments price lower
+Same AI VisionStream account as your trailers. Same SOC. Same audit log. Mix fixed and mobile across a portfolio without managing tw

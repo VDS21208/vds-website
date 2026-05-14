@@ -82,4 +82,4 @@ For multi-state operators, AI VisionStream unifies the entire footprint into one
 
 ## What it replaces
 
-A monitored alarm and an outdoor camera that nobody watches is the most common cannabis exterior setup. A Sky Guard plus monitored SOC delivers verified dispatch, audio response capability, and an evidence record on ev
+A monitored alarm and an outdoor camera that nobody watches is the most common cannabis exterior setup. A Sky Guard plus mon

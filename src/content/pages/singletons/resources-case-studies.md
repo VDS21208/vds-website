@@ -74,4 +74,4 @@ Every case study on this site is documented against three sources: the customer'
 
 ## What you will not find here
 
-Case studies without dollar figures. Generalized testimonials. Hypothetical scenarios.
+Case 

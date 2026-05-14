@@ -80,4 +80,4 @@ A Virginia state agency running a multi-building campus upgrade selected VDS aft
 
 **Virginia wiretap law.** Virginia is one-party consent for audio. Our units capture video only by default and we recommend video-only deployments even where one-party consent is technically permissible.
 
-**Capitol Square and state-facility placement.** Placement on or adjacent to state property requires coordination with DGS and the Department of 
+**Capitol Square and state-facility placement.** Place

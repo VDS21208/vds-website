@@ -115,4 +115,4 @@ Difference: **$186,758/year**, with documented video evidence and zero shift-gap
 
 1. **Risk audit week 1.** We walk the site with your operations lead and identify which guard functions are passive monitoring (replaceable) and which are active intervention (retained).
 2. **Pilot week 2-3.** A single Sky Guard MSU deploys to the highest-risk zone. Guard coverage continues in parallel. Both teams document incidents for comparison.
-3. **Reduction week 4-6.** Guard hours reduce on a documented schedule. Most customers retain 1 shift of physical presence (often day-shift gate) and shift overnight coverage ent
+3. **Reduction week 4-6.** Guard hours reduce on a 

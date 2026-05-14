@@ -112,5 +112,4 @@ For hybrid (indoor + outdoor): run both.
 ## Switching to a hybrid VDS + Spot AI architecture
 
 1. **Audit indoor vs. outdoor.** Most sites have a clear split. Indoor cameras stay on Spot AI; outdoor coverage moves to VDS Sky Guard.
-2. **Define the operations split.** Spot AI users search and review indoor footage themselves. VDS SOC handles outdoor monitoring, audio talk-down, and LE dispatch.
-3. **Set up the integration.** Spot AI events can be forwarded into the VDS operator workflow where indoo
+2. **Define the operations split.** Spot AI users search and review indoor footage themselves. VDS SOC handles outdoor monitoring, audio talk-down,

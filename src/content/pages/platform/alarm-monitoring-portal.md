@@ -83,9 +83,4 @@ VDS deploys **solar-autonomous mobile surveillance trailers** that come pre-inte
 ## Compliance & security
 
 - AWS US-only · TLS 1.3 · AES-256
-- NDAA Section 889 compliant
-- SOC 2 documented
-- GDPR / CCPA / PIPEDA aware
-- Configurable retention
-
-[See full security posture →](/about-us/cybersecurity/)
+- NDAA Secti

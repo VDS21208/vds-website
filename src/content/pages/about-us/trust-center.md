@@ -5,7 +5,7 @@ pageType: Trust
 parent: /about-us
 status: Launch
 seoTitle: Trust Center | Compliance, Security, Data Residency | VDS
-metaDescription: 'VDS Trust Center: NDAA Section 889, AWS Cloud Partner, TLS 1.3, AES-256, RBAC/MFA, US-only data residency, SOC 2 Type II in progress'
+metaDescription: 'VDS Trust Center: NDAA Section 889, AWS Cloud Partner, TLS 1.3, AES-256, RBAC/MFA, US-only data residency,  in progress'
 announcementBar: ''
 h1: Trust is documented. Not asserted.
 heroEyebrow: Trust Center
@@ -22,7 +22,7 @@ heroStats:
 - TLS 1.3 / AES-256
 - RBAC + MFA
 - US-only data
-- SOC 2 Type II in progress
+-  in progress
 heroImage: ''
 faq:
 - q: Can I get a copy of your penetration test report?
@@ -31,7 +31,7 @@ faq:
   a: On the enterprise tier, yes, with AWS KMS customer-managed key integration. Available at contract.
 - q: What is your uptime track record on the VMS?
   a: 99.93% measured over the trailing 12 months ending March 2026. Status page is at status.visiondetectionsystems.com.
-- q: How long until SOC 2 Type II is complete?
+- q: How long until  is complete?
   a: Target Q4 2026. Interim Type I documentation is available now for enterprise customers under NDA.
 - q: Is VDS HIPAA-eligible?
   a: VDS is not currently a Business Associate under HIPAA. We do not process protected health information. If your use case involves PHI, contact security@visiondetectionsystems.com to discuss scope.
@@ -44,14 +44,14 @@ schemaType: AboutPage, WebPage
 internalLinks: /about, /about-us/ndaa-compliance, /platform, /platform/soc, /privacy-policy, /terms-of-service, /contact-us
 canonical: https://visiondetectionsystems.com/about-us/trust-center
 ogTitle: Trust is documented. Not asserted.
-ogDescription: 'VDS Trust Center: NDAA Section 889, AWS Cloud Partner, TLS 1.3, AES-256, RBAC/MFA, US-only data residency, SOC 2 Type II in progress'
+ogDescription: 'VDS Trust Center: NDAA Section 889, AWS Cloud Partner, TLS 1.3, AES-256, RBAC/MFA, US-only data residency,  in progress'
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg
 ogType: website
 robots: index, follow
 speakable: .hero-h1, .hero-subhead, h2
 author: Vision Detection Systems
 tags: mobile surveillance, VDS
-notes: Most important enterprise-buyer page on the site. Keep all numbers current. Update SOC 2 status quarterly. Update uptime number monthly.
+notes: Most important enterprise-buyer page on the site. Keep all numbers current. Update  status quarterly. Update uptime number monthly.
 ---
 
 This page is for the people on your team who ask hard questions before a contract gets signed — IT, security, legal, procurement, and compliance. Each section below is a commitment we will sign in writing.
@@ -102,9 +102,9 @@ All SOC operators complete:
 
 Average operator tenure as of 2026 is 2.7 years. Operator-to-camera ratio is held below 80:1 during peak hours.
 
-## 6. SOC 2 Type II — in progress
+## 6. — in progress
 
-VDS is in active engagement with an independent auditor for SOC 2 Type II certification. Target completion is Q4 2026. The scope includes Security, Availability, and Confidentiality trust service criteria. Customers under enterprise agreement receive interim Type I documentation and direct auditor contact on request.
+VDS is in active engagement with an independent auditor for certification. Target completion is Q4 2026. The scope includes Security, Availability, and Confidentiality trust service criteria. Customers under enterprise agreement receive interim Type I documentation and direct auditor contact on request.
 
 ## 7. Privacy regulations
 
@@ -114,8 +114,4 @@ VDS operates in compliance with applicable US state privacy laws including CCPA 
 
 Material security incidents are disclosed to affected customers within 72 hours of confirmation, in line with industry-standard breach notification practices and applicable state law. We have had zero customer-data security incidents requiring disclosure since founding. We will publish this status on this page if that changes.
 
-## Document requests and security questionnaires
-
-For SIG, CAIQ, custom security questionnaires, MSA security addenda, BAA discussions, or one-off documentation requests:
-
-Procurement and security desk: **security@visio
+## 

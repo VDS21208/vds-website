@@ -77,10 +77,10 @@ NERC CIP-014 requires physical security plans for high-impact assets. TSA Securi
 
 ## Compliance posture
 
-NDAA Section 889 compliance is baseline — every camera, recorder, and edge device in the fleet. AWS Cloud Partner status means our infrastructure inherits AWS's FedRAMP-aligned controls. SOC 2 Type II controls govern the operations side. For NERC CIP-014 covered assets, our delivery package includes the physical security plan support documentation: deployment maps, monitoring procedures, escalation matrix, incident reporting workflow.
+NDAA Section 889 compliance is baseline — every camera, recorder, and edge device in the fleet. AWS Cloud Partner status means our infrastructure inherits AWS's FedRAMP-aligned controls. controls govern the operations side. For NERC CIP-014 covered assets, our delivery package includes the physical security plan support documentation: deployment maps, monitoring procedures, escalation matrix, incident reporting workflow.
 
 For TSA-regulated pipeline operators under Security Directive Pipeline-2021-02, our evidence packaging maps to the 24-hour incident reporting requirement out of the box.
 
 ## What it replaces and what it adds
 
-Most remote utility sites have one of three things: nothing, a single PTZ on a backhaul that drops twice a week, or a manned patrol that visits twice per shift. None of those produce an audit trail. The VDS configuration produces continuous video, continuous LPR on every access road, and a packaged inciden
+Most remote utility sites have one of three things: nothing, a single PTZ on a backhaul that drops twice a week, or a manned patrol that visits twice per shift. None of those produce an audit trail.

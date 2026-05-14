@@ -31,7 +31,7 @@ faq:
   a: Yes. Solar-autonomous units relocate in a single site visit, typically 90 minutes.
 - q: How does FERPA apply to surveillance footage?
   a: Footage that identifies individual students may be an education record under FERPA. Retention is policy-driven, access is logged, and release follows the institution's records office.
-- q: Can we purchase through Sourcewell or BuyBoard?
+- q: Can we purchase through  or BuyBoard?
   a: Yes. We hold or sell through multiple cooperative purchasing contracts.
 finalCTAHeading: Quote your campus
 finalCTABody: Send your campus map or a list of sites. We will scope deployment and return cooperative-purchasing pricing within one business day.
@@ -89,8 +89,4 @@ Retention configured at 30, 60, or 90 days based on district or university polic
 
 VDS hardware is NDAA Section 889 compliant — required for most federal-funded education spend, including ESSER and Title IV. FERPA-adjacent framing applies to any incidental student identification in footage: access is logged, retention is policy-driven, and release follows the district's records process. Title IX-relevant footage requests are handled through the institution's compliance office, not VDS.
 
-Available through Sourcewell, GSA, COSTARS, BuyBoard, and most state cooperative purchasing contracts. Month-to-month after initial term — useful for districts that don't want to commit reserve dollars to a multi-year capital lease.
-
-## Pricing
-
-Monthly all-inclusi
+Available through , GSA, COSTARS, BuyBoard, and most state cooperative purchasing contracts. Month-to-month after initial term — use

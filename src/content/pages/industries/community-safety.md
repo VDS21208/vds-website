@@ -81,7 +81,3 @@ All footage retains 30, 60, or 90 days in AWS, TLS 1.3 in transit, AES-256 at re
 ## Compliance and procurement
 
 VDS hardware is NDAA Section 889 compliant — no Hikvision, Dahua, or sanctioned components. Month-to-month billing means no capital outlay, no reserve study revision, and no asset to depreciate. The MSA can be signed by the board president or property manager under standard delegation.
-
-## Pricing
-
-Monthly all-inclusive: hardware, solar power, LTE backhaul, AI analytics, cloud s

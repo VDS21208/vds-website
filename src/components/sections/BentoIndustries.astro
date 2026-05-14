@@ -1,64 +1,64 @@
 ---
 import Icon from '../icons/Icon.astro';
 const industries = [
-  { name: "Construction", icon: "construction", url: "/industries/construction-site-security", stat: "$340K", statLabel: "saved on a single $28M project", size: "large", description: "FBI: $1B+ in annual US construction theft. VDS deployments document 73% theft reduction.", bgUrl: "/assets/webflow/hero-security-1.avif" },
-  { name: "Utilities & Substations", icon: "utility", url: "/industries/utility-substation-security", stat: "NERC CIP-014", statLabel: "documentation pack", size: "tall", description: "Thermal + radar perimeter coverage.", bgUrl: "/assets/webflow/hero-security-4.avif" },
-  { name: "Retail & ORC", icon: "retail", url: "/industries/retail-shopping-center-security", stat: "18%", statLabel: "ORC YoY growth (NRF 2025)", size: "default" },
-  { name: "Auto Dealerships", icon: "auto", url: "/industries/automotive-dealership-security", stat: "45,000", statLabel: "catalytic converter claims peaked 2022", size: "default" },
-  { name: "Parking & Garages", icon: "parking", url: "/industries/parking-lot-garage-security", stat: "24/7", statLabel: "after-hours coverage", size: "default" },
-  { name: "Public Safety", icon: "government", url: "/industries/public-safety-law-enforcement-surveillance", stat: "NDAA", statLabel: "Section 889 compliant", size: "default" },
-  { name: "Warehouse / Logistics", icon: "warehouse", url: "/industries/warehouse-logistics-security", stat: "$15B", statLabel: "annual US cargo theft losses", size: "wide" },
-  { name: "Events & Temporary", icon: "event", url: "/industries/event-security", stat: "<20min", statLabel: "deploy time, one operator", size: "default" },
+ { name: "Construction", icon: "construction", url: "/industries/construction-site-security", stat: "$340K", statLabel: "saved on a single $28M project", size: "large", description: "FBI: $1B+ in annual US construction theft. VDS deployments document 73% theft reduction.", bgUrl: "/assets/webflow/hero-security-1.avif" },
+ { name: "Utilities & Substations", icon: "utility", url: "/industries/utility-substation-security", stat: "NERC CIP-014", statLabel: "documentation pack", size: "tall", description: "Thermal + radar perimeter coverage.", bgUrl: "/assets/webflow/hero-security-4.avif" },
+ { name: "Retail & ORC", icon: "retail", url: "/industries/retail-shopping-center-security", stat: "18%", statLabel: "ORC YoY growth (NRF 2025)", size: "default" },
+ { name: "Auto Dealerships", icon: "auto", url: "/industries/automotive-dealership-security", stat: "45,000", statLabel: "catalytic converter claims peaked 2022", size: "default" },
+ { name: "Parking & Garages", icon: "parking", url: "/industries/parking-lot-garage-security", stat: "24/7", statLabel: "after-hours coverage", size: "default" },
+ { name: "Public Safety", icon: "government", url: "/industries/public-safety-law-enforcement-surveillance", stat: "NDAA", statLabel: "Section 889 compliant", size: "default" },
+ { name: "Warehouse / Logistics", icon: "warehouse", url: "/industries/warehouse-logistics-security", stat: "$15B", statLabel: "annual US cargo theft losses", size: "wide" },
+ { name: "Events & Temporary", icon: "event", url: "/industries/event-security", stat: "<20min", statLabel: "deploy time, one operator", size: "default" },
 ];
 ---
 <section class="py-20 md:py-28 bg-navy text-white relative overflow-hidden">
-  <div class="hero-grid-pattern"></div>
-  <div class="container-wide relative">
-    <div class="max-w-3xl mb-12 reveal">
-      <div class="eyebrow mb-3">Industries</div>
-      <h2 class="font-display mb-4">17 verticals.<br><span class="text-orange">One platform.</span></h2>
-      <p class="text-lg text-white/70">From construction sites to substations to retail parking — the same VDS stack adapts to every environment.</p>
-    </div>
-    <div class="bento-grid reveal">
-      {industries.map((ind, i) => (
-        <a href={ind.url} class={`bento-tile bento-tile-${ind.size} spotlight-card group`} style={ind.bgUrl ? `background-image: linear-gradient(135deg, rgba(11,17,32,0.85) 0%, rgba(11,17,32,0.95) 100%), url(${ind.bgUrl}); background-size: cover; background-position: center;` : ''}>
-          <div class="flex items-start justify-between relative z-10">
-            <div class="text-orange"><Icon name={ind.icon} size={ind.size === 'large' ? 36 : 28} /></div>
-            <Icon name="arrow-right" size={20} class="text-white/40 group-hover:text-orange group-hover:translate-x-1 transition-all" />
-          </div>
-          <div class="relative z-10">
-            {ind.size === 'large' || ind.size === 'tall' ? (
-              <>
-                <div class="bento-tile-stat-value mb-1">{ind.stat}</div>
-                <div class="text-xs uppercase tracking-wide text-white/50 mb-3">{ind.statLabel}</div>
-                <div class="font-display text-2xl mb-2">{ind.name}</div>
-                {ind.description && <div class="text-sm text-white/65 leading-relaxed">{ind.description}</div>}
-              </>
-            ) : (
-              <>
-                <div class="font-display text-xl mb-1">{ind.name}</div>
-                <div class="text-xs text-white/55">{ind.statLabel}</div>
-                <div class="font-display text-xl text-orange mt-2">{ind.stat}</div>
-              </>
-            )}
-          </div>
-        </a>
-      ))}
-    </div>
-    <div class="text-center mt-10 reveal">
-      <a href="/industries" class="inline-flex items-center gap-2 text-orange hover:gap-3 transition-all font-medium">
-        See all 17 industries <Icon name="arrow-right" size={18} />
-      </a>
-    </div>
-  </div>
+ <div class="hero-grid-pattern"></div>
+ <div class="container-wide relative">
+ <div class="max-w-3xl mb-12 reveal">
+ <div class="eyebrow mb-3">Industries</div>
+ <h2 class="font-display mb-4">17 verticals.<br><span class="text-orange">One platform.</span></h2>
+ <p class="text-lg text-white/70">From construction sites to substations to retail parking — the same VDS stack adapts to every environment.</p>
+ </div>
+ <div class="bento-grid reveal">
+ {industries.map((ind, i) => (
+ <a href={ind.url} class={`bento-tile bento-tile-${ind.size} spotlight-card group`} style={ind.bgUrl ? `background-image: linear-gradient(135deg, rgba(11,17,32,0.85) 0%, rgba(11,17,32,0.95) 100%), url(${ind.bgUrl}); background-size: cover; background-position: center;` : ''}>
+ <div class="flex items-start justify-between relative z-10">
+ <div class="text-orange"><Icon name={ind.icon} size={ind.size === 'large' ? 36 : 28} /></div>
+ <Icon name="arrow-right" size={20} class="text-white/40 group-hover:text-orange group-hover:translate-x-1 transition-all" />
+ </div>
+ <div class="relative z-10">
+ {ind.size === 'large' || ind.size === 'tall' ? (
+ <>
+ <div class="bento-tile-stat-value mb-1">{ind.stat}</div>
+ <div class="text-xs uppercase tracking-wide text-white/50 mb-3">{ind.statLabel}</div>
+ <div class="font-display text-2xl mb-2">{ind.name}</div>
+ {ind.description && <div class="text-sm text-white/65 leading-relaxed">{ind.description}</div>}
+ </>
+ ) : (
+ <>
+ <div class="font-display text-xl mb-1">{ind.name}</div>
+ <div class="text-xs text-white/55">{ind.statLabel}</div>
+ <div class="font-display text-xl text-orange mt-2">{ind.stat}</div>
+ </>
+ )}
+ </div>
+ </a>
+ ))}
+ </div>
+ <div class="text-center mt-10 reveal">
+ <a href="/industries" class="inline-flex items-center gap-2 text-orange hover:gap-3 transition-all font-medium">
+ See all 17 industries <Icon name="arrow-right" size={18} />
+ </a>
+ </div>
+ </div>
 </section>
 
 <script is:inline>
 document.querySelectorAll('.spotlight-card').forEach(card => {
-  card.addEventListener('mousemove', (e) => {
-    const r = card.getBoundingClientRect();
-    card.style.setProperty('--mx', ((e.clientX - r.left) / r.width * 100) + '%');
-    card.style.setProperty('--my', ((e.clientY - r.top) / r.height * 100) + '%');
-  });
+ card.addEventListener('mousemove', (e) => {
+ const r = card.getBoundingClientRect();
+ card.style.setProperty('--mx', ((e.clientX - r.left) / r.width * 100) + '%');
+ card.style.setProperty('--my', ((e.clientY - r.top) / r.height * 100) + '%');
+ });
 });
 </script>

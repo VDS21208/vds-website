@@ -82,6 +82,4 @@ A general contractor running a new entertainment-venue construction site off the
 
 **Nevada wiretap statute (NRS 200.620).** Nevada is a two-party-consent state for audio. Our units capture video only by default; audio is disabled unless the customer has documented all-party consent.
 
-**Event and trade-show staging.** Convention authority and venue-operator security plans typically require coordination with on-site security before perimeter deployment. We integrate with the customer's event security lead during mobilization and align SOC escalation paths to their dispatch protocol.
-
-**Heat and dust.** Panel mounting and seals are engineered for desert-summer wind a
+**Event and trade-show staging.** Convention authority and venue-operator security plans typically require coordination with on-site security before perimeter deployment. We integrate with the customer's event security lead during mobilization and align SOC escalation paths to their dispatch p

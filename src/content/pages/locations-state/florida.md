@@ -20,7 +20,7 @@ heroStats:
 - 50+ FL units
 - 5-7 day lead time
 - Hurricane redeploy capable
-- NDAA + Sourcewell
+- NDAA + 
 heroImage: ''
 faq:
 - q: What happens to my unit when a hurricane is forecast?
@@ -78,6 +78,4 @@ A South Florida multifamily developer with three concurrent garden-style project
 
 ## Florida compliance and procurement
 
-Florida has no statewide ALPR restriction affecting our typical deployments. We're active on Sourcewell and on the Florida State Term Contracts where applicable. For Disney-, Universal-, and theme-park-adjacent deployments, we navigate FAA airspace concerns for any tower-elevated camera mast (our Sky Guard MSU at 22 feet sits below most thresholds, but documentation is on file).
-
-Hurricane response protocol is part of ever
+Florida has no statewide ALPR restriction affecting our typical deployments. We're active on and on the Florida State Term Contracts where applicable. For Disney-, Universal-, and theme-park-adjacent deployments, we navigate FAA airspace concerns for any tower-elevated camera mast (our Sky Guard MSU at 

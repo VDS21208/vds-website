@@ -79,4 +79,4 @@ If you are not 30 days from a decision, our resources library has technical spec
 
 ## Why we publish numbers
 
-Two reasons. First: the security industry runs on "request a quote" friction because most vendors are uncompetitive on price and don't want to show it. We are competitive and our rates are public. Second: a buyer who shows up to a discovery call already knowing the math closes 4x faster. We optimize for that buyer.
+Two reasons. First: the security industry runs on "request a quote" friction because most vendors are uncompetitive on price and don't want to show it. We are competitive and our rates are public. Second: a buyer who shows up t

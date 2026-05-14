@@ -94,4 +94,4 @@ What we claim is a unit-economics-driven product design that happens to produce 
 
 ## Noise and light pollution
 
-Diesel towers run at 65–75 dB(A) at 7 meters. VDS units are silent — no rotating machinery, no combustion. IR illumination is invisible to the naked eye and does not contribute to night-sky light pollution. On urban-adjacent and reside
+Diesel towers run at 65–75 dB(A) at 7 meters. VDS units are silent — no rotating machinery, no combustion. IR illumination is invi

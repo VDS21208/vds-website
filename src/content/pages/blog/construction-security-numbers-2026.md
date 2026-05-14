@@ -92,4 +92,4 @@ If your current program does not produce these four numbers on a monthly report,
 2. Ask for the median event-to-intruder-contact time. If it is over 90 seconds, you have a recording system, not a prevention system.
 3. Run a real loaded per-incident loss number for the prior twelve months. Most GCs are surprised by what falls out.
 
-If those three questions produce uncomfortable answers, the conversation worth having is not about adding more cameras. It is abo
+If those three questions produ

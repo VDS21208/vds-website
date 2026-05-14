@@ -84,8 +84,4 @@ Solar-autonomous. No infrastructure tie-in. Relocates with the lot configuration
 
 ## What it looks like working
 
-A 240-unit GM dealer in the Southeast had three flatbed pulls in 90 days, losing $228,000 in vehicles. VDS deployed Sky Guard MSU + 2 Swift Deploys + LPR. In the next 14 months: **0 successful pulls, 2 attempted intrusions intercepted at talk-down, 1 arrest from LPR-captured plate** (the same crew had hit four other regional dealers).
-
-## Pricing
-
-Storage yard coverage starts at **$1,500/month**. Mid-sized dealers land 
+A 240-unit GM dealer in the Southeast had three flatbed pulls in 90 days, losing $228,000 in vehicles. VDS deployed Sky Guard MSU + 2 Swift Deploys + LPR. In the next 14 months: **0 successful pulls, 2 attempted intrusions intercepted at talk-down, 1 arrest from LPR-captured plate** (the same crew had hit four other regional 

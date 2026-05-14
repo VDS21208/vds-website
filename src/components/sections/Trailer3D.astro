@@ -1,221 +1,221 @@
 ---
 import Icon from '../icons/Icon.astro';
 const features = [
-  { label: 'Solar array', desc: '4-panel · grid-independent', icon: 'cpu' },
-  { label: 'Telescoping mast', desc: '20-ft elevation', icon: 'shield' },
-  { label: 'AI cameras', desc: '4K · LPR · thermal', icon: 'camera' },
-  { label: '24/7 SOC link', desc: 'Live operators · <60s alerts', icon: 'eye' },
+ { label: 'Solar array', desc: '4-panel · grid-independent', icon: 'cpu' },
+ { label: 'Telescoping mast', desc: '20-ft elevation', icon: 'shield' },
+ { label: 'AI cameras', desc: '4K · LPR · thermal', icon: 'camera' },
+ { label: '24/7 SOC link', desc: 'Live operators · <60s alerts', icon: 'eye' },
 ];
 ---
 <section class="relative bg-navy text-white py-24 md:py-32 overflow-hidden">
-  <div class="dot-pattern absolute inset-0 opacity-20"></div>
-  <div class="hero-orb-layer">
-    <div class="gradient-orb gradient-orb-orange" style="width:600px;height:600px;top:-150px;right:-150px;opacity:0.25;"></div>
-    <div class="gradient-orb gradient-orb-blue" style="width:500px;height:500px;bottom:-200px;left:-100px;opacity:0.2;animation-delay:-7s;"></div>
-  </div>
-  <div class="container-wide relative z-10">
-    <div class="grid lg:grid-cols-12 gap-12 items-center">
-      <div class="lg:col-span-5 reveal">
-        <div class="eyebrow mb-4">Inside the trailer</div>
-        <h2 class="font-display text-4xl md:text-5xl leading-tight mb-6">A complete<br/><span class="gradient-text">security stack</span><br/>on wheels.</h2>
-        <p class="text-lg text-white/75 leading-relaxed mb-8">
-          Solar-autonomous. AI-driven. NDAA-compliant. Drag the trailer to rotate. Hover the labels for details.
-        </p>
-        <div class="space-y-3">
-          {features.map((f) => (
-            <div class="flex items-start gap-3 group">
-              <span class="flex-shrink-0 w-9 h-9 rounded-md bg-orange/15 border border-orange/30 flex items-center justify-center text-orange">
-                <Icon name={f.icon} size={16} />
-              </span>
-              <div>
-                <div class="font-medium text-white">{f.label}</div>
-                <div class="text-xs text-white/60">{f.desc}</div>
-              </div>
-            </div>
-          ))}
-        </div>
-        <a href="/products/" class="inline-flex items-center gap-2 mt-8 bg-orange hover:bg-orange-dark text-white font-medium px-6 py-3 rounded-md transition-all">
-          Explore the lineup <Icon name="arrow-right" size={16} />
-        </a>
-      </div>
+ <div class="dot-pattern absolute inset-0 opacity-20"></div>
+ <div class="hero-orb-layer">
+ <div class="gradient-orb gradient-orb-orange" style="width:600px;height:600px;top:-150px;right:-150px;opacity:0.25;"></div>
+ <div class="gradient-orb gradient-orb-blue" style="width:500px;height:500px;bottom:-200px;left:-100px;opacity:0.2;animation-delay:-7s;"></div>
+ </div>
+ <div class="container-wide relative z-10">
+ <div class="grid lg:grid-cols-12 gap-12 items-center">
+ <div class="lg:col-span-5 reveal">
+ <div class="eyebrow mb-4">Inside the trailer</div>
+ <h2 class="font-display text-4xl md:text-5xl leading-tight mb-6">A complete<br/><span class="gradient-text">security stack</span><br/>on wheels.</h2>
+ <p class="text-lg text-white/75 leading-relaxed mb-8">
+ Solar-autonomous. AI-driven. NDAA-compliant. Drag the trailer to rotate. Hover the labels for details.
+ </p>
+ <div class="space-y-3">
+ {features.map((f) => (
+ <div class="flex items-start gap-3 group">
+ <span class="flex-shrink-0 w-9 h-9 rounded-md bg-orange/15 border border-orange/30 flex items-center justify-center text-orange">
+ <Icon name={f.icon} size={16} />
+ </span>
+ <div>
+ <div class="font-medium text-white">{f.label}</div>
+ <div class="text-xs text-white/60">{f.desc}</div>
+ </div>
+ </div>
+ ))}
+ </div>
+ <a href="/products/" class="inline-flex items-center gap-2 mt-8 bg-orange hover:bg-orange-dark text-white font-medium px-6 py-3 rounded-md transition-all">
+ Explore the lineup <Icon name="arrow-right" size={16} />
+ </a>
+ </div>
 
-      <!-- 3D canvas mount -->
-      <div class="lg:col-span-7">
-        <div class="relative aspect-square md:aspect-[5/4] rounded-2xl overflow-hidden border border-white/10 bg-gradient-to-br from-navy-light to-navy">
-          <canvas id="trailer-3d-canvas" class="absolute inset-0 w-full h-full block"></canvas>
-          <div class="absolute top-4 left-4 text-[0.625rem] uppercase tracking-[0.2em] text-white/45 font-medium">VDS SKY GUARD · 3D MODEL</div>
-          <div class="absolute bottom-4 left-4 right-4 flex items-center justify-between text-[0.6875rem] text-white/55">
-            <span class="inline-flex items-center gap-1.5"><span class="w-1.5 h-1.5 rounded-full bg-orange animate-pulse"></span>Drag to rotate · scroll to zoom</span>
-            <span></span>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+ <!-- 3D canvas mount -->
+ <div class="lg:col-span-7">
+ <div class="relative aspect-square md:aspect-[5/4] rounded-2xl overflow-hidden border border-white/10 bg-gradient-to-br from-navy-light to-navy">
+ <canvas id="trailer-3d-canvas" class="absolute inset-0 w-full h-full block"></canvas>
+ <div class="absolute top-4 left-4 text-[0.625rem] uppercase tracking-[0.2em] text-white/45 font-medium">VDS SKY GUARD · 3D MODEL</div>
+ <div class="absolute bottom-4 left-4 right-4 flex items-center justify-between text-[0.6875rem] text-white/55">
+ <span class="inline-flex items-center gap-1.5"><span class="w-1.5 h-1.5 rounded-full bg-orange animate-pulse"></span>Drag to rotate · scroll to zoom</span>
+ <span></span>
+ </div>
+ </div>
+ </div>
+ </div>
+ </div>
 </section>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js" is:inline></script>
 <script is:inline>
 (function() {
-  const canvas = document.getElementById('trailer-3d-canvas');
-  if (!canvas || !window.THREE) return;
-  const THREE = window.THREE;
+ const canvas = document.getElementById('trailer-3d-canvas');
+ if (!canvas || !window.THREE) return;
+ const THREE = window.THREE;
 
-  const scene = new THREE.Scene();
-  scene.background = null;
-  scene.fog = new THREE.Fog(0x0B1120, 16, 28);
+ const scene = new THREE.Scene();
+ scene.background = null;
+ scene.fog = new THREE.Fog(0x0B1120, 16, 28);
 
-  const camera = new THREE.PerspectiveCamera(38, 1, 0.1, 100);
-  camera.position.set(7, 5, 10);
-  camera.lookAt(0, 1.2, 0);
+ const camera = new THREE.PerspectiveCamera(38, 1, 0.1, 100);
+ camera.position.set(7, 5, 10);
+ camera.lookAt(0, 1.2, 0);
 
-  const renderer = new THREE.WebGLRenderer({ canvas, antialias: true, alpha: true });
-  renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
-  function resize() {
-    const w = canvas.clientWidth, h = canvas.clientHeight;
-    renderer.setSize(w, h, false);
-    camera.aspect = w / h;
-    camera.updateProjectionMatrix();
-  }
-  resize();
-  window.addEventListener('resize', resize);
+ const renderer = new THREE.WebGLRenderer({ canvas, antialias: true, alpha: true });
+ renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+ function resize() {
+ const w = canvas.clientWidth, h = canvas.clientHeight;
+ renderer.setSize(w, h, false);
+ camera.aspect = w / h;
+ camera.updateProjectionMatrix();
+ }
+ resize();
+ window.addEventListener('resize', resize);
 
-  // Lighting
-  scene.add(new THREE.AmbientLight(0x6688aa, 0.5));
-  const key = new THREE.DirectionalLight(0xffaa66, 1.4); key.position.set(6, 10, 4); scene.add(key);
-  const fill = new THREE.DirectionalLight(0x4477cc, 0.6); fill.position.set(-8, 4, -2); scene.add(fill);
-  const rim = new THREE.PointLight(0xe8621a, 1.2, 18); rim.position.set(-4, 3, 4); scene.add(rim);
+ // Lighting
+ scene.add(new THREE.AmbientLight(0x6688aa, 0.5));
+ const key = new THREE.DirectionalLight(0xffaa66, 1.4); key.position.set(6, 10, 4); scene.add(key);
+ const fill = new THREE.DirectionalLight(0x4477cc, 0.6); fill.position.set(-8, 4, -2); scene.add(fill);
+ const rim = new THREE.PointLight(0xe8621a, 1.2, 18); rim.position.set(-4, 3, 4); scene.add(rim);
 
-  // === Build trailer ===
-  const trailer = new THREE.Group();
+ // === Build trailer ===
+ const trailer = new THREE.Group();
 
-  // Chassis
-  const chassisMat = new THREE.MeshPhongMaterial({ color: 0x1a2235, shininess: 30, specular: 0x222244 });
-  const chassis = new THREE.Mesh(new THREE.BoxGeometry(4.2, 0.4, 1.8), chassisMat);
-  chassis.position.y = 0.55;
-  trailer.add(chassis);
+ // Chassis
+ const chassisMat = new THREE.MeshPhongMaterial({ color: 0x1a2235, shininess: 30, specular: 0x222244 });
+ const chassis = new THREE.Mesh(new THREE.BoxGeometry(4.2, 0.4, 1.8), chassisMat);
+ chassis.position.y = 0.55;
+ trailer.add(chassis);
 
-  // Box body
-  const bodyMat = new THREE.MeshPhongMaterial({ color: 0xe8621a, shininess: 40, specular: 0x553311 });
-  const body = new THREE.Mesh(new THREE.BoxGeometry(3.4, 1.1, 1.5), bodyMat);
-  body.position.set(0, 1.35, 0);
-  trailer.add(body);
+ // Box body
+ const bodyMat = new THREE.MeshPhongMaterial({ color: 0xe8621a, shininess: 40, specular: 0x553311 });
+ const body = new THREE.Mesh(new THREE.BoxGeometry(3.4, 1.1, 1.5), bodyMat);
+ body.position.set(0, 1.35, 0);
+ trailer.add(body);
 
-  // Orange stripe
-  const stripeMat = new THREE.MeshPhongMaterial({ color: 0xffffff });
-  const stripe = new THREE.Mesh(new THREE.BoxGeometry(3.42, 0.1, 1.52), stripeMat);
-  stripe.position.set(0, 1.0, 0);
-  trailer.add(stripe);
+ // Orange stripe
+ const stripeMat = new THREE.MeshPhongMaterial({ color: 0xffffff });
+ const stripe = new THREE.Mesh(new THREE.BoxGeometry(3.42, 0.1, 1.52), stripeMat);
+ stripe.position.set(0, 1.0, 0);
+ trailer.add(stripe);
 
-  // Wheels
-  const wheelMat = new THREE.MeshPhongMaterial({ color: 0x111111 });
-  for (let x of [-1.3, 1.3]) {
-    const w = new THREE.Mesh(new THREE.CylinderGeometry(0.45, 0.45, 0.25, 24), wheelMat);
-    w.rotation.x = Math.PI / 2;
-    w.position.set(x, 0.45, 0.9);
-    trailer.add(w);
-    const w2 = w.clone();
-    w2.position.z = -0.9;
-    trailer.add(w2);
-  }
+ // Wheels
+ const wheelMat = new THREE.MeshPhongMaterial({ color: 0x111111 });
+ for (let x of [-1.3, 1.3]) {
+ const w = new THREE.Mesh(new THREE.CylinderGeometry(0.45, 0.45, 0.25, 24), wheelMat);
+ w.rotation.x = Math.PI / 2;
+ w.position.set(x, 0.45, 0.9);
+ trailer.add(w);
+ const w2 = w.clone();
+ w2.position.z = -0.9;
+ trailer.add(w2);
+ }
 
-  // Mast (telescoping pole)
-  const mastMat = new THREE.MeshPhongMaterial({ color: 0x6b7280, shininess: 80 });
-  const mast = new THREE.Mesh(new THREE.CylinderGeometry(0.09, 0.12, 4.5, 16), mastMat);
-  mast.position.set(-1.0, 4.0, 0);
-  trailer.add(mast);
+ // Mast (telescoping pole)
+ const mastMat = new THREE.MeshPhongMaterial({ color: 0x6b7280, shininess: 80 });
+ const mast = new THREE.Mesh(new THREE.CylinderGeometry(0.09, 0.12, 4.5, 16), mastMat);
+ mast.position.set(-1.0, 4.0, 0);
+ trailer.add(mast);
 
-  // Mast head with cameras (orange box)
-  const headMat = new THREE.MeshPhongMaterial({ color: 0x1a2235, shininess: 50 });
-  const head = new THREE.Mesh(new THREE.BoxGeometry(0.55, 0.4, 0.4), headMat);
-  head.position.set(-1.0, 6.05, 0);
-  trailer.add(head);
+ // Mast head with cameras (orange box)
+ const headMat = new THREE.MeshPhongMaterial({ color: 0x1a2235, shininess: 50 });
+ const head = new THREE.Mesh(new THREE.BoxGeometry(0.55, 0.4, 0.4), headMat);
+ head.position.set(-1.0, 6.05, 0);
+ trailer.add(head);
 
-  // Cameras (4 lenses on the head)
-  const lensMat = new THREE.MeshPhongMaterial({ color: 0x0B1120, shininess: 100, specular: 0xe8621a });
-  for (let i = 0; i < 4; i++) {
-    const lens = new THREE.Mesh(new THREE.CylinderGeometry(0.07, 0.07, 0.12, 16), lensMat);
-    lens.rotation.x = Math.PI / 2;
-    const a = (i / 4) * Math.PI * 2;
-    lens.position.set(-1.0 + Math.cos(a) * 0.22, 6.05, Math.sin(a) * 0.22);
-    if (Math.abs(Math.sin(a)) < 0.3) lens.rotation.z = Math.PI / 2;
-    trailer.add(lens);
-  }
+ // Cameras (4 lenses on the head)
+ const lensMat = new THREE.MeshPhongMaterial({ color: 0x0B1120, shininess: 100, specular: 0xe8621a });
+ for (let i = 0; i < 4; i++) {
+ const lens = new THREE.Mesh(new THREE.CylinderGeometry(0.07, 0.07, 0.12, 16), lensMat);
+ lens.rotation.x = Math.PI / 2;
+ const a = (i / 4) * Math.PI * 2;
+ lens.position.set(-1.0 + Math.cos(a) * 0.22, 6.05, Math.sin(a) * 0.22);
+ if (Math.abs(Math.sin(a)) < 0.3) lens.rotation.z = Math.PI / 2;
+ trailer.add(lens);
+ }
 
-  // Solar panels (4 tilted)
-  const panelMat = new THREE.MeshPhongMaterial({ color: 0x0F2A4F, shininess: 90, specular: 0x6688cc });
-  const panelFrame = new THREE.MeshPhongMaterial({ color: 0x444444 });
-  for (let i = 0; i < 2; i++) {
-    for (let j = 0; j < 2; j++) {
-      const panel = new THREE.Mesh(new THREE.BoxGeometry(1.5, 0.06, 0.9), panelMat);
-      panel.position.set(0.6 - i * 1.55, 2.18, -0.5 + j * 1.0);
-      panel.rotation.z = -0.18;
-      trailer.add(panel);
-      const fr = new THREE.Mesh(new THREE.BoxGeometry(1.55, 0.02, 0.95), panelFrame);
-      fr.position.copy(panel.position); fr.position.y -= 0.04;
-      fr.rotation.copy(panel.rotation);
-      trailer.add(fr);
-    }
-  }
+ // Solar panels (4 tilted)
+ const panelMat = new THREE.MeshPhongMaterial({ color: 0x0F2A4F, shininess: 90, specular: 0x6688cc });
+ const panelFrame = new THREE.MeshPhongMaterial({ color: 0x444444 });
+ for (let i = 0; i < 2; i++) {
+ for (let j = 0; j < 2; j++) {
+ const panel = new THREE.Mesh(new THREE.BoxGeometry(1.5, 0.06, 0.9), panelMat);
+ panel.position.set(0.6 - i * 1.55, 2.18, -0.5 + j * 1.0);
+ panel.rotation.z = -0.18;
+ trailer.add(panel);
+ const fr = new THREE.Mesh(new THREE.BoxGeometry(1.55, 0.02, 0.95), panelFrame);
+ fr.position.copy(panel.position); fr.position.y -= 0.04;
+ fr.rotation.copy(panel.rotation);
+ trailer.add(fr);
+ }
+ }
 
-  // Trailer hitch
-  const hitch = new THREE.Mesh(new THREE.CylinderGeometry(0.06, 0.06, 1.2, 12), wheelMat);
-  hitch.rotation.z = Math.PI / 2;
-  hitch.position.set(2.5, 0.55, 0);
-  trailer.add(hitch);
+ // Trailer hitch
+ const hitch = new THREE.Mesh(new THREE.CylinderGeometry(0.06, 0.06, 1.2, 12), wheelMat);
+ hitch.rotation.z = Math.PI / 2;
+ hitch.position.set(2.5, 0.55, 0);
+ trailer.add(hitch);
 
-  // Pulsing alert beacon on top
-  const beacon = new THREE.Mesh(new THREE.SphereGeometry(0.1, 16, 16), new THREE.MeshBasicMaterial({ color: 0xe8621a }));
-  beacon.position.set(-1.0, 6.32, 0);
-  trailer.add(beacon);
+ // Pulsing alert beacon on top
+ const beacon = new THREE.Mesh(new THREE.SphereGeometry(0.1, 16, 16), new THREE.MeshBasicMaterial({ color: 0xe8621a }));
+ beacon.position.set(-1.0, 6.32, 0);
+ trailer.add(beacon);
 
-  // Ground shadow disk
-  const shadow = new THREE.Mesh(
-    new THREE.CircleGeometry(3.5, 32),
-    new THREE.MeshBasicMaterial({ color: 0x000000, transparent: true, opacity: 0.25 })
-  );
-  shadow.rotation.x = -Math.PI / 2;
-  shadow.position.y = -0.02;
-  scene.add(shadow);
+ // Ground shadow disk
+ const shadow = new THREE.Mesh(
+ new THREE.CircleGeometry(3.5, 32),
+ new THREE.MeshBasicMaterial({ color: 0x000000, transparent: true, opacity: 0.25 })
+ );
+ shadow.rotation.x = -Math.PI / 2;
+ shadow.position.y = -0.02;
+ scene.add(shadow);
 
-  scene.add(trailer);
+ scene.add(trailer);
 
-  // Interaction: drag to rotate
-  let rotY = -0.5, rotX = -0.05;
-  let dragging = false;
-  let lastX = 0, lastY = 0;
-  let targetY = rotY, targetX = rotX;
-  let auto = true;
-  canvas.addEventListener('mousedown', (e) => { dragging = true; auto = false; lastX = e.clientX; lastY = e.clientY; });
-  window.addEventListener('mouseup', () => { dragging = false; });
-  window.addEventListener('mousemove', (e) => {
-    if (!dragging) return;
-    targetY += (e.clientX - lastX) * 0.01;
-    targetX = Math.max(-0.5, Math.min(0.5, targetX + (e.clientY - lastY) * 0.005));
-    lastX = e.clientX; lastY = e.clientY;
-  });
-  canvas.addEventListener('touchstart', (e) => { if (e.touches[0]) { dragging = true; auto = false; lastX = e.touches[0].clientX; lastY = e.touches[0].clientY; } }, { passive: true });
-  window.addEventListener('touchend', () => { dragging = false; });
-  window.addEventListener('touchmove', (e) => {
-    if (!dragging || !e.touches[0]) return;
-    targetY += (e.touches[0].clientX - lastX) * 0.01;
-    targetX = Math.max(-0.5, Math.min(0.5, targetX + (e.touches[0].clientY - lastY) * 0.005));
-    lastX = e.touches[0].clientX; lastY = e.touches[0].clientY;
-  }, { passive: true });
+ // Interaction: drag to rotate
+ let rotY = -0.5, rotX = -0.05;
+ let dragging = false;
+ let lastX = 0, lastY = 0;
+ let targetY = rotY, targetX = rotX;
+ let auto = true;
+ canvas.addEventListener('mousedown', (e) => { dragging = true; auto = false; lastX = e.clientX; lastY = e.clientY; });
+ window.addEventListener('mouseup', () => { dragging = false; });
+ window.addEventListener('mousemove', (e) => {
+ if (!dragging) return;
+ targetY += (e.clientX - lastX) * 0.01;
+ targetX = Math.max(-0.5, Math.min(0.5, targetX + (e.clientY - lastY) * 0.005));
+ lastX = e.clientX; lastY = e.clientY;
+ });
+ canvas.addEventListener('touchstart', (e) => { if (e.touches[0]) { dragging = true; auto = false; lastX = e.touches[0].clientX; lastY = e.touches[0].clientY; } }, { passive: true });
+ window.addEventListener('touchend', () => { dragging = false; });
+ window.addEventListener('touchmove', (e) => {
+ if (!dragging || !e.touches[0]) return;
+ targetY += (e.touches[0].clientX - lastX) * 0.01;
+ targetX = Math.max(-0.5, Math.min(0.5, targetX + (e.touches[0].clientY - lastY) * 0.005));
+ lastX = e.touches[0].clientX; lastY = e.touches[0].clientY;
+ }, { passive: true });
 
-  let t0 = performance.now();
-  function tick() {
-    requestAnimationFrame(tick);
-    const dt = (performance.now() - t0) / 1000;
-    if (auto) targetY += 0.003;
-    rotY += (targetY - rotY) * 0.08;
-    rotX += (targetX - rotX) * 0.08;
-    trailer.rotation.y = rotY;
-    trailer.rotation.x = rotX;
-    // Pulse beacon
-    beacon.material.color.setHSL(0.06, 0.85, 0.45 + Math.abs(Math.sin(dt * 3)) * 0.25);
-    renderer.render(scene, camera);
-  }
-  tick();
+ let t0 = performance.now();
+ function tick() {
+ requestAnimationFrame(tick);
+ const dt = (performance.now() - t0) / 1000;
+ if (auto) targetY += 0.003;
+ rotY += (targetY - rotY) * 0.08;
+ rotX += (targetX - rotX) * 0.08;
+ trailer.rotation.y = rotY;
+ trailer.rotation.x = rotX;
+ // Pulse beacon
+ beacon.material.color.setHSL(0.06, 0.85, 0.45 + Math.abs(Math.sin(dt * 3)) * 0.25);
+ renderer.render(scene, camera);
+ }
+ tick();
 })();
 </script>

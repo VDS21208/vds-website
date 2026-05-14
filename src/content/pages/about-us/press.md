@@ -96,5 +96,4 @@ Customer testimonials and case-study interviews require customer approval. We ca
 ## Press contact
 
 **press@visiondetectionsystems.com**
-**Phone (credentialed media only):** [PLACEHOLDER — press desk direct line]
-Response SLA: 1 business day for credentialed press, 2 business da
+**Phone (credentialed media only):** [

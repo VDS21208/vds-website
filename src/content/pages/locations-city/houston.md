@@ -80,6 +80,4 @@ A petrochemical contractor running a multi-month Ship Channel turnaround signed 
 
 **CenterPoint Energy substations.** Utility substation work requires NERC CIP-aware access procedures. We coordinate access with the customer's CIP compliance team before mobilization.
 
-**Texas wiretap statute (Tex. Penal Code § 16.02).** Texas is a one-party-consent state for audio. Our units capture video only by default unless the customer has a documented business reason and signage.
-
-**Port of Houston access.** TWIC credentialing applies on the se
+**Texas wiretap statute (Tex. Penal Code § 16.02).** Texas is a one-party-consent state for audio. Our units capture video only by default unless the customer has a documented bus

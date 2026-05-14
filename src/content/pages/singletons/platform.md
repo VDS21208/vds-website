@@ -165,12 +165,10 @@ No on-prem servers. No bridges to install. No camera lock-in.
 - **NDAA Section 889 compliant** — VDS hardware is US-engineered and assembled. We support compliant third-party cameras only.
 - **AWS US-only** infrastructure — no offshore replication
 - **TLS 1.3** in transit, **AES-256** at rest
-- **SOC 2** posture documented
+- **** posture documented
 - **GDPR / CCPA / PIPEDA** ready
 - **99.999% AWS uptime** baseline
 
 ## 24/7 in-house US SOC
 
-Real US-based operators, employed by VDS, monitoring your cameras. AI-pre-filters reduce false alarms by **97%**. Confirmed threats trigger audio talk-down through the trailer PA and direct law enforcement dispatch with live video. Average operator escalation: under 60 seconds.
-
-[See SOC details →](/platform/soc/)
+Real US-based operators, employed by VDS, monitoring your cameras. AI-pre-filters reduce false alarms by **97%**. Confirmed threats

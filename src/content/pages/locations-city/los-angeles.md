@@ -82,6 +82,4 @@ A licensed cannabis cultivation operator running a 40,000 sq ft facility in the 
 
 **California wiretap law.** California is two-party consent for audio (Cal. Penal Code § 632). Video only by default; audio disabled unless customer documents all-party consent.
 
-**Cannabis state licensing.** California cannabis license types require specific minimum video retention (90 days) and continuous coverage of licensed areas. Our deployments default to license-compliant configuration.
-
-**Por
+**Cannabis state licensing.** California cannabis license types require specific minimum video retention (90 days) and continuous c

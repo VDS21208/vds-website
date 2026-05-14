@@ -1,31 +1,31 @@
 ---
 import Icon from '../icons/Icon.astro';
 export interface Props {
-  heading: string;
-  body?: string;
-  buttons?: Array<{label: string, url: string}>;
+ heading: string;
+ body?: string;
+ buttons?: Array<{label: string, url: string}>;
 }
 const { heading, body, buttons = [] } = Astro.props;
 ---
 <section class="bg-orange text-white py-20 md:py-24 relative overflow-hidden">
-  <div class="hero-orb-layer">
-    <div class="gradient-orb" style="width: 500px; height: 500px; top: -150px; left: 10%; background: radial-gradient(circle, #FF7A2E 0%, transparent 70%); opacity: 0.4;"></div>
-    <div class="gradient-orb" style="width: 600px; height: 600px; bottom: -200px; right: -100px; background: radial-gradient(circle, #C44F0F 0%, transparent 70%); opacity: 0.4; animation-delay: -8s;"></div>
-  </div>
-  <div class="container-wide text-center max-w-4xl relative z-10">
-    <h2 class="font-display mb-6 leading-tight tracking-tight">{heading}</h2>
-    {body && <p class="text-lg md:text-xl text-white/90 mb-10 max-w-2xl mx-auto">{body}</p>}
-    {buttons.length > 0 && (
-      <div class="flex flex-wrap gap-3 justify-center">
-        {buttons.map((b, i) => (
-          <a
-            href={b.url}
-            class={i === 0
-              ? 'inline-flex items-center justify-center gap-2 bg-white text-navy font-medium py-3.5 px-7 rounded-sm hover:bg-white/90 hover:gap-3 transition-all'
-              : 'inline-flex items-center justify-center gap-2 border-2 border-white text-white font-medium py-3.5 px-7 rounded-sm hover:bg-white/10 hover:gap-3 transition-all'}
-          >{b.label} {i === 0 && <Icon name="arrow-right" size={18} />}</a>
-        ))}
-      </div>
-    )}
-  </div>
+ <div class="hero-orb-layer">
+ <div class="gradient-orb" style="width: 500px; height: 500px; top: -150px; left: 10%; background: radial-gradient(circle, #FF7A2E 0%, transparent 70%); opacity: 0.4;"></div>
+ <div class="gradient-orb" style="width: 600px; height: 600px; bottom: -200px; right: -100px; background: radial-gradient(circle, #C44F0F 0%, transparent 70%); opacity: 0.4; animation-delay: -8s;"></div>
+ </div>
+ <div class="container-wide text-center max-w-4xl relative z-10">
+ <h2 class="font-display mb-6 leading-tight tracking-tight">{heading}</h2>
+ {body && <p class="text-lg md:text-xl text-white/90 mb-10 max-w-2xl mx-auto">{body}</p>}
+ {buttons.length > 0 && (
+ <div class="flex flex-wrap gap-3 justify-center">
+ {buttons.map((b, i) => (
+ <a
+ href={b.url}
+ class={i === 0
+ ? 'inline-flex items-center justify-center gap-2 bg-white text-navy font-medium py-3.5 px-7 rounded-sm hover:bg-white/90 hover:gap-3 transition-all'
+ : 'inline-flex items-center justify-center gap-2 border-2 border-white text-white font-medium py-3.5 px-7 rounded-sm hover:bg-white/10 hover:gap-3 transition-all'}
+ >{b.label} {i === 0 && <Icon name="arrow-right" size={18} />}</a>
+ ))}
+ </div>
+ )}
+ </div>
 </section>

@@ -110,4 +110,4 @@ Done together, the three deliverables form a security posture report that goes t
 
 ## Who does the consulting
 
-VDS senior engineers with 10+ years of physical security infrastructure experience. Backgrounds across DoD, federal LE, critical infrastructure, and commercial construction. Not third-party c
+VDS senior engineers with 10+ years of physical security infrastructu

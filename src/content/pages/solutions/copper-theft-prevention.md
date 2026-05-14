@@ -90,4 +90,4 @@ A southeastern co-op deployed VDS at 14 distribution substations after losing $1
 
 ## Pricing
 
-Single-substation coverage: **$2,200/month**. Substation + transmission ROW: $4,000/month. Multi-asset fleet prici
+Single-subst

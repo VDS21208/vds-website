@@ -97,6 +97,4 @@ We have been deploying since 2017. 500+ units across 30+ states. That is 7 full 
 
 **Proof:** Our AI detection thresholds, SOC escalation rules, and hardware spec revisions are calibrated against real field data — not lab tests. We have logged what fails in the desert, what fails in -20F, what triggers wildlife false alarms in the southeast, and what break-in patterns look like on construction sites at 3 AM. Customers benefit from every site that came before theirs.
 
-## The summary
-
-If you only need one of these eight, plenty of vendors will sell you one. If you need the whole stack 
+## The sum

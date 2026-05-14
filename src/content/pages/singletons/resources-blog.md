@@ -73,6 +73,4 @@ The 2025-26 exposure of Flock camera data and access raised three questions that
 
 ## Subscribe
 
-Monthly summary email — new posts plus the one or two industry stories worth reading. No promotional content. Unsubscribe in one click.
-
-**[Subscribe](#)**
+Monthly summary email — new posts plus the one or two industry stories worth

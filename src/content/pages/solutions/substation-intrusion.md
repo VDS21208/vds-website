@@ -93,6 +93,4 @@ The detection-to-intervention sequence on a substation perimeter intrusion at 2:
 - 0:47 — LE arrives, subject located 200ft from fence
 - Event log auto-generated, exported to CIP physical security records
 
-## Pricing
-
-Standard CIP-014-grade deployment runs **$6,200-$9,600/month per substation**. Multi-site agreement
+## Pri

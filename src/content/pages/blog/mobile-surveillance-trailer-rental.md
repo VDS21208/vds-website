@@ -328,8 +328,4 @@ Tip: Start with a short-term rental to evaluate your actual security needs and u
 
 Quality providers offer site assessments to determine optimal camera placement, power requirements, and connectivity options. Take advantage of these consultations to ensure your rental meets specific security objectives rather than just providing generic coverage.
 
-Construction theft costs the U.S. industry up to $1 billion annually in direct losses, and contractors lose an average of roughly $5,865 per incident, according to an FBI NIBRS-based study analyzing more than 15,000 thefts from construction sites. The research also highlights surveillance systems, security guards, fencing, lighting, warning signs, and tool marking as established best practices for reducing theft risk on active and unmonitored jobsites.
-
-Get Professional Mobile Surveillance Solutions
-
-Your security needs deserve more than basic equipment rental. Whether you're protecting a single construction site or managing security across multiple locations, Vision Detection Systems provides comprehensive mobile surveillance solutions with verified monitoring a
+Construction theft costs the U.S. industry up to $1 billion annually in direct losses, and contractors lose an average of roughly $5,865 per incident, according to an FBI NIBRS-based study analyzing more than 15,000 thefts from construction sites. The research also highlights surveillance systems, security guards, fencing, lighting, warning signs, and tool marking as established best practices for reducing theft risk on active 

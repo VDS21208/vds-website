@@ -80,4 +80,4 @@ A Seaport general contractor running a 14-story life-science tower switched to V
 
 **Massachusetts Open Meeting Law and public records.** Any state or municipal contract may bring the deployment into the orbit of M.G.L. c. 30A (OML) and c. 66 (public records). We structure public-sector contracts so footage retention, access requests, and chain-of-custody align with the customer's records-retention schedule.
 
-**Organized retail crime.** Massachusetts AG enforcement on ORC has stepped up in Boston and the surrounding metro. Our retail deployments capture license plates at lot ingress and tie SOC escalation
+**Organized retail crime.** Massachusetts AG enforcement on ORC has stepped up in Boston and the surrounding

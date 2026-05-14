@@ -87,8 +87,4 @@ The defense recognizes the 90-second window:
 
 ## What it looks like working
 
-A Toyota dealer in the Midwest was losing 4-7 converters/month, averaging $9,200/month in repairs and customer goodwill. VDS deployed two Swift Deploy units and LPR at the main gate. In the first 6 months: **1 attempted theft (intercepted at talk-down, plate captured, suspect arrested 3 days later on a separate dealer hit), 0 successful thefts, $55,000+ avoided loss.**
-
-## Pricing
-
-Single-Swift-Deploy coverage with LPR: **$1,500/month**. Most d
+A Toyota dealer in the Midwest was losing 4-7 converters/month, averaging $9,200/month in repairs and customer goodwill. VDS deployed two Swift Deploy units and LPR at the main gate. In the first 6 months: **1 attempted theft (intercepted at talk-down, plate captured, suspect arrested 3 days later on a separate dealer hit), 0 successful thefts, $5

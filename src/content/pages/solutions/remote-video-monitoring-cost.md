@@ -123,6 +123,4 @@ If you're quoted $99/mo for "remote monitoring," ask which of those four they ac
 - Per-incident charges (some vendors charge $25-$75 per dispatched event)
 - False-alarm penalties (police-imposed fines for unverified alarms — $50-$300 per fine in many jurisdictions)
 - Camera-count overages
-- After-hours upgrade fees for "24/7 plans" that are really "after-hours plans"
-
-VDS has no per-incident fees, no false-alarm fines (we verify before dispatch), and no after-hours surcharges.
+- After-hours upgrade fees for "24/7 plans" that are real

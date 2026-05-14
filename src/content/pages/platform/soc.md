@@ -84,4 +84,4 @@ Reports live in the platform and export to PDF, CSV, or your SIEM.
 
 ## Why in-house matters
 
-Contracted monitoring centers handle dozens of disparate customer platforms with operators who learn a new UI every shift. Our operators are trained on AI VisionStream because it is the only thing they run. They know the rule library. They know the inte
+Contracted monitoring centers handle dozens of disparate customer platforms with operators who learn a new UI every shift. Our operators are trained on AI Vi

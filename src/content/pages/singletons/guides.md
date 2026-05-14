@@ -25,7 +25,7 @@ faq:
 - q: Do I have to fill out a form to read the guides?
   a: No. Every landing page has free excerpts and the key statistics. Only the full PDF (with procurement-grade specs, sample RFP language, and pricing tables) requires email and company name.
 - q: How current is the pricing?
-  a: The 2026 Pricing Guide reflects rates effective January 2026. Cooperative purchasing pricing (Sourcewell, GSA Schedule) is updated quarterly.
+  a: The 2026 Pricing Guide reflects rates effective January 2026. Cooperative purchasing pricing (, GSA Schedule) is updated quarterly.
 - q: Can I get a custom guide for my vertical?
   a: Yes. If you're running a vertical we haven't published yet — cannabis cultivation, marine terminals, data center perimeter — talk to us. We've likely deployed it.
 - q: Are the case studies real?
@@ -65,10 +65,10 @@ Use them to write specs, defend budgets, and shorten vendor evaluation from mont
 
 **[Temporary Surveillance Guide](/guides/temporary-surveillance)** — When to rent vs buy. Break-even analysis at 14 months.
 
-**[2026 Mobile Surveillance Pricing Guide](/guides/pricing-guide-2026)** — Sky Guard MSU at $2,200/mo, Swift Deploy at $1,500/mo, Boundary Guard Pro at $1,800/mo. Sourcewell and GSA cooperative pricing included.
+**[2026 Mobile Surveillance Pricing Guide](/guides/pricing-guide-2026)** — Sky Guard MSU at $2,200/mo, Swift Deploy at $1,500/mo, Boundary Guard Pro at $1,800/mo. and GSA cooperative pricing included.
 
 **[ROI Calculator](/guides/roi-calculator)** — Enter site value, incident frequency, and insurance deductible. Get a 12-month and 36-month payback projection.
 
 ## Who uses these
 
-Security directors at GCs, utility cooperatives, retail loss prevention, municipal procurement officers, event producers, and CFOs running the budget 
+Security directors at GCs, utility cooperatives

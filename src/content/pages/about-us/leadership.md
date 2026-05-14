@@ -85,4 +85,4 @@ Those constraints cost us margin. They are non-negotiable for reasons stated on 
 
 ## For press, analyst, and partnership inquiries
 
-Direct outreach to leadership goes through the contact form with subject line "Leadership inquiry — [topic]." We respond within two business days. For press inqu
+Direct outreach to leadership goes through the contact form with sub

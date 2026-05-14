@@ -78,4 +78,4 @@ A regional general contractor running a 23-acre South End mixed-use development 
 
 **North Carolina wiretap statute (N.C.G.S. § 15A-287).** North Carolina is a one-party-consent state for audio, but our units capture video only by default and we recommend customers maintain that posture unless there's a documented business reason and signage.
 
-**Utility substation work.** Duke Energy and other regional utility substation work requires NERC CIP-aware access procedures for any deployment inside the substation security perimeter. We coordinate access an
+**Utility substation work.** Duke Energy and other regional utility substation work requires NERC CIP-aware access proced

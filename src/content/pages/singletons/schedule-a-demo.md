@@ -102,4 +102,4 @@ We get it. Reschedule from the original calendar invitation, or email sales dire
 
 ## If the standard demo is not what you need
 
-For executive briefings, RFP scoping sessions, technical deep-dives, or proof-of-concept discussions, contact sales directly and we will set up a longer-for
+For executive briefings, RFP scoping sessi

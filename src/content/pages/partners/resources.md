@@ -103,4 +103,4 @@ For Tier 2 and Tier 3 dealers with MDF eligibility:
 
 Active dealers receive portal credentials at certification completion. If you have lost access or need additional team members added, contact your channel manager directly or email **partners@visiondetectionsystems.com** with subject "Portal access — [Dealer Name]."
 
-If you are not yet a dealer, the resources above are not publicly available. The public site does have product information at the platform and product pages — but the sales toolkit, pricing, and battle cards are dealer-only by policy.
+If you are not yet a dealer, the resources above are not publicly available. The public site does have product information 

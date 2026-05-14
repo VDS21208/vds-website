@@ -1,51 +1,51 @@
 ---
 import Icon from '../icons/Icon.astro';
 const products = [
-  { name: "Sky Guard MSU", subhead: "The most-deployed unit. Thermal + radar + 4K + LPR + active deterrence in one solar-autonomous trailer.", img: "/assets/webflow/product-1.avif", url: "/products/sky-guard-mobile-surveillance-trailer", price: "From $2,200/mo", specs: ["LWIR thermal", "500ft ground radar", "4K multi-sensor", "LPR included", "Audio talk-down", "48hr battery"], icon: "thermal" },
-  { name: "Swift Deploy", subhead: "Set up in under 20 minutes. One operator. No tools required. Built for sites that change weekly.", img: "/assets/webflow/product-2.avif", url: "/products/swift-deploy-surveillance-trailer", price: "From $1,500/mo", specs: ["30x PTZ optical zoom", "Dual-spectrum night vision", "AI analytics", "Optional LPR", "Strobe + PA", "36hr battery"], icon: "trailer" },
-  { name: "Boundary Guard Pro", subhead: "500+ linear feet of fence-line coverage. Designed for substation perimeters and logistics yards.", img: "/assets/webflow/product-3.avif", url: "/products/boundary-guard-pro", price: "From $1,800/mo", specs: ["500ft fence-line", "Zero blind spots", "Linear coverage", "Solar autonomous", "Edge AI", "All-weather"], icon: "shield" },
+ { name: "Sky Guard MSU", subhead: "The most-deployed unit. Thermal + radar + 4K + LPR + active deterrence in one solar-autonomous trailer.", img: "/assets/webflow/product-1.avif", url: "/products/sky-guard-mobile-surveillance-trailer", price: "From $2,200/mo", specs: ["LWIR thermal", "500ft ground radar", "4K multi-sensor", "LPR included", "Audio talk-down", "48hr battery"], icon: "thermal" },
+ { name: "Swift Deploy", subhead: "Set up in under 20 minutes. One operator. No tools required. Built for sites that change weekly.", img: "/assets/webflow/product-2.avif", url: "/products/swift-deploy-surveillance-trailer", price: "From $1,500/mo", specs: ["30x PTZ optical zoom", "Dual-spectrum night vision", "AI analytics", "Optional LPR", "Strobe + PA", "36hr battery"], icon: "trailer" },
+ { name: "Boundary Guard Pro", subhead: "500+ linear feet of fence-line coverage. Designed for substation perimeters and logistics yards.", img: "/assets/webflow/product-3.avif", url: "/products/boundary-guard-pro", price: "From $1,800/mo", specs: ["500ft fence-line", "Zero blind spots", "Linear coverage", "Solar autonomous", "Edge AI", "All-weather"], icon: "shield" },
 ];
 ---
 <section class="bg-navy text-white py-24 md:py-32 overflow-hidden relative">
-  <div class="dot-pattern absolute inset-0 opacity-30"></div>
-  <div class="container-wide relative z-10">
-    <div class="mb-20 text-center reveal max-w-3xl mx-auto">
-      <div class="eyebrow mb-3 justify-center" style="display:inline-flex">Flagship hardware</div>
-      <h2 class="font-display mb-5">Three trailers.<br><span class="gradient-text">Every site covered.</span></h2>
-      <p class="text-lg text-white/65 max-w-2xl mx-auto">From substation perimeter to construction laydown yard to 500-foot fence line — one of these fits.</p>
-    </div>
-    <div class="space-y-24 md:space-y-32">
-      {products.map((p, i) => (
-        <div class="grid lg:grid-cols-12 gap-8 lg:gap-16 items-center reveal">
-          <div class={`lg:col-span-5 ${i % 2 === 1 ? 'lg:order-2' : ''}`}>
-            <div class="text-orange mb-4"><Icon name={p.icon} size={36} /></div>
-            <div class="eyebrow mb-3">{p.price}</div>
-            <h3 class="font-display mb-5 text-4xl lg:text-5xl leading-tight">{p.name}</h3>
-            <p class="text-lg text-white/75 mb-7 leading-relaxed">{p.subhead}</p>
-            <div class="grid grid-cols-2 gap-3 mb-7">
-              {p.specs.map((s) => (
-                <div class="flex items-center gap-2 text-sm text-white/70">
-                  <Icon name="check" size={14} class="text-orange flex-shrink-0" />
-                  <span>{s}</span>
-                </div>
-              ))}
-            </div>
-            <a href={p.url} class="inline-flex items-center gap-2 text-orange hover:gap-3 transition-all font-medium">See spec sheet <Icon name="arrow-right" size={18} /></a>
-          </div>
-          <div class={`lg:col-span-7 ${i % 2 === 1 ? 'lg:order-1' : ''}`}>
-            <div class="image-card aspect-[4/3] zoom-on-hover">
-              <div class="image-card-bg" style={`background-image: url(${p.img})`}></div>
-              <div class="image-card-overlay"></div>
-              <div class="image-card-content">
-                <div class="flex items-center gap-2 text-xs uppercase tracking-[0.15em] text-white/65">
-                  <span class="pulse-dot"></span>
-                  In active deployment
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      ))}
-    </div>
-  </div>
+ <div class="dot-pattern absolute inset-0 opacity-30"></div>
+ <div class="container-wide relative z-10">
+ <div class="mb-20 text-center reveal max-w-3xl mx-auto">
+ <div class="eyebrow mb-3 justify-center" style="display:inline-flex">Flagship hardware</div>
+ <h2 class="font-display mb-5">Three trailers.<br><span class="gradient-text">Every site covered.</span></h2>
+ <p class="text-lg text-white/65 max-w-2xl mx-auto">From substation perimeter to construction laydown yard to 500-foot fence line — one of these fits.</p>
+ </div>
+ <div class="space-y-24 md:space-y-32">
+ {products.map((p, i) => (
+ <div class="grid lg:grid-cols-12 gap-8 lg:gap-16 items-center reveal">
+ <div class={`lg:col-span-5 ${i % 2 === 1 ? 'lg:order-2' : ''}`}>
+ <div class="text-orange mb-4"><Icon name={p.icon} size={36} /></div>
+ <div class="eyebrow mb-3">{p.price}</div>
+ <h3 class="font-display mb-5 text-4xl lg:text-5xl leading-tight">{p.name}</h3>
+ <p class="text-lg text-white/75 mb-7 leading-relaxed">{p.subhead}</p>
+ <div class="grid grid-cols-2 gap-3 mb-7">
+ {p.specs.map((s) => (
+ <div class="flex items-center gap-2 text-sm text-white/70">
+ <Icon name="check" size={14} class="text-orange flex-shrink-0" />
+ <span>{s}</span>
+ </div>
+ ))}
+ </div>
+ <a href={p.url} class="inline-flex items-center gap-2 text-orange hover:gap-3 transition-all font-medium">See spec sheet <Icon name="arrow-right" size={18} /></a>
+ </div>
+ <div class={`lg:col-span-7 ${i % 2 === 1 ? 'lg:order-1' : ''}`}>
+ <div class="image-card aspect-[4/3] zoom-on-hover">
+ <div class="image-card-bg" style={`background-image: url(${p.img})`}></div>
+ <div class="image-card-overlay"></div>
+ <div class="image-card-content">
+ <div class="flex items-center gap-2 text-xs uppercase tracking-[0.15em] text-white/65">
+ <span class="pulse-dot"></span>
+ In active deployment
+ </div>
+ </div>
+ </div>
+ </div>
+ </div>
+ ))}
+ </div>
+ </div>
 </section>

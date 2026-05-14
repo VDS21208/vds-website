@@ -69,8 +69,4 @@ We have 7 years of field data on units running in coastal humidity, desert heat,
 
 ## What we have proven
 
-On a $28M Mid-Atlantic GC project in 2024, our deployment saved the customer $340,800 in 12 months — measured against their prior year's loss, vandalism, and guard-staffing costs. That number is on the case study page with the methodology. It is not the average. It is one project. We publish it because the math is real and the customer signed off.
-
-## What is non-negotiable
-
-NDAA Section 889 compliance on every component. AWS-backed infrastructure with formal partner status. RBAC and MFA
+On a $28M Mid-Atlantic GC project in 2024, our deployment saved the customer $340,800 in 12 months — measured against their prior year's loss, vandalism, and guard-staffing costs. That number is on the case study page with the methodology. It is not the average. It is one project. We publish it because the math is real and the

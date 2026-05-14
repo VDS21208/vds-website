@@ -118,4 +118,4 @@ Three questions:
 
 2. **How does your finance team prefer to book it?** If opex is preferred (most security budgets), rent. If your team has unused capex and wants to capitalize, purchase is available.
 
-3. **Do you want to manage hardware lifecycle or have it managed for you?** Rental = managed. Purchase = your responsibility after support contract term.
+3. **Do you want to mana

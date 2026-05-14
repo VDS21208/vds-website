@@ -449,6 +449,4 @@ Yes, especially at entrances/exits and chokepoints when placement and lighting s
 
 ## Mall Parking Lot Security: Next Steps
 
-If you want mall parking lot security that holds up in real incidents, start with a coverage plan that prioritizes entrances/exits, drive lanes, and pedestrian corridors, then validate nighttime evidence readiness with real clips. From there, decide whether your risk profile needs verified response monitoring, temporary mobile deployment coverage, or targeted LPR at controlled capture points.
-
-If your priority is after-hours escalation and consistent reporting, start with remote video monitoring. If you need rapid coverage in a specific hot zone without permanent work, explore mobile surveillance trailers. If repeat vehicle incidents are a core problem, evaluate targeted LPR.
+If you want mall parking lot security that holds up in real incidents, start with a coverage plan that prioritizes entrances/exits, drive lanes, and pedestrian corridors, then validate nighttime evidence readiness with real clip

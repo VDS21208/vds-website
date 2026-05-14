@@ -323,6 +323,4 @@ Perimeters exposed to weather and lighting variability
 
 ## How to Reduce False Alarms in Video Analytics and Get Reliable After-Hours Alerts
 
-If your team is overwhelmed by nuisance alerts, the solution isn’t turning analytics off—it’s tuning motion zones, schedules, and person/vehicle rules so alerts match real risk windows. Vision Detection Systems can help you reduce false alarms, improve after-hours response, and standardize alert settings across sites so your system stays trusted over time.
-
-Request a quote or call (410) 401-1986 to speak with our security experts.
+If your team is overwhelmed by nuisance alerts, the solution isn’t turning analytics off—it’s tuning mot

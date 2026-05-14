@@ -78,4 +78,4 @@ For a customer already running OnGuard 8.0+ or NetBox 5.5+ with OpenAccess licen
 
 ## Pricing
 
-The Lenel integration is included with any AI VisionStream enterprise subscription. OnGuard Open
+The Len

@@ -311,10 +311,4 @@ Internal link: /others/purchase-options anchor “purchase, lease, or rent”
 
 ### 7) Are mobile surveillance trailers a good fit for construction sites and parking lots?
 
-Yes—construction sites and parking lots are two of the most common applications because they often need fast coverage, flexible placement, and reliable after-hours visibility. A trailer can cover access points, drive lanes, perimeters, and high-risk zones without slowing operations or waiting on permanent installs.
-
-
-
-### 8) Can the trailer configuration be customized (cameras, coverage, upgrades)?
-
-Configurations are often tailored to the environment and objective—wide-area deterrence, evidence capture, access-point coverage, or operational oversight. The right setup depends on what must be seen (faces, vehicles, entrances) and
+Yes—construction sites and parking lots are two of the most common applications because they often need fast coverage, flexible placement, and reliable after-hours visibility. A trailer can cover access points, drive lanes, perimeters, and high-risk zones without slowing operations or waiting on permanent instal

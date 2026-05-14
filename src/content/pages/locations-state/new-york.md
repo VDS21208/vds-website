@@ -30,7 +30,7 @@ faq:
 - q: Can you work with NYC DDC, DEP, or DOT general contractors?
   a: Yes. Multiple active deployments. We hold the certificates of insurance and bonding required for NYC public-works-adjacent work.
 - q: Is NYS OGS Centralized Contract the right procurement path for state agencies?
-  a: Yes, for the security categories we fall under. Sourcewell is the alternative for many local governments.
+  a: Yes, for the security categories we fall under.  is the alternative for many local governments.
 finalCTAHeading: Privacy-aware deployment, NYC-grade insurance, US-staffed SOC
 finalCTABody: We won't argue the privacy framework with you. Tell us the site and we'll quote unit count, lead time, monthly cost, and the correct NY procurement path.
 finalCTAButtons:
@@ -79,6 +79,4 @@ A general contractor on a four-block infrastructure replacement project for NYC 
 
 ## New York compliance and procurement
 
-NYC has specific surveillance disclosure and retention rules under the POST Act for NYPD-deployed surveillance technology. Private deployments on private property operate under different rules, and we document the relevant framework in the NY MSA. NYS DOT federally-funded projects require NDAA 889 compliance, which we hold across our product line.
-
-We're a registered vendor on NYS OGS Centralized Contracts for relevant security categories. Sourcewell is 
+NYC has specific surveillance disclosure and retention rules under the POST Act for NYPD-deployed surveillance technology. Private deployments on private property operate under different rules, and we document the relevant framework in the NY MSA. NYS DOT federally-funded projects require NDAA 889 compliance, which we hold across our product li

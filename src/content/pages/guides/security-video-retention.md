@@ -128,6 +128,4 @@ This is the document we wish every customer had before they specified storage ti
 
 ## AI VisionStream retention features
 
-- Per-camera retention policy enforcement, server-side
-- 30/60/90-day standard tiers, 1-year and 7-year evidence holds
-- Litigation hold at the per-cam
+- Per-camer

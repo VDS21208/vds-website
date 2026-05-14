@@ -118,5 +118,4 @@ If your situation fits one of these, indicate it in step 1 and we will route you
 
 - We will not put you in a 30-day nurture sequence after a quote request
 - We will not call your office five times in a week
-- We will not pass your contact information to a third party
-- We will not share pricing on competitors with you (we sell our product, not theirs)
+- We will not pass

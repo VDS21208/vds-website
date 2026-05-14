@@ -20,7 +20,7 @@ heroStats:
 - CSI Division 28 referenced
 - Revit/CAD available
 - NDAA 889 compliant
-- Sourcewell contract holder
+-  contract holder
 heroImage: ''
 faq:
 - q: Do you provide AIA CES credit?
@@ -111,7 +111,6 @@ Contact details are provided after the A&E presentation request below to keep th
 This is the operational, not marketing, version:
 
 - **NDAA Section 889 attestation** clears the gate for federal projects and most state-level public construction
-- **Sourcewell awarded contract holder** simplifies public agency procurement
+- ** contract holder** simplifies public agency procurement
 - **Camera-agnostic VMS** means VDS can integrate with cameras the project owner already prefers or has specified separately — no proprietary lock-in
-- **AWS US-only data residency** satisfies the data sovereignty language in federal and many state specs
-- **Documented case data** — 500+ deployments, 30+ state
+- **AWS U

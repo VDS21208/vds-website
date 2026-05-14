@@ -89,8 +89,4 @@ The defense covers the full lot 24/7 with verified monitored response:
 
 ## What it looks like working
 
-A 22-store power center in the Southwest had 14 reportable parking lot incidents in 12 months (assaults, break-ins, encampments), driving a premises-liability suit, tenant complaints, and a 19% GL premium increase. After VDS deployment of 2 Sky Guard MSUs: **incidents dropped to 3 in the next 12 months, no successful liability claims, GL premium reduced 9% at renewal on documented incident reduction.**
-
-## Pricing
-
-Coverage starts at **$2,200/month**. Most propertie
+A 22-store power center in the Southwest had 14 reportable parking lot incidents in 12 months (assaults, break-ins, encampments), driving a premises-liability suit, tenant complaints, and a 19% GL premium increase. After VDS deployment of 2 Sky Guard MSUs: **incidents dropped to 3 in the next 12 months, no successful liability claims, GL premium reduced 9% at renewal

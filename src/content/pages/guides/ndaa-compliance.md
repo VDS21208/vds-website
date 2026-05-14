@@ -19,7 +19,7 @@ heroCTASecondary:
 heroStats:
 - NDAA Section 889 Part B compliant
 - TAA-compliant supply chain
-- Sourcewell + GSA Schedule available
+-  + GSA Schedule available
 heroImage: ''
 faq:
 - q: Does Section 889 apply to private companies?
@@ -29,7 +29,7 @@ faq:
 - q: Are VDS systems Section 889 compliant end-to-end?
   a: Yes — cameras, NVRs, radios, cellular modems, and cloud infrastructure. AWS US-only data residency, TAA-compliant manufacturing, written Part B certification provided with every quote.
 - q: Do you support GSA Schedule and cooperative purchasing?
-  a: Yes. VDS is available through Sourcewell (cooperative purchasing) and GSA Schedule. Both include pre-vetted Section 889 documentation.
+  a: Yes. VDS is available through  (cooperative purchasing) and GSA Schedule. Both include pre-vetted Section 889 documentation.
 - q: How long does compliance review take during procurement?
   a: With our pre-built documentation package, federal compliance review typically clears in under 10 business days. We provide the manufacturer certifications, FRN numbers, and country-of-origin documents in your procurement format.
 finalCTAHeading: Get the compliance package
@@ -48,7 +48,7 @@ robots: index, follow
 speakable: .hero-h1, .article-summary, h2
 author: Vision Detection Systems
 tags: NDAA Section 889, compliance, federal procurement, buyer's guide, VDS guide
-notes: Highest-intent SEO keyword for federal/utility buyers. Emphasize written certification. Include GSA + Sourcewell badges.
+notes: Highest-intent SEO keyword for federal/utility buyers. Emphasize written certification. Include GSA +  badges.
 ---
 
 ## What's in the full guide
@@ -85,5 +85,4 @@ Federal procurement officers, GSA Schedule contracting officers, utility securit
 ## Related products
 
 - **[Sky Guard MSU](/products/sky-guard-mobile-surveillance-trailer)** — $2,200/mo. NDAA-compliant cameras, radios, and modems.
-- **[Swift Deploy](/products/swift-deploy-surveillance-trailer)** — $1,500/mo. Same compliance, smaller footprint.
-- **[Boundary Gua
+- **

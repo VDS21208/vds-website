@@ -85,8 +85,4 @@ Every verified SOC event opens a ticket in your system with the incident report,
 
 REST API for camera management, rule configuration, alert retrieval, and user provisioning. Webhooks for every event class. OAuth 2.0 with scoped tokens. Rate limits documented per endpoint.
 
-Full reference at [api.visiondetectionsystems.com](/resources).
-
-## What we do not do
-
-We do not sell connector seats. Every int
+Full reference at [api.visiondet

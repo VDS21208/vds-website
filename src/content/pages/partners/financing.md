@@ -120,6 +120,4 @@ VDS dealers may offer additional financing structures specific to their business
 
 ## How to start
 
-For service plan and multi-year pricing, request a quote through the standard pricing process. For operating leases, mention "lease" in your initial inquiry and we will connect you with the finance partner. For project-based contracts, share the project duration and unit count.
-
-Finance team: **finance@vision
+For service plan and multi-year pricing, request a quote through the standard pricing process. For operating leases, mention "lease" in your initial inquiry and we will connect y

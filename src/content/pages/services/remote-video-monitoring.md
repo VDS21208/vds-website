@@ -369,10 +369,4 @@ Vision Detection Systems is the remote video monitoring solution that connects c
 
 Unified control over hardware, analytics, and monitoring workflows in one platform
 
-Scalable from a single site to multi-site and nationwide operations
-
-Modern, intuitive interface designed for fast adoption with minimal training
-
-Reliable performance backed by 24/7 U.S.-based support for operational continuity
-
-If you’re using remote video monitoring to reduce after-hours incidents and improve response, Vision Detection Systems helps standardize how events are
+S

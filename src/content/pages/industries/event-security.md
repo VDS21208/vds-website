@@ -82,4 +82,4 @@ For touring productions running a multi-city run, we coordinate the unit rotatio
 
 ## What it replaces
 
-The standard alternative is a guard tour — typically 2-4 guards walking the lot at $35-55/hr loaded, working 12-hour shifts. For a 4-day event with 24-hour coverage that's $13K-26K in guard cost alone, with zero recorded evidence when something goes wrong. Two Sky Guard units for the same window deliver continuous video, AI LPR on every p
+The standard alternative is a guard tour — typically 2-4 guards walking the lot at $35-55/hr loaded, working 12-hour shifts. For a 4-day event with 24-hour coverage that's $13K-26K in guard cost alone, with zero recorded evidence when something g

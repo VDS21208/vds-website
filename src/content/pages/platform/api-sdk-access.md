@@ -117,8 +117,4 @@ Standard tier: 100 requests per second per tenant, 6,000 per minute, burst to 20
 - **Custom operations dashboard** — pull LPR events into a Grafana panel for a logistics yard, plot dwell time per truck.
 - **BIM/CDE integration (Autodesk Construction Cloud, Procore)** — link camera coverage zones to BIM model elements; tag site safety incidents to specific building areas.
 - **PSIM (Genetec, Milestone, Lenel)** — forward events into an existing command-and-control system without ripping out the upstream investment.
-- **Insurance reporting** — pull a 90-day incident summary per site as part of a quarterly carrier package.
-
-## Documentation and support
-
-Full reference at `developers.visionstream.us`. Postman collection downloadable fr
+- **Insurance reporting** — pull a 90-day incident summary per site as part of a quarterly c

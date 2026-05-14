@@ -267,6 +267,4 @@ Yes, especially at entrances/exits or chokepoints, when placement and lighting a
 
 If you’re dealing with repeat incidents, blind spots, or after-hours risk, the fastest way to improve outcomes is to start with a coverage plan—not just a camera list. We’ll map your entrances, drive lanes, pedestrian corridors, and high-risk zones, then recommend the right deployment approach based on your site conditions and timeline.
 
-If you need coverage fast, a mobile surveillance trailer can be deployed without permanent installation; if you need real response (not just recording), remote video monitoring adds defined alerting, escalation, and reporting. Ready to secure your parking lot?
-
-Request a quote and we’ll recommend the right configuration for your property type, risk level, and operating requirements.
+If you need coverage fast, a mobile surveillance trailer can be deployed without permanent installation; if you n

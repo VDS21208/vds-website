@@ -105,7 +105,3 @@ Battery banks have a service curve. We track depth-of-discharge cycles and Peuke
 ## What the customer sees
 
 A live dashboard per trailer with the same metrics we monitor, downloadable monthly health PDFs, and webhook subscription if you want the data piped into your own ITSM (see the API page). Uptime SLA is reported per quarter against a 99.6% target.
-
-## Included, not upsold
-
-Device health monitoring is included with every VDS-deployed trailer at no extra cost. We a

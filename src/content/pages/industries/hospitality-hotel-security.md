@@ -87,4 +87,3 @@ NDAA Section 889 compliant hardware — required for federal travel programs (Fe
 
 ## Pricing
 
-Monthly all-inclusive: hardware, solar power, LTE backhaul, AI analytics, cloud storage, and 24/7 S

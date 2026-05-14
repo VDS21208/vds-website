@@ -86,8 +86,4 @@ Includes 24/7 SOC, AI VisionStream, dock + gate LPR retention.
 
 ## What it looks like working
 
-A 3PL with 38 doors in the Mid-South was hit twice in 4 months for $620,000 in strategic cargo theft. VDS deployed Boundary Guard Pro on the south fence, Swift Deploy with LPR at the guard gate, and AI VisionStream integration with their dispatch schedule. In the next 11 months: **2 attempted unauthorized hookups, both stopped at audio talk-down with LE dispatched, $0 successful losses, 1 arrest tied to a regional cargo theft ring.**
-
-## Pricing
-
-Coverage starts at **$3,300/month** for a small 3PL yard. Mid an
+A 3PL with 38 doors in the Mid-South was hit twice in 4 months for $620,000 in strategic cargo theft. VDS deployed Boundary Guard Pro on the south fence, Swift Deploy with LPR at the guard gate, and AI VisionStream integration with their dispatch schedule. In the next 11 months: **2 attempted unauthorized hookups, both stopped at audio talk-down with LE dispatched, $0 successful losses, 1 arrest tied to a regional

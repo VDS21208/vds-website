@@ -137,8 +137,3 @@ United States
 If your question does not fit one of the departments above, or you would prefer a single point of contact, use the general inquiry form below. We route it internally within one business day.
 
 [PLACEHOLDER — General contact form embed: name, email, company, topic dropdown, message]
-
-## What we will not respond to
-
-- Unsolicited sales pitches and SEO outreach via the general contact form
-- Resume submissions to email addresses other

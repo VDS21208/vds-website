@@ -235,4 +235,4 @@ resolve correctly on the new site before publishing.
 
 ### Can surveillance cameras help with carrier accountability disputes?
 
-<p>Timestamped video documentation with LPR data creates irrefutable evidence for carrier accountability and shrinkage disputes. VDS systems provide evidence-grade footage with cryptographic timestamps and chain-of-custody documentation that meets legal standards for dispute resolution and insurance cl
+<p>Timestamped video documentation with LPR data create

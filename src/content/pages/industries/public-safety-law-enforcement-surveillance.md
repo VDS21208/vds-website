@@ -5,11 +5,11 @@ pageType: Industry Detail
 parent: /industries
 status: Launch
 seoTitle: Public Safety & Law Enforcement Surveillance
-metaDescription: Mobile surveillance for government property — parks, motor pools, public works yards. NDAA Section 889 compliant. Sourcewell & GSA cooperative purchasing.
+metaDescription: Mobile surveillance for government property — parks, motor pools, public works yards. NDAA Section 889 compliant.  & GSA cooperative purchasing.
 announcementBar: ''
 h1: Public Safety & Law Enforcement Surveillance
 heroEyebrow: For police chiefs, city managers, public works and parks directors
-heroSubhead: Private-property surveillance for government-owned sites — parks, motor pools, public works yards, water districts. NDAA Section 889 compliant. Available via Sourcewell and GSA cooperative purchasing. Not a public community camera network.
+heroSubhead: Private-property surveillance for government-owned sites — parks, motor pools, public works yards, water districts. NDAA Section 889 compliant. Available via  and GSA cooperative purchasing. Not a public community camera network.
 heroCTAPrimary:
   label: Request a procurement package
   url: /request-a-quote
@@ -18,7 +18,7 @@ heroCTASecondary:
   url: /request-a-quote
 heroStats:
 - NDAA Section 889 compliant
-- Sourcewell / GSA available
+-  / GSA available
 - AWS Partner
 - US SOC in Pikesville, MD
 heroImage: ''
@@ -27,8 +27,8 @@ faq:
   a: No. Flock and similar programs operate public-roadway camera networks scanning all passing traffic for community-wide ALPR. VDS deploys cameras on agency-controlled private property pointed at agency assets. We do not sell community ALPR programs.
 - q: How does this work under public records and FOIA?
   a: Footage and event logs are the agency's data. The agency owns the data lifecycle and the response to public records requests. We provide the export tooling and timeline documentation.
-- q: Is Sourcewell purchasing available?
-  a: Yes. We hold a Sourcewell contract and a GSA schedule. Both are available for state, county, municipal, and federal procurement.
+- q: Is  purchasing available?
+  a: Yes. We hold a  contract and a GSA schedule. Both are available for state, county, municipal, and federal procurement.
 - q: Is this NDAA Section 889 compliant?
   a: Yes, end to end. No Hikvision, Dahua, Huawei, or HiSilicon components. Compliance certificate and BOM shipped with every deployment.
 - q: Does this integrate with our existing dispatch or CAD system?
@@ -36,15 +36,15 @@ faq:
 - q: Can residents request access to footage from a park camera?
   a: That's governed by the agency's public records policy, not by VDS. We support the agency's process by making logs and clips exportable in standard formats with chain-of-custody documentation.
 finalCTAHeading: Request a procurement package
-finalCTABody: Send us the agency, application, and contract vehicle (Sourcewell, GSA, or direct RFP). We'll respond within 48 hours with a sized configuration, NDAA documentation, and applicable pricing.
+finalCTABody: Send us the agency, application, and contract vehicle (, GSA, or direct RFP). We'll respond within 48 hours with a sized configuration, NDAA documentation, and applicable pricing.
 finalCTAButtons:
 - label: Request a procurement package
   url: /contact-us/
 schemaType: Service
-internalLinks: /products/swift-deploy-surveillance-trailer, /products/sky-guard-mobile-surveillance-trailer, /products/solar-camera-poles, /products/boundary-guard-pro, /compliance/ndaa, /procurement/sourcewell, /procurement/gsa, /platform/soc
+internalLinks: /products/swift-deploy-surveillance-trailer, /products/sky-guard-mobile-surveillance-trailer, /products/solar-camera-poles, /products/boundary-guard-pro, /compliance/ndaa, /procurement/, /procurement/gsa, /platform/soc
 canonical: https://visiondetectionsystems.com/industries/public-safety-law-enforcement-surveillance
 ogTitle: Public Safety & Law Enforcement Surveillance
-ogDescription: Mobile surveillance for government property — parks, motor pools, public works yards. NDAA Section 889 compliant. Sourcewell & GSA cooperative purchasing.
+ogDescription: Mobile surveillance for government property — parks, motor pools, public works yards. NDAA Section 889 compliant.  & GSA cooperative purchasing.
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg
 ogType: website
 robots: index, follow
@@ -231,8 +231,3 @@ resolve correctly on the new site before publishing.
 
 <p>Federal procurement requires NDAA Section 889 compliance, prohibiting equipment from specified manufacturers. VDS provides written attestation, component documentation, and audit logging capabilities meeting <a href="https://www.gsa.gov/technology/technology-purchasing-programs/mas-information-technology/buy-accessible-software-and-services" target="_blank" rel="nofollow">GSA procurement standards</a> for government purchasing.</p>
 
-
-
-### Does VDS provide compliance documentation for government purchasing?
-
-<p>Yes, VDS provides complete NDAA Section 889 compliance documentation including written attestation, component-level verification, and procurement support materials. All documentation supports federal, state, and municipal government purchasing require

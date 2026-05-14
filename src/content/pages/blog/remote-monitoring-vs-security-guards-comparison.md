@@ -247,6 +247,4 @@ You need both fast awareness and on-site intervention
 
 If incidents are happening and your team is relying on someone noticing or a guard being nearby, you’re operating on luck. The better approach is a defined coverage plan, evidence-ready video, and a response workflow that works the same way every time—especially after-hours.
 
-If you want help choosing between remote monitoring, guards, or a hybrid model, Vision Detection Systems can map your site, identify the highest-risk zones, and recommend a practical plan that balances cost, coverage, and response.
-
-Request a quote or call (410) 401-1986 to speak with our security experts.
+If you want help choosing between remote monitoring, 

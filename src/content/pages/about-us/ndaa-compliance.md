@@ -249,4 +249,4 @@ resolve correctly on the new site before publishing.
 
 <p>Most compliance packages are delivered within 48 hours of initial contact, including written attestation letters, technical specifications, and procurement guidance. <a href="/request-a-quote">Contact VDS</a> for NDAA compliance documentation and procurement support.</p>
 
-<p><small>External references: <a href="https://www.gsa.gov/technology/technology-purchasing-programs/mas-information-technology/buy-accessible-technology/section-508-policy/federal-acquisition-regulation-far-updates" rel="nofollow">GSA Federal Acquisition Regulation</a> | <a href="https://www.fede
+<p><small>External references: <a href

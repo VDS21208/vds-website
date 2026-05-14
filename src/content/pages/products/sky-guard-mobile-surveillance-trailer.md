@@ -101,4 +101,4 @@ Sky Guard MSU is the only mobile unit in our catalog that ships with both, plus 
 
 ## Where it earns its keep
 
-Construction sites with high copper, fuel, or equipment exposure. Utility substations and yards. Critical infrastructure perimeters. Solar and storage farms. Carg
+Construction sites with high copper, fuel, or e

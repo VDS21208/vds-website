@@ -20,7 +20,7 @@ heroStats:
 - 40+ NJ units
 - 24-72hr lead time
 - Cargo theft specialty
-- NDAA + Sourcewell
+- NDAA + 
 heroImage: ''
 faq:
 - q: How fast can you respond to a Port Newark-area cargo theft event?
@@ -30,14 +30,14 @@ faq:
 - q: Can you cover NJ Turnpike and Parkway service area construction?
   a: Yes. NJTA-adjacent work runs under standard NDAA-compliant deployment patterns.
 - q: Is the NJ State Contract a valid procurement path?
-  a: Yes, for state agencies and many local governments. Sourcewell is also accepted by most NJ counties and school districts.
+  a: Yes, for state agencies and many local governments.  is also accepted by most NJ counties and school districts.
 finalCTAHeading: Port Newark to PSEG, US-staffed SOC, 24-72 hour deployment
 finalCTABody: Cargo theft is measurable. We've reduced it by 87-89% in three published NJ deployments. Tell us the yard and we'll quote.
 finalCTAButtons:
 - label: Get an NJ quote
   url: /contact-us/
 schemaType: LocalBusiness
-internalLinks: /industries/cargo-logistics, /industries/utility-substation-security, /procurement/sourcewell, /products/sky-guard-mobile-surveillance-trailer
+internalLinks: /industries/cargo-logistics, /industries/utility-substation-security, /procurement/, /products/sky-guard-mobile-surveillance-trailer
 canonical: https://visiondetectionsystems.com/locations/new-jersey
 ogTitle: Mobile surveillance for New Jersey's cargo theft problem
 ogDescription: Mobile surveillance for Port Newark logistics, NJ cargo theft response, construction, and PSEG infrastructure. 24-72 hour deployment from Pikesville HQ.
@@ -78,4 +78,4 @@ A drayage operator running a 22-acre container staging yard adjacent to Port New
 
 ## New Jersey compliance and procurement
 
-New Jersey has specific data retention considerations for surveillance footage near port and federally-regulated facilities. We document chain of custody, retention windows, and access controls in the NJ MSA. NDAA Section 889 compliant for federally-funded port and infrastructure work — relevant for TSA, Coast Guard, and Port Authority projects.
+New Jersey has specific data retention considerations for surveillance footage near port and federally-regulated facilities. We document chain of custody, retention windows, and access controls in the NJ MSA. NDAA Section 889 com

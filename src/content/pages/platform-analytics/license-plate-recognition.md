@@ -106,9 +106,4 @@ The same analytic on the same platform across:
 
 - AWS US-only regions
 - TLS 1.3 in transit, AES-256 at rest
-- NDAA Section 889 compliant
-- SOC 2 posture documented
-- GDPR / CCPA / PIPEDA awareness built in
-- Configurable retention (30/60/90/365 days)
-
-[See full security posture →](/about-us/cybersecurity/)
+- NDAA Section 889 co

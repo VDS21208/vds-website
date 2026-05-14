@@ -80,4 +80,4 @@ A Plano-area data center general contractor running a multi-phase build signed f
 
 **Data center site security.** Several DFW-area data center operators have internal vendor security requirements that exceed standard NDAA 889 — background checks for deployment crew, badge integration requirements, and SOC integration with the operator's own NOC. VDS supports all of these on request.
 
-**NDAA Section 889.** Increasingly a standard requirement on DFW data center contracts even wher
+**NDA

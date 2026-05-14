@@ -466,8 +466,4 @@ Confirm your real retention in days (not the setting you think you have)
 
 Identify which cameras need evidence-ready quality and longer retention
 
-Size storage based on camera count, bitrate, and recording method (24/7 vs motion vs event)
-
-Build a simple retrieval workflow so clips can be exported quickly when it matters
-
-If you want help sizing retention properly and building an evidence-ready recording workflow, start with a surveillance coverage review and retention recommendation. You can also pair retention planning with remote video monitoring for faster escalation and more consistent incident documentation.
+S

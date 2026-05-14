@@ -3,127 +3,127 @@ import nav from '../../data/nav.json';
 import Icon from '../icons/Icon.astro';
 
 const NAV_ICONS: Record<string, string> = {
-  'Products': 'camera',
-  'Platform': 'cpu',
-  'Industries': 'construction',
-  'Why VDS': 'shield',
-  'Resources': 'eye',
-  'Partners': 'target',
+ 'Products': 'camera',
+ 'Platform': 'cpu',
+ 'Industries': 'construction',
+ 'Why VDS': 'shield',
+ 'Resources': 'eye',
+ 'Partners': 'target',
 };
 ---
 <div class="fixed inset-0 bg-navy text-white z-50 transform translate-x-full transition-transform duration-300 ease-out-expo overflow-y-auto invisible lg:hidden" data-mobile-drawer aria-hidden="true">
-  <div class="container-main py-6">
-    <div class="flex items-center justify-between mb-8">
-      <a href="/" class="flex items-center gap-2.5">
-        <img src="/assets/vds-logo-white.svg" alt="Vision Detection Systems" class="h-9 w-auto object-contain" />
-        <span class="text-base text-orange font-display font-semibold tracking-wide">Systems</span>
-      </a>
-      <button type="button" class="text-3xl leading-none" aria-label="Close menu" data-mobile-close>
-        <Icon name="close" size={28} />
-      </button>
-    </div>
-    <a href="tel:+14104011986" class="block bg-orange text-white text-center font-medium py-3 px-4 rounded-sm mb-3">
-      <Icon name="phone" size={16} class="inline mr-2" /> Call (410) 401-1986
-    </a>
-    <a href="/request-a-quote" class="block border border-white/40 text-white text-center font-medium py-3 px-4 rounded-sm mb-6">Request a quote</a>
-    <nav aria-label="Mobile primary">
-      {nav.map(section => {
-        const icon = NAV_ICONS[section.label] || 'shield';
-        return (
-          <details class="border-b border-white/10 py-3">
-            <summary class="flex items-center justify-between cursor-pointer text-base font-medium">
-              <span class="inline-flex items-center gap-3">
-                <span class="text-orange"><Icon name={icon} size={18} /></span>
-                {section.label}
-              </span>
-              <span class="text-orange text-xl">+</span>
-            </summary>
-            <div class="pt-4 pb-2 space-y-3">
-              <ul class="space-y-2">
-                {[...section.primary, ...section.supporting].map((item: any) => (
-                  <li><a href={item.url} class="text-sm text-white/85 block py-1">{item.label}</a></li>
-                ))}
-              </ul>
-              <div class="pt-2 space-y-2">
-                {section.cta.map((item: any) => (
-                  <a
-                    href={item.url}
-                    class={item.type === 'cta-primary'
-                      ? 'block text-center bg-orange text-white text-sm font-medium py-2 px-3 rounded-sm'
-                      : 'block text-center border border-white/40 text-white text-sm py-2 px-3 rounded-sm'}
-                  >{item.label}</a>
-                ))}
-              </div>
-            </div>
-          </details>
-        );
-      })}
-    </nav>
-  </div>
+ <div class="container-main py-6">
+ <div class="flex items-center justify-between mb-8">
+ <a href="/" class="flex items-center gap-2.5">
+ <img src="/assets/vds-logo-white.svg" alt="Vision Detection Systems" class="h-9 w-auto object-contain" />
+ <span class="text-base text-orange font-display font-semibold tracking-wide">Systems</span>
+ </a>
+ <button type="button" class="text-3xl leading-none" aria-label="Close menu" data-mobile-close>
+ <Icon name="close" size={28} />
+ </button>
+ </div>
+ <a href="tel:+14104011986" class="block bg-orange text-white text-center font-medium py-3 px-4 rounded-sm mb-3">
+ <Icon name="phone" size={16} class="inline mr-2" /> Call (410) 401-1986
+ </a>
+ <a href="/request-a-quote" class="block border border-white/40 text-white text-center font-medium py-3 px-4 rounded-sm mb-6">Request a quote</a>
+ <nav aria-label="Mobile primary">
+ {nav.map(section => {
+ const icon = NAV_ICONS[section.label] || 'shield';
+ return (
+ <details class="border-b border-white/10 py-3">
+ <summary class="flex items-center justify-between cursor-pointer text-base font-medium">
+ <span class="inline-flex items-center gap-3">
+ <span class="text-orange"><Icon name={icon} size={18} /></span>
+ {section.label}
+ </span>
+ <span class="text-orange text-xl">+</span>
+ </summary>
+ <div class="pt-4 pb-2 space-y-3">
+ <ul class="space-y-2">
+ {[...section.primary, ...section.supporting].map((item: any) => (
+ <li><a href={item.url} class="text-sm text-white/85 block py-1">{item.label}</a></li>
+ ))}
+ </ul>
+ <div class="pt-2 space-y-2">
+ {section.cta.map((item: any) => (
+ <a
+ href={item.url}
+ class={item.type === 'cta-primary'
+ ? 'block text-center bg-orange text-white text-sm font-medium py-2 px-3 rounded-sm'
+ : 'block text-center border border-white/40 text-white text-sm py-2 px-3 rounded-sm'}
+ >{item.label}</a>
+ ))}
+ </div>
+ </div>
+ </details>
+ );
+ })}
+ </nav>
+ </div>
 </div>
 <script>
-  const drawer = document.querySelector('[data-mobile-drawer]') as HTMLElement;
-  const toggle = document.querySelector('[data-mobile-toggle]');
-  const closeBtn = document.querySelector('[data-mobile-close]');
-  let isOpen = false;
+ const drawer = document.querySelector('[data-mobile-drawer]') as HTMLElement;
+ const toggle = document.querySelector('[data-mobile-toggle]');
+ const closeBtn = document.querySelector('[data-mobile-close]');
+ let isOpen = false;
 
-  const restoreScroll = () => {
-    document.body.style.overflow = '';
-    document.documentElement.style.overflow = '';
-    document.body.style.position = '';
-    document.body.style.top = '';
-    document.body.style.width = '';
-  };
+ const restoreScroll = () => {
+ document.body.style.overflow = '';
+ document.documentElement.style.overflow = '';
+ document.body.style.position = '';
+ document.body.style.top = '';
+ document.body.style.width = '';
+ };
 
-  const openDrawer = () => {
-    if (!drawer || isOpen) return;
-    isOpen = true;
-    drawer.classList.remove('translate-x-full', 'invisible');
-    drawer.setAttribute('aria-hidden', 'false');
-    document.body.style.overflow = 'hidden';
-  };
+ const openDrawer = () => {
+ if (!drawer || isOpen) return;
+ isOpen = true;
+ drawer.classList.remove('translate-x-full', 'invisible');
+ drawer.setAttribute('aria-hidden', 'false');
+ document.body.style.overflow = 'hidden';
+ };
 
-  const closeDrawer = () => {
-    if (!drawer) return;
-    isOpen = false;
-    drawer.classList.add('translate-x-full');
-    drawer.setAttribute('aria-hidden', 'true');
-    restoreScroll();
-    window.setTimeout(() => {
-      if (!isOpen) drawer.classList.add('invisible');
-    }, 320);
-  };
+ const closeDrawer = () => {
+ if (!drawer) return;
+ isOpen = false;
+ drawer.classList.add('translate-x-full');
+ drawer.setAttribute('aria-hidden', 'true');
+ restoreScroll();
+ window.setTimeout(() => {
+ if (!isOpen) drawer.classList.add('invisible');
+ }, 320);
+ };
 
-  toggle?.addEventListener('click', (e) => {
-    e.preventDefault();
-    e.stopPropagation();
-    openDrawer();
-  });
-  closeBtn?.addEventListener('click', (e) => {
-    e.preventDefault();
-    e.stopPropagation();
-    closeDrawer();
-  });
+ toggle?.addEventListener('click', (e) => {
+ e.preventDefault();
+ e.stopPropagation();
+ openDrawer();
+ });
+ closeBtn?.addEventListener('click', (e) => {
+ e.preventDefault();
+ e.stopPropagation();
+ closeDrawer();
+ });
 
-  // Close on any link click inside the drawer (prevents stuck state on navigation)
-  drawer?.querySelectorAll('a[href]').forEach(a => {
-    a.addEventListener('click', () => {
-      closeDrawer();
-    });
-  });
+ // Close on any link click inside the drawer (prevents stuck state on navigation)
+ drawer?.querySelectorAll('a[href]').forEach(a => {
+ a.addEventListener('click', () => {
+ closeDrawer();
+ });
+ });
 
-  // Close on escape
-  document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeDrawer(); });
+ // Close on escape
+ document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeDrawer(); });
 
-  // Close on resize past mobile breakpoint
-  window.addEventListener('resize', () => {
-    if (window.innerWidth >= 1024 && isOpen) closeDrawer();
-  });
+ // Close on resize past mobile breakpoint
+ window.addEventListener('resize', () => {
+ if (window.innerWidth >= 1024 && isOpen) closeDrawer();
+ });
 
-  // Safety: on page show / pageshow / popstate, always restore scroll
-  window.addEventListener('pageshow', restoreScroll);
-  window.addEventListener('popstate', () => { closeDrawer(); restoreScroll(); });
+ // Safety: on page show / pageshow / popstate, always restore scroll
+ window.addEventListener('pageshow', restoreScroll);
+ window.addEventListener('popstate', () => { closeDrawer(); restoreScroll(); });
 
-  // If Astro View Transitions navigates, ensure overflow restored
-  document.addEventListener('astro:after-swap', () => { isOpen = false; restoreScroll(); });
+ // If Astro View Transitions navigates, ensure overflow restored
+ document.addEventListener('astro:after-swap', () => { isOpen = false; restoreScroll(); });
 </script>

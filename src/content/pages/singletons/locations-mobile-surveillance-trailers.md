@@ -80,6 +80,4 @@ Three things vary by metro and matter when you're choosing a vendor:
 - Top three to five industries we protect locally
 - Coverage zone and lead time from nearest VDS hub
 - An anonymized local deployment example
-- City or state compliance note (POST Act, BIPA, CCPA, NDAA, etc.)
-- City-specific FAQ
-- A lead form pre-filtered for your metro
+- City or state compliance note (POST 

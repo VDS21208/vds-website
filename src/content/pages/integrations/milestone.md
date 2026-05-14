@@ -80,6 +80,4 @@ XProtect Corporate or Expert 2020 R3 or later: 3 to 5 business days. Required on
 02:11 — VDS dispatches LE. XProtect rule has already promoted adjacent cameras to high-bitrate recording.
 02:24 — LE arrives, recovers the vehicle (reported stolen). Both timelines retain the synchronized record.
 
-## Pricing
-
-The Milestone integration is included with any AI VisionStream enterprise subscription.
+## Prici

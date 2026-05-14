@@ -87,4 +87,4 @@ A $28M Mid-Atlantic general contractor was losing $32,400/month in theft, vandal
 
 ## Pricing
 
-Two Sky Guard MSUs + one Boundary Guard Pro covers a typical 4-6 acre laydown footprint at **$6,200/month**
+Two Sky 

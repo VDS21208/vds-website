@@ -82,6 +82,4 @@ Boundary Guard Pro is built around overlapping fixed sensors plus PTZ for verifi
 
 ## Where it earns its keep
 
-Long construction fence lines. Material yards. Solar farm perimeters. Utility substations. Quarries. Logistics yards. Anywhere "we need to watch the whole fence, not just the gate" is the requirement.
-
-A typical 1,000ft perimeter runs two Boundary Guard Pro units
+Long construction fence lines. Material yards. Solar farm perimeters. Utility substations. Quarries. Logistics yards. Anywhere "we need to watch the whole fence, not jus

@@ -24,8 +24,8 @@ heroStats:
 - Annual pentest
 heroImage: ''
 faq:
-- q: Is VDS SOC 2 certified?
-  a: SOC 2 Type II audit is in progress with completion targeted for late 2026. Bridge letter and current control documentation available under NDA in the interim.
+- q: Is VDS ?
+  a:  audit is in progress with completion targeted for late 2026. Bridge letter and current control documentation available under NDA in the interim.
 - q: Can my security team review your pentest report?
   a: Yes, under NDA, for enterprise customers and qualifying prospects. Request via the form on this page.
 - q: Do you support hardware security keys for SOC operators?
@@ -49,7 +49,7 @@ ogType: website
 robots: index, follow
 speakable: .hero-h1, .hero-subhead, h2
 author: Vision Detection Systems
-tags: cybersecurity trust, SOC 2
+tags: cybersecurity trust, 
 notes: This is the most-asked-for page by enterprise security review teams. Keep technical language precise — the audience is security engineers and CISOs, not marketing buyers. PGP key for security@ should be linked or fingerprint-displayed once the team confirms the current key.
 ---
 
@@ -97,6 +97,4 @@ We do not currently operate a paid bug bounty. We do credit researchers on a Hal
 
 ## Hardware and field operations
 
-Deployed trailers run a hardened Linux operating system. Remote SSH is disabled by default; out-of-band management runs through a dedicated, mutually-authenticated channel. Firmware updates are signed, verified, and applied during defined maintenance windows. We do not push unsigned firmware. Ever.
-
-Trailers do not store customer v
+Deployed trailers run a hardened Linux operating system. Remote SSH is disabled by default; out-of-band management runs through a dedicated, mutually-authenticated channel. Firmware updates

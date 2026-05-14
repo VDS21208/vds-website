@@ -310,12 +310,4 @@ If incidents happen after-hours or you need a defined response workflow, remote 
 
 If you need security coverage quickly, a remote surveillance trailer is usually the fastest way to add visibility and deterrence—especially for construction sites, parking lots, and temporary risk periods. If your site is stable, has permanent infrastructure, and requires indoor coverage, installed cameras may be the better long-term fit. Many organizations use a hybrid approach: deploy a trailer now, then transition to a fixed system once the site layout and risk zones are proven.
 
-To find the right solution for you, we review the following criteria:
-
-Site type: Construction, parking lot/retail, logistics yard, event, etc.
-
-Timeline: Urgent (days), near-term (weeks), long-term (months).
-
-Coverage goal: Deterrence, evidence, real-time response, or multi-site oversight.
-
-Work with our team of security experts to find the right solution for your needs today.
+To find the right solution for you, we review the following cri

@@ -112,6 +112,4 @@ The full methodology section in the report covers data collection, aggregation, 
 
 - **Full PDF** — 47 pages, designed for screen and print
 - **Data appendix** — CSV files of the underlying VDS field data aggregations (anonymized)
-- **Citation pack** — pre-formatted citations for academic, journalism, and industry analyst use
-
-Download requires email and company name. We do not require phone numbers, job titles, 
+- **Citation pack** — pre-formatted citations for academic, j

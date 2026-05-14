@@ -78,6 +78,4 @@ A general contractor running a 28-story SoBro mixed-use tower signed two Sky Gua
 
 **Tennessee wiretap statute (Tenn. Code Ann. § 39-13-601).** Tennessee is a one-party-consent state for audio, but our units capture video only by default unless the customer has a documented business reason and signage.
 
-**Healthcare-adjacent deployments.** Where a deployment touches a HIPAA-covered entity's parking lot or perimeter — Vanderbilt, HCA, Tristar — we align retention and access procedures with the customer's HIPAA security officer. Our cloud VMS does not store PHI; deployments capture vehicles and exterior perimeter only.
-
-**Broadway and event venues.** Metro Nashville has tightened permit requirements ar
+**Healthcare-adjacent deployments.** Where a deployment touches a HIPAA-covered entity's parking lot or perimeter — Vanderbilt, HCA, Tristar — we align retention and access procedures with the customer's HIPAA security officer. Our cloud VMS does not store PHI; deployments capture vehicles and exterior perimeter o

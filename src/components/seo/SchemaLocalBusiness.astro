@@ -1,36 +1,36 @@
 ---
 export interface Props {
-  name: string;
-  description: string;
-  url: string;
-  locality: string;
-  region: string;
-  image?: string;
+ name: string;
+ description: string;
+ url: string;
+ locality: string;
+ region: string;
+ image?: string;
 }
 const { name, description, url, locality, region, image } = Astro.props;
 const json: any = {
-  "@context": "https://schema.org",
-  "@type": "LocalBusiness",
-  "@id": `${url}#localbusiness`,
-  "name": name,
-  "description": description,
-  "telephone": "+1-410-401-1986",
-  "url": url,
-  "address": {
-    "@type": "PostalAddress",
-    "addressLocality": locality,
-    "addressRegion": region,
-    "addressCountry": "US"
-  },
-  "areaServed": { "@type": "City", "name": locality },
-  "openingHoursSpecification": [{
-    "@type": "OpeningHoursSpecification",
-    "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
-    "opens": "00:00",
-    "closes": "23:59"
-  }],
-  "parentOrganization": { "@id": "https://visiondetectionsystems.com/#organization" },
-  "priceRange": "$$-$$$"
+ "@context": "https://schema.org",
+ "@type": "LocalBusiness",
+ "@id": `${url}#localbusiness`,
+ "name": name,
+ "description": description,
+ "telephone": "+1-410-401-1986",
+ "url": url,
+ "address": {
+ "@type": "PostalAddress",
+ "addressLocality": locality,
+ "addressRegion": region,
+ "addressCountry": "US"
+ },
+ "areaServed": { "@type": "City", "name": locality },
+ "openingHoursSpecification": [{
+ "@type": "OpeningHoursSpecification",
+ "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
+ "opens": "00:00",
+ "closes": "23:59"
+ }],
+ "parentOrganization": { "@id": "https://visiondetectionsystems.com/#organization" },
+ "priceRange": "$$-$$$"
 };
 if (image) json.image = image;
 ---

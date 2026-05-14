@@ -360,10 +360,4 @@ Certain situations require longer-than-standard retention periods.
 
 High-liability periods: Construction phases, major events, or increased security risks may justify 120+ day retention.
 
-Ongoing investigations: Preserve footage indefinitely when incidents are under active investigation or litigation.
-
-Regulatory requirements: Some industries have specific retention mandates that exceed general commercial practices.
-
-Get Professional Video Retention Management
-
-Setting up retention policies requires balancing legal protection, storage costs, and operational workflows. Many organizations discover their retention w
+Ongoing investigations: Preserve footage indefinitely when

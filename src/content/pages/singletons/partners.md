@@ -77,4 +77,4 @@ The economics work because we own the manufacturing, the VMS, and the SOC. There
 
 ## Where to start
 
-If you are a fit, the application process below takes about 20 minutes. We review applications within 5 business days. If we approve, onboarding takes about 30 days from contract signature to first deployment.
+If you are a fit, the application process below takes about 20 minutes. We review applications within 5 business days. If 

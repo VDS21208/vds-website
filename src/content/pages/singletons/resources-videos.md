@@ -72,4 +72,4 @@ Recorded on customer sites. No script provided to the interviewee — the questi
 
 ## Captioning and transcripts
 
-Every video on this site is captioned. Full text transcripts are available on the individual video page for accessibility an
+Every video on this site is captioned. Full t

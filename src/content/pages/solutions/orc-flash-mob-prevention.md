@@ -89,4 +89,4 @@ A West Coast specialty retailer was hit by three flash mobs in 60 days, losing $
 
 ## Pricing
 
-Single-rooftop coverage starts at **$1,500/month**. Mall and lifestyle center deployments at $5,200-$7,400/month. Regional and nation
+Single-rooftop coverage starts a

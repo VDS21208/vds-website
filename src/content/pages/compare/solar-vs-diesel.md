@@ -140,4 +140,4 @@ Three questions:
 
 2. **What's the load?** Standard surveillance (cameras + LTE + analytics): solar handles it. Adding ancillary heavy loads (heated maintenance enclosure, supplemental floodlighting): may need diesel or hybrid.
 
-3. **What's the permitting and reporting environment?** California, parts of the EU, federal sites with emissions reporting: solar removes friction. Industrial construction with existing fuel logistics: diesel is operationally fine.
+3. **What's the permitting and reporting environment?** California, parts of the 

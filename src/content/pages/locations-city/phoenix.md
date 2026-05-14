@@ -82,4 +82,4 @@ A semiconductor-supplier general contractor running a 60-acre north Phoenix supp
 
 **Copper theft enforcement.** Arizona DPS and Phoenix PD coordinate on construction-zone copper-theft cases. Our SOC escalation pattern — verified perimeter event, video evidence package, license plate capture — aligns with what their investigators ask for.
 
-**Monsoon and dust.** Panel mounting and seals are engineered for monsoon-season wind loads and the dust-stor
+**Monsoon and du

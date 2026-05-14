@@ -127,8 +127,8 @@ Yes. All VDS hardware is NDAA Section 889 compliant. Documentation including sup
 **26. What about data sovereignty?**
 All Cloud VMS data is stored in AWS US regions. We do not transit customer video data through non-US infrastructure.
 
-**27. Are you SOC 2 compliant?**
-SOC 2 Type II audit is in progress. Current status and any interim attestations are available to procurement teams on request.
+**27. Are you compliant?**
+ audit is in progress. Current status and any interim attestations are available to procurement teams on request.
 
 ## Support
 
@@ -136,7 +136,4 @@ SOC 2 Type II audit is in progress. Current status and any interim attestations 
 24/7 for active SOC alerts and platform availability. Business-hour support (8am to 8pm ET, Monday through Saturday) for configuration changes, account management, and non-urgent technical questions.
 
 **29. Who do I call if a unit goes down?**
-The SOC sees the unit go offline before you do — the platform monitors itself. The customer success team will reach out proactively. For customer-initiated requests, every active customer has a named account director with a direct line.
-
-**30. How do I escalate a complaint or a service issue?**
-Named account director f
+The SOC sees the unit go offline before you do — the platform monitors itself. The customer success team will reach out proactively. For customer-initiated r

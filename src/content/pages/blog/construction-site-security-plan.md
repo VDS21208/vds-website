@@ -358,8 +358,4 @@ Insurance company notified of security measures
 
 Weekly security reporting established
 
-Get Professional Construction Site Security
-
-Building a comprehensive construction site security plan requires balancing multiple requirements while keeping projects on schedule. Many project managers need monitoring technology and incident response capabilities that extend beyond their internal resources.
-
-Vision Detection Systems specializes in construction site security with mobi
+Get Professio

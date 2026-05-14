@@ -97,7 +97,7 @@ This is not a sales calculator that always returns a positive number. It runs yo
 **Recommended configuration**
 - Suggested unit mix (Sky Guard MSU, Swift Deploy, Boundary Guard Pro)
 - Suggested SOC coverage tier
-- Sourcewell or GSA pricing path (if applicable)
+- or GSA pricing path (if applicable)
 
 ## What the calculator does NOT do
 
@@ -124,9 +124,4 @@ Plug those numbers into the calculator yourself to verify.
 
 ## Who this is for
 
-Anyone defending a security line item to a CFO. Use the calculator output as the supporting math in a budget request, RFP justification, or insurance broker conversation.
-
-## Related products
-
-- **[Sky Guard MSU](/products/sky-guard-mobile-surveillance-trailer)** — $2,200/mo
-- **[Swift Deploy](/
+Anyone defending a security line item to a CFO. Use the calculator output as the supporting math in a budget request, RFP justification, or insurance b

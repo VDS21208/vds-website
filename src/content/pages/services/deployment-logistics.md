@@ -110,8 +110,4 @@ Active deployments today across all of the lower 48 except for Vermont and Wyomi
 
 - Concrete pad construction (most sites use the existing ground; gravel and packed dirt are fine)
 - Power tie-in (trailers are solar-autonomous; AC power is optional for high-density camera builds)
-- Long-term lease of customer-owned land — that is between the customer and the property holder
-
-## What is included
-
-Survey, transpor
+- Long-term le

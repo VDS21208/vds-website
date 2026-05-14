@@ -6,199 +6,199 @@ const { activeUrl } = Astro.props;
 
 // Default preview shown when the drawer first opens
 const SECTION_IMAGE: Record<string, { src: string; alt: string; caption: string; sub: string }> = {
-  'Products': { src: '/assets/webflow/camera-product.avif', alt: 'VDS mobile surveillance trailer', caption: 'Mobile surveillance trailers', sub: 'Solar-autonomous · AI-driven · NDAA-compliant' },
-  'Platform': { src: '/assets/webflow/frame-28.webp', alt: 'AI VisionStream dashboard', caption: 'AI VisionStream platform', sub: 'Live monitoring, alerts, analytics' },
-  'Industries': { src: '/assets/webflow/hero-security-1.avif', alt: 'Construction site surveillance', caption: '17 verticals covered', sub: 'From construction to substations' },
-  'Why VDS': { src: '/assets/webflow/hero-security-2.avif', alt: 'VDS deployment', caption: 'US-engineered. Built to last.', sub: '24/7 SOC · NDAA Section 889' },
-  'Resources': { src: '/assets/webflow/frame-29.webp', alt: 'VDS guide', caption: 'Buyer playbook', sub: 'Guides, case studies, ROI tools' },
-  'Partners': { src: '/assets/webflow/hero-security-3.avif', alt: 'VDS dealer network', caption: 'Dealer & integrator network', sub: 'Margins · training · support' },
+ 'Products': { src: '/assets/webflow/camera-product.avif', alt: 'VDS mobile surveillance trailer', caption: 'Mobile surveillance trailers', sub: 'Solar-autonomous · AI-driven · NDAA-compliant' },
+ 'Platform': { src: '/assets/webflow/frame-28.webp', alt: 'AI VisionStream dashboard', caption: 'AI VisionStream platform', sub: 'Live monitoring, alerts, analytics' },
+ 'Industries': { src: '/assets/webflow/hero-security-1.avif', alt: 'Construction site surveillance', caption: '17 verticals covered', sub: 'From construction to substations' },
+ 'Why VDS': { src: '/assets/webflow/hero-security-2.avif', alt: 'VDS deployment', caption: 'US-engineered. Built to last.', sub: '24/7 SOC · NDAA Section 889' },
+ 'Resources': { src: '/assets/webflow/frame-29.webp', alt: 'VDS guide', caption: 'Buyer playbook', sub: 'Guides, case studies, ROI tools' },
+ 'Partners': { src: '/assets/webflow/hero-security-3.avif', alt: 'VDS dealer network', caption: 'Dealer & integrator network', sub: 'Margins · training · support' },
 };
 
 // Per-link preview image (swap on hover) — mapped from URL pattern
 function previewFor(url: string): string {
-  const u = (url || '').toLowerCase();
-  if (u.includes('sky-guard')) return '/assets/webflow/product-1.avif';
-  if (u.includes('swift-deploy')) return '/assets/webflow/product-2.avif';
-  if (u.includes('boundary-guard')) return '/assets/webflow/product-3.avif';
-  if (u.includes('solar-camera-poles')) return '/assets/webflow/product-5.avif';
-  if (u.includes('livescan') || u.includes('thermal')) return '/assets/webflow/camera-product.avif';
-  if (u.includes('mobile-surveillance-trailers')) return '/assets/webflow/product-4.avif';
-  if (u.includes('/products')) return '/assets/webflow/camera-product.avif';
-  if (u.includes('visionstream') || u.includes('/platform')) return '/assets/webflow/frame-28.webp';
-  if (u.includes('construction')) return '/assets/webflow/hero-security-1.avif';
-  if (u.includes('utility') || u.includes('substation')) return '/assets/webflow/hero-security-4.avif';
-  if (u.includes('retail')) return '/assets/webflow/hero-security-3.avif';
-  if (u.includes('auto') || u.includes('dealership')) return '/assets/webflow/product-2.avif';
-  if (u.includes('parking')) return '/assets/webflow/hero-security-2.avif';
-  if (u.includes('government') || u.includes('public-safety')) return '/assets/webflow/hero-security-4.avif';
-  if (u.includes('/industries')) return '/assets/webflow/hero-security-1.avif';
-  if (u.includes('/locations') || u.includes('/service-areas')) return '/assets/webflow/hero-security-2.avif';
-  if (u.includes('/compare')) return '/assets/webflow/slider-1.webp';
-  if (u.includes('case-studies')) return '/assets/webflow/slider-2.webp';
-  if (u.includes('/blog') || u.includes('/news')) return '/assets/webflow/frame-29.webp';
-  if (u.includes('/guides')) return '/assets/webflow/frame-29.webp';
-  if (u.includes('/resources')) return '/assets/webflow/frame-29.webp';
-  if (u.includes('/about-us') || u.includes('ndaa') || u.includes('trust') || u.includes('cyber')) return '/assets/webflow/hero-security-2.avif';
-  if (u.includes('/pricing')) return '/assets/webflow/frame-30.webp';
-  if (u.includes('/integrations')) return '/assets/webflow/frame-28.webp';
-  if (u.includes('/partners') || u.includes('dealer') || u.includes('specifier')) return '/assets/webflow/hero-security-3.avif';
-  if (u.includes('/use-cases')) return '/assets/webflow/slider-3.webp';
-  return '/assets/webflow/camera-product.avif';
+ const u = (url || '').toLowerCase();
+ if (u.includes('sky-guard')) return '/assets/webflow/product-1.avif';
+ if (u.includes('swift-deploy')) return '/assets/webflow/product-2.avif';
+ if (u.includes('boundary-guard')) return '/assets/webflow/product-3.avif';
+ if (u.includes('solar-camera-poles')) return '/assets/webflow/product-5.avif';
+ if (u.includes('livescan') || u.includes('thermal')) return '/assets/webflow/camera-product.avif';
+ if (u.includes('mobile-surveillance-trailers')) return '/assets/webflow/product-4.avif';
+ if (u.includes('/products')) return '/assets/webflow/camera-product.avif';
+ if (u.includes('visionstream') || u.includes('/platform')) return '/assets/webflow/frame-28.webp';
+ if (u.includes('construction')) return '/assets/webflow/hero-security-1.avif';
+ if (u.includes('utility') || u.includes('substation')) return '/assets/webflow/hero-security-4.avif';
+ if (u.includes('retail')) return '/assets/webflow/hero-security-3.avif';
+ if (u.includes('auto') || u.includes('dealership')) return '/assets/webflow/product-2.avif';
+ if (u.includes('parking')) return '/assets/webflow/hero-security-2.avif';
+ if (u.includes('government') || u.includes('public-safety')) return '/assets/webflow/hero-security-4.avif';
+ if (u.includes('/industries')) return '/assets/webflow/hero-security-1.avif';
+ if (u.includes('/locations') || u.includes('/service-areas')) return '/assets/webflow/hero-security-2.avif';
+ if (u.includes('/compare')) return '/assets/webflow/slider-1.webp';
+ if (u.includes('case-studies')) return '/assets/webflow/slider-2.webp';
+ if (u.includes('/blog') || u.includes('/news')) return '/assets/webflow/frame-29.webp';
+ if (u.includes('/guides')) return '/assets/webflow/frame-29.webp';
+ if (u.includes('/resources')) return '/assets/webflow/frame-29.webp';
+ if (u.includes('/about-us') || u.includes('ndaa') || u.includes('trust') || u.includes('cyber')) return '/assets/webflow/hero-security-2.avif';
+ if (u.includes('/pricing')) return '/assets/webflow/frame-30.webp';
+ if (u.includes('/integrations')) return '/assets/webflow/frame-28.webp';
+ if (u.includes('/partners') || u.includes('dealer') || u.includes('specifier')) return '/assets/webflow/hero-security-3.avif';
+ if (u.includes('/use-cases')) return '/assets/webflow/slider-3.webp';
+ return '/assets/webflow/camera-product.avif';
 }
 
 function captionFor(label: string, notes: string): { title: string; sub: string } {
-  return { title: label, sub: notes || '' };
+ return { title: label, sub: notes || '' };
 }
 ---
 <div class="hidden lg:block">
-  {nav.map((section) => {
-    const img = SECTION_IMAGE[section.label] || SECTION_IMAGE['Products'];
-    return (
-      <div class="absolute left-0 right-0 top-full bg-navy-light text-white shadow-2xl border-t border-orange/30 opacity-0 invisible pointer-events-none transition-all duration-200" data-megamenu={section.label}>
-        <div class="container-wide py-8">
-          <div class="grid grid-cols-12 gap-10">
-            <!-- Left: clean link grid (no per-link icons) -->
-            <div class="col-span-7 grid grid-cols-2 gap-x-12 gap-y-1">
-              {[...section.primary, ...section.supporting].map((item: any) => (
-                <a
-                  href={item.url}
-                  class="group block py-2 px-3 -mx-3 rounded-md hover:bg-white/5 transition-colors"
-                  data-preview-img={previewFor(item.url)}
-                  data-preview-title={item.label}
-                  data-preview-sub={item.notes || ''}
-                >
-                  <div class="text-sm font-medium text-white group-hover:text-orange transition-colors leading-tight">{item.label}</div>
-                  {item.notes && <div class="text-[0.6875rem] text-white/55 mt-0.5 leading-snug line-clamp-1">{item.notes}</div>}
-                </a>
-              ))}
-            </div>
+ {nav.map((section) => {
+ const img = SECTION_IMAGE[section.label] || SECTION_IMAGE['Products'];
+ return (
+ <div class="absolute left-0 right-0 top-full bg-navy-light text-white shadow-2xl border-t border-orange/30 opacity-0 invisible pointer-events-none transition-all duration-200" data-megamenu={section.label}>
+ <div class="container-wide py-8">
+ <div class="grid grid-cols-12 gap-10">
+ <!-- Left: clean link grid (no per-link icons) -->
+ <div class="col-span-7 grid grid-cols-2 gap-x-12 gap-y-1">
+ {[...section.primary, ...section.supporting].map((item: any) => (
+ <a
+ href={item.url}
+ class="group block py-2 px-3 -mx-3 rounded-md hover:bg-white/5 transition-colors"
+ data-preview-img={previewFor(item.url)}
+ data-preview-title={item.label}
+ data-preview-sub={item.notes || ''}
+ >
+ <div class="text-sm font-medium text-white group-hover:text-orange transition-colors leading-tight">{item.label}</div>
+ {item.notes && <div class="text-[0.6875rem] text-white/55 mt-0.5 leading-snug line-clamp-1">{item.notes}</div>}
+ </a>
+ ))}
+ </div>
 
-            <!-- Right: dynamic preview image + CTAs -->
-            <div class="col-span-5 border-l border-white/10 pl-10">
-              <a
-                href={section.primary[0]?.url || '/'}
-                class="block group rounded-lg overflow-hidden mb-4 border border-white/10 hover:border-orange/40 transition-colors"
-                data-preview-card={section.label}
-                data-default-img={img.src}
-                data-default-title={img.caption}
-                data-default-sub={img.sub}
-              >
-                <div class="relative aspect-[16/10] bg-navy overflow-hidden">
-                  <img src={img.src} alt={img.alt} loading="lazy" class="absolute inset-0 w-full h-full object-cover transition-all duration-500 group-hover:scale-105" data-preview-target />
-                  <div class="absolute inset-0 bg-gradient-to-t from-navy via-navy/30 to-transparent"></div>
-                  <div class="absolute bottom-3 left-4 right-4">
-                    <div class="text-sm font-display font-medium text-white leading-tight" data-preview-title-target>{img.caption}</div>
-                    <div class="text-[0.6875rem] text-white/65 mt-0.5" data-preview-sub-target>{img.sub}</div>
-                  </div>
-                </div>
-              </a>
-              <div class="flex flex-col gap-2">
-                {section.cta.map((item: any) => (
-                  <a
-                    href={item.url}
-                    class={item.type === 'cta-primary'
-                      ? 'block text-center bg-orange hover:bg-orange-dark text-white text-xs font-medium py-2.5 px-4 rounded-sm transition-all'
-                      : 'block text-center border border-white/30 hover:border-white/50 hover:bg-white/5 text-white text-xs py-2.5 px-4 rounded-sm transition-all'}
-                  >{item.label}</a>
-                ))}
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    );
-  })}
+ <!-- Right: dynamic preview image + CTAs -->
+ <div class="col-span-5 border-l border-white/10 pl-10">
+ <a
+ href={section.primary[0]?.url || '/'}
+ class="block group rounded-lg overflow-hidden mb-4 border border-white/10 hover:border-orange/40 transition-colors"
+ data-preview-card={section.label}
+ data-default-img={img.src}
+ data-default-title={img.caption}
+ data-default-sub={img.sub}
+ >
+ <div class="relative aspect-[16/10] bg-navy overflow-hidden">
+ <img src={img.src} alt={img.alt} loading="lazy" class="absolute inset-0 w-full h-full object-cover transition-all duration-500 group-hover:scale-105" data-preview-target />
+ <div class="absolute inset-0 bg-gradient-to-t from-navy via-navy/30 to-transparent"></div>
+ <div class="absolute bottom-3 left-4 right-4">
+ <div class="text-sm font-display font-medium text-white leading-tight" data-preview-title-target>{img.caption}</div>
+ <div class="text-[0.6875rem] text-white/65 mt-0.5" data-preview-sub-target>{img.sub}</div>
+ </div>
+ </div>
+ </a>
+ <div class="flex flex-col gap-2">
+ {section.cta.map((item: any) => (
+ <a
+ href={item.url}
+ class={item.type === 'cta-primary'
+ ? 'block text-center bg-orange hover:bg-orange-dark text-white text-xs font-medium py-2.5 px-4 rounded-sm transition-all'
+ : 'block text-center border border-white/30 hover:border-white/50 hover:bg-white/5 text-white text-xs py-2.5 px-4 rounded-sm transition-all'}
+ >{item.label}</a>
+ ))}
+ </div>
+ </div>
+ </div>
+ </div>
+ </div>
+ );
+ })}
 </div>
 <script>
-  const navItems = document.querySelectorAll('[data-nav-trigger]');
-  const drawers = document.querySelectorAll('[data-megamenu]');
-  const header = document.querySelector('[data-sticky-nav]');
-  let activeDrawer: HTMLElement | null = null;
-  let closeTimer: number | undefined;
-  const closeAll = () => {
-    if (closeTimer) { window.clearTimeout(closeTimer); closeTimer = undefined; }
-    drawers.forEach(d => {
-      const el = d as HTMLElement;
-      el.classList.remove('opacity-100', 'visible', 'pointer-events-auto');
-      el.classList.add('opacity-0', 'invisible', 'pointer-events-none');
-    });
-    activeDrawer = null;
-  };
+ const navItems = document.querySelectorAll('[data-nav-trigger]');
+ const drawers = document.querySelectorAll('[data-megamenu]');
+ const header = document.querySelector('[data-sticky-nav]');
+ let activeDrawer: HTMLElement | null = null;
+ let closeTimer: number | undefined;
+ const closeAll = () => {
+ if (closeTimer) { window.clearTimeout(closeTimer); closeTimer = undefined; }
+ drawers.forEach(d => {
+ const el = d as HTMLElement;
+ el.classList.remove('opacity-100', 'visible', 'pointer-events-auto');
+ el.classList.add('opacity-0', 'invisible', 'pointer-events-none');
+ });
+ activeDrawer = null;
+ };
 
-  // Close on any scroll
-  let lastScrollY = window.scrollY;
-  window.addEventListener('scroll', () => {
-    if (Math.abs(window.scrollY - lastScrollY) > 4) closeAll();
-    lastScrollY = window.scrollY;
-  }, { passive: true });
+ // Close on any scroll
+ let lastScrollY = window.scrollY;
+ window.addEventListener('scroll', () => {
+ if (Math.abs(window.scrollY - lastScrollY) > 4) closeAll();
+ lastScrollY = window.scrollY;
+ }, { passive: true });
 
-  // Close when clicking anywhere outside the header
-  document.addEventListener('click', (e) => {
-    if (!activeDrawer) return;
-    const t = e.target as Node;
-    if (header && !header.contains(t)) closeAll();
-  });
+ // Close when clicking anywhere outside the header
+ document.addEventListener('click', (e) => {
+ if (!activeDrawer) return;
+ const t = e.target as Node;
+ if (header && !header.contains(t)) closeAll();
+ });
 
-  // Close on Escape (also handled below, but kept for completeness)
-  document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeAll(); });
+ // Close on Escape (also handled below, but kept for completeness)
+ document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeAll(); });
 
-  // Close when mouse leaves the entire header area (catches edge cases where
-  // user moves quickly off the drawer or scrolls without a triggering mouseleave)
-  if (header) {
-    header.addEventListener('mouseleave', () => {
-      if (closeTimer) window.clearTimeout(closeTimer);
-      closeTimer = window.setTimeout(closeAll, 200);
-    });
-  }
+ // Close when mouse leaves the entire header area (catches edge cases where
+ // user moves quickly off the drawer or scrolls without a triggering mouseleave)
+ if (header) {
+ header.addEventListener('mouseleave', () => {
+ if (closeTimer) window.clearTimeout(closeTimer);
+ closeTimer = window.setTimeout(closeAll, 200);
+ });
+ }
 
-  const open = (label: string) => {
-    closeAll();
-    const drawer = document.querySelector(`[data-megamenu="${label}"]`) as HTMLElement;
-    if (drawer) {
-      drawer.classList.remove('opacity-0', 'invisible', 'pointer-events-none');
-      drawer.classList.add('opacity-100', 'visible', 'pointer-events-auto');
-      activeDrawer = drawer;
-    }
-  };
+ const open = (label: string) => {
+ closeAll();
+ const drawer = document.querySelector(`[data-megamenu="${label}"]`) as HTMLElement;
+ if (drawer) {
+ drawer.classList.remove('opacity-0', 'invisible', 'pointer-events-none');
+ drawer.classList.add('opacity-100', 'visible', 'pointer-events-auto');
+ activeDrawer = drawer;
+ }
+ };
 
-  // Preview-image swap on link hover
-  drawers.forEach(drawer => {
-    const card = drawer.querySelector('[data-preview-card]') as HTMLElement | null;
-    const imgEl = drawer.querySelector('[data-preview-target]') as HTMLImageElement | null;
-    const titleEl = drawer.querySelector('[data-preview-title-target]') as HTMLElement | null;
-    const subEl = drawer.querySelector('[data-preview-sub-target]') as HTMLElement | null;
-    if (!card || !imgEl) return;
-    const defaultImg = card.getAttribute('data-default-img') || '';
-    const defaultTitle = card.getAttribute('data-default-title') || '';
-    const defaultSub = card.getAttribute('data-default-sub') || '';
-    const links = drawer.querySelectorAll('[data-preview-img]');
-    links.forEach(link => {
-      link.addEventListener('mouseenter', () => {
-        const src = link.getAttribute('data-preview-img');
-        const title = link.getAttribute('data-preview-title');
-        const sub = link.getAttribute('data-preview-sub');
-        if (src) imgEl.src = src;
-        if (titleEl && title) titleEl.textContent = title;
-        if (subEl) subEl.textContent = sub || '';
-      });
-    });
-    drawer.addEventListener('mouseleave', () => {
-      if (defaultImg) imgEl.src = defaultImg;
-      if (titleEl) titleEl.textContent = defaultTitle;
-      if (subEl) subEl.textContent = defaultSub;
-    });
-  });
+ // Preview-image swap on link hover
+ drawers.forEach(drawer => {
+ const card = drawer.querySelector('[data-preview-card]') as HTMLElement | null;
+ const imgEl = drawer.querySelector('[data-preview-target]') as HTMLImageElement | null;
+ const titleEl = drawer.querySelector('[data-preview-title-target]') as HTMLElement | null;
+ const subEl = drawer.querySelector('[data-preview-sub-target]') as HTMLElement | null;
+ if (!card || !imgEl) return;
+ const defaultImg = card.getAttribute('data-default-img') || '';
+ const defaultTitle = card.getAttribute('data-default-title') || '';
+ const defaultSub = card.getAttribute('data-default-sub') || '';
+ const links = drawer.querySelectorAll('[data-preview-img]');
+ links.forEach(link => {
+ link.addEventListener('mouseenter', () => {
+ const src = link.getAttribute('data-preview-img');
+ const title = link.getAttribute('data-preview-title');
+ const sub = link.getAttribute('data-preview-sub');
+ if (src) imgEl.src = src;
+ if (titleEl && title) titleEl.textContent = title;
+ if (subEl) subEl.textContent = sub || '';
+ });
+ });
+ drawer.addEventListener('mouseleave', () => {
+ if (defaultImg) imgEl.src = defaultImg;
+ if (titleEl) titleEl.textContent = defaultTitle;
+ if (subEl) subEl.textContent = defaultSub;
+ });
+ });
 
-  navItems.forEach(item => {
-    const label = item.getAttribute('data-nav-trigger');
-    if (!label) return;
-    item.addEventListener('mouseenter', () => { if (closeTimer) window.clearTimeout(closeTimer); open(label); });
-    item.addEventListener('mouseleave', () => { closeTimer = window.setTimeout(closeAll, 400); });
-    item.addEventListener('focus', () => open(label));
-  });
-  drawers.forEach(d => {
-    d.addEventListener('mouseenter', () => { if (closeTimer) window.clearTimeout(closeTimer); });
-    d.addEventListener('mouseleave', () => { closeTimer = window.setTimeout(closeAll, 400); });
-  });
-  document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeAll(); });
+ navItems.forEach(item => {
+ const label = item.getAttribute('data-nav-trigger');
+ if (!label) return;
+ item.addEventListener('mouseenter', () => { if (closeTimer) window.clearTimeout(closeTimer); open(label); });
+ item.addEventListener('mouseleave', () => { closeTimer = window.setTimeout(closeAll, 400); });
+ item.addEventListener('focus', () => open(label));
+ });
+ drawers.forEach(d => {
+ d.addEventListener('mouseenter', () => { if (closeTimer) window.clearTimeout(closeTimer); });
+ d.addEventListener('mouseleave', () => { closeTimer = window.setTimeout(closeAll, 400); });
+ });
+ document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeAll(); });
 </script>

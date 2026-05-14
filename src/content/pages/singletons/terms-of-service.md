@@ -103,10 +103,4 @@ These Terms are governed by the laws of the State of Maryland, without regard to
 
 ## 11. Changes to These Terms
 
-VDS may update these Terms from time to time. Material changes will be posted on this page with an updated "last updated" date. Continued use of the website after changes constitutes acceptance.
-
-## 12. Contact
-
-For questions about these Terms:
-
-**Legal contact:** legal@visiondetectionsys
+VDS may update these Terms from time to time. Material changes will be posted on this page with an updated "last updated" date. Continued use of the website after changes constitut

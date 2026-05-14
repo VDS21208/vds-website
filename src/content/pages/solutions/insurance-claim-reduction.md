@@ -104,4 +104,4 @@ The Mid-Atlantic GC hero case ran across three active sites for 12 months: **$0 
 
 ## Pricing
 
-Coverage starts at **$1,500/month** for a single Swift Deploy with full evidence package included. Most sites land at $
+Cov

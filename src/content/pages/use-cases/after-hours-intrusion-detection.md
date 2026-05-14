@@ -81,4 +81,4 @@ Our Mid-Atlantic GC case study site saw a 73% reduction in theft incidents over 
 
 ## ROI math
 
-A $28M construction site saved $340,800 over 12 months with Sky Guard MSU and SOC coverage. Hardware investment: $26,400/year. Net ROI: 12.9x. A guard service for e
+A $28M construction site saved $340,800 over 12 months with Sky Guard M

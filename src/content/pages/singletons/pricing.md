@@ -114,5 +114,4 @@ SOC is priced per site, not per camera. One $399/mo fee covers however many came
 - State and local sales tax (varies by deployment state)
 - One-time freight (typically $400-$900 per trailer one-way)
 - Optional Starlink uplink ($150/month/unit, available where cellular is unreliable)
-- Custom integrations or API engineering (quoted as a SOW)
-- Site survey travel for sites requiring on-site pre-deploy assessment
+- C

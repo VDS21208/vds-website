@@ -20,7 +20,7 @@ heroStats:
 - 70+ VA units
 - 24-48hr lead time
 - NDAA 889 compliant
-- GSA + Sourcewell active
+- GSA +  active
 heroImage: ''
 faq:
 - q: Can you provide an NDAA 889 attestation letter on contract day?
@@ -29,15 +29,15 @@ faq:
   a: Yes. Our largest VA customer runs 12 simultaneous units across four hyperscaler-tenant sites under one master agreement.
 - q: How does Virginia ALPR retention work on VDS deployments?
   a: Default 30-day rolling deletion of plate reads. Extended retention requires documented investigative request through the customer's chain. We never sell, share, or analyze plate data outside the customer account.
-- q: Is Sourcewell available for Virginia counties?
-  a: Yes. Sourcewell is an accepted cooperative contract for nearly all Virginia local government and school division procurement.
+- q: Is  available for Virginia counties?
+  a: Yes.  is an accepted cooperative contract for nearly all Virginia local government and school division procurement.
 finalCTAHeading: 889 compliance, 24-hour NoVA deployment, one phone call
 finalCTABody: Tell us the site, the asset class, and the procurement vehicle. We'll come back with a quote that clears federal compliance review.
 finalCTAButtons:
 - label: Request a Virginia quote
   url: /contact-us/
 schemaType: LocalBusiness
-internalLinks: /industries/data-centers, /compliance/ndaa-889, /procurement/gsa-sourcewell, /products/sky-guard-mobile-surveillance-trailer
+internalLinks: /industries/data-centers, /compliance/ndaa-889, /procurement/gsa-, /products/sky-guard-mobile-surveillance-trailer
 canonical: https://visiondetectionsystems.com/locations/virginia
 ogTitle: Mobile surveillance for Virginia data centers and federal-adjacent sites
 ogDescription: NDAA Section 889 compliant mobile surveillance for Virginia data centers, federal-adjacent construction, and Dominion utilities
@@ -78,6 +78,4 @@ A hyperscaler-tenant general contractor building three data centers across 140 a
 
 ## Virginia compliance and procurement
 
-NDAA Section 889 Part B compliant across the entire product line. Documented attestation on request. We carry GSA Schedule pricing for federal end customers and we're an active Sourcewell vendor, which most VA counties and the Virginia Department of General Services accept.
-
-For ALPR-enabled deployments, we comply with the Virginia Code §15.2-1726.5 retention and access framework — 30-day
+NDAA Section 889 Part B compliant across the entire product line. Documented attestation on request. We carry GSA Schedule pricing for federal end customers and we're an active vendor, which most VA counties and the Virginia Department of G

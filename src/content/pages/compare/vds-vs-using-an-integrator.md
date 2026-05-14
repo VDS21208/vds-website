@@ -120,6 +120,4 @@ VDS works with security integrators through our /partners program. If you are an
 
 **Buy direct from VDS if:**
 - Mobile surveillance is a dedicated program with its own budget line.
-- You need manufacturer-direct SOC, warranty, and engineering support.
-- You need NDAA Section 889 traceability in one document.
-- Your security committee values pu
+- You need manufacturer-direct S

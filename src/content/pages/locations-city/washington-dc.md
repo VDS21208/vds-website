@@ -82,6 +82,4 @@ A federal-prime general contractor running a multi-year secure-facility construc
 
 **SAM.gov.** Registered and current.
 
-**DC DOT permits.** Right-of-way placement in the District requires a DC DOT permit; we file on the customer's behalf. Add 5–7 business days for issuance.
-
-**FedRAMP note.** Our cloud VMS is hosted on AWS GovCloud-eligible infrastructure for 
+**DC DOT permits.** Right-of-way placement in the District requires a DC DOT permit; we file on the customer's behalf. Add 5–7 business days for issu

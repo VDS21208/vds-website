@@ -28,7 +28,7 @@ faq:
 - q: Do you charge more for distant states?
   a: 'Monthly rates are flat: Sky Guard MSU $2,200/mo, Swift Deploy $1,500/mo, Boundary Guard Pro $1,800/mo. One-time deployment freight scales with distance from Pikesville. Quote includes both.'
 - q: Which procurement vehicles can I use?
-  a: 'Sourcewell (contract #042021-VDS-equivalent terms), GSA Schedule, and several state-level cooperative contracts. Ask the regional lead which applies to your entity.'
+  a: ' (contract #042021-VDS-equivalent terms), GSA Schedule, and several state-level cooperative contracts. Ask the regional lead which applies to your entity.'
 - q: Does VDS deploy across multiple states for the same customer?
   a: Yes. Our largest active customer runs 47 units across 9 states under one master agreement and a single SOC dashboard.
 finalCTAHeading: Find your state, find your lead time
@@ -57,7 +57,7 @@ Every unit ships with the same Sky Guard MSU ($2,200/mo), Swift Deploy ($1,500/m
 - Three industries we protect most often in that state, with deployment counts where we can share them
 - Coverage zones, lead times, and pre-staged inventory locations
 - One anonymized local case study with measured outcomes
-- Procurement paths active in that state (Sourcewell, GSA, state cooperative contracts)
+- Procurement paths active in that state (, GSA, state cooperative contracts)
 - Compliance notes that matter locally — ALPR rules in California, privacy considerations in New York, NDAA posture for federal-adjacent work in Virginia
 - A state-filtered FAQ and contact form routed to the regional deployment lead
 
@@ -67,4 +67,4 @@ Maryland (HQ), Virginia, Texas, Florida, California, North Carolina, Ohio, Georg
 
 ## Don't see your state?
 
-Pick the closest listed state for representative lead time, then call us. We've deployed into Alaska, Hawaii, and territory locations on project-by-project terms.
+Pick the closest listed state for representative lead time, then 

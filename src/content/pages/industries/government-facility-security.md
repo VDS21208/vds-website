@@ -5,11 +5,11 @@ pageType: Industry Detail
 parent: /industries
 status: Launch
 seoTitle: Government Facility Security Cameras | NDAA Compliant | VDS
-metaDescription: NDAA Section 889 mobile surveillance for federal, state, and local government facilities. Motor pools, public works yards, transfer stations. Sourcewell
+metaDescription: NDAA Section 889 mobile surveillance for federal, state, and local government facilities. Motor pools, public works yards, transfer stations.
 announcementBar: ''
 h1: Security for Government Facilities
 heroEyebrow: Federal, State, County, Municipal
-heroSubhead: NDAA Section 889 compliant mobile surveillance for motor pools, public works yards, parks, transfer stations, and evidence-storage exteriors — available on Sourcewell, GSA, COSTARS, and BuyBoard.
+heroSubhead: NDAA Section 889 compliant mobile surveillance for motor pools, public works yards, parks, transfer stations, and evidence-storage exteriors — available on GSA, COSTARS, and BuyBoard.
 heroCTAPrimary:
   label: Get Cooperative Pricing
   url: /request-a-quote
@@ -26,7 +26,7 @@ faq:
 - q: Is VDS hardware NDAA Section 889 compliant?
   a: Yes. No Hikvision, Dahua, Hytera, Huawei, or ZTE components. Documentation available on request.
 - q: Which cooperative purchasing contracts can we use?
-  a: Sourcewell, GSA, COSTARS, BuyBoard, and most state cooperative contracts. We support agency-side paperwork.
+  a: GSA, COSTARS, BuyBoard, and most state cooperative contracts. We support agency-side paperwork.
 - q: Can this be classified as operational expense?
   a: Yes. Monthly all-inclusive billing typically clears as OpEx under most municipal accounting thresholds.
 - q: How is footage handled under public records requests?
@@ -42,7 +42,7 @@ schemaType: Article
 internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/boundary-guard-pro, /procurement/cooperative-contracts, /compliance/ndaa-889, /industries/public-safety-law-enforcement-surveillance, /industries
 canonical: https://visiondetectionsystems.com/industries/government-facility-security
 ogTitle: Security for Government Facilities
-ogDescription: NDAA Section 889 mobile surveillance for federal, state, and local government facilities. Motor pools, public works yards, transfer stations. Sourcewell
+ogDescription: NDAA Section 889 mobile surveillance for federal, state, and local government facilities. Motor pools, public works yards, transfer stations.
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg
 ogType: website
 robots: index, follow
@@ -56,7 +56,7 @@ notes: Lead with NDAA and cooperative purchasing — those are the actual procur
 
 Government facilities directors are buying surveillance under three pressures at once: NDAA Section 889 prohibits any covered telecom or video equipment from Hikvision, Dahua, Hytera, Huawei, or ZTE, which knocks out a significant share of the commodity camera market. Budget cycles run on the fiscal year, but the threats — copper theft from motor pools, illegal dumping at transfer stations, vandalism at public parks — don't wait for the next CIP. And procurement has to clear cooperative-purchasing rules without a sole-source justification.
 
-VDS is NDAA Section 889 compliant end-to-end, deployable in one site visit, and available on Sourcewell, GSA, COSTARS, BuyBoard, and most state cooperative contracts. Month-to-month operational expense, no capital request, no IT integration timeline.
+VDS is NDAA Section 889 compliant end-to-end, deployable in one site visit, and available on GSA, COSTARS, BuyBoard, and most state cooperative contracts. Month-to-month operational expense, no capital request, no IT integration timeline.
 
 ## How VDS protects government facility sites
 
@@ -85,14 +85,9 @@ Retention configured at 30, 60, or 90 days based on agency records retention sch
 
 VDS hardware is NDAA Section 889 compliant — verified component sourcing, no covered manufacturers. AWS Partner, Pikesville Maryland HQ, US-based SOC, US-employed monitoring operators. Available on:
 
-- **Sourcewell** (Cooperative Contract)
 - **GSA Schedule** (federal civilian and DoD eligible)
 - **COSTARS** (Pennsylvania)
 - **BuyBoard** (Texas and member states)
 - Most state and regional cooperative purchasing contracts
 
-Month-to-month after initial term, operational expense classification, no capital request required for most municipal thresholds. Standard MSA reviewable by agency counsel; no exotic terms.
-
-## Pricing
-
-Monthly all-inclusive: hardware, solar power, LTE backhaul, AI analytics, c
+Month-to-month after initial term, operational expense classification, no capital request required for most mun

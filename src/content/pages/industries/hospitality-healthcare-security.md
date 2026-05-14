@@ -83,8 +83,4 @@ Retention configured at 30 days default for HIPAA-adjacent zones, extendable to 
 
 ## Compliance and procurement
 
-VDS is HIPAA-aware on exterior surveillance: parking lot footage that incidentally captures patient arrivals is treated with retention discipline, access logging, and release-of-information governance. The facility is the data controller; VDS is the processor under the BAA when one is required. Hardware is NDAA Section 889 compliant. Available on standard MSA, month-to-month after initial term.
-
-## Pricing
-
-Monthly all-inclusive: ha
+VDS is HIPAA-aware on exterior surveillance: parking lot footage that incidentally captures patient arrivals is treated with retention discipline, access logging, and release-of-information governance. The facility is the data controller; VDS is the processor under the BAA when one is required. Hardware is NDAA Section 889 compliant. Avail

@@ -114,6 +114,4 @@ We do not run articles ghostwritten by contract agencies. We do not publish synd
 
 ## Subject matter expert availability
 
-Journalists, analysts, and customer security teams can request direct conversation with any named author for background, on-record quotes, or technical deep-dives. Routing is via the press kit page for media or the contact channel below for non-media inquiries.
-
-Standard response time: two business days for non-time-sensitive requests, same-business-day for media on deadline.
+Journalists, analysts, and customer security teams can request direct conversation with any named author for background, on-record quotes, or technical deep-dives. Routing is via the press kit page for media or the contact channel below for non-media inq

@@ -103,5 +103,4 @@ Hardware response misses are credited per-incident under enterprise plans; stand
 Following industry standard:
 
 - Force majeure events (natural disasters, regional carrier outages outside our control)
-- Customer-caused issues (network changes, account misconfiguration, denial of cellular service at the carrier level)
-- Scheduled
+- Customer-caus

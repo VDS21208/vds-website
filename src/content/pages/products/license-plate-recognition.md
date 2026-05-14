@@ -411,16 +411,4 @@ Placement at chokepoints, vehicle speed, lighting (especially at night), and cor
 
 Can LPR work at night?
 
-Yes, but nighttime performance depends on glare control, lighting design, and settings that preserve plate detail without washout.
-
-Where should LPR cameras be installed for best results?
-
-Entrances, exits, and lanes where vehicles slow down are the most reliable capture locations.
-
-Can LPR trigger alerts for unauthorized vehicles?
-
-Yes. Most commercial systems can run watchlists (authorized vs unauthorized plates) and generate alerts based on site rules.
-
-Can LPR be deployed on mobile surveillance trailers?
-
-Yes. LPR is commonly paired with rap
+Yes, but nighttime performance depends on glare control, lighting design, and settings that preserve plate detail without washo

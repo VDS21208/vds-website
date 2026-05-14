@@ -80,4 +80,4 @@ Baltimore City has no specific ordinance restricting private mobile surveillance
 
 Maryland's wiretap statute (Md. Cts. & Jud. Proc. § 10-402) is two-party-consent for audio. Our units capture video only by default; audio is disabled unless the customer has documented all-party consent.
 
-The Port of Baltimore requires TWIC-credentialed escorts and MTSA-compliant access on the secure side of terminal fencing. We've run jobs at Seagirt and
+The Port of Baltimore requires TWIC-credentialed escorts and 

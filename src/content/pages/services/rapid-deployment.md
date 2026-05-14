@@ -97,5 +97,4 @@ A two-guard 24/7 contract runs $28,000–$35,000/month in most metros. Two VDS t
 
 - Site address and gate access plan
 - Single point of contact with phone and email
-- One photo per camera location (phone photos are fine)
-- Local law enforcement non-emergency number (we register the site)
+- One photo pe

@@ -120,6 +120,4 @@ LPR is the most misunderstood AI feature in physical security right now. Vendors
 
 ## VDS LPR at a glance
 
-- 95%+ per-plate accuracy under standard lighting at supported geometries
-- Sub-3-second alert latency from capture to operator queue
-- ONVIF/RTSP camera-agnostic 
+- 95%+ per-plate accuracy under

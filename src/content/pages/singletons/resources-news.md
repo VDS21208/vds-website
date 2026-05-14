@@ -77,8 +77,4 @@ We are happy to comment on:
 - Utility copper theft and NERC CIP at distribution level
 - The SOC operations economics of human verification vs. AI-only systems
 - Mobile surveillance procurement and the NDAA Section 889 supply chain
-- The Flock camera exposure and what it means for private-property buyers
-
-We do not comment on:
-
-- Active customer incidents without cus
+- The Flock camera exposure and what it means for pri

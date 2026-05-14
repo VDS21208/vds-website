@@ -105,7 +105,3 @@ VDS deployment engineering walks through what a solar-autonomous trailer actuall
 A customer-led session on how an enterprise auto dealership group structured their 18-site program: portfolio MSA, dashboard governance, alert escalation tree, SOC integration with internal asset protection. Practical, not theoretical.
 
 [Watch On-Demand]
-
-## CPE credit
-
-Select sessions qualify for continuing professional education credit for ASIS-certified security prof

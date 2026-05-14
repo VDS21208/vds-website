@@ -1,33 +1,33 @@
 ---
 import Icon from '../icons/Icon.astro';
 export interface Props {
-  tiles?: Array<{ title: string; body: string }>;
-  heading?: string;
-  eyebrow?: string;
+ tiles?: Array<{ title: string; body: string }>;
+ heading?: string;
+ eyebrow?: string;
 }
 const { tiles = [], heading = "Key capabilities", eyebrow = "What's included" } = Astro.props;
 if (tiles.length === 0) return null;
 ---
 <section class="py-20 md:py-24 bg-offwhite relative overflow-hidden">
-  <div class="dot-pattern-light absolute inset-0 opacity-50"></div>
-  <div class="container-wide relative z-10">
-    <div class="max-w-2xl mb-12">
-      <div class="eyebrow mb-3">{eyebrow}</div>
-      <h2 class="font-display text-navy text-3xl md:text-4xl leading-tight">{heading}</h2>
-    </div>
-    <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-5">
-      {tiles.map((t, i) => (
-        <div class="bg-white border border-slate-200 rounded-xl p-7 hover:border-orange hover:shadow-lg transition-all hover:-translate-y-1 group">
-          <div class="flex items-center justify-between mb-4">
-            <span class="inline-flex items-center justify-center w-10 h-10 rounded-md bg-orange/10 text-orange group-hover:bg-orange group-hover:text-white transition-colors">
-              <Icon name="shield" size={16} />
-            </span>
-            <span class="text-[0.625rem] uppercase tracking-[0.18em] text-slate-400 font-medium">{String(i+1).padStart(2, '0')}</span>
-          </div>
-          <h3 class="font-display text-lg text-navy mb-3 leading-tight group-hover:text-orange transition-colors">{t.title}</h3>
-          <p class="text-[0.9375rem] text-slate-600 leading-relaxed">{t.body}</p>
-        </div>
-      ))}
-    </div>
-  </div>
+ <div class="dot-pattern-light absolute inset-0 opacity-50"></div>
+ <div class="container-wide relative z-10">
+ <div class="max-w-2xl mb-12">
+ <div class="eyebrow mb-3">{eyebrow}</div>
+ <h2 class="font-display text-navy text-3xl md:text-4xl leading-tight">{heading}</h2>
+ </div>
+ <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-5">
+ {tiles.map((t, i) => (
+ <div class="bg-white border border-slate-200 rounded-xl p-7 hover:border-orange hover:shadow-lg transition-all hover:-translate-y-1 group">
+ <div class="flex items-center justify-between mb-4">
+ <span class="inline-flex items-center justify-center w-10 h-10 rounded-md bg-orange/10 text-orange group-hover:bg-orange group-hover:text-white transition-colors">
+ <Icon name="shield" size={16} />
+ </span>
+ <span class="text-[0.625rem] uppercase tracking-[0.18em] text-slate-400 font-medium">{String(i+1).padStart(2, '0')}</span>
+ </div>
+ <h3 class="font-display text-lg text-navy mb-3 leading-tight group-hover:text-orange transition-colors">{t.title}</h3>
+ <p class="text-[0.9375rem] text-slate-600 leading-relaxed">{t.body}</p>
+ </div>
+ ))}
+ </div>
+ </div>
 </section>

@@ -2,244 +2,244 @@
 import Icon from '../icons/Icon.astro';
 
 export interface Props {
-  page: any;
+ page: any;
 }
 const { page } = Astro.props;
 const url = page.url || '';
 
 // Per-industry visual data — drives what the showcase displays
 type IndustryData = {
-  hero: string;
-  threats: { icon: string; label: string; stat?: string; desc: string }[];
-  analytics: { slug: string; name: string; image: string }[];
-  outcomes: { stat: string; label: string }[];
-  customers: string[];
+ hero: string;
+ threats: { icon: string; label: string; stat?: string; desc: string }[];
+ analytics: { slug: string; name: string; image: string }[];
+ outcomes: { stat: string; label: string }[];
+ customers: string[];
 };
 
 const DATA: Record<string, IndustryData> = {
-  '/industries/construction-site-security': {
-    hero: '/assets/webflow/hero-security-1.avif',
-    threats: [
-      { icon: 'shield', label: 'Copper & tool theft', stat: '$1B/yr', desc: 'FBI: US construction theft' },
-      { icon: 'eye', label: 'After-hours vandalism', stat: '<7%', desc: 'stolen equipment recovered' },
-      { icon: 'cpu', label: 'Vehicle break-ins', desc: 'Crew trucks targeted overnight' },
-    ],
-    analytics: [
-      { slug: 'object-detection', name: 'Intruder detection', image: '/assets/platform-ui/object-detection.avif' },
-      { slug: 'loitering-detection', name: 'Loitering before theft', image: '/assets/platform-ui/loitering.avif' },
-      { slug: 'ppe-hard-hat', name: 'PPE compliance', image: '/assets/platform-ui/hard-hat.avif' },
-      { slug: 'license-plate-recognition', name: 'Vehicle LPR at gate', image: '/assets/platform-ui/alpr.avif' },
-    ],
-    outcomes: [
-      { stat: '73%', label: 'theft reduction' },
-      { stat: '$340K', label: 'saved on a $28M project' },
-      { stat: '<30 min', label: 'deploy & relocate' },
-      { stat: '0', label: 'insurance claims since deploy' },
-    ],
-    customers: ['Mid-Atlantic GC', 'Northeast Builder', 'Regional Construction'],
-  },
-  '/industries/utility-substation-security': {
-    hero: '/assets/webflow/hero-security-4.avif',
-    threats: [
-      { icon: 'shield', label: 'NERC CIP-014', stat: 'Mandatory', desc: 'physical security standard' },
-      { icon: 'eye', label: 'Copper theft', stat: '$400+/lb', desc: 'scrap copper street value' },
-      { icon: 'cpu', label: 'Vandalism / sabotage', desc: 'targeted infrastructure attacks' },
-    ],
-    analytics: [
-      { slug: 'object-detection', name: 'Perimeter intrusion', image: '/assets/platform-ui/object-detection.avif' },
-      { slug: 'fire-smoke-detection', name: 'Transformer fire alerts', image: '/assets/platform-ui/fire-smoke-panel.avif' },
-      { slug: 'license-plate-recognition', name: 'Gate access logging', image: '/assets/platform-ui/alpr.avif' },
-      { slug: 'loitering-detection', name: 'Pre-theft loitering', image: '/assets/platform-ui/loitering.avif' },
-    ],
-    outcomes: [
-      { stat: '$340K', label: 'copper saved on one substation' },
-      { stat: 'CIP-014', label: 'audit-ready documentation' },
-      { stat: '24/7', label: 'thermal + radar coverage' },
-      { stat: '<60s', label: 'SOC operator escalation' },
-    ],
-    customers: ['Regional Utility', 'Co-op Operator', 'ISO/RTO Member'],
-  },
-  '/industries/retail-shopping-center-security': {
-    hero: '/assets/webflow/hero-security-3.avif',
-    threats: [
-      { icon: 'shield', label: 'ORC (Organized Retail Crime)', stat: '18% YoY', desc: 'NRF growth trajectory' },
-      { icon: 'eye', label: 'After-hours break-ins', desc: 'lot-side rear entry attacks' },
-      { icon: 'cpu', label: 'Parking lot incidents', desc: 'vehicle break-ins, assaults' },
-    ],
-    analytics: [
-      { slug: 'people-counting', name: 'Occupancy tracking', image: '/assets/platform-ui/people-counting.avif' },
-      { slug: 'loitering-detection', name: 'Pre-theft behavior', image: '/assets/platform-ui/loitering.avif' },
-      { slug: 'face-recognition', name: 'Known-offender alerts', image: '/assets/platform-ui/face-recognition.avif' },
-      { slug: 'license-plate-recognition', name: 'Parking lot LPR', image: '/assets/platform-ui/alpr.avif' },
-    ],
-    outcomes: [
-      { stat: '67%', label: 'ORC involvement is transnational' },
-      { stat: '24/7', label: 'after-hours lot coverage' },
-      { stat: '<3s', label: 'LPR alert latency' },
-      { stat: 'NDAA', label: '889 compliant' },
-    ],
-    customers: ['Big-box Retailer', 'Shopping Center Group', 'Mall Operator'],
-  },
-  '/industries/automotive-dealership-security': {
-    hero: '/assets/webflow/product-2.avif',
-    threats: [
-      { icon: 'shield', label: 'Catalytic converter theft', stat: '45K', desc: 'claims at peak' },
-      { icon: 'eye', label: 'Inventory theft', desc: 'high-end vehicles stolen overnight' },
-      { icon: 'cpu', label: 'Test-drive fraud', desc: 'plate cloning, identity theft' },
-    ],
-    analytics: [
-      { slug: 'license-plate-recognition', name: 'Inventory LPR', image: '/assets/platform-ui/alpr.avif' },
-      { slug: 'object-detection', name: 'After-hours intrusion', image: '/assets/platform-ui/object-detection.avif' },
-      { slug: 'loitering-detection', name: 'Scouting behavior', image: '/assets/platform-ui/loitering.avif' },
-      { slug: 'face-recognition', name: 'Repeat-offender alerts', image: '/assets/platform-ui/face-recognition.avif' },
-    ],
-    outcomes: [
-      { stat: '45K', label: 'catalytic claims at peak' },
-      { stat: '95%+', label: 'LPR accuracy' },
-      { stat: '<3s', label: 'alert to SOC' },
-      { stat: '<60s', label: 'audio talk-down' },
-    ],
-    customers: ['Southeast Auto Group', 'Regional Dealer Network', 'Luxury Importer'],
-  },
-  '/industries/parking-lot-garage-security': {
-    hero: '/assets/webflow/hero-security-3.avif',
-    threats: [
-      { icon: 'shield', label: 'Vehicle break-ins', desc: 'smash-and-grab patterns' },
-      { icon: 'eye', label: 'Parking fraud', stat: '$1.7B/yr', desc: 'US estimated loss' },
-      { icon: 'cpu', label: 'Vehicle theft', desc: 'organized rings target lots' },
-    ],
-    analytics: [
-      { slug: 'license-plate-recognition', name: 'Lot-entry LPR', image: '/assets/platform-ui/alpr.avif' },
-      { slug: 'people-counting', name: 'Occupancy & flow', image: '/assets/platform-ui/people-counting.avif' },
-      { slug: 'loitering-detection', name: 'Pre-theft loitering', image: '/assets/platform-ui/loitering.avif' },
-      { slug: 'object-detection', name: 'Vehicle classification', image: '/assets/platform-ui/object-detection.avif' },
-    ],
-    outcomes: [
-      { stat: '95%+', label: 'LPR accuracy' },
-      { stat: '<3s', label: 'alert latency' },
-      { stat: '24/7', label: 'coverage with solar' },
-      { stat: '$1.7B', label: 'US parking fraud annually' },
-    ],
-    customers: ['Municipal Parking', 'Airport Operator', 'University System'],
-  },
-  '/industries/public-safety-law-enforcement-surveillance': {
-    hero: '/assets/webflow/hero-security-4.avif',
-    threats: [
-      { icon: 'shield', label: 'Section 889 mandate', stat: 'NDAA', desc: 'compliance required' },
-      { icon: 'eye', label: 'Special event coverage', desc: 'temporary deployment needs' },
-      { icon: 'cpu', label: 'Hot-spot policing', desc: 'mobile surveillance for crime spikes' },
-    ],
-    analytics: [
-      { slug: 'license-plate-recognition', name: 'Hotlist matching', image: '/assets/platform-ui/alpr.avif' },
-      { slug: 'face-recognition', name: 'BOLO subject alerts', image: '/assets/platform-ui/face-recognition.avif' },
-      { slug: 'object-detection', name: 'Weapon detection', image: '/assets/platform-ui/object-detection.avif' },
-      { slug: 'people-counting', name: 'Crowd density', image: '/assets/platform-ui/people-counting.avif' },
-    ],
-    outcomes: [
-      { stat: 'NDAA', label: '889 compliant out of the box' },
-      { stat: 'Sourcewell', label: 'cooperative purchasing' },
-      { stat: 'GSA', label: 'schedule available' },
-      { stat: '<30 min', label: 'on-site to operational' },
-    ],
-    customers: ['County Sheriff', 'Municipal PD', 'State Agency'],
-  },
+ '/industries/construction-site-security': {
+ hero: '/assets/webflow/hero-security-1.avif',
+ threats: [
+ { icon: 'shield', label: 'Copper & tool theft', stat: '$1B/yr', desc: 'FBI: US construction theft' },
+ { icon: 'eye', label: 'After-hours vandalism', stat: '<7%', desc: 'stolen equipment recovered' },
+ { icon: 'cpu', label: 'Vehicle break-ins', desc: 'Crew trucks targeted overnight' },
+ ],
+ analytics: [
+ { slug: 'object-detection', name: 'Intruder detection', image: '/assets/platform-ui/object-detection.avif' },
+ { slug: 'loitering-detection', name: 'Loitering before theft', image: '/assets/platform-ui/loitering.avif' },
+ { slug: 'ppe-hard-hat', name: 'PPE compliance', image: '/assets/platform-ui/hard-hat.avif' },
+ { slug: 'license-plate-recognition', name: 'Vehicle LPR at gate', image: '/assets/platform-ui/alpr.avif' },
+ ],
+ outcomes: [
+ { stat: '73%', label: 'theft reduction' },
+ { stat: '$340K', label: 'saved on a $28M project' },
+ { stat: '<30 min', label: 'deploy & relocate' },
+ { stat: '0', label: 'insurance claims since deploy' },
+ ],
+ customers: ['Mid-Atlantic GC', 'Northeast Builder', 'Regional Construction'],
+ },
+ '/industries/utility-substation-security': {
+ hero: '/assets/webflow/hero-security-4.avif',
+ threats: [
+ { icon: 'shield', label: 'NERC CIP-014', stat: 'Mandatory', desc: 'physical security standard' },
+ { icon: 'eye', label: 'Copper theft', stat: '$400+/lb', desc: 'scrap copper street value' },
+ { icon: 'cpu', label: 'Vandalism / sabotage', desc: 'targeted infrastructure attacks' },
+ ],
+ analytics: [
+ { slug: 'object-detection', name: 'Perimeter intrusion', image: '/assets/platform-ui/object-detection.avif' },
+ { slug: 'fire-smoke-detection', name: 'Transformer fire alerts', image: '/assets/platform-ui/fire-smoke-panel.avif' },
+ { slug: 'license-plate-recognition', name: 'Gate access logging', image: '/assets/platform-ui/alpr.avif' },
+ { slug: 'loitering-detection', name: 'Pre-theft loitering', image: '/assets/platform-ui/loitering.avif' },
+ ],
+ outcomes: [
+ { stat: '$340K', label: 'copper saved on one substation' },
+ { stat: 'CIP-014', label: 'audit-ready documentation' },
+ { stat: '24/7', label: 'thermal + radar coverage' },
+ { stat: '<60s', label: 'SOC operator escalation' },
+ ],
+ customers: ['Regional Utility', 'Co-op Operator', 'ISO/RTO Member'],
+ },
+ '/industries/retail-shopping-center-security': {
+ hero: '/assets/webflow/hero-security-3.avif',
+ threats: [
+ { icon: 'shield', label: 'ORC (Organized Retail Crime)', stat: '18% YoY', desc: 'NRF growth trajectory' },
+ { icon: 'eye', label: 'After-hours break-ins', desc: 'lot-side rear entry attacks' },
+ { icon: 'cpu', label: 'Parking lot incidents', desc: 'vehicle break-ins, assaults' },
+ ],
+ analytics: [
+ { slug: 'people-counting', name: 'Occupancy tracking', image: '/assets/platform-ui/people-counting.avif' },
+ { slug: 'loitering-detection', name: 'Pre-theft behavior', image: '/assets/platform-ui/loitering.avif' },
+ { slug: 'face-recognition', name: 'Known-offender alerts', image: '/assets/platform-ui/face-recognition.avif' },
+ { slug: 'license-plate-recognition', name: 'Parking lot LPR', image: '/assets/platform-ui/alpr.avif' },
+ ],
+ outcomes: [
+ { stat: '67%', label: 'ORC involvement is transnational' },
+ { stat: '24/7', label: 'after-hours lot coverage' },
+ { stat: '<3s', label: 'LPR alert latency' },
+ { stat: 'NDAA', label: '889 compliant' },
+ ],
+ customers: ['Big-box Retailer', 'Shopping Center Group', 'Mall Operator'],
+ },
+ '/industries/automotive-dealership-security': {
+ hero: '/assets/webflow/product-2.avif',
+ threats: [
+ { icon: 'shield', label: 'Catalytic converter theft', stat: '45K', desc: 'claims at peak' },
+ { icon: 'eye', label: 'Inventory theft', desc: 'high-end vehicles stolen overnight' },
+ { icon: 'cpu', label: 'Test-drive fraud', desc: 'plate cloning, identity theft' },
+ ],
+ analytics: [
+ { slug: 'license-plate-recognition', name: 'Inventory LPR', image: '/assets/platform-ui/alpr.avif' },
+ { slug: 'object-detection', name: 'After-hours intrusion', image: '/assets/platform-ui/object-detection.avif' },
+ { slug: 'loitering-detection', name: 'Scouting behavior', image: '/assets/platform-ui/loitering.avif' },
+ { slug: 'face-recognition', name: 'Repeat-offender alerts', image: '/assets/platform-ui/face-recognition.avif' },
+ ],
+ outcomes: [
+ { stat: '45K', label: 'catalytic claims at peak' },
+ { stat: '95%+', label: 'LPR accuracy' },
+ { stat: '<3s', label: 'alert to SOC' },
+ { stat: '<60s', label: 'audio talk-down' },
+ ],
+ customers: ['Southeast Auto Group', 'Regional Dealer Network', 'Luxury Importer'],
+ },
+ '/industries/parking-lot-garage-security': {
+ hero: '/assets/webflow/hero-security-3.avif',
+ threats: [
+ { icon: 'shield', label: 'Vehicle break-ins', desc: 'smash-and-grab patterns' },
+ { icon: 'eye', label: 'Parking fraud', stat: '$1.7B/yr', desc: 'US estimated loss' },
+ { icon: 'cpu', label: 'Vehicle theft', desc: 'organized rings target lots' },
+ ],
+ analytics: [
+ { slug: 'license-plate-recognition', name: 'Lot-entry LPR', image: '/assets/platform-ui/alpr.avif' },
+ { slug: 'people-counting', name: 'Occupancy & flow', image: '/assets/platform-ui/people-counting.avif' },
+ { slug: 'loitering-detection', name: 'Pre-theft loitering', image: '/assets/platform-ui/loitering.avif' },
+ { slug: 'object-detection', name: 'Vehicle classification', image: '/assets/platform-ui/object-detection.avif' },
+ ],
+ outcomes: [
+ { stat: '95%+', label: 'LPR accuracy' },
+ { stat: '<3s', label: 'alert latency' },
+ { stat: '24/7', label: 'coverage with solar' },
+ { stat: '$1.7B', label: 'US parking fraud annually' },
+ ],
+ customers: ['Municipal Parking', 'Airport Operator', 'University System'],
+ },
+ '/industries/public-safety-law-enforcement-surveillance': {
+ hero: '/assets/webflow/hero-security-4.avif',
+ threats: [
+ { icon: 'shield', label: 'Section 889 mandate', stat: 'NDAA', desc: 'compliance required' },
+ { icon: 'eye', label: 'Special event coverage', desc: 'temporary deployment needs' },
+ { icon: 'cpu', label: 'Hot-spot policing', desc: 'mobile surveillance for crime spikes' },
+ ],
+ analytics: [
+ { slug: 'license-plate-recognition', name: 'Hotlist matching', image: '/assets/platform-ui/alpr.avif' },
+ { slug: 'face-recognition', name: 'BOLO subject alerts', image: '/assets/platform-ui/face-recognition.avif' },
+ { slug: 'object-detection', name: 'Weapon detection', image: '/assets/platform-ui/object-detection.avif' },
+ { slug: 'people-counting', name: 'Crowd density', image: '/assets/platform-ui/people-counting.avif' },
+ ],
+ outcomes: [
+ { stat: 'NDAA', label: '889 compliant out of the box' },
+ { stat: ' ', label: 'cooperative purchasing' },
+ { stat: 'GSA', label: 'schedule available' },
+ { stat: '<30 min', label: 'on-site to operational' },
+ ],
+ customers: ['County Sheriff', 'Municipal PD', 'State Agency'],
+ },
 };
 
 // Default for any industry not explicitly mapped
 const FALLBACK: IndustryData = {
-  hero: '/assets/webflow/hero-security-1.avif',
-  threats: [
-    { icon: 'shield', label: 'Theft & vandalism', desc: 'after-hours intrusion patterns' },
-    { icon: 'eye', label: 'Insurance pressure', desc: 'rising premiums, tighter requirements' },
-    { icon: 'cpu', label: 'Operational risk', desc: 'incidents that disrupt business' },
-  ],
-  analytics: [
-    { slug: 'object-detection', name: 'Intruder detection', image: '/assets/platform-ui/object-detection.avif' },
-    { slug: 'license-plate-recognition', name: 'Vehicle LPR', image: '/assets/platform-ui/alpr.avif' },
-    { slug: 'loitering-detection', name: 'Loitering detection', image: '/assets/platform-ui/loitering.avif' },
-    { slug: 'people-counting', name: 'People counting', image: '/assets/platform-ui/people-counting.avif' },
-  ],
-  outcomes: [
-    { stat: '<30 min', label: 'deploy time' },
-    { stat: '24/7', label: 'solar-autonomous coverage' },
-    { stat: '<60s', label: 'SOC operator escalation' },
-    { stat: 'NDAA', label: '889 compliant' },
-  ],
-  customers: ['Enterprise client', 'Multi-site operator', 'National account'],
+ hero: '/assets/webflow/hero-security-1.avif',
+ threats: [
+ { icon: 'shield', label: 'Theft & vandalism', desc: 'after-hours intrusion patterns' },
+ { icon: 'eye', label: 'Insurance pressure', desc: 'rising premiums, tighter requirements' },
+ { icon: 'cpu', label: 'Operational risk', desc: 'incidents that disrupt business' },
+ ],
+ analytics: [
+ { slug: 'object-detection', name: 'Intruder detection', image: '/assets/platform-ui/object-detection.avif' },
+ { slug: 'license-plate-recognition', name: 'Vehicle LPR', image: '/assets/platform-ui/alpr.avif' },
+ { slug: 'loitering-detection', name: 'Loitering detection', image: '/assets/platform-ui/loitering.avif' },
+ { slug: 'people-counting', name: 'People counting', image: '/assets/platform-ui/people-counting.avif' },
+ ],
+ outcomes: [
+ { stat: '<30 min', label: 'deploy time' },
+ { stat: '24/7', label: 'solar-autonomous coverage' },
+ { stat: '<60s', label: 'SOC operator escalation' },
+ { stat: 'NDAA', label: '889 compliant' },
+ ],
+ customers: ['Enterprise client', 'Multi-site operator', 'National account'],
 };
 
 const d = DATA[url] || FALLBACK;
 ---
 <!-- THREAT GRID -->
 <section class="bg-offwhite py-20 md:py-24 relative overflow-hidden">
-  <div class="dot-pattern-light absolute inset-0 opacity-50"></div>
-  <div class="container-wide relative z-10">
-    <div class="grid lg:grid-cols-12 gap-10 mb-12 items-end">
-      <div class="lg:col-span-7">
-        <div class="eyebrow mb-3">The problem</div>
-        <h2 class="font-display text-navy text-3xl md:text-4xl leading-tight">What's putting<br/><span class="gradient-text-dark">your sites at risk.</span></h2>
-      </div>
-      <div class="lg:col-span-5">
-        <p class="text-slate-600 leading-relaxed">VDS targets the threat patterns this industry sees every day — pre-mapped to the AI analytics that catch them.</p>
-      </div>
-    </div>
-    <div class="grid md:grid-cols-3 gap-5">
-      {d.threats.map((t) => (
-        <div class="bg-white border border-slate-200 rounded-xl p-7 hover:border-orange transition-colors">
-          <div class="flex items-center justify-between mb-4">
-            <span class="inline-flex items-center justify-center w-10 h-10 rounded-md bg-orange/10 text-orange"><Icon name={t.icon} size={18} /></span>
-            {t.stat && <span class="font-display text-2xl text-orange">{t.stat}</span>}
-          </div>
-          <h3 class="font-display text-lg text-navy mb-2">{t.label}</h3>
-          <p class="text-sm text-slate-600 leading-relaxed">{t.desc}</p>
-        </div>
-      ))}
-    </div>
-  </div>
+ <div class="dot-pattern-light absolute inset-0 opacity-50"></div>
+ <div class="container-wide relative z-10">
+ <div class="grid lg:grid-cols-12 gap-10 mb-12 items-end">
+ <div class="lg:col-span-7">
+ <div class="eyebrow mb-3">The problem</div>
+ <h2 class="font-display text-navy text-3xl md:text-4xl leading-tight">What's putting<br/><span class="gradient-text-dark">your sites at risk.</span></h2>
+ </div>
+ <div class="lg:col-span-5">
+ <p class="text-slate-600 leading-relaxed">VDS targets the threat patterns this industry sees every day — pre-mapped to the AI analytics that catch them.</p>
+ </div>
+ </div>
+ <div class="grid md:grid-cols-3 gap-5">
+ {d.threats.map((t) => (
+ <div class="bg-white border border-slate-200 rounded-xl p-7 hover:border-orange transition-colors">
+ <div class="flex items-center justify-between mb-4">
+ <span class="inline-flex items-center justify-center w-10 h-10 rounded-md bg-orange/10 text-orange"><Icon name={t.icon} size={18} /></span>
+ {t.stat && <span class="font-display text-2xl text-orange">{t.stat}</span>}
+ </div>
+ <h3 class="font-display text-lg text-navy mb-2">{t.label}</h3>
+ <p class="text-sm text-slate-600 leading-relaxed">{t.desc}</p>
+ </div>
+ ))}
+ </div>
+ </div>
 </section>
 
 <!-- ANALYTICS FOR THIS INDUSTRY -->
 <section class="bg-white py-20 md:py-24">
-  <div class="container-wide">
-    <div class="flex items-end justify-between flex-wrap gap-6 mb-12">
-      <div class="max-w-2xl">
-        <div class="eyebrow mb-3">AI Analytics</div>
-        <h2 class="font-display text-navy text-3xl md:text-4xl leading-tight">The analytics<br/><span class="gradient-text-dark">that solve this industry.</span></h2>
-      </div>
-      <a href="/platform/analytics/" class="inline-flex items-center gap-2 text-navy hover:text-orange font-medium border-b border-navy/30 hover:border-orange pb-1 transition-colors">All AI analytics <Icon name="arrow-right" size={16} /></a>
-    </div>
-    <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-5">
-      {d.analytics.map((a) => (
-        <a href={`/platform/analytics/${a.slug}/`} class="group bg-offwhite border border-slate-200 rounded-xl overflow-hidden hover:border-orange hover:shadow-lg transition-all hover:-translate-y-1">
-          <div class="aspect-[16/10] bg-navy overflow-hidden relative">
-            <img src={a.image} alt={a.name} loading="lazy" class="absolute inset-0 w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" />
-          </div>
-          <div class="p-5">
-            <h3 class="font-display text-base text-navy group-hover:text-orange transition-colors mb-1">{a.name}</h3>
-            <span class="inline-flex items-center gap-1 text-xs text-orange font-medium group-hover:gap-2 transition-all">Learn more <Icon name="arrow-right" size={12} /></span>
-          </div>
-        </a>
-      ))}
-    </div>
-  </div>
+ <div class="container-wide">
+ <div class="flex items-end justify-between flex-wrap gap-6 mb-12">
+ <div class="max-w-2xl">
+ <div class="eyebrow mb-3">AI Analytics</div>
+ <h2 class="font-display text-navy text-3xl md:text-4xl leading-tight">The analytics<br/><span class="gradient-text-dark">that solve this industry.</span></h2>
+ </div>
+ <a href="/platform/analytics/" class="inline-flex items-center gap-2 text-navy hover:text-orange font-medium border-b border-navy/30 hover:border-orange pb-1 transition-colors">All AI analytics <Icon name="arrow-right" size={16} /></a>
+ </div>
+ <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-5">
+ {d.analytics.map((a) => (
+ <a href={`/platform/analytics/${a.slug}/`} class="group bg-offwhite border border-slate-200 rounded-xl overflow-hidden hover:border-orange hover:shadow-lg transition-all hover:-translate-y-1">
+ <div class="aspect-[16/10] bg-navy overflow-hidden relative">
+ <img src={a.image} alt={a.name} loading="lazy" class="absolute inset-0 w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" />
+ </div>
+ <div class="p-5">
+ <h3 class="font-display text-base text-navy group-hover:text-orange transition-colors mb-1">{a.name}</h3>
+ <span class="inline-flex items-center gap-1 text-xs text-orange font-medium group-hover:gap-2 transition-all">Learn more <Icon name="arrow-right" size={12} /></span>
+ </div>
+ </a>
+ ))}
+ </div>
+ </div>
 </section>
 
 <!-- OUTCOMES BAND -->
 <section class="bg-navy text-white py-20 md:py-24 relative overflow-hidden">
-  <div class="dot-pattern absolute inset-0 opacity-15"></div>
-  <div class="hero-orb-layer">
-    <div class="gradient-orb gradient-orb-orange" style="width:600px;height:600px;top:-200px;right:-150px;opacity:0.2;"></div>
-  </div>
-  <div class="container-wide relative z-10">
-    <div class="eyebrow mb-3">Outcomes</div>
-    <h2 class="font-display text-3xl md:text-4xl leading-tight mb-12 max-w-3xl">What field deployments<br/><span class="gradient-text">actually produce.</span></h2>
-    <div class="grid grid-cols-2 md:grid-cols-4 gap-6 md:gap-10">
-      {d.outcomes.map((o) => (
-        <div>
-          <div class="font-display text-5xl md:text-6xl text-orange leading-none">{o.stat}</div>
-          <div class="text-xs uppercase tracking-[0.15em] text-white/55 mt-3">{o.label}</div>
-        </div>
-      ))}
-    </div>
-  </div>
+ <div class="dot-pattern absolute inset-0 opacity-15"></div>
+ <div class="hero-orb-layer">
+ <div class="gradient-orb gradient-orb-orange" style="width:600px;height:600px;top:-200px;right:-150px;opacity:0.2;"></div>
+ </div>
+ <div class="container-wide relative z-10">
+ <div class="eyebrow mb-3">Outcomes</div>
+ <h2 class="font-display text-3xl md:text-4xl leading-tight mb-12 max-w-3xl">What field deployments<br/><span class="gradient-text">actually produce.</span></h2>
+ <div class="grid grid-cols-2 md:grid-cols-4 gap-6 md:gap-10">
+ {d.outcomes.map((o) => (
+ <div>
+ <div class="font-display text-5xl md:text-6xl text-orange leading-none">{o.stat}</div>
+ <div class="text-xs uppercase tracking-[0.15em] text-white/55 mt-3">{o.label}</div>
+ </div>
+ ))}
+ </div>
+ </div>
 </section>
