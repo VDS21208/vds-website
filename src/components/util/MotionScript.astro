@@ -1,102 +1,6 @@
 <script is:inline>
 (function() {
-  if (typeof window === 'undefined' || !('IntersectionObserver' in window)) return;
-  const prefersReduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-  if (prefersReduced) {
-    document.querySelectorAll('.reveal').forEach(el => el.classList.add('is-visible'));
-    return;
-  }
-
-  // 1. Auto-tag candidates for scroll-reveal
-  document.querySelectorAll('section').forEach((el) => {
-    if (el.closest('header, footer')) return;
-    if (el.classList.contains('reveal')) return;
-    if (el.dataset.noReveal !== undefined) return;
-    el.classList.add('reveal');
-  });
-
-  // 2. Hero spotlight mouse-follow
-  document.querySelectorAll('[data-hero-spotlight]').forEach((section) => {
-    const spotlight = section.querySelector('.hero-spotlight');
-    if (!spotlight) return;
-    section.addEventListener('mousemove', (e) => {
-      const r = section.getBoundingClientRect();
-      const mx = ((e.clientX - r.left) / r.width * 100);
-      const my = ((e.clientY - r.top) / r.height * 100);
-      spotlight.style.setProperty('--mx', mx + '%');
-      spotlight.style.setProperty('--my', my + '%');
-    });
-  });
-
-  // 3. Cursor spotlight on cards
-  document.querySelectorAll('.cursor-spotlight, .spotlight-card').forEach(card => {
-    card.addEventListener('mousemove', (e) => {
-      const r = card.getBoundingClientRect();
-      const x = ((e.clientX - r.left) / r.width * 100);
-      const y = ((e.clientY - r.top) / r.height * 100);
-      card.style.setProperty('--cmx', x + '%');
-      card.style.setProperty('--cmy', y + '%');
-      card.style.setProperty('--mx', x + '%');
-      card.style.setProperty('--my', y + '%');
-    });
-  });
-
-  // 4. 3D Tilt cards
-  document.querySelectorAll('[data-tilt]').forEach((card) => {
-    const inner = card.querySelector('.tilt-card-inner') || card;
-    const maxTilt = parseFloat(card.dataset.tiltMax || '8');
-    let raf;
-    card.addEventListener('mousemove', (e) => {
-      const r = card.getBoundingClientRect();
-      const x = (e.clientX - r.left) / r.width;
-      const y = (e.clientY - r.top) / r.height;
-      const tiltX = (y - 0.5) * -maxTilt * 2;
-      const tiltY = (x - 0.5) * maxTilt * 2;
-      cancelAnimationFrame(raf);
-      raf = requestAnimationFrame(() => {
-        inner.style.transform = `perspective(1000px) rotateX(${tiltX}deg) rotateY(${tiltY}deg) translateZ(10px)`;
-      });
-    });
-    card.addEventListener('mouseleave', () => {
-      cancelAnimationFrame(raf);
-      inner.style.transform = '';
-    });
-  });
-
-  // 5. Reveal-on-scroll observer
-  const obs = new IntersectionObserver((entries) => {
-    entries.forEach((e) => {
-      if (e.isIntersecting) {
-        e.target.classList.add('is-visible');
-        // Trigger count-up if applicable
-        const counters = e.target.querySelectorAll('[data-target]');
-        counters.forEach(animateCounter);
-        // Trigger comparison table row stagger
-        if (e.target.classList.contains('sticky-compare-table')) {
-          const rows = e.target.querySelectorAll('tbody tr');
-          rows.forEach((r, i) => {
-            setTimeout(() => r.classList.add('is-visible'), i * 60);
-          });
-        }
-        obs.unobserve(e.target);
-      }
-    });
-  }, { threshold: 0.08, rootMargin: '0px 0px -6% 0px' });
-  document.querySelectorAll('.reveal, .sticky-compare-table').forEach((el) => obs.observe(el));
-
-  // 6. Color-shifting scroll backgrounds
-  const colorSections = document.querySelectorAll('[data-scroll-bg]');
-  if (colorSections.length > 0) {
-    const bgObs = new IntersectionObserver((entries) => {
-      entries.forEach((e) => {
-        if (e.isIntersecting && e.intersectionRatio > 0.4) {
-          const color = e.target.dataset.scrollBg;
-          if (color) document.body.style.backgroundColor = color;
-        }
-      });
-    }, { threshold: [0, 0.4, 0.8] });
-    colorSections.forEach(s => bgObs.observe(s));
-  }
+  if (typeof window === 'undefined') return;
 
   function animateCounter(el) {
     const targetStr = el.getAttribute('data-target') || '';
@@ -120,11 +24,148 @@
     }
     requestAnimationFrame(tick);
   }
-})();
 
-// Re-run on Astro page transitions
-document.addEventListener('astro:after-swap', () => {
-  // Force re-initialization
-  window.dispatchEvent(new Event('motion:reinit'));
-});
+  function init() {
+    if (!('IntersectionObserver' in window)) {
+      // Older browsers: just mark everything visible immediately
+      document.querySelectorAll('.reveal').forEach(el => el.classList.add('is-visible'));
+      return;
+    }
+
+    const prefersReduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    if (prefersReduced) {
+      document.querySelectorAll('.reveal').forEach(el => el.classList.add('is-visible'));
+      return;
+    }
+
+    // Auto-tag section candidates (only if not already tagged)
+    document.querySelectorAll('section').forEach((el) => {
+      if (el.closest('header, footer')) return;
+      if (el.classList.contains('reveal')) return;
+      if (el.classList.contains('is-visible')) return;
+      if (el.dataset.noReveal !== undefined) return;
+      el.classList.add('reveal');
+    });
+
+    // Hero spotlight mouse-follow
+    document.querySelectorAll('[data-hero-spotlight]').forEach((section) => {
+      if (section.dataset.spotlightWired) return;
+      section.dataset.spotlightWired = '1';
+      const spotlight = section.querySelector('.hero-spotlight');
+      if (!spotlight) return;
+      section.addEventListener('mousemove', (e) => {
+        const r = section.getBoundingClientRect();
+        const mx = ((e.clientX - r.left) / r.width * 100);
+        const my = ((e.clientY - r.top) / r.height * 100);
+        spotlight.style.setProperty('--mx', mx + '%');
+        spotlight.style.setProperty('--my', my + '%');
+      });
+    });
+
+    // Cursor spotlight on cards
+    document.querySelectorAll('.cursor-spotlight, .spotlight-card').forEach(card => {
+      if (card.dataset.spotlightWired) return;
+      card.dataset.spotlightWired = '1';
+      card.addEventListener('mousemove', (e) => {
+        const r = card.getBoundingClientRect();
+        const x = ((e.clientX - r.left) / r.width * 100);
+        const y = ((e.clientY - r.top) / r.height * 100);
+        card.style.setProperty('--cmx', x + '%');
+        card.style.setProperty('--cmy', y + '%');
+        card.style.setProperty('--mx', x + '%');
+        card.style.setProperty('--my', y + '%');
+      });
+    });
+
+    // 3D Tilt cards
+    document.querySelectorAll('[data-tilt]').forEach((card) => {
+      if (card.dataset.tiltWired) return;
+      card.dataset.tiltWired = '1';
+      const inner = card.querySelector('.tilt-card-inner') || card;
+      const maxTilt = parseFloat(card.dataset.tiltMax || '8');
+      let raf;
+      card.addEventListener('mousemove', (e) => {
+        const r = card.getBoundingClientRect();
+        const x = (e.clientX - r.left) / r.width;
+        const y = (e.clientY - r.top) / r.height;
+        const tiltX = (y - 0.5) * -maxTilt * 2;
+        const tiltY = (x - 0.5) * maxTilt * 2;
+        cancelAnimationFrame(raf);
+        raf = requestAnimationFrame(() => {
+          inner.style.transform = `perspective(1000px) rotateX(${tiltX}deg) rotateY(${tiltY}deg) translateZ(10px)`;
+        });
+      });
+      card.addEventListener('mouseleave', () => {
+        cancelAnimationFrame(raf);
+        inner.style.transform = '';
+      });
+    });
+
+    // Reveal-on-scroll observer
+    const obs = new IntersectionObserver((entries) => {
+      entries.forEach((e) => {
+        if (e.isIntersecting) {
+          e.target.classList.add('is-visible');
+          const counters = e.target.querySelectorAll('[data-target]');
+          counters.forEach(animateCounter);
+          if (e.target.classList.contains('sticky-compare-table')) {
+            const rows = e.target.querySelectorAll('tbody tr');
+            rows.forEach((r, i) => {
+              setTimeout(() => r.classList.add('is-visible'), i * 60);
+            });
+          }
+          obs.unobserve(e.target);
+        }
+      });
+    }, { threshold: 0.08, rootMargin: '0px 0px -6% 0px' });
+
+    document.querySelectorAll('.reveal:not(.is-visible)').forEach((el) => obs.observe(el));
+
+    // === SAFETY NET ===
+    // If a .reveal element is already in the viewport at init time, the observer
+    // may not fire immediately. Force-check on next frame.
+    requestAnimationFrame(() => {
+      document.querySelectorAll('.reveal:not(.is-visible)').forEach(el => {
+        const r = el.getBoundingClientRect();
+        if (r.top < window.innerHeight && r.bottom > 0) {
+          el.classList.add('is-visible');
+          el.querySelectorAll('[data-target]').forEach(animateCounter);
+        }
+      });
+    });
+
+    // === ULTIMATE SAFETY NET ===
+    // Anything still hidden after 2 seconds gets force-revealed.
+    setTimeout(() => {
+      document.querySelectorAll('.reveal:not(.is-visible)').forEach(el => {
+        el.classList.add('is-visible');
+      });
+    }, 2000);
+
+    // Color-shifting scroll backgrounds
+    const colorSections = document.querySelectorAll('[data-scroll-bg]');
+    if (colorSections.length > 0) {
+      const bgObs = new IntersectionObserver((entries) => {
+        entries.forEach((e) => {
+          if (e.isIntersecting && e.intersectionRatio > 0.4) {
+            const color = e.target.dataset.scrollBg;
+            if (color) document.body.style.backgroundColor = color;
+          }
+        });
+      }, { threshold: [0, 0.4, 0.8] });
+      colorSections.forEach(s => bgObs.observe(s));
+    }
+  }
+
+  // Initial run
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+
+  // Re-run on Astro page transitions
+  document.addEventListener('astro:after-swap', init);
+  document.addEventListener('astro:page-load', init);
+})();
 </script>
