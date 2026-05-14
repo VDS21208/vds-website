@@ -79,4 +79,4 @@ The SOC operator pulls live video the moment a rule fires. Audio talk-down throu
 
 ## ROI math
 
-A property with one to two dumping incidents per month at $800 average cleanup is losing $9,600 to $19,200 per year. A single Swift Deploy at $18,000/year prevents the recurring cleanup, the regulatory exposure, and the tenant complaint cycle. Most sites see incidents drop to zero within 60 days of deployment as repeat offenders move on to easier targets.
+A property with one to two dumping incidents per month at $800 average cleanup is losing $9,600 to $19,200 per year. A single Swift Deploy at $18,000/year prevents the recurring cleanup, the regulatory exposure, and the tenant complaint cycle. Most sites see incidents drop to 

@@ -78,4 +78,4 @@ A Navy Yard redevelopment GC running a 14-month industrial-conversion project si
 
 **Pennsylvania wiretap law.** PA is two-party consent for audio (18 Pa.C.S. § 5703–5704). Our units capture video only by default; audio is disabled unless the customer has documented all-party consent.
 
-**Philadelphia Parking Authority.** Some Center City deployments interact with PPA-managed curbside zones. We coordinate with the PPA on placement and confirm any required permits before deployment.
+**Philadelphia Parking Authority.** Some Center City deployments interact with PPA-managed curbside zones. We coordinat

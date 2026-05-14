@@ -96,9 +96,9 @@ We use this exact framework with prospects in pre-sales engagements. Publishing 
 
 A few of the more useful excerpts, free, no form:
 
-- [The 6 questions to ask before you start specifying](/guides/mobile-surveillance-trailers-questions)
-- [How to read an AI accuracy claim without getting taken](/guides/mobile-surveillance-trailers-accuracy)
-- [A 3-year TCO template for a 4-camera trailer](/guides/mobile-surveillance-trailers-template)
+- [The 6 questions to ask before you start specifying](/guides/mobile-surveillance-trailers/#questions)
+- [How to read an AI accuracy claim without getting taken](/guides/mobile-surveillance-trailers/#accuracy)
+- [A 3-year TCO template for a 4-camera trailer](/guides/mobile-surveillance-trailers/#template)
 
 ## Who wrote it
 
@@ -106,4 +106,4 @@ The hardware sections were written by our senior engineers, the software section
 
 ## How to use it
 
-The fastest path: download, jump to Part 5, read the RFP language, take it to your procurement team. The thorough path: read Parts 1-4 first, then build your own spec, then use Part 5 to write the RFP. Either way, when you are ready to vet vendors, the questions from Parts 2-4 are the right ones to ask.
+The fastest path: download, jump to Part 5, read the RFP language, take it to your procurement team. The thorough path: read Parts 1-4 first, then build your own spec, then use Part 5 to write the 

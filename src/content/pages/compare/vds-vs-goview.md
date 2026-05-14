@@ -117,5 +117,4 @@ If you are running GoView units today and want to evaluate a transition:
 
 1. **Site review** — VDS engineer maps your current sites, retention requirements, and any existing cameras (ONVIF/RTSP are ingested by AI VisionStream at no extra license cost).
 2. **SOC onboarding** — Escalation tree, named contacts, dispatch boundaries, and audio talk-down scripts built in week 1.
-3. **Live cutover** — Hardware swap or parallel run during week 2. No coverage gap.
-4. **Demobilization** — Old units off-site after VDS hits steady state, typically end of week 3.
+3. **Live cutover** — Hardware swap or parallel run during week 

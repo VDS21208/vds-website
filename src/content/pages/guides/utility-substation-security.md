@@ -97,4 +97,4 @@ Utility security directors, NERC compliance officers, transmission planners, coo
 
 - **[Sky Guard MSU](/products/sky-guard-mobile-surveillance-trailer)** — $2,200/mo. Primary substation deployment unit.
 - **[Boundary Guard Pro](/products/boundary-guard-pro)** — $1,800/mo. Fence-line and perimeter analytics.
-- **[Swift Deploy](/products/swift-deploy-surveillance-trailer)** — $1,500/mo. Construction phase or temporary supplement during permanent installation.
+- **[Swift Deploy](/products/swift-deploy-surveillance-t

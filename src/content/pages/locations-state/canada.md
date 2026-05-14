@@ -86,4 +86,4 @@ This is engineering and operations work, not marketing copy. We won't claim Cana
 
 ## Get notified when VDS launches in Canada
 
-If you want a heads-up when we open Canadian operations, drop your email. We'll contact you with a launch date, regional coverage, and pricing — and only then. No drip campaign in the meantime.
+If you want a heads-up when we open Canadian operations, drop your email. We'll contact you with a launch da

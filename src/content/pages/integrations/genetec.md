@@ -84,4 +84,4 @@ For a customer already running Security Center 5.10 or later: 2 to 5 business da
 
 ## Pricing
 
-The Genetec integration is included with any AI VisionStream subscription tier. There is no per-camera connector fee on the VDS side. Genetec licensing (camera connections, AutoVu, Federation) follows standard Genetec channel pricing — VDS does not resell it.
+The Genetec integration is included with any AI VisionStream subscription tier. There is no per-camera connector fee on the VDS side. Genetec licensing (camera connections, Aut

@@ -86,7 +86,3 @@ VDS's posture on this: retention is configurable per customer, per camera, per d
 ## The procurement summary
 
 The Flock exposure did not change the underlying technology. It changed the procurement questions. A private-property buyer in 2026 should expect their vendor to answer the three questions above in writing, on letterhead, before contract signature. Vendors who hedge on any of the three are telling you something about how they will behave when the regulatory environment tightens.
-
-This is not a hard list. It is becoming a baseline list.
-
-— A VDS account director

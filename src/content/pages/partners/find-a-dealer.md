@@ -92,4 +92,4 @@ When two dealers serve your region:
 
 ## Reporting a dealer issue
 
-If you are a customer or prospect and you have had a problem with a VDS-authorized dealer, contact the channel team at **partners@visiondetectionsystems.com** with subject "Dealer concern — [Dealer Name]." We investigate every reported issue. Dealer agreement violations are grounds for action up to and including termination.
+If you are a customer or prospect and you have had a problem with a VDS-authorized dealer, contact the channel team at **partners@visiondetectionsystems.com** with subject "Dealer concern — [Dealer Name]." We investigate every report

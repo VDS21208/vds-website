@@ -87,4 +87,4 @@ VDS is HIPAA-aware on exterior surveillance: parking lot footage that incidental
 
 ## Pricing
 
-Monthly all-inclusive: hardware, solar power, LTE backhaul, AI analytics, cloud storage, and 24/7 SOC monitoring.
+Monthly all-inclusive: ha

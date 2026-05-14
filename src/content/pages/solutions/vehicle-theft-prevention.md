@@ -88,4 +88,4 @@ A 240-unit GM dealer in the Southeast had three flatbed pulls in 90 days, losing
 
 ## Pricing
 
-Storage yard coverage starts at **$1,500/month**. Mid-sized dealers land at **$3,700/month**. Large groups and storage compounds at $5,200-$8,400/month. No capex.
+Storage yard coverage starts at **$1,500/month**. Mid-sized dealers land 

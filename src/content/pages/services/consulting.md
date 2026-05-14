@@ -110,6 +110,4 @@ Done together, the three deliverables form a security posture report that goes t
 
 ## Who does the consulting
 
-VDS senior engineers with 10+ years of physical security infrastructure experience. Backgrounds across DoD, federal LE, critical infrastructure, and commercial construction. Not third-party consultants. Not the SDR who quoted your trailer.
-
-Engagements are billed flat-fee, not T&M. We don't pad hours.
+VDS senior engineers with 10+ years of physical security infrastructure experience. Backgrounds across DoD, federal LE, critical infrastructure, and commercial construction. Not third-party c

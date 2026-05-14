@@ -147,4 +147,4 @@ Full break-even math is on [Buy vs Rent](/solutions/buy-vs-rent-mobile-surveilla
 
 ## Insurance and liability
 
-You'll need a Certificate of Insurance naming VDS as additional insured. Most general liability policies cover the trailer for standard perils. Theft and vandalism are covered under our damage waiver ($75/mo) or your insurance, your choice.
+You'll need a Certificate of Insurance naming VDS as additional insured. Most general liabil

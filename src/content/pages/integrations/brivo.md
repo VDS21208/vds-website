@@ -77,4 +77,4 @@ For a customer with an active Brivo account: 2 to 4 business days. Required on c
 
 ## Pricing
 
-The Brivo integration is included with any AI VisionStream enterprise subscription. Brivo licensing follows standard Brivo pricing — VDS does not resell.
+The Brivo integration is included with any AI VisionStream enterprise subscri

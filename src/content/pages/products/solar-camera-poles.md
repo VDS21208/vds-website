@@ -76,4 +76,4 @@ Same AI VisionStream account as your trailers. Same SOC. Same audit log. Mix fix
 
 ## Pricing
 
-Configured per site. Most fixed pole deployments price lower per year than equivalent trailer leases when the engagement runs 24+ months.
+Configured per site. Most fixed pole deployments price lower

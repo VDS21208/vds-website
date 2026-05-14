@@ -423,12 +423,4 @@ Yes. Most commercial systems can run watchlists (authorized vs unauthorized plat
 
 Can LPR be deployed on mobile surveillance trailers?
 
-Yes. LPR is commonly paired with rapid deployment platforms for construction sites, temporary risk periods, and locations without ready infrastructure.
-
-MAKE THESE TESTIMONIALS SPECIFIC TO THE MOBILE SURVEILLANCE PRODUCT
-
-
-
-## Protect Every Vehicle Entry—With Real-Time LPR Alerts.
-
-Get an LPR solution that captures plates reliably at entrances and chokepoints, flags vehicles of interest, and creates searchable reports your team can act on—day or night.
+Yes. LPR is commonly paired with rap

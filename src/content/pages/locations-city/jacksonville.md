@@ -80,4 +80,4 @@ An auto auction operator running a 40-acre vehicle staging yard inland of the po
 
 **Florida wiretap statute (Fla. Stat. § 934.03).** Florida is a two-party-consent state for audio. Our units capture video only by default; audio is disabled unless the customer has documented all-party consent.
 
-**Port of Jacksonville access.** TWIC credentialing applies on the secure side of JAXPORT terminal fencing. Our deployment crew is current on the credentialing.
+**Port of Jacksonville access.** TWIC credentialing applies on the secure side 

@@ -15,7 +15,7 @@ heroCTAPrimary:
   url: /request-a-quote
 heroCTASecondary:
   label: Download Spec Sheet
-  url: /downloads/boundary-guard-pro-spec.pdf
+  url: /products/boundary-guard-pro/
 heroStats:
 - 500+ ft coverage
 - 0 blind spots
@@ -84,4 +84,4 @@ Boundary Guard Pro is built around overlapping fixed sensors plus PTZ for verifi
 
 Long construction fence lines. Material yards. Solar farm perimeters. Utility substations. Quarries. Logistics yards. Anywhere "we need to watch the whole fence, not just the gate" is the requirement.
 
-A typical 1,000ft perimeter runs two Boundary Guard Pro units for full coverage. A 2,000ft perimeter runs three units staggered. We will scope it.
+A typical 1,000ft perimeter runs two Boundary Guard Pro units

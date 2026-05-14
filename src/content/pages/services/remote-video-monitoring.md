@@ -375,12 +375,4 @@ Modern, intuitive interface designed for fast adoption with minimal training
 
 Reliable performance backed by 24/7 U.S.-based support for operational continuity
 
-If you’re using remote video monitoring to reduce after-hours incidents and improve response, Vision Detection Systems helps standardize how events are detected, verified, documented, and reported—so outcomes are repeatable across every location.
-
-Replace testimonials with specific ones for remote video monitoring
-
-
-
-## Remote Video Monitoring That Turns Cameras into Response
-
-Get verified alerts, defined escalation workflows, and evidence-ready incident reporting—so your team can act fast across one site or hundreds.
+If you’re using remote video monitoring to reduce after-hours incidents and improve response, Vision Detection Systems helps standardize how events are

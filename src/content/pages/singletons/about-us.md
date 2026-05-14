@@ -86,4 +86,4 @@ On a $28M Mid-Atlantic GC project in 2024, our deployment saved the customer $34
 
 ## What is non-negotiable
 
-NDAA Section 889 compliance on every component. AWS-backed infrastructure with formal partner status. RBAC and MFA on every account. Documented data residency. SOC 2 Type II audit in progress with target completion Q4 2026. If your procurement team asks for a security questionnaire, we have one ready before the call ends.
+NDAA Section 889 compliance on every component. AWS-backed infrastructure with formal partner status. RBAC and MFA

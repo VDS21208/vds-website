@@ -91,4 +91,4 @@ A 1,400-stall park-and-ride had 28 vehicle break-ins, 4 catalytic converter thef
 
 ## Pricing
 
-Single-lot coverage starts at **$1,500/month**. Structured garages and park-and-rides land at $3,000-$5,200/month. Event-parking deployments quoted per term (typical 30-90 day deploy at $2,500-$4,500/month).
+Single-lot coverage starts at **$1,500/month**. Structured garages and park-and-rides land at $3,000-$5,200/month. 

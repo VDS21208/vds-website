@@ -81,4 +81,4 @@ If those sentences sound pointed, it is because several "public safety camera" p
 
 ## Works with the cameras you have
 
-LPR runs on any compatible ONVIF/RTSP camera meeting basic resolution and shutter specs (most modern 4MP cameras qualify). No proprietary LPR camera required. We will spec the right lens and angle for your lane during pre-deployment.
+LPR runs on any compatible ONVIF/RTSP camera meeting basic resolution and shutter specs (most modern 4MP cameras qualify). No proprietary LPR camera re

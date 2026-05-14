@@ -114,4 +114,4 @@ The full methodology section in the report covers data collection, aggregation, 
 - **Data appendix** — CSV files of the underlying VDS field data aggregations (anonymized)
 - **Citation pack** — pre-formatted citations for academic, journalism, and industry analyst use
 
-Download requires email and company name. We do not require phone numbers, job titles, or "intent to purchase" form fields. We send the report and one follow-up email — nothing else unless you opt in.
+Download requires email and company name. We do not require phone numbers, job titles, 

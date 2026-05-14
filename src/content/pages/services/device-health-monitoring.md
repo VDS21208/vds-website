@@ -108,4 +108,4 @@ A live dashboard per trailer with the same metrics we monitor, downloadable mont
 
 ## Included, not upsold
 
-Device health monitoring is included with every VDS-deployed trailer at no extra cost. We are responsible for keeping the asset online; this is the instrumentation that lets us hold ourselves to that.
+Device health monitoring is included with every VDS-deployed trailer at no extra cost. We a

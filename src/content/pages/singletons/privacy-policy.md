@@ -122,5 +122,4 @@ We will post material changes to this policy on this page and update the "last u
 
 For privacy inquiries, verified rights requests, or questions about this policy:
 
-**Privacy contact:** privacy@visiondetectionsystems.com
-**Mailing address:** Vision Detection Systems, [PLACEHOLDER — Pikesville address], Attention: Privacy
+**Privacy contact:** privacy@visiond

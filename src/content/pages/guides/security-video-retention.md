@@ -122,14 +122,12 @@ This is the document we wish every customer had before they specified storage ti
 
 ## Free excerpts
 
-- [The 5-step retention policy framework](/guides/security-video-retention/framework)
-- [State-by-state retention table (2026)](/guides/security-video-retention/state-table)
-- [The retention policy template (Word + PDF)](/guides/security-video-retention/template)
+- [The 5-step retention policy framework](/guides/security-video-retention/#framework)
+- [State-by-state retention table (2026)](/guides/security-video-retention/#states)
+- [The retention policy template (Word + PDF)](/guides/security-video-retention/#template)
 
 ## AI VisionStream retention features
 
 - Per-camera retention policy enforcement, server-side
 - 30/60/90-day standard tiers, 1-year and 7-year evidence holds
-- Litigation hold at the per-camera or per-time-window level
-- Immutable 12-month audit log of retention policy changes
-- BAA available for HIPAA-covered customers
+- Litigation hold at the per-cam

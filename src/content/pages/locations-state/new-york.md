@@ -81,4 +81,4 @@ A general contractor on a four-block infrastructure replacement project for NYC 
 
 NYC has specific surveillance disclosure and retention rules under the POST Act for NYPD-deployed surveillance technology. Private deployments on private property operate under different rules, and we document the relevant framework in the NY MSA. NYS DOT federally-funded projects require NDAA 889 compliance, which we hold across our product line.
 
-We're a registered vendor on NYS OGS Centralized Contracts for relevant security categories. Sourcewell is broadly accepted by NY counties, municipalities, and school districts outside NYC.
+We're a registered vendor on NYS OGS Centralized Contracts for relevant security categories. Sourcewell is 

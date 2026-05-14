@@ -114,6 +114,4 @@ The key is that the procurement, RFP language, evaluation criteria, and vendor l
 
 ## Where VDS wins inside fixed-site mobile surveillance
 
-500+ deployments across 30+ states. Three product lines (Sky Guard MSU, Swift Deploy, Boundary Guard Pro). AI VisionStream — camera-agnostic ONVIF/RTSP, 95%+ LPR at sub-3-second match. 24/7 in-house US SOC with sub-60-second escalation and 97% false-alarm reduction. NDAA Section 889 compliant. US AWS-only data residency. Published pricing from $1,500/mo (Swift Deploy) and from $38,000 purchase (Sky Guard).
-
-Hero case study: $28M Mid-Atlantic GC — 73% theft reduction, $0 insurance claims, $340,800 saved in 12 months.
+500+ deployments across 30+ states. Three product lines (Sky Guard MSU, Swift Deploy, Boundary Guard Pro). AI VisionStream — camera-agnostic ONVIF/RTSP, 95%+ LPR at sub-3-second match. 24/7 in-house US SOC with sub-60-second escalation and 97% false-alarm reduction. NDAA Section 889 compliant. US AWS-only data residency. Published pricing from $1,500/mo (Swift Deploy) and from $38,000 purchase (Sky Guard)

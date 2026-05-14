@@ -99,4 +99,4 @@ We have been deploying since 2017. 500+ units across 30+ states. That is 7 full 
 
 ## The summary
 
-If you only need one of these eight, plenty of vendors will sell you one. If you need the whole stack — accountable, US-owned, compliant, and priced predictably — there is a short list. We are on it.
+If you only need one of these eight, plenty of vendors will sell you one. If you need the whole stack �

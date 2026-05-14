@@ -121,4 +121,4 @@ Standard tier: 100 requests per second per tenant, 6,000 per minute, burst to 20
 
 ## Documentation and support
 
-Full reference at `developers.visionstream.us`. Postman collection downloadable from the same URL. Developer support is included with any production tenant — direct Slack Connect channel for paid plans.
+Full reference at `developers.visionstream.us`. Postman collection downloadable fr

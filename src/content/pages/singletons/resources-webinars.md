@@ -108,4 +108,4 @@ A customer-led session on how an enterprise auto dealership group structured the
 
 ## CPE credit
 
-Select sessions qualify for continuing professional education credit for ASIS-certified security professionals. Eligibility noted on the session description and confirmed in the registration confirmation email.
+Select sessions qualify for continuing professional education credit for ASIS-certified security prof

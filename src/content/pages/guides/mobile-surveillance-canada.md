@@ -110,4 +110,4 @@ A pure Canadian operator (Zedcor, A&B, SureSite, Spotter, LotCop) is the right f
 
 A US operator with Canadian partners is the right fit when your program spans both countries, you want consolidated reporting, and you can accept a Canadian operator handling the Canadian sites under a coordinated structure. This is the model VDS uses today for cross-border buyers.
 
-A direct US operator with no Canadian partner is rarely the right fit for a Canadian deployment today. Compliance and data residency gaps tend to surface during procurement review, not after.
+A direct US operator with no Canadian partner is rarely the right fit for a Cana

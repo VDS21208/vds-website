@@ -129,6 +129,4 @@ The cost-avoidance line is the one your CFO cares about. We publish it because w
 Managed isn't always the right model. If you have:
 - An existing capitalized security infrastructure with depreciation life remaining
 - A federal contract requiring hardware ownership for clearance reasons
-- A security team that wants direct console access and prefers to operate their own SOC
-
-…then standalone hardware or hardware + monitoring without full management is the better fit. We sell that too.
+- A security team that wants direct console access and prefers to operat

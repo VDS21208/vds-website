@@ -111,4 +111,4 @@ A $28M Mid-Atlantic GC project deployed Sky Guard MSU under SOC monitoring. Twel
 - Zero insurance claims filed across the deployment window
 - $340,800 in documented loss avoidance, audited by the customer's controller
 
-That's one project, one trailer, one carrier whose claims line never saw the case. Multiplied across a portfolio program, the underwriting math is straightforward.
+That's one project, one trailer, one carrier whose 

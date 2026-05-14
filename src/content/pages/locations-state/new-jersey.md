@@ -78,6 +78,4 @@ A drayage operator running a 22-acre container staging yard adjacent to Port New
 
 ## New Jersey compliance and procurement
 
-New Jersey has specific data retention considerations for surveillance footage near port and federally-regulated facilities. We document chain of custody, retention windows, and access controls in the NJ MSA. NDAA Section 889 compliant for federally-funded port and infrastructure work — relevant for TSA, Coast Guard, and Port Authority projects.
-
-We hold Sourcewell and the NJ State Contract for relevant security categories.
+New Jersey has specific data retention considerations for surveillance footage near port and federally-regulated facilities. We document chain of custody, retention windows, and access controls in the NJ MSA. NDAA Section 889 compliant for federally-funded port and infrastructure work — relevant for TSA, Coast Guard, and Port Authority projects.

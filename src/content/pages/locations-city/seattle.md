@@ -82,4 +82,4 @@ A tech-campus general contractor running a 12-acre Bellevue construction site si
 
 **Washington wiretap statute (RCW 9.73).** Washington is a two-party-consent state for audio recording. Our units capture video only by default; audio is disabled unless the customer has documented all-party consent.
 
-**Port of Seattle access.** TWIC credentialing applies on the secure side of terminal fencing. Our deployment crew is current on the credentialing.
+**Port of Seattle access.** TWIC credentialing applies on the se

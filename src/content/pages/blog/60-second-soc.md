@@ -79,6 +79,4 @@ If you are evaluating an AI surveillance service, three questions clarify quickl
 
 AI is a tool. It is a fast tool. It is not, by itself, a security service. The missing layer in pure-AI systems is the operator who knows that the figure on camera 3 at 3am is the same delivery driver who comes in at 4am every Tuesday — because the operator was on shift last Tuesday and the Tuesday before that.
 
-The 60-second SOC is what that knowledge looks like in production. It is slower than the AI alone. It is also the only configuration that has produced a 97% false alarm reduction across 500+ deployments without burning out the customer's response budget.
-
-— A VDS SOC supervisor
+The 60-second SOC is what that knowledge looks like in production. It is slower than the AI alone. It is also the only configuration that has produced a 97% false alarm reduction across 500+ deploymen

@@ -81,6 +81,4 @@ We are happy to comment on:
 
 We do not comment on:
 
-- Active customer incidents without customer permission
-- Competitor product details
-- Pending litigation in the industry
+- Active customer incidents without cus

@@ -93,4 +93,4 @@ A 22-store power center in the Southwest had 14 reportable parking lot incidents
 
 ## Pricing
 
-Coverage starts at **$2,200/month**. Most properties land at $3,700-$5,200/month. National property managers and REITs receive portfolio pricing.
+Coverage starts at **$2,200/month**. Most propertie

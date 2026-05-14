@@ -87,4 +87,4 @@ NDAA Section 889 compliant hardware — required for federal travel programs (Fe
 
 ## Pricing
 
-Monthly all-inclusive: hardware, solar power, LTE backhaul, AI analytics, cloud storage, and 24/7 SOC monitoring. No installation fee, no permit work, no trenching across the parking lot.
+Monthly all-inclusive: hardware, solar power, LTE backhaul, AI analytics, cloud storage, and 24/7 S

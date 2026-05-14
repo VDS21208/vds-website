@@ -380,10 +380,4 @@ Get Professional Construction Site Security
 
 Construction site theft threatens project timelines, budgets, and profitability across the industry. While basic security measures help, professional surveillance monitoring provides the most effective deterrence and response.
 
-Mobile surveillance trailers deploy within 72 hours to protect your construction site with 24/7 monitoring, verified response, and evidence-quality footage. Our systems integrate seamlessly with existing security measures to create comprehensive protection.
-
-Get your free security assessment to learn how monitored surveillance reduces theft risk and keeps your project on schedule.
-
-
-
-## FAQ
+Mobile surve

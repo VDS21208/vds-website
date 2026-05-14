@@ -102,4 +102,4 @@ We get it. Reschedule from the original calendar invitation, or email sales dire
 
 ## If the standard demo is not what you need
 
-For executive briefings, RFP scoping sessions, technical deep-dives, or proof-of-concept discussions, contact sales directly and we will set up a longer-format session. Standard demo is 30 minutes; custom formats run 60–90 minutes with a specialized agenda.
+For executive briefings, RFP scoping sessions, technical deep-dives, or proof-of-concept discussions, contact sales directly and we will set up a longer-for

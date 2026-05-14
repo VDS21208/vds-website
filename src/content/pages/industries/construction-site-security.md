@@ -239,6 +239,4 @@ resolve correctly on the new site before publishing.
 
 <p>Free site assessment. Custom coverage plan. Most deployments active within 72 hours of agreement. <a href="/request-a-quote">Request your construction security assessment</a>.</p>
 
-<p>Sources: <a href="https://www.fbi.gov/investigate/violent-crime/orc" rel="nofollow">FBI Organized Retail Crime</a> | <a href="https://www.nicb.org/news/news-releases/equipment-theft-costs-construction-industry-300-million-400-million-annually" rel="nofollow">National Insurance Crime Bureau Construction Equipment Theft</a> | <a href="https://www.osha.gov/construction/hazards" rel="nofollow">OSHA Construction Safety Standards</a></p>
-
-<!-- Schema: Service, FAQPage -->
+<p>Sources: <a href="https://www.fbi.gov/investigate/violent-crime/orc" rel="nofollow">FBI Organized Retail Crime</a> | <a href="https://www.nicb.org/news/news-releases/equipment-theft-costs-construction-industry-300-million-400-mill

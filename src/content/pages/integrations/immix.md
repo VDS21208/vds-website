@@ -82,4 +82,4 @@ For a central station already running Immix CC: 3 to 5 business days. Required o
 
 ## Pricing
 
-The Immix integration is included with any AI VisionStream enterprise subscription. The central station's Immix licensing and the customer's monitoring contract are separate commercial relationships not touched by VDS.
+The Immix integration is included with any AI VisionStream enterprise subscription. The central station's Immix licensing and the custo

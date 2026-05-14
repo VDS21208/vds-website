@@ -139,4 +139,4 @@ SOC 2 Type II audit is in progress. Current status and any interim attestations 
 The SOC sees the unit go offline before you do — the platform monitors itself. The customer success team will reach out proactively. For customer-initiated requests, every active customer has a named account director with a direct line.
 
 **30. How do I escalate a complaint or a service issue?**
-Named account director first, then customer success leadership, then the COO. Every escalation path is one phone call. We do not run a ticket-deflection front line.
+Named account director f

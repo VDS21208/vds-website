@@ -86,4 +86,4 @@ A typical configuration is **one Sky Guard MSU** at the access point with **Boun
 
 ## What utility buyers ask
 
-Most utility security directors come from law enforcement or military backgrounds. They want to know exactly who is on the other end of the alarm, what their training looks like, and how fast they actually respond. The honest answer: SOC operators are trained in security and de-escalation, escalation happens in under 60 seconds, and the audit log proves it.
+Most utility security directors come from law enforcement or military backgrounds. They want to know exactly who is on the other end of the alarm, what their training looks like, and how fast they actually respond. The honest answer: SOC operators are trained in security 

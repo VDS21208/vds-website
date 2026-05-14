@@ -120,5 +120,3 @@ If a competitor's quote includes any of the above, you can use ours to negotiate
 ## Contracts
 
 - Monthly billing on credit card or ACH for Essential and Professional
-- Annual prepay with 2 months free on either tier
-- Enterprise: 1-year or 3-year terms with annual escalator capped at 3%

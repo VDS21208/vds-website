@@ -82,4 +82,4 @@ A Brickell high-rise GC running a 42-story luxury residential project signed two
 
 **Florida Building Code wind load.** South Florida units are wind-rated for the conditions; we still pull units ahead of any storm tracking near landfall regardless of rating. Wind rating is not a substitute for storm protocol.
 
-**Hurricane redeployment language.** Every Florida contract specifies pull/store/redeploy responsibilities, timing SLAs, and cost allocation. Default is VDS handles pull, storage, and redeployment at no additional charge for the first two named storms per contract year.
+**Hurricane redeployment language.** Every Florida contract specifies pull/store/redeploy responsibilities, timing SLAs, and cost allocation. Default is VDS handles pull, storage, and red

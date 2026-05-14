@@ -79,4 +79,4 @@ Every analytic alert is reviewed by a SOC operator before it escalates to the cu
 
 ## Built for the platform, not bolted on
 
-Analytics rules are configured in the same console as users, retention, and SOC routing. Changes apply in seconds. Every rule edit is logged in the [12-month audit trail](/platform/cloud-security).
+Analytics rules are configured in the same console as users, retention, and SOC routing. Changes apply in seconds. Ev

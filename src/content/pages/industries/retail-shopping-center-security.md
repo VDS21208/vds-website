@@ -233,8 +233,4 @@ resolve correctly on the new site before publishing.
 
 ### What is the best way to monitor a large retail parking lot?
 
-<p>Large parking lots require elevated camera positions with wide-area coverage and license plate recognition capabilities. VDS mobile trailers provide 20-foot camera height with 360-degree coverage, AI detection of suspicious activity, and LPR logging of every vehicle. Solar power and cellular connectivity eliminate infrastructure requirements for rapid deployment.</p>
-
-<p>Free site assessment. Custom coverage plan. Most deployments active within 72 hours of agreement. <a href="/request-a-quote">Request your retail security assessment</a>.</p>
-
-<!-- Schema: Service, FAQPage -->
+<p>Large parking lots require elevated camera positions with wide-area coverage and license plate recognition capabilities. VDS mobile trailers provide 20-foot camera height with 360-degree coverage, AI detection of suspicious activity, and LPR logging of every vehicle. Solar power and cellular connectivity eliminate infrastructure requirements for 

@@ -128,4 +128,4 @@ If you signed a multi-year commit, early termination is governed by your MSA —
 
 ## Damage, loss, and insurance
 
-Standard leases require the customer to maintain general liability and property coverage naming VDS as additional insured. We provide a sample certificate. Normal wear and tear is on us; customer-caused damage (vehicle strikes, vandalism beyond what the trailer self-deters, theft of the trailer itself) is on the customer.
+Standard leases require the customer to maintain general liability and property coverage naming VDS as additional insured. We provide a sample certificate. Normal wear and tear is on us; custome

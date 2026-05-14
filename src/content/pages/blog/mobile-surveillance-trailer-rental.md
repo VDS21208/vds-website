@@ -332,10 +332,4 @@ Construction theft costs the U.S. industry up to $1 billion annually in direct l
 
 Get Professional Mobile Surveillance Solutions
 
-Your security needs deserve more than basic equipment rental. Whether you're protecting a single construction site or managing security across multiple locations, Vision Detection Systems provides comprehensive mobile surveillance solutions with verified monitoring and rapid response capabilities.
-
-Our managed deployment services eliminate the complexity of coordinating multiple vendors while ensuring consistent security coverage that adapts as your project needs evolve. Contact us today for a customized security assessment and pricing that fits your timeline and budget requirements.
-
-
-
-## FAQ
+Your security needs deserve more than basic equipment rental. Whether you're protecting a single construction site or managing security across multiple locations, Vision Detection Systems provides comprehensive mobile surveillance solutions with verified monitoring a

@@ -79,4 +79,4 @@ The moment the rule fires, the SOC operator has live video on screen. Live audio
 
 ## ROI math
 
-One dealer-lot incident affecting 12 vehicles costs the dealer $18,000 to $42,000 in replacement parts plus loaner cars, customer goodwill, and reputational damage. Coverage with three Swift Deploy units runs $4,500/mo. Preventing one bad night pays for 4 to 9 months of coverage. Most dealer customers see incident rates drop to zero in the first 90 days.
+One dealer-lot incident affecting 12 vehicles costs the dealer $18,000 to $42,000 in replacement parts plus loaner cars, customer goodwill, and reputational damage. Coverage with three Swift Deploy units runs $4,500/mo. Preventing one bad night pays for 4 to 9 months of cover

@@ -90,4 +90,4 @@ A 3PL with 38 doors in the Mid-South was hit twice in 4 months for $620,000 in s
 
 ## Pricing
 
-Coverage starts at **$3,300/month** for a small 3PL yard. Mid and large DCs run $4,800-$10,600/month. Multi-yard logistics operators get portfolio pricing.
+Coverage starts at **$3,300/month** for a small 3PL yard. Mid an

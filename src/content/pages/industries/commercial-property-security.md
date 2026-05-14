@@ -85,4 +85,4 @@ Most CRE insurance carriers now ask whether the asset has monitored video survei
 
 ## What it replaces
 
-A construction-phase guard program runs $25-45K/month for a major job site. A two-unit VDS deployment covers the same footprint at less than half — with continuous video, AI LPR on every entry, and dispatched response on every alert. The same units carry through TCO and into the stabilized parking footprint without redeployment cost.
+A construction-phase guard program runs $25-45K/month for a major job site. A two-unit VDS deployment covers the same footprint at less than half — with continuous video, AI LPR on every entry, and dispatched response on every alert. The same units 

@@ -106,4 +106,4 @@ Flock contracts run roughly $2,500-$3,000 per camera per year, multi-year commit
 1. **Scope the cancellation.** If your city or HOA has voted to end its Flock contract, identify the cancellation effective date and the data-deletion clause. Flock contracts vary on whether collected data is purged on termination.
 2. **Identify the actual security need under the ALPR.** Most Flock buyers were solving a perimeter or property crime problem, not specifically a plate-reading problem. We re-spec the same outcome using mobile units.
 3. **Deploy VDS to the highest-risk property.** Typically motor pool, public works yard, water utility, or community pool/parking facility.
-4. **Document the alternative for the next council meeting.** We supply a one-page comparison your council can put in the minutes.
+4. **Document the alter

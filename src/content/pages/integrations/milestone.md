@@ -82,4 +82,4 @@ XProtect Corporate or Expert 2020 R3 or later: 3 to 5 business days. Required on
 
 ## Pricing
 
-The Milestone integration is included with any AI VisionStream enterprise subscription. XProtect licensing (device licenses, Care, MIP) follows Milestone channel pricing.
+The Milestone integration is included with any AI VisionStream enterprise subscription.

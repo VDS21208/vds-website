@@ -105,4 +105,4 @@ Events route to the VDS 24/7 SOC, to customer SMS/email/webhook, or to a third-p
 
 ## Cost model
 
-Per-camera, per-month subscription. Storage is included up to the retention tier you select. Bandwidth is included. Software updates are included. No per-event fees, no per-user seat fees, no API call metering at standard tier.
+Per-camera, per-month subscription. Storage is included up to the retention tier you select. Bandwidth is included. Softw

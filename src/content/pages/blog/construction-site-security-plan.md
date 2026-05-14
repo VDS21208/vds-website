@@ -362,10 +362,4 @@ Get Professional Construction Site Security
 
 Building a comprehensive construction site security plan requires balancing multiple requirements while keeping projects on schedule. Many project managers need monitoring technology and incident response capabilities that extend beyond their internal resources.
 
-Vision Detection Systems specializes in construction site security with mobile surveillance solutions that deploy rapidly without waiting for infrastructure. Our monitoring services verify threats and coordinate responses so you can focus on project management rather than security operations.
-
-Get a free security assessment for your construction site and learn how professional monitoring fits your project timeline and budget.
-
-
-
-## FAQ
+Vision Detection Systems specializes in construction site security with mobi

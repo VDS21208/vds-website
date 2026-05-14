@@ -15,7 +15,7 @@ heroCTAPrimary:
   url: /request-a-quote
 heroCTASecondary:
   label: Download Spec Sheet
-  url: /downloads/swift-deploy-spec.pdf
+  url: /products/swift-deploy-surveillance-trailer/
 heroStats:
 - 20-min deploy
 - 30x PTZ zoom
@@ -110,4 +110,4 @@ Pick Swift Deploy when your sites are well-lit at night, your perimeter is under
 
 ## Where it earns its keep
 
-Construction sites of all sizes. Equipment yards. Retail parking lots after hours. Cargo staging. Event security. Pop-up retail. Hospitality overflow lots. Anywhere "we need eyes on this by tomorrow" gets said in a meeting.
+Construction sites of all sizes. Equipment yards. Retail parking lots after hours. Cargo staging. Event security

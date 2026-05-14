@@ -80,4 +80,4 @@ A Savannah-based logistics operator running a 60-acre container yard adjacent to
 
 Georgia has no statewide ALPR restriction affecting our deployments. We hold Sourcewell and the Georgia Statewide Contract for relevant security categories. NDAA Section 889 compliant for federally-funded work, including TSA and federal port-adjacent deployments.
 
-For film and event production, we coordinate with the Georgia Film Office and individual studio security teams on access protocols and footage handling.
+For film and event production, we coordinate with the Georgia Film Offi

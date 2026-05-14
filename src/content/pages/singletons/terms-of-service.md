@@ -109,5 +109,4 @@ VDS may update these Terms from time to time. Material changes will be posted on
 
 For questions about these Terms:
 
-**Legal contact:** legal@visiondetectionsystems.com
-**Mailing address:** Vision Detection Systems, [PLACEHOLDER — Pikesville address], Attention: Legal
+**Legal contact:** legal@visiondetectionsys

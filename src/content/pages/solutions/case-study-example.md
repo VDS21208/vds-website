@@ -108,4 +108,4 @@ We do not publish unverified claims. If a customer can't or won't validate the o
 
 If your vertical is on this list, the full case study includes the configuration recommendation, deployment timeline, and TCO model for a comparable site. Take it to your CFO.
 
-If your vertical isn't here, contact us. We have un-published case studies (under NDA) across higher education, healthcare campuses, marina/port security, and cannabis cultivation. We can share specifics under NDA on a discovery call.
+If your vertical isn't here, contact us. We have un-published case studies (under NDA) across higher education, healthcare ca

@@ -93,4 +93,4 @@ Available through Sourcewell, GSA, COSTARS, BuyBoard, and most state cooperative
 
 ## Pricing
 
-Monthly all-inclusive: hardware, solar power, LTE backhaul, AI analytics, cloud storage, and 24/7 SOC monitoring.
+Monthly all-inclusi

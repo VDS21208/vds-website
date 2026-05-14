@@ -130,4 +130,4 @@ When evaluating any vendor, ask:
 - Is there a deposit, and what is the return condition?
 - What is the response SLA if a trailer goes offline?
 
-Most vendors price these as add-ons. VDS includes deployment, pickup, and unlimited cellular data within the published rate for standard configurations.
+Most vendors price th

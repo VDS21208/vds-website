@@ -85,4 +85,4 @@ Every alert has a state: open, acknowledged, escalated, resolved, dismissed. Sta
 
 ## Retention and replay
 
-Alert clips are retained on the platform's standard cadence (30/60/90 days). Critical alerts can be tagged for extended retention up to 1 year. Replay is available from the alert detail view with frame-by-frame stepping and clip export.
+Alert clips are retained on the platform's standard cadence (30/60/90 days). Critical alerts can be tagged for extended retention up to 1 year. Replay

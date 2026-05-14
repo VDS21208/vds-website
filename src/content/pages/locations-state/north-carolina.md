@@ -80,4 +80,4 @@ A general contractor running a $90M biotech lab expansion in Durham asked us to 
 
 North Carolina has no statewide ALPR restriction affecting our deployments. We're a Duke Energy approved vendor (relevant for utility-adjacent work statewide). Sourcewell is widely accepted across NC counties, school systems, and the NC State Cooperative Purchasing program. NDAA Section 889 compliant for any federally-funded work.
 
-For storm response, we coordinate with Duke Energy and NC Emergency Management on pre-staging when a named hurricane enters the NC threat cone.
+For storm response, we coordinate with Duke Energy and NC Emer

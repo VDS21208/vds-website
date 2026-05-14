@@ -89,4 +89,4 @@ The 24/7 SOC, AI VisionStream analytics, audio talk-down, and LE dispatch are in
 
 We accept tactical engagements where the operating profile is clear, the site is accessible to a flatbed delivery, and there is a documented stakeholder on the customer side empowered to authorize SOC escalation protocols.
 
-We decline tactical engagements that are functionally surveillance of identified individuals without legal process, deployments to private property without verified authorization, or anything that would put our SOC operators in a position of making law enforcement judgment calls. The SOC follows escalation trees — it does not improvise.
+We decline tactical engagements that are functionally surveillance of identified individuals without legal process, deployments to private property without verified authorization, or anything that would put our SOC operators in a position of making l

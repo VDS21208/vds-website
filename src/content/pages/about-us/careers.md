@@ -139,5 +139,4 @@ We do not run multi-day interview loops. We do not give homework assignments lon
 
 - We do not hire for unposted roles through recruiters without a prior agreement
 - We do not negotiate compensation through agencies on roles we did not retain them for
-- We do not accept resumes for roles where you did not personally submit
-- We do not require non-compete agreements as a condition of employment
+- We

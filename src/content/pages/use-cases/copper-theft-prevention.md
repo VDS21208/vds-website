@@ -81,4 +81,4 @@ In our case data, audio talk-down ends the incident before any wire is touched i
 
 ## ROI math
 
-Avoiding one substation incident pays for Sky Guard MSU coverage for 36 to 136 months. A utility with 12 unmanned substations facing two incidents per year saves $160,000 to $600,000 annually for a hardware investment of $26,400. Insurance premium impact and outage SAIDI/SAIFI penalties are additional.
+Avoiding one substation incident pays for Sky Guard MSU coverage for 36 to 136 months. A utility with 12 unmanned substations facing two incidents per year saves $160,000 to $600,000 annually for a hardware investment of 

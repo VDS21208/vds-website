@@ -86,4 +86,4 @@ Federal procurement officers, GSA Schedule contracting officers, utility securit
 
 - **[Sky Guard MSU](/products/sky-guard-mobile-surveillance-trailer)** — $2,200/mo. NDAA-compliant cameras, radios, and modems.
 - **[Swift Deploy](/products/swift-deploy-surveillance-trailer)** — $1,500/mo. Same compliance, smaller footprint.
-- **[Boundary Guard Pro](/products/boundary-guard-pro)** — $1,800/mo. Perimeter analytics, NDAA stack.
+- **[Boundary Gua

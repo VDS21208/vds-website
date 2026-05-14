@@ -80,4 +80,4 @@ A hyperscaler-tenant general contractor building three data centers across 140 a
 
 NDAA Section 889 Part B compliant across the entire product line. Documented attestation on request. We carry GSA Schedule pricing for federal end customers and we're an active Sourcewell vendor, which most VA counties and the Virginia Department of General Services accept.
 
-For ALPR-enabled deployments, we comply with the Virginia Code §15.2-1726.5 retention and access framework — 30-day rolling retention by default, longer only with documented investigative purpose.
+For ALPR-enabled deployments, we comply with the Virginia Code §15.2-1726.5 retention and access framework — 30-day

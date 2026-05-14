@@ -95,4 +95,4 @@ The detection-to-intervention sequence on a substation perimeter intrusion at 2:
 
 ## Pricing
 
-Standard CIP-014-grade deployment runs **$6,200-$9,600/month per substation**. Multi-site agreements available. No capex, no install separately billed, solar-autonomous so no construction tie-in.
+Standard CIP-014-grade deployment runs **$6,200-$9,600/month per substation**. Multi-site agreement

@@ -80,4 +80,4 @@ A South Florida multifamily developer with three concurrent garden-style project
 
 Florida has no statewide ALPR restriction affecting our typical deployments. We're active on Sourcewell and on the Florida State Term Contracts where applicable. For Disney-, Universal-, and theme-park-adjacent deployments, we navigate FAA airspace concerns for any tower-elevated camera mast (our Sky Guard MSU at 22 feet sits below most thresholds, but documentation is on file).
 
-Hurricane response protocol is part of every Florida contract. Redeploy fees are pre-negotiated, not invented in the moment.
+Hurricane response protocol is part of ever

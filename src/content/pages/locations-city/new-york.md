@@ -82,4 +82,4 @@ A high-rise general contractor running a 38-story tower in Long Island City swit
 
 **NYC DOT ROW permits.** Any placement on a sidewalk, shoulder, or other city ROW requires a permit. We file. Typical issuance: 3–5 business days.
 
-**NYS labor law.** Audio capture is restricted under NYS labor and wiretap statutes; we deploy video-only by default.
+**NYS labor law.** Audio capture i

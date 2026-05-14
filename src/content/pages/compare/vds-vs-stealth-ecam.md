@@ -110,5 +110,4 @@ VDS Sky Guard at $2,200/mo includes the trailer, every camera on it, the LTE, th
 
 1. **Identify the multi-vendor stack.** ECAM monitoring contract, separate installer maintenance contract, separate platform license. Map all three.
 2. **Replace the stack with one VDS contract.** Sky Guard for mobile/perimeter coverage, ONVIF ingest where you want to keep existing fixed cameras.
-3. **Brand-update the signage.** If your site signage references Stealth or ECAMSECURE, update to VDS — and don't expect to do it again soon, because we've kept one brand since 2017.
-4. **Single quarterly review.** One contact, one report, one number to call.
+3. **Brand-update the signage.** If your site signage references Stealth or ECAMSECURE, update to VDS — and don't expect to do it again soon, becaus

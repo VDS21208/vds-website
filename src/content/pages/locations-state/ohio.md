@@ -80,4 +80,4 @@ A logistics 3PL operating two cross-dock facilities in the Rickenbacker corridor
 
 Ohio has no statewide ALPR restriction affecting our deployments. We're on the Ohio State Term Schedule for relevant security categories and Sourcewell is broadly accepted by Ohio counties, municipalities, and school districts. NDAA Section 889 compliant for any federally-funded work.
 
-For utility-sector deployments, we coordinate with AEP and Duke Energy Ohio's vendor management process and hold the required certificates of insurance and bonding.
+For utility-sector deployments, we coordinate with AEP and Duke Energy Ohio's vendo

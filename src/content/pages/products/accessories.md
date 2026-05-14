@@ -74,4 +74,4 @@ Seven years of deployments tell us where field failures actually come from. The 
 
 ## How accessories integrate
 
-Every add-on is built for the same AI VisionStream and SOC pipeline as the base unit. LPR retrofitted to a Swift Deploy reports to the same audit log as a Sky Guard's factory LPR. Anti-tamper triggers route through the same SOC operators.
+Every add-on is built for the same AI VisionStream and SOC pipeline as the base unit. LPR retrofitted to a Swift Deploy reports to the same audit log as a Sky Guar

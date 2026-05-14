@@ -122,5 +122,4 @@ Procurement officers, CFOs, security directors building budgets, and any buyer b
 ## Related products
 
 - **[Sky Guard MSU](/products/sky-guard-mobile-surveillance-trailer)** — Full spec sheet
-- **[Swift Deploy](/products/swift-deploy-surveillance-trailer)** — Full spec sheet
-- **[Boundary Guard Pro](/products/boundary-guard-pro)** — Full spec sheet
+- **[Swift Deploy](/products/swift-depl

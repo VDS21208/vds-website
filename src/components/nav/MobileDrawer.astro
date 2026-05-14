@@ -39,13 +39,6 @@ const NAV_ICONS: Record<string, string> = {
               <span class="text-orange text-xl">+</span>
             </summary>
             <div class="pt-4 pb-2 space-y-3">
-              {section.featured.length > 0 && (
-                <div class="bg-navy-light border-l-2 border-orange rounded-sm p-3 mb-2">
-                  <div class="text-[0.625rem] uppercase tracking-[0.2em] text-orange mb-1">Featured</div>
-                  <div class="text-sm font-medium">{section.featured[0]?.label}</div>
-                  <a href={section.featured[0]?.url} class="text-xs text-gold mt-1 inline-block">Learn more →</a>
-                </div>
-              )}
               <ul class="space-y-2">
                 {[...section.primary, ...section.supporting].map((item: any) => (
                   <li><a href={item.url} class="text-sm text-white/85 block py-1">{item.label}</a></li>

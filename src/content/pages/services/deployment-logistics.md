@@ -114,4 +114,4 @@ Active deployments today across all of the lower 48 except for Vermont and Wyomi
 
 ## What is included
 
-Survey, transport, install, configure, monthly device health, redeploy at no transport surcharge for in-state moves under contract.
+Survey, transpor

@@ -83,4 +83,4 @@ Construction yards, multi-family developments, auto dealerships, logistics yards
 
 [Diagram placeholder: Cameras → AI VisionStream cloud (AWS US) → Analytics + LPR → SOC operator → Mobile app + LE dispatch + Integrations]
 
-Start with the [analytics engine](/platform/ai-video-analytics). Layer on [LPR](/platform/lpr). Route the alerts through the [SOC](/platform/soc) or your own team via the [mobile app](/platform/mobile-app). Wire it into your stack through [integrations](/platform/integrations). Lock it down with [platform security](/platform/cloud-security).
+Start with the [analytics engine](/platform/ai-video-analytics). Layer on [LPR](/platform/lpr). Route the alerts through the [SOC](/platform/soc) or your own team via the [mobile app](/platform/mobile-app). Wire it into your stack through [integrations](/plat

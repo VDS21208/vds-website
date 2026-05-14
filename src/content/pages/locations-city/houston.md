@@ -82,4 +82,4 @@ A petrochemical contractor running a multi-month Ship Channel turnaround signed 
 
 **Texas wiretap statute (Tex. Penal Code § 16.02).** Texas is a one-party-consent state for audio. Our units capture video only by default unless the customer has a documented business reason and signage.
 
-**Port of Houston access.** TWIC credentialing applies on the secure side of terminal fencing. Our deployment crew is current on the credentialing.
+**Port of Houston access.** TWIC credentialing applies on the se

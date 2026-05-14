@@ -80,4 +80,4 @@ A national retailer's Chicago metro distribution center was logging an average o
 
 Illinois has specific privacy considerations for ALPR and biometric data under BIPA (Biometric Information Privacy Act). Our standard deployments do not use facial recognition or biometric identification — analytics are object and behavior based. We document this in the Illinois MSA.
 
-We hold Sourcewell and Omnia Partners cooperative contracts, both widely accepted by Illinois counties, municipalities, and school systems. NDAA Section 889 compliant for federally-funded work, including CTA federal funding.
+We hold Sourcewell and Omnia Partners cooperative contracts, both widely accepted by Illinois counties, municipalities, and school systems. NDA

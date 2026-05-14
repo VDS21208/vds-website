@@ -36,7 +36,7 @@ finalCTAHeading: Get the configuration that matches your math
 finalCTABody: Once the calculator returns a payback that works, book 20 minutes with a deployment engineer to lock in the unit mix and start date.
 finalCTAButtons:
 - label: Book deployment review
-  url: /contact-us the Pricing Guide
+  url: /pricing/
 schemaType: Article
 internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /products/boundary-guard-pro, /guides/pricing-guide-2026, /guides/construction-theft-prevention, /resources/case-studies/mid-atlantic-gc, /contact-us
 canonical: https://visiondetectionsystems.com/guides/roi-calculator
@@ -129,5 +129,4 @@ Anyone defending a security line item to a CFO. Use the calculator output as the
 ## Related products
 
 - **[Sky Guard MSU](/products/sky-guard-mobile-surveillance-trailer)** — $2,200/mo
-- **[Swift Deploy](/products/swift-deploy-surveillance-trailer)** — $1,500/mo
-- **[Boundary Guard Pro](/products/boundary-guard-pro)** — $1,800/mo
+- **[Swift Deploy](/

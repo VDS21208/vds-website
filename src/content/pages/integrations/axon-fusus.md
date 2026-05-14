@@ -87,4 +87,4 @@ The Axon-Fusus integration is included with any AI VisionStream enterprise subsc
 
 ## On the privacy principle
 
-A lot of community-camera programs operate on a standing-access model: an agency, once authorized, can view a property's cameras at any time. VDS does not support that model on Axon-Fusus or anywhere else. Two reasons. First, it muddies legal questions about reasonable expectation of privacy for tenants, employees, customers, and visitors. Second, it makes the property owner's policy ambiguous in a way that produces avoidable complaints. Per-incident opt-in is clearer for everyone — including the responding officer, who arrives with a clean evidentiary chain.
+A lot of community-camera programs operate on a standing-access model: an agency, once authorized, can view a property's cameras at any time. VDS does not support that model on Axon-Fusus or anywhere else. Two reasons. First, it muddies legal questions about reasonable expectation of privacy for tenants, employees, customers, and visitors. Second, it makes the property owner's policy ambiguous in a way that produces avoidable complaints. Per-incident opt-in is clearer for ev

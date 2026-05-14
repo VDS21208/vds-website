@@ -80,4 +80,4 @@ A Bay Area-based developer running two podium-construction multifamily projects 
 
 CCPA and CPRA compliance is documented in our standard California MSA. Default video retention is 30 days rolling — customers can extend with documented business purpose, never via casual request. ALPR features, where deployed, comply with California Civil Code §1798.90.5 retention and disclosure requirements.
 
-NDAA Section 889 compliant for federally-funded California work. We hold California state cooperative purchasing credentials and Sourcewell is widely accepted by California municipalities and special districts.
+NDAA Section 889 compliant for federally-funded California work. We hold California state cooperative purchasing credentials and 

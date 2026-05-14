@@ -89,4 +89,4 @@ Full reference at [api.visiondetectionsystems.com](/resources).
 
 ## What we do not do
 
-We do not sell connector seats. Every integration listed above is included on every commercial tier. If we list it, you can use it.
+We do not sell connector seats. Every int

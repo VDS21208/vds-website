@@ -83,4 +83,4 @@ For TSA-regulated pipeline operators under Security Directive Pipeline-2021-02, 
 
 ## What it replaces and what it adds
 
-Most remote utility sites have one of three things: nothing, a single PTZ on a backhaul that drops twice a week, or a manned patrol that visits twice per shift. None of those produce an audit trail. The VDS configuration produces continuous video, continuous LPR on every access road, and a packaged incident report on every alert — without needing a trench, a transformer, or a generator.
+Most remote utility sites have one of three things: nothing, a single PTZ on a backhaul that drops twice a week, or a manned patrol that visits twice per shift. None of those produce an audit trail. The VDS configuration produces continuous video, continuous LPR on every access road, and a packaged inciden

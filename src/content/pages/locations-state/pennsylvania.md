@@ -81,4 +81,4 @@ A Marcellus E&P operator running 11 well pads across Susquehanna and Bradford co
 
 We're an active vendor on COSTARS, the Pennsylvania state cooperative purchasing program used by most PA municipalities, school districts, and counties. Sourcewell is also widely accepted. NDAA Section 889 compliant for federally-funded work, including PennDOT federal-aid projects.
 
-PA has no statewide ALPR restriction affecting our typical deployments. For municipal downtown camera deployments, we coordinate with local PD on access and footage retention protocols.
+PA has no statewide ALPR restriction affecting our typical deployments. For municipal downtown camera d

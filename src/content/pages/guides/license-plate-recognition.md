@@ -122,6 +122,4 @@ LPR is the most misunderstood AI feature in physical security right now. Vendors
 
 - 95%+ per-plate accuracy under standard lighting at supported geometries
 - Sub-3-second alert latency from capture to operator queue
-- ONVIF/RTSP camera-agnostic — bring your own LPR camera or use ours
-- Watchlist API for hot-list ingestion
-- State-aware retention policy enforcement
+- ONVIF/RTSP camera-agnostic 

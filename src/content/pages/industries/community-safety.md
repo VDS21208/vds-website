@@ -84,4 +84,4 @@ VDS hardware is NDAA Section 889 compliant — no Hikvision, Dahua, or sanctione
 
 ## Pricing
 
-Monthly all-inclusive: hardware, solar power, LTE backhaul, AI analytics, cloud storage, and 24/7 SOC monitoring. No installation fee, no permit work, no electrician.
+Monthly all-inclusive: hardware, solar power, LTE backhaul, AI analytics, cloud s

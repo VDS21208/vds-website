@@ -102,4 +102,4 @@ Event producers, festival operations directors, fair board security committees, 
 
 - **[Sky Guard MSU](/products/sky-guard-mobile-surveillance-trailer)** — $2,200/mo, rental rates for events. Primary event deployment unit.
 - **[Swift Deploy](/products/swift-deploy-surveillance-trailer)** — $1,500/mo. Compact, fast deployment for vendor zones and gates.
-- **[Boundary Guard Pro](/products/boundary-guard-pro)** — $1,800/mo. Perimeter analytics for large festival footprints.
+- **[Boundary Guard

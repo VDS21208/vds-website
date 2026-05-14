@@ -237,8 +237,4 @@ resolve correctly on the new site before publishing.
 
 ### What kind of cameras do car dealerships use?
 
-<p>Dealerships typically use 4K resolution cameras with infrared night vision, LPR capability, and AI analytics for vehicle detection. <a href="https://www.fbi.gov/investigate/violent-crime/cac" rel="nofollow">FBI crime data</a> shows that visible surveillance with audio deterrence is most effective for preventing auto theft.</p>
-
-<p>Free site assessment. Custom coverage plan. Most deployments active within 72 hours of agreement. <a href="/request-a-quote">Request your dealership security assessment</a>.</p>
-
-<!-- Schema: Service, FAQPage -->
+<p>Dealerships typically use 4K resolution cameras with infrared night vision, LPR capability, and AI analytics for vehicle detection. <a href="https://www.fbi.gov/investigate/violent-crime/cac" rel="nofollow">FBI crime data</a> shows that visible surveillance with audio deterrence is most effective for preve

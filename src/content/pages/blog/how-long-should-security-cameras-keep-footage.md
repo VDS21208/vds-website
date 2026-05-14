@@ -366,12 +366,4 @@ Regulatory requirements: Some industries have specific retention mandates that e
 
 Get Professional Video Retention Management
 
-Setting up retention policies requires balancing legal protection, storage costs, and operational workflows. Many organizations discover their retention windows are inadequate only after losing critical evidence.
-
-Vision Detection Systems handles retention planning, footage preservation, and evidence export as part of our monitoring platform. We ensure your footage is available when you need it, with documentation that satisfies legal and insurance requirements.
-
-Get a retention assessment and quote today.
-
-
-
-## FAQ
+Setting up retention policies requires balancing legal protection, storage costs, and operational workflows. Many organizations discover their retention w

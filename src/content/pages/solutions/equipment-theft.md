@@ -89,4 +89,4 @@ The Mid-Atlantic GC case: 73% reduction in theft incidents across three active s
 
 ## Pricing
 
-Equipment-focused setup starts at **$3,000/month** (two Swift Deploys). Add Sky Guard MSU for sites over 5 acres or with high-value tier 4 generators. No install fees, no camera capex.
+Equipment-focused setup starts at **$3,000/month** (two Swift Deploys). Add Sky Guard MSU for 

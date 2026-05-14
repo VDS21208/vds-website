@@ -109,4 +109,4 @@ Retail loss prevention directors, asset protection managers, multi-store operato
 
 - **[Sky Guard MSU](/products/sky-guard-mobile-surveillance-trailer)** — $2,200/mo. Parking lot coverage with audio talk-down.
 - **[Boundary Guard Pro](/products/boundary-guard-pro)** — $1,800/mo. Perimeter analytics for store fronts and rear docks.
-- **[Swift Deploy](/products/swift-deploy-surveillance-trailer)** — $1,500/mo. Seasonal surge coverage (Black Friday through holidays).
+- **[Swift Deploy](/product

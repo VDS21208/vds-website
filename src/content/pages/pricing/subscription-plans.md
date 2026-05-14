@@ -127,4 +127,4 @@ Customers can pull video to local archive at any time. Retention applies to clou
 | 150-499 | $32 | $56 |
 | 500+ | Enterprise | Enterprise |
 
-Volume tiers apply across a single billed entity. Multi-entity arrangements (parent company with subsidiaries) are quoted at the consolidated count.
+Volume tiers apply a

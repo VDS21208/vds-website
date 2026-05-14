@@ -126,4 +126,4 @@ Field data: 500+ deployments across 30+ states. Hero case study with a $28M Mid-
 
 ## Switching / next step
 
-If you are running an RFP and need a structured side-by-side, request the VDS comparison pack at /schedule-a-demo. Include your current vendor — we will populate the matrix above with your live SLA terms, retention policy, NDAA status, and SOC location.
+If you are running an RFP and need a structured side-by-side, request the VDS comparison pack at /schedule-a-demo. Include your 

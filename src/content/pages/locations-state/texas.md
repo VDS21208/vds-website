@@ -80,4 +80,4 @@ A Permian-focused E&P operator running 14 tank battery sites across Reeves and L
 
 Texas has no statewide ALPR restriction relevant to our typical deployments. We're an active Sourcewell vendor — most Texas ISDs, county governments, and many cities procure under Sourcewell or BuyBoard. GSA Schedule available for federal end customers (relevant for Customs and Border Protection and other federal-adjacent work along the border).
 
-NDAA Section 889 compliant, which matters for any federally-funded infrastructure project in Texas.
+NDAA Section 889 c

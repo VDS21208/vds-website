@@ -82,4 +82,4 @@ US-only AWS infrastructure, TLS 1.3 in transit, AES-256 at rest, RBAC and MFA on
 
 ## What it replaces
 
-A field tech driving a 200-mile loop twice a week is not surveillance — it is a $90K/year inspection program with one-hour-per-site coverage. A monitored Sky Guard at $2,200/mo delivers continuous video, continuous LPR, and SOC dispatch on every event. Operators commonly run one or two SOC-dispatched arrests in the first 90 days of deployment — enough to shift the local risk calculation across an entire field.
+A field tech driving a 200-mile loop twice a week is not surveillance — it is a $90K/year inspection program with one-hour-per-site coverage. A monitored Sky Guard at $2,200/mo delivers continuous video, continuous LPR, and SOC dispatch on every event. Operators commonly run one or two SOC-dispatched arrests in the first 90 days o

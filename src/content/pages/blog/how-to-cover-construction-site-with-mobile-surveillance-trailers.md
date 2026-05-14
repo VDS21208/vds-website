@@ -348,4 +348,4 @@ If incidents happen after-hours or you need faster response, monitoring is often
 
 If you want construction site coverage that holds up in real incidents, start with a risk-zone map and deploy mobile surveillance trailers to cover entrances/exits, laydown yards, and equipment zones first. Validate night footage with real clips, define a response workflow, and update placement as the project phases change.
 
-To move fast, explore our mobile surveillance trailers and request a configuration based on your site size, access points, and timeline. If after-hours incidents are a concern, add remote video monitoring so alerts, escalation, and reporting are handled with a defined process. If vehicle identification and gate activity are part of the risk, review license plate recognition cameras and we’ll recommend the right capture point approach for your site.
+To move fast, explore our mobile surveillance trailers and request a configuration based on your site siz

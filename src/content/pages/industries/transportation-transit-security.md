@@ -84,4 +84,4 @@ US-only AWS infrastructure. TLS 1.3 / AES-256. RBAC and MFA on every account.
 
 ## What it replaces
 
-A typical mid-sized transit yard runs a guard program at $400-800K/year for perimeter coverage. Three Sky Guard units and two Boundary Guard Pro fence-line units deliver continuous coverage at a fraction — with continuous video, monitored dispatch, and the audit trail the agency's grant compliance officer needs at FTA review time.
+A typical mid-sized transit yard runs a guard program at $400-800K/year for perimeter coverage. Three Sky Guard units and two Boundary Guard Pro fence-line units deliver continuous coverage at a fraction — with continuous video, monitored dispatch

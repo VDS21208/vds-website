@@ -65,4 +65,4 @@ Light trailers are an obvious tool for night work. We make ours optionally smart
 
 ## Where they earn their keep
 
-Construction night shifts. Roadwork. Event lighting. Disaster response. Temporary parking lot lighting. Any site that needs lumens after dark plus a record of who was there.
+Construction night shifts. Roadwork. Event lighting. Disaster response. Temporary parking lot lighting. Any

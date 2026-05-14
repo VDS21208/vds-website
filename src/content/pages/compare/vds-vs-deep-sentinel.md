@@ -118,5 +118,4 @@ Both companies advertise AI-driven monitoring with human operators in the loop. 
 - **You run a single small business storefront** — Deep Sentinel.
 - **You are a GC, utility, municipal site manager, retail park operator, or multi-site enterprise** — VDS.
 - **You need to move the cameras every few weeks** — VDS.
-- **You have a site with no electrical service** — VDS.
-- **You need NDAA Section 889 documentation for a federal flow-down** — VDS.
+- **You have a si

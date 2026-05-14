@@ -75,4 +75,4 @@ For organizations whose alerts flow into a monitoring company, an IT ticketing q
 
 If you run something custom or something on this page is not listed, the same primitives are available to you directly: REST API, signed webhooks, and a documented event schema. Most one-off integrations take a sprint or less on the customer side. VDS engineering scopes integration work as part of enterprise onboarding at no additional cost.
 
-[Read the API + SDK documentation](/platform/api-sdk-access) or [book a 30-minute integration scoping call](/contact-us).
+[Read the API + SDK documentation](/platform/

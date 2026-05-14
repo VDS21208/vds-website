@@ -122,5 +122,4 @@ VDS works with security integrators through our /partners program. If you are an
 - Mobile surveillance is a dedicated program with its own budget line.
 - You need manufacturer-direct SOC, warranty, and engineering support.
 - You need NDAA Section 889 traceability in one document.
-- Your security committee values published pricing and no margin layer.
-- You want the engineer who built the unit on the call when something needs to change.
+- Your security committee values pu

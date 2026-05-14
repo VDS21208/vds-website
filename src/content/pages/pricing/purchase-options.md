@@ -124,4 +124,4 @@ Most purchase customers run Standard service. Premium is typical for fleet owner
 
 ## Trade-in
 
-If you bought a trailer from us 4+ years ago and want to refresh, we offer trade-in credit toward a new unit. Typical trade-in value on a Sky Guard MSU is 25-40% of original purchase price depending on age and condition. Quoted per unit on inspection.
+If you bought a trailer from us 4+ years ago and want to refresh, we offer trade-in credit toward a new unit. Typical trade-in

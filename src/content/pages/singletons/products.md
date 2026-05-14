@@ -86,4 +86,4 @@ Anti-tamper kits, additional batteries, LPR upgrades, signage, K-rail mounts, an
 
 ## The platform underneath
 
-Every unit ships configured for AI VisionStream. ONVIF and RTSP compliant. TLS 1.3, AES-256, US-only AWS data residency, immutable 12-month audit log. SOC monitoring sold per unit or per portfolio.
+Every unit ships configured for AI VisionStream. ONVIF and RTSP compliant. TLS 1.3, AES-256, US-only AWS data 

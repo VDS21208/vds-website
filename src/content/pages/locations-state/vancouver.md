@@ -76,4 +76,4 @@ This is the path forward for most cross-border buyers until VDS opens direct Can
 
 ## What changes when VDS launches in Vancouver
 
-Same model as our US deployments: solar-autonomous hardware, camera-agnostic cloud VMS, 24/7 SOC. Canadian launch will add AWS Canada Central data residency, Pacific Time SOC alignment, and pricing in CAD. We'll publish a service area and SLA at launch — not before.
+Same model as our US deployments: solar-autonomous hardware, camera-agnostic cloud VMS, 24/7 SOC. Canadian launch will add AWS Canada Central data residency, Pacific Time SOC alignment, and p

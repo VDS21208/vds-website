@@ -83,4 +83,4 @@ Our auditor-facing documentation package maps each deployed control to the speci
 
 ## What it replaces during construction
 
-Hyperscale and large colo construction sites typically run guard programs at $40-80K/month. A multi-unit VDS deployment delivers the same physical perimeter coverage with continuous video, AI fence-line classification, LPR on every gate, and SOC-verified dispatch — at a substantial discount and with an evidence record the guard program cannot produce. The units stay in place through stabilization or move to the next construction phase on the same campus.
+Hyperscale and large colo construction sites typically run guard programs at $40-80K/month. A multi-unit VDS deployment delivers the same physical perimeter coverage with continuous video, AI fence-line classification, LPR on every gate, and SOC-verified dispatch — at a substantial discount and with an evidence record the guard program cannot produce. The units stay in pl

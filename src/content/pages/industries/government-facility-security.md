@@ -95,4 +95,4 @@ Month-to-month after initial term, operational expense classification, no capita
 
 ## Pricing
 
-Monthly all-inclusive: hardware, solar power, LTE backhaul, AI analytics, cloud storage, and 24/7 US SOC monitoring. Cooperative-contract pricing applied where applicable.
+Monthly all-inclusive: hardware, solar power, LTE backhaul, AI analytics, c

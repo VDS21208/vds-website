@@ -84,4 +84,4 @@ A general contractor running a new entertainment-venue construction site off the
 
 **Event and trade-show staging.** Convention authority and venue-operator security plans typically require coordination with on-site security before perimeter deployment. We integrate with the customer's event security lead during mobilization and align SOC escalation paths to their dispatch protocol.
 
-**Heat and dust.** Panel mounting and seals are engineered for desert-summer wind and dust loads. We swap intake filters on a tightened schedule through the hot months.
+**Heat and dust.** Panel mounting and seals are engineered for desert-summer wind a

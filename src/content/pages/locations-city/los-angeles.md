@@ -84,4 +84,4 @@ A licensed cannabis cultivation operator running a 40,000 sq ft facility in the 
 
 **Cannabis state licensing.** California cannabis license types require specific minimum video retention (90 days) and continuous coverage of licensed areas. Our deployments default to license-compliant configuration.
 
-**Port access.** TWIC credentials and MTSA-compliant access required. Our crew is current.
+**Por

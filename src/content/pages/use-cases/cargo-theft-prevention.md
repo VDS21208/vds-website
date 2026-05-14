@@ -79,4 +79,4 @@ AI VisionStream rules catch the patterns static cameras miss. Trailer-hookup det
 
 ## ROI math
 
-A single recovered trailer of consumer electronics — $250,000 retail value — pays for full yard perimeter coverage for over four years. A typical 4-acre distribution yard runs $9,000 to $14,000/mo for full Boundary Guard Pro + Swift Deploy + SOC coverage. Insurance premium reductions of 8% to 15% are common after deployment. CTPAT and TAPA audit scores improve materially.
+A single recovered trailer of consumer electronics — $250,000 retail value — pays for full yard perimeter coverage for over four years. A typical 4-acre distribution yard runs $9,000 to $14,000/mo for full Boundary Guard Pro + Swift Deploy + SOC coverage. Insurance premium reductions of 8% to 

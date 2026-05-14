@@ -108,5 +108,4 @@ VDS Sky Guard at $2,200/mo includes the trailer, the cameras, the LTE, the VMS, 
 
 1. **End-of-month inventory.** Identify which sites are under Pro-Vigil monitoring and which third-party installer owns the camera hardware.
 2. **Replacement or ingest decision.** Where the cameras are old or limited, we deploy a VDS unit. Where the cameras are good, our VMS ingests them via ONVIF and the SOC takes over monitoring.
-3. **Single MSA cutover.** One Master Service Agreement with VDS replaces the Pro-Vigil monitoring contract and the installer's maintenance contract.
-4. **Quarterly review.** Documented operator notes, incident summaries, hardware health.
+3. **Single MSA cutover.** One Master Service Agreement with VDS replaces the Pro-Vigil monitoring contract and the installer's m

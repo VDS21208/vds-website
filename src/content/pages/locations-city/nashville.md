@@ -80,4 +80,4 @@ A general contractor running a 28-story SoBro mixed-use tower signed two Sky Gua
 
 **Healthcare-adjacent deployments.** Where a deployment touches a HIPAA-covered entity's parking lot or perimeter — Vanderbilt, HCA, Tristar — we align retention and access procedures with the customer's HIPAA security officer. Our cloud VMS does not store PHI; deployments capture vehicles and exterior perimeter only.
 
-**Broadway and event venues.** Metro Nashville has tightened permit requirements around Broadway and large-format event staging. We file ROW permits where required.
+**Broadway and event venues.** Metro Nashville has tightened permit requirements ar

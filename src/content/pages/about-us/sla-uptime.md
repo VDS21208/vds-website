@@ -104,5 +104,4 @@ Following industry standard:
 
 - Force majeure events (natural disasters, regional carrier outages outside our control)
 - Customer-caused issues (network changes, account misconfiguration, denial of cellular service at the carrier level)
-- Scheduled maintenance announced 7+ days in advance
-- Beta or pilot features explicitly designated as not under SLA
+- Scheduled

@@ -91,4 +91,4 @@ Customers and prospects are welcome to tour the facility. We schedule tours week
 
 ## Working at the plant
 
-We hire technicians, electricians, network engineers, programmers, and QC inspectors. If you build things with your hands and care that they work in -20F at 3 AM, the roles are open.
+We hire technicians, electricians, network engineers, programmers, and QC inspectors. If y

@@ -15,7 +15,7 @@ heroCTAPrimary:
   url: /request-a-quote
 heroCTASecondary:
   label: Download Spec Sheet
-  url: /downloads/sky-guard-msu-spec.pdf
+  url: /products/sky-guard-mobile-surveillance-trailer/
 heroStats:
 - 22ft mast
 - 500ft radar
@@ -101,4 +101,4 @@ Sky Guard MSU is the only mobile unit in our catalog that ships with both, plus 
 
 ## Where it earns its keep
 
-Construction sites with high copper, fuel, or equipment exposure. Utility substations and yards. Critical infrastructure perimeters. Solar and storage farms. Cargo yards. Anywhere a thermal-only or PTZ-only unit would leave a detection gap and a 2 a.m. phone call.
+Construction sites with high copper, fuel, or equipment exposure. Utility substations and yards. Critical infrastructure perimeters. Solar and storage farms. Carg

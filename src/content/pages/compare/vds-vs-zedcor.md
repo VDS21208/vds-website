@@ -111,4 +111,4 @@ Zedcor and VDS are often shortlisted together by North American buyers — energ
 
 **You are a US buyer with Canadian sites.** Same logic reversed. VDS covers your US footprint with NDAA and US data residency. Zedcor covers Canada under PIPEDA. Procurement gets one shortlist; security gets full coverage.
 
-**You are evaluating for a single-country deployment.** Pick the operator built for that regulatory regime. For US sites, that is VDS.
+**You are evaluating f

@@ -111,6 +111,4 @@ We have ported customers off other mobile surveillance vendors before. The migra
 
 1. **Week 1** — VDS engineer reviews your site map, current footage retention, and existing camera assets. If you have ONVIF/RTSP cameras already, AI VisionStream can ingest them.
 2. **Week 2** — Hardware swap or addition scheduled. SOC profile built for your sites, including escalation contacts and dispatch boundaries.
-3. **Week 3** — Live. Old vendor demobilized. Historical footage exported to your storage if required.
-
-No early-termination penalty applies on the VDS side; check your existing contract for the other side.
+3. **Week 3** — Live. Old vendor demobilized. Historical footage exported to your storage if r

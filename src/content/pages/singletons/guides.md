@@ -34,7 +34,7 @@ finalCTAHeading: Pick the guide that matches your risk
 finalCTABody: Or skip the reading and book a 20-minute deployment review with a senior engineer.
 finalCTAButtons:
 - label: Book deployment review
-  url: /contact-us ROI Calculator
+  url: /guides/roi-calculator/
 schemaType: Article
 canonical: https://visiondetectionsystems.com/guides
 ogTitle: Guides built from 10,000+ deployment hours
@@ -71,4 +71,4 @@ Use them to write specs, defend budgets, and shorten vendor evaluation from mont
 
 ## Who uses these
 
-Security directors at GCs, utility cooperatives, retail loss prevention, municipal procurement officers, event producers, and CFOs running the budget approval. If you're writing a spec or defending a line item, start here.
+Security directors at GCs, utility cooperatives, retail loss prevention, municipal procurement officers, event producers, and CFOs running the budget 

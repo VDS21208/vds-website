@@ -93,4 +93,4 @@ These are not aspirational. They are architectural. If you want the specifics, t
 
 ## Vulnerability disclosure
 
-Coordinated disclosure at security@visiondetectionsystems.com. We publish CVE-class advisories to customers within 72 hours of confirmation, with mitigation guidance.
+Coordinated disclosure at security@visiondetectionsystems.com. We publis

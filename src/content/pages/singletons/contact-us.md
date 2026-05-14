@@ -141,6 +141,4 @@ If your question does not fit one of the departments above, or you would prefer 
 ## What we will not respond to
 
 - Unsolicited sales pitches and SEO outreach via the general contact form
-- Resume submissions to email addresses other than careers@
-- "Quick partnership" emails from companies outside our verticals
-- Anonymous threats — these are reported to law enforcement
+- Resume submissions to email addresses other

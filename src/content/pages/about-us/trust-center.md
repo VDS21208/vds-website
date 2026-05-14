@@ -118,5 +118,4 @@ Material security incidents are disclosed to affected customers within 72 hours 
 
 For SIG, CAIQ, custom security questionnaires, MSA security addenda, BAA discussions, or one-off documentation requests:
 
-Procurement and security desk: **security@visiondetectionsystems.com**
-Response SLA: 2 business days for standard requests, 5 business days for custom questionnaires.
+Procurement and security desk: **security@visio

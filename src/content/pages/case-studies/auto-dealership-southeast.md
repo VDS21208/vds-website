@@ -88,4 +88,4 @@ The GM at the highest-loss lot summarized the deployment at the 90-day review: "
 
 ## Configuration notes for other dealer groups
 
-Two adjustments we now recommend by default for dealer lot deployments. First, run units in thermal-priority mode after 9pm rather than relying solely on visible-light. Catalytic converter theft is almost always a ground-level activity in low-light conditions, and thermal is decisive. Second, integrate LPR with whatever local LE intelligence unit will accept a hot-list feed. The deterrent value of a known plate getting flagged is significant beyond the individual customer.
+Two adjustments we now recommend by default for dealer lot deployments. First, run units in thermal-priority mode after 9pm rather than relying solely on visible-light. Catalytic converter theft is almost always a ground-level activity in low-light conditions, and thermal is decisive. Second, integrate LPR with whatever local LE intelligence unit will accept a hot-list feed. The deterr

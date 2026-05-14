@@ -111,6 +111,5 @@ This is the maintenance regimen VDS field engineers follow on customer cameras u
 
 ## Free excerpts
 
-- [The one-page quarterly checklist (PDF)](/guides/security-camera-maintenance/checklist)
-- [Lens cleaning: the four-step technique](/guides/security-camera-maintenance/lens-cleaning)
-- [Firmware staged rollout playbook](/guides/security-camera-maintenance/firmware-playbook)
+- [The one-page quarterly checklist (PDF)](/guides/security-camera-maintenance/#checklist)
+- [Lens cleaning: the four-step technique](/guides/security-camera-maint

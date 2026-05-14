@@ -110,4 +110,4 @@ Over a 12-month project, the difference is rarely the headline monthly — it's 
 1. **Calendar the existing rental.** WCCTV contracts are typically month-to-month after the initial 90-day term. Identify your cancellation window.
 2. **Schedule the swap.** Our delivery team coordinates with the WCCTV pickup so there's no coverage gap. Typical swap is a single day for a single-trailer site.
 3. **Re-mount fixed assets where applicable.** Site signage and access protocols transfer; SOC liaison is assigned before the swap.
-4. **Document the construction phases.** Our team plans trailer redeployment as the site advances — different positions for foundation, frame, finish, and close-out phases.
+4. **Document the construction phases.** Our team plans trailer

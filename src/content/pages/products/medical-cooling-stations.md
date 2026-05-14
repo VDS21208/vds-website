@@ -65,4 +65,4 @@ OSHA's heat injury and illness rules are getting stricter every cycle. Sites wit
 
 ## Where they earn their keep
 
-Construction in heat-stressed regions. Outdoor industrial sites. Event venues. Disaster response staging. Agricultural operations. Any site running an OSHA-watched workforce in temperature extremes.
+Construction in heat-stressed regions. Outdoor industrial sites. Event venues. Disaster response staging. Agricultural operations. A

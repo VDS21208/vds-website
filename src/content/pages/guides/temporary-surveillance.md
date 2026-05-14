@@ -110,5 +110,4 @@ Project managers running multi-phase work, event producers, retail asset protect
 ## Related products
 
 - **[Sky Guard MSU](/products/sky-guard-mobile-surveillance-trailer)** — $2,200/mo contract, rental rates available
-- **[Swift Deploy](/products/swift-deploy-surveillance-trailer)** — $1,500/mo contract, rental rates available
-- **[Boundary Guard Pro](/products/boundary-guard-pro)** — $1,800/mo contract, rental rates available
+- **[Swift Deploy](/products/swift-deploy-surveillance-trailer)** — $1,500/mo contract, rental rates av

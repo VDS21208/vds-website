@@ -235,8 +235,4 @@ resolve correctly on the new site before publishing.
 
 ### Does VDS provide compliance documentation for government purchasing?
 
-<p>Yes, VDS provides complete NDAA Section 889 compliance documentation including written attestation, component-level verification, and procurement support materials. All documentation supports federal, state, and municipal government purchasing requirements.</p>
-
-<p>Free site assessment. Custom coverage plan. Most deployments active within 72 hours of agreement. <a href="/request-a-quote">Request your law enforcement surveillance assessment</a>.</p>
-
-<!-- Schema: Service, FAQPage -->
+<p>Yes, VDS provides complete NDAA Section 889 compliance documentation including written attestation, component-level verification, and procurement support materials. All documentation supports federal, state, and municipal government purchasing require

@@ -317,12 +317,4 @@ Yes—construction sites and parking lots are two of the most common application
 
 ### 8) Can the trailer configuration be customized (cameras, coverage, upgrades)?
 
-Configurations are often tailored to the environment and objective—wide-area deterrence, evidence capture, access-point coverage, or operational oversight. The right setup depends on what must be seen (faces, vehicles, entrances) and how you intend to respond when incidents occur.
-
-MAKE THESE TESTIMONIALS SPECIFIC TO THE MOBILE SURVEILLANCE PRODUCT
-
-
-
-## Secure Your Site Fast With a Remote Surveillance Trailer
-
-Rapid deployment coverage with 4G/5G connectivity, solar/battery options, and remote video monitoring built for real jobsite conditions.
+Configurations are often tailored to the environment and objective—wide-area deterrence, evidence capture, access-point coverage, or operational oversight. The right setup depends on what must be seen (faces, vehicles, entrances) and

@@ -82,4 +82,4 @@ For a central station already running Manitou: 3 to 5 business days. Required on
 
 ## Pricing
 
-The Bold Group Manitou integration is included with any AI VisionStream enterprise subscription. Central station licensing and the customer's monitoring contract are separate.
+The Bold Group Manitou integration is included with any AI VisionStream enterprise subscript

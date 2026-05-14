@@ -86,4 +86,4 @@ The utility's physical security manager noted in the renewal review: "The substa
 
 ## NERC CIP and reporting
 
-The utility uses the VDS Cloud VMS audit log as a contributing data source for physical security incident reporting. Every event is timestamped, every SOC operator action is logged, and every retention policy is configurable to meet the utility's record-keeping requirements. The platform was reviewed by the utility's compliance team prior to deployment.
+The utility uses the VDS Cloud VMS audit log as a contributing data source for physical security incident reporting. Every event is timestamped, every SOC operator action is logged, and every retention policy is configurable to meet the utility's record-keeping requir

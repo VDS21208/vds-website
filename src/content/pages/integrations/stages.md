@@ -82,4 +82,4 @@ For a central station already running Stages: 3 to 5 business days. Required on 
 
 ## Pricing
 
-The Stages integration is included with any AI VisionStream enterprise subscription. Stages licensing and the customer's monitoring contract are separate commercial relationships.
+The Stages integration is included with any AI VisionStream enterprise subscription. Stages lice

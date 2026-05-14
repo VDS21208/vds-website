@@ -83,4 +83,4 @@ For a customer with an existing ServiceNow instance and an OAuth application reg
 
 ## Pricing
 
-The ServiceNow integration is included with any AI VisionStream enterprise subscription. ServiceNow licensing follows standard ServiceNow pricing — VDS does not resell.
+The ServiceNow integration is included with any AI VisionStream enterprise subscriptio

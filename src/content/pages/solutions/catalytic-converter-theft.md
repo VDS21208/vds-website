@@ -91,4 +91,4 @@ A Toyota dealer in the Midwest was losing 4-7 converters/month, averaging $9,200
 
 ## Pricing
 
-Single-Swift-Deploy coverage with LPR: **$1,500/month**. Most dealers land at $3,000/month for a 2-unit deployment. Multi-rooftop groups get fleet pricing.
+Single-Swift-Deploy coverage with LPR: **$1,500/month**. Most d

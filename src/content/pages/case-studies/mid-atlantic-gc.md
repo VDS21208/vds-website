@@ -84,4 +84,4 @@ The firm's risk manager summarized the deployment in a single line during the co
 
 ## What we would do differently
 
-In retrospect, Site C did not require its own unit. The repositioning model we adopted in week six produced equivalent coverage and reduced the customer's monthly spend. We now recommend this approach by default on portfolios with three or more small concurrent sites and adjacent access.
+In retrospect, Site C did not require its own unit. The repositioning model we adopted in week six produced equivalent coverage and reduced the customer's monthly spend. We now recommend this approach by

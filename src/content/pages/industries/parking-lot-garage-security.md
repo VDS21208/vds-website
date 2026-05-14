@@ -237,6 +237,4 @@ resolve correctly on the new site before publishing.
 
 <p>Use mobile surveillance trailers with 300ft coverage radius per unit. AI VisionStream filters false alarms while SOC operators provide verified response within 60 seconds. LPR captures every vehicle entry/exit. Reposition trailers as risk patterns change rather than installing fixed infrastructure throughout the lot.</p>
 
-<p>Ready to eliminate catalytic converter theft and reduce parking lot liability exposure? Our security operations team provides free site assessments and custom coverage plans. Most deployments go from agreement to active monitoring within 72 hours. <a href="/request-a-quote">Request your parking lot security assessment</a> and discover why property managers choose VDS mobile surveillance over traditional guard patrols.</p>
-
-<!-- Schema: Service, FAQPage -->
+<p>Ready to eliminate catalytic converter theft and reduce parking lot liability exposure? Our security operations team provides free site assessments and custom coverage plans. Most deployments go from agreement to active mo

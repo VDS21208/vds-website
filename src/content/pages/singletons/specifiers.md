@@ -114,4 +114,4 @@ This is the operational, not marketing, version:
 - **Sourcewell awarded contract holder** simplifies public agency procurement
 - **Camera-agnostic VMS** means VDS can integrate with cameras the project owner already prefers or has specified separately — no proprietary lock-in
 - **AWS US-only data residency** satisfies the data sovereignty language in federal and many state specs
-- **Documented case data** — 500+ deployments, 30+ states, hero-case 73% theft reduction — gives specifiers reference projects when bid clarifications ask for prior work
+- **Documented case data** — 500+ deployments, 30+ state

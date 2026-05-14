@@ -99,4 +99,4 @@ We do not currently operate a paid bug bounty. We do credit researchers on a Hal
 
 Deployed trailers run a hardened Linux operating system. Remote SSH is disabled by default; out-of-band management runs through a dedicated, mutually-authenticated channel. Firmware updates are signed, verified, and applied during defined maintenance windows. We do not push unsigned firmware. Ever.
 
-Trailers do not store customer video locally beyond a short rolling buffer; primary storage is cloud-side under AWS US-only regions.
+Trailers do not store customer v
