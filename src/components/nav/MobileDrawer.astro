@@ -64,21 +64,66 @@ const NAV_ICONS: Record<string, string> = {
 <script>
   const drawer = document.querySelector('[data-mobile-drawer]') as HTMLElement;
   const toggle = document.querySelector('[data-mobile-toggle]');
-  const close = document.querySelector('[data-mobile-close]');
+  const closeBtn = document.querySelector('[data-mobile-close]');
+  let isOpen = false;
+
+  const restoreScroll = () => {
+    document.body.style.overflow = '';
+    document.documentElement.style.overflow = '';
+    document.body.style.position = '';
+    document.body.style.top = '';
+    document.body.style.width = '';
+  };
+
   const openDrawer = () => {
-    if (!drawer) return;
+    if (!drawer || isOpen) return;
+    isOpen = true;
     drawer.classList.remove('translate-x-full', 'invisible');
     drawer.setAttribute('aria-hidden', 'false');
     document.body.style.overflow = 'hidden';
   };
+
   const closeDrawer = () => {
     if (!drawer) return;
+    isOpen = false;
     drawer.classList.add('translate-x-full');
     drawer.setAttribute('aria-hidden', 'true');
-    document.body.style.overflow = '';
-    setTimeout(() => drawer.classList.add('invisible'), 300);
+    restoreScroll();
+    window.setTimeout(() => {
+      if (!isOpen) drawer.classList.add('invisible');
+    }, 320);
   };
-  toggle?.addEventListener('click', openDrawer);
-  close?.addEventListener('click', closeDrawer);
+
+  toggle?.addEventListener('click', (e) => {
+    e.preventDefault();
+    e.stopPropagation();
+    openDrawer();
+  });
+  closeBtn?.addEventListener('click', (e) => {
+    e.preventDefault();
+    e.stopPropagation();
+    closeDrawer();
+  });
+
+  // Close on any link click inside the drawer (prevents stuck state on navigation)
+  drawer?.querySelectorAll('a[href]').forEach(a => {
+    a.addEventListener('click', () => {
+      closeDrawer();
+    });
+  });
+
+  // Close on escape
   document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeDrawer(); });
+
+  // Close on resize past mobile breakpoint
+  window.addEventListener('resize', () => {
+    if (window.innerWidth >= 1024 && isOpen) closeDrawer();
+  });
+
+  // Safety: on page show / pageshow / popstate, always restore scroll
+  window.addEventListener('pageshow', restoreScroll);
+  window.addEventListener('popstate', () => { closeDrawer(); restoreScroll(); });
+
+  // If Astro View Transitions navigates, ensure overflow restored
+  document.addEventListener('astro:after-swap', () => { isOpen = false; restoreScroll(); });
 </script>
