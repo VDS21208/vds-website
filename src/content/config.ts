@@ -40,6 +40,12 @@ const pageSchema = z.object({
   robots: z.string().optional().default("index, follow"),
   speakable: z.string().optional().default(""),
   author: z.string().optional().default("Vision Detection Systems"),
+  analyticIcon: z.string().optional().default(""),
+  analyticImage: z.string().optional().default(""),
+  analyticHeadline: z.string().optional().default(""),
+  useCases: z.array(z.string()).optional().default([]),
+  specsList: z.array(z.object({ label: z.string(), value: z.string() })).optional().default([]),
+  relatedIndustries: z.array(z.string()).optional().default([]),
   tags: z.string().optional().default(""),
   notes: z.string().optional().default(""),
 });

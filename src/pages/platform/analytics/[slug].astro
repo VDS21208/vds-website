@@ -1,0 +1,156 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../../layouts/Layout.astro';
+import HeroImage from '../../../components/hero/HeroImage.astro';
+import TrustStrip from '../../../components/sections/TrustStrip.astro';
+import FAQAccordion from '../../../components/sections/FAQAccordion.astro';
+import FinalCTAStrip from '../../../components/sections/FinalCTAStrip.astro';
+import SchemaArticle from '../../../components/seo/SchemaArticle.astro';
+import SchemaFAQ from '../../../components/seo/SchemaFAQ.astro';
+import Icon from '../../../components/icons/Icon.astro';
+
+export async function getStaticPaths() {
+  const all = await getCollection('pages');
+  return all
+    .filter((e: any) => e.data.url && e.data.url.startsWith('/platform/analytics/') && e.data.url !== '/platform/analytics/')
+    .map((entry: any) => ({
+      params: { slug: entry.data.url.replace('/platform/analytics/', '').replace(/\/$/, '') },
+      props: { entry, allEntries: all }
+    }));
+}
+const { entry, allEntries } = Astro.props;
+const page = entry.data;
+const { Content } = await entry.render();
+
+const others = allEntries
+  .filter((e: any) => e.data.url && e.data.url.startsWith('/platform/analytics/') && e.data.url !== page.url && e.data.url !== '/platform/analytics/')
+  .slice(0, 3);
+---
+<Layout
+  title={page.seoTitle}
+  description={page.metaDescription}
+  ogTitle={page.ogTitle}
+  ogDescription={page.ogDescription}
+  ogImage={page.ogImage}
+  ogType={page.ogType || "article"}
+  robots={page.robots}
+  parent="AI Video Analytics"
+  h1={page.h1}
+>
+  <SchemaArticle headline={page.h1} description={page.metaDescription} url={page.canonical} keywords={page.tags} />
+  <SchemaFAQ faqs={page.faq} />
+
+  <!-- Hero with screenshot -->
+  <section class="relative bg-navy text-white py-20 md:py-24 overflow-hidden">
+    <div class="dot-pattern absolute inset-0 opacity-20"></div>
+    <div class="hero-orb-layer">
+      <div class="gradient-orb gradient-orb-orange" style="width:600px;height:600px;top:-200px;right:-150px;opacity:0.22;"></div>
+      <div class="gradient-orb gradient-orb-blue" style="width:500px;height:500px;bottom:-200px;left:-100px;opacity:0.18;animation-delay:-7s;"></div>
+    </div>
+    <div class="container-wide relative z-10">
+      <div class="grid lg:grid-cols-12 gap-10 items-center">
+        <div class="lg:col-span-5">
+          <a href="/platform/ai-video-analytics/" class="inline-flex items-center gap-1.5 text-xs uppercase tracking-[0.15em] text-white/55 hover:text-orange mb-5 transition-colors">
+            <Icon name="arrow-right" size={12} class="rotate-180" /> All AI analytics
+          </a>
+          <div class="inline-flex items-center gap-2 mb-4">
+            <span class="inline-flex items-center justify-center w-9 h-9 rounded-md bg-orange/15 border border-orange/30 text-orange">
+              <Icon name={page.analyticIcon || 'eye'} size={16} />
+            </span>
+            <span class="text-xs uppercase tracking-[0.15em] text-orange font-medium">AI Analytic</span>
+          </div>
+          <h1 class="font-display text-4xl md:text-5xl leading-tight mb-5">{page.h1}</h1>
+          {page.analyticHeadline && <p class="font-display text-xl text-orange mb-4">{page.analyticHeadline}</p>}
+          <p class="text-lg text-white/80 leading-relaxed mb-7">{page.heroSubhead}</p>
+          <div class="flex flex-wrap gap-3">
+            <a href="/schedule-a-demo/" class="inline-flex items-center gap-2 bg-orange hover:bg-orange-dark text-white font-medium px-6 py-3 rounded-md transition-all">See it on your cameras <Icon name="arrow-right" size={16} /></a>
+            <a href="/platform/pricing/" class="inline-flex items-center gap-2 border border-white/30 hover:border-white text-white font-medium px-6 py-3 rounded-md transition-all">See pricing</a>
+          </div>
+        </div>
+        <div class="lg:col-span-7">
+          {page.analyticImage && (
+            <div class="relative rounded-xl overflow-hidden border border-white/15 shadow-2xl bg-navy-light">
+              <img src={page.analyticImage} alt={page.h1} class="block w-full" />
+              <div class="absolute top-3 left-3 text-[0.625rem] uppercase tracking-[0.2em] text-white/50 font-medium bg-black/40 px-2 py-1 rounded">3dEYE-licensed UI · representative</div>
+            </div>
+          )}
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <TrustStrip />
+
+  <!-- Use-cases grid -->
+  {page.useCases && page.useCases.length > 0 && (
+    <section class="py-20 bg-offwhite">
+      <div class="container-wide">
+        <div class="eyebrow mb-3">Use cases</div>
+        <h2 class="font-display text-navy text-3xl md:text-4xl mb-10">Where teams use this analytic.</h2>
+        <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-5">
+          {page.useCases.map((u: string) => (
+            <div class="bg-white border border-slate-200 rounded-xl p-6 hover:border-orange transition-colors">
+              <div class="text-orange mb-3"><Icon name="shield" size={20} /></div>
+              <p class="text-[0.95rem] text-slate-700 leading-relaxed">{u}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+  <!-- Spec table -->
+  {page.specsList && page.specsList.length > 0 && (
+    <section class="py-20 bg-white">
+      <div class="container-wide max-w-4xl">
+        <div class="eyebrow mb-3">Specs</div>
+        <h2 class="font-display text-navy text-3xl md:text-4xl mb-8">Technical details.</h2>
+        <div class="border border-slate-200 rounded-xl overflow-hidden">
+          {page.specsList.map((s: any, i: number) => (
+            <div class={`grid grid-cols-3 gap-6 px-6 py-4 ${i % 2 === 0 ? 'bg-offwhite' : 'bg-white'}`}>
+              <div class="text-xs uppercase tracking-[0.15em] text-slate-500 font-medium pt-0.5">{s.label}</div>
+              <div class="col-span-2 text-[0.95rem] text-navy">{s.value}</div>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+  <!-- Body content -->
+  <section class="py-16 bg-white">
+    <div class="container-wide">
+      <div class="max-w-3xl mx-auto">
+        <article class="prose-vds"><Content /></article>
+      </div>
+    </div>
+  </section>
+
+  <!-- Other analytics -->
+  {others.length > 0 && (
+    <section class="bg-offwhite py-16">
+      <div class="container-wide">
+        <div class="eyebrow mb-3">More analytics</div>
+        <h2 class="font-display text-navy text-3xl mb-8">Other modules you can activate.</h2>
+        <div class="grid md:grid-cols-3 gap-5">
+          {others.map((o: any) => (
+            <a href={o.data.url} class="group bg-white border border-slate-200 rounded-xl overflow-hidden hover:border-orange hover:shadow-lg transition-all">
+              {o.data.analyticImage && (
+                <div class="aspect-[16/10] bg-navy overflow-hidden relative">
+                  <img src={o.data.analyticImage} alt={o.data.h1} loading="lazy" class="absolute inset-0 w-full h-full object-cover" />
+                </div>
+              )}
+              <div class="p-5">
+                <h3 class="font-display text-lg text-navy group-hover:text-orange transition-colors mb-1">{o.data.h1}</h3>
+                <p class="text-sm text-slate-600 leading-relaxed line-clamp-2">{o.data.heroSubhead}</p>
+              </div>
+            </a>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+  <FAQAccordion heading="Frequently asked questions" faqs={page.faq} />
+  {page.finalCTAHeading && <FinalCTAStrip heading={page.finalCTAHeading} body={page.finalCTABody} buttons={page.finalCTAButtons || []} />}
+</Layout>

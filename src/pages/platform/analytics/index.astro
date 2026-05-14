@@ -1,0 +1,55 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../../layouts/Layout.astro';
+import Icon from '../../../components/icons/Icon.astro';
+
+const all = await getCollection('pages');
+const analytics = all
+  .filter((e: any) => e.data.url && e.data.url.startsWith('/platform/analytics/') && e.data.url !== '/platform/analytics/')
+  .map((e: any) => e.data)
+  .sort((a, b) => a.h1.localeCompare(b.h1));
+---
+<Layout title="AI Video Analytics Modules | VDS" description="VDS AI VisionStream offers 10+ AI video analytics modules — ALPR, fire & smoke, people counting, loitering, object detection, and more. Activate per camera, on demand." parent="Platform" h1="AI Video Analytics — Activate Per Camera">
+  <section class="relative bg-navy text-white py-24 md:py-32 overflow-hidden">
+    <div class="dot-pattern absolute inset-0 opacity-20"></div>
+    <div class="hero-orb-layer">
+      <div class="gradient-orb gradient-orb-orange" style="width:600px;height:600px;top:-150px;right:-150px;opacity:0.25;"></div>
+    </div>
+    <div class="container-wide relative z-10 max-w-4xl">
+      <div class="eyebrow mb-4">AI Video Analytics</div>
+      <h1 class="font-display text-5xl md:text-6xl leading-tight mb-6">10 analytics.<br/><span class="gradient-text">Any camera.</span><br/>On demand.</h1>
+      <p class="text-xl md:text-2xl text-white/80 leading-relaxed mb-8 font-light max-w-3xl">
+        Activate AI per camera, per analytic, per month. Eliminate false alarms. Make operators faster. Catch threats earlier.
+      </p>
+      <div class="flex flex-wrap gap-3">
+        <a href="/schedule-a-demo/" class="btn-primary btn-large">See it live <Icon name="arrow-right" size={16} /></a>
+        <a href="/platform/" class="btn-secondary btn-large border-white text-white hover:bg-white/10">Platform overview</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="py-20 bg-white">
+    <div class="container-wide">
+      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {analytics.map((a: any) => (
+          <a href={a.url} class="group bg-offwhite border border-slate-200 rounded-xl overflow-hidden hover:border-orange hover:shadow-xl transition-all hover:-translate-y-1">
+            <div class="relative aspect-[16/10] bg-navy overflow-hidden">
+              {a.analyticImage && <img src={a.analyticImage} alt={a.h1} loading="lazy" class="absolute inset-0 w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" />}
+              <div class="absolute inset-0 bg-gradient-to-t from-navy/60 to-transparent"></div>
+              <div class="absolute top-3 left-3 inline-flex items-center gap-1.5 bg-orange text-white text-[0.625rem] uppercase tracking-wider font-medium px-2.5 py-1 rounded-sm">
+                <Icon name={a.analyticIcon || 'eye'} size={12} /> AI Analytic
+              </div>
+            </div>
+            <div class="p-6">
+              <h3 class="font-display text-xl text-navy group-hover:text-orange transition-colors mb-2 leading-tight">{a.h1}</h3>
+              <p class="text-sm text-slate-600 leading-relaxed mb-4 line-clamp-3">{a.heroSubhead}</p>
+              <span class="inline-flex items-center gap-1 text-sm text-orange font-medium group-hover:gap-2 transition-all">
+                Learn more <Icon name="arrow-right" size={14} />
+              </span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+</Layout>
