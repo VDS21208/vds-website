@@ -9,6 +9,8 @@ import NumberMarquee from '../components/sections/NumberMarquee.astro';
 import CaseStudyApple from '../components/sections/CaseStudyApple.astro';
 import DeploymentMap from '../components/sections/DeploymentMap.astro';
 import TrustWall from '../components/sections/TrustWall.astro';
+import FieldGallery from '../components/sections/FieldGallery.astro';
+import Trailer3D from '../components/sections/Trailer3D.astro';
 import FAQAccordion from '../components/sections/FAQAccordion.astro';
 import FinalCTAStrip from '../components/sections/FinalCTAStrip.astro';
 import SchemaFAQ from '../components/seo/SchemaFAQ.astro';
@@ -85,12 +87,25 @@ const home = entry?.data || { seoTitle: "VDS — Mobile Security Infrastructure"
   <TrustMarquee />
 
   <!-- THE PROBLEM (refined) -->
-  <section class="py-24 md:py-32 bg-white relative">
-    <div class="container-wide">
-      <div class="max-w-3xl mb-16 reveal">
-        <div class="eyebrow mb-3">The problem</div>
-        <h2 class="font-display mb-5 text-navy">The three gaps in site security.</h2>
-        <p class="text-xl text-slate-600 font-light leading-relaxed">Most sites lean on some combination of three things. Each has a fatal flaw.</p>
+  <section class="py-24 md:py-32 bg-offwhite relative overflow-hidden">
+    <div class="dot-pattern-light absolute inset-0 opacity-50"></div>
+    <div class="container-wide relative z-10">
+      <div class="grid lg:grid-cols-12 gap-10 items-end mb-14 reveal">
+        <div class="lg:col-span-7">
+          <div class="eyebrow mb-3">The problem</div>
+          <h2 class="font-display mb-5 text-navy text-4xl md:text-5xl leading-tight">The three gaps<br/>in site security.</h2>
+          <p class="text-xl text-slate-600 font-light leading-relaxed">Most sites lean on some combination of three things. Each has a fatal flaw.</p>
+        </div>
+        <div class="lg:col-span-5 hidden lg:block">
+          <div class="relative aspect-[4/3] rounded-xl overflow-hidden border border-slate-200 shadow-lg">
+            <img src="/assets/webflow/hero-security-1.avif" alt="A VDS deployment in the field" class="absolute inset-0 w-full h-full object-cover" />
+            <div class="absolute inset-0 bg-gradient-to-t from-navy/40 to-transparent"></div>
+            <div class="absolute bottom-4 left-4 right-4 text-white">
+              <div class="text-[0.625rem] uppercase tracking-[0.2em] text-orange font-medium mb-1">VDS in the field</div>
+              <div class="text-sm font-medium">A better answer to all three.</div>
+            </div>
+          </div>
+        </div>
       </div>
       <div class="grid md:grid-cols-3 gap-6 reveal reveal-children">
         <a href="/compare/vds-vs-security-guards" class="card-hover cursor-spotlight bg-white border border-slate-200 rounded-xl p-8 group">
@@ -124,6 +139,9 @@ const home = entry?.data || { seoTitle: "VDS — Mobile Security Infrastructure"
     </div>
   </section>
 
+  <!-- 3D TRAILER -->
+  <Trailer3D />
+
   <!-- PROCESS STEPS -->
   <ProcessSteps />
 
@@ -141,6 +159,9 @@ const home = entry?.data || { seoTitle: "VDS — Mobile Security Infrastructure"
 
   <!-- MAGAZINE INDUSTRIES -->
   <MagazineIndustries />
+
+  <!-- FIELD GALLERY -->
+  <FieldGallery />
 
   <!-- TRUST WALL -->
   <TrustWall />
