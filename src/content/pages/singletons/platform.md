@@ -84,3 +84,93 @@ Construction yards, multi-family developments, auto dealerships, logistics yards
 [Diagram placeholder: Cameras → AI VisionStream cloud (AWS US) → Analytics + LPR → SOC operator → Mobile app + LE dispatch + Integrations]
 
 Start with the [analytics engine](/platform/ai-video-analytics). Layer on [LPR](/platform/lpr). Route the alerts through the [SOC](/platform/soc) or your own team via the [mobile app](/platform/mobile-app). Wire it into your stack through [integrations](/plat
+
+## One platform. Every site. Every camera.
+
+AI VisionStream is a **pure-cloud video management platform** built for multi-site operators. Connect any IP camera, NVR, or IoT device — alongside the trailers VDS deploys — to a single browser-based pane of glass. Aggregate, manage, run AI analytics on demand, and react in seconds.
+
+No on-prem servers. No bridges to install. No camera lock-in.
+
+---
+
+## How it works
+
+### 1. Aggregate
+- Connect **any** ONVIF or RTSP camera, NVR, drone, body cam, or IoT sensor — without buying VDS hardware
+- Camera-agnostic by design: bring your Axis, Hanwha, Bosch, Hikvision (where NDAA-permitted), Pelco, UNV, Avigilon, or trailer fleet
+- All footage flows to AWS US-only regions over TLS 1.3 with AES-256 at rest
+
+### 2. Manage
+- Build multi-tenant hierarchies — integrators, dealers, sub-accounts, end customers
+- Granular role-based access for security teams, law enforcement, first responders, the public
+- Bulk camera onboarding, single-pane site management, remote configuration
+- iOS and Android mobile apps for live view + alerts
+
+### 3. AI + Analyze
+- Enable AI analytics **on demand, per camera** — no per-seat licensing tax
+- License plate recognition, fire & smoke detection, people counting, loitering, object detection/classification/tracking
+- The network effect: more cameras = more accurate models over time
+- Bring-your-own-LLM and drone-AI integrations available
+
+### 4. React
+- Notify security teams, dispatch guards, alert first responders
+- Share live and recorded footage with stakeholders by link
+- Audio talk-down through trailer PA systems (VDS hardware)
+- Build automation workflows that trigger on-premise devices
+
+---
+
+## Platform modules
+
+### Core
+- **[Video Portal](/platform/cloud-video-surveillance/)** — multi-site live view, playback, search
+- **[Admin Portal](/platform/integrations/)** — user, role, and account management
+- **[Alarm Monitoring Portal](/platform/alerts-reporting/)** — operator workflow for live monitoring & remote guarding
+- **Billing Module** — usage-based billing and revenue reporting (white-label ready)
+- **[Mobile Apps](/platform/mobile-app/)** — native iOS + Android
+
+### AI analytics
+- **[License Plate Recognition (LPR)](/platform/lpr/)** — 95%+ accuracy, sub-3-second alerts, hotlist and watchlist matching
+- **Fire & smoke detection** — early-stage flame and smoke recognition
+- **People counting** — entry/exit, dwell time, occupancy compliance
+- **Loitering detection** — duration-based zone alerts
+- **Object detection, classification & tracking** — vehicles, people, packages, weapons
+
+### Add-ons
+- **Long-term time lapse** — months-long compressed playback
+- **Streaming widget** — embeddable public-facing feeds
+- **VDS gateway** — bridge legacy NVRs to the cloud without a full rip-and-replace
+- **White label & co-branding** — your brand, our platform
+
+### Integrations
+- **PUSH technology / plug-and-play** — secure outbound camera connections, no firewall changes
+- **[API, SDK & Web Toolkit](/platform/api-sdk-access/)** — build custom integrations
+- **Technology partners** — Genetec, Milestone, Axis, Hanwha, Bosch, ESI, Pelco, UNV, Avigilon, and 20+ more
+
+---
+
+## Why operators move off on-prem CCTV
+
+| Old way (on-prem) | AI VisionStream (cloud) |
+|---|---|
+| Buy & maintain DVR/NVR hardware | Zero on-prem hardware required |
+| Per-camera AI license fees | AI on-demand per camera, no seat tax |
+| Manual firmware updates | Auto-updating platform, always current |
+| Single-site limited | Unlimited sites, users, cameras |
+| Stuck with one camera brand | Camera-agnostic — bring any ONVIF/RTSP |
+| Expose ports to internet | Outbound-only PUSH connections |
+
+## Compliance & security
+
+- **NDAA Section 889 compliant** — VDS hardware is US-engineered and assembled. We support compliant third-party cameras only.
+- **AWS US-only** infrastructure — no offshore replication
+- **TLS 1.3** in transit, **AES-256** at rest
+- **SOC 2** posture documented
+- **GDPR / CCPA / PIPEDA** ready
+- **99.999% AWS uptime** baseline
+
+## 24/7 in-house US SOC
+
+Real US-based operators, employed by VDS, monitoring your cameras. AI-pre-filters reduce false alarms by **97%**. Confirmed threats trigger audio talk-down through the trailer PA and direct law enforcement dispatch with live video. Average operator escalation: under 60 seconds.
+
+[See SOC details →](/platform/soc/)

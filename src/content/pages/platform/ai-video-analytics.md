@@ -80,3 +80,82 @@ Every analytic alert is reviewed by a SOC operator before it escalates to the cu
 ## Built for the platform, not bolted on
 
 Analytics rules are configured in the same console as users, retention, and SOC routing. Changes apply in seconds. Ev
+
+
+## AI analytics, on demand
+
+VDS AI VisionStream runs **AI inference per-camera, per-event** — not a per-seat license tax. Activate any analytic on any camera, only when you need it, only on the camera that needs it.
+
+Eliminate false alarms. Make operators faster. Catch threats earlier.
+
+---
+
+## Available analytics modules
+
+### 🪪 License Plate Recognition (LPR)
+- 95%+ accuracy on US plates, configurable confidence threshold
+- Sub-3-second alert latency from frame to operator notification
+- Hotlist / watchlist matching against custom or shared plate databases
+- Time-bounded zone alerts (entry, exit, dwell)
+- Works on existing cameras and VDS trailers
+- [Learn more about LPR →](/platform/lpr/)
+
+### 🔥 Fire & Smoke Detection
+- Early-stage flame and smoke recognition before traditional sensors trigger
+- Optimized for outdoor environments, weather-resilient
+- Critical for: storage yards, lumber, fuel depots, construction, recycling, EV charging
+- Integrates with on-site horn-strobes and SOC dispatch
+
+### 👥 People Counting
+- Entry, exit, and dwell-time metrics by zone
+- Occupancy compliance — fire-code thresholds, capacity alerts
+- Heatmap overlays for retail, public spaces, queueing
+- Anonymized counts — no facial recognition required
+
+### ⏱ Loitering Detection
+- Duration-thresholded zone alerts (e.g., "alert if anyone is in this zone > 60 seconds")
+- Configurable per camera, per zone, per time-of-day
+- Defeats loitering-as-precursor for: vandalism, break-ins, copper theft, package theft
+
+### 📦 Object Detection, Classification & Tracking
+- Real-time detection of people, vehicles, packages, weapons
+- Multi-class classification with confidence scores
+- Path tracking across multiple cameras for incident reconstruction
+- Custom-model training available for niche objects (e.g., specific equipment, livestock, drones)
+
+### 🚧 Tripwire & Virtual Perimeter
+- Polygon-defined zones with directional triggers (in/out/cross)
+- Multi-zone logic ("alert if person crosses line A then enters zone B")
+- Sub-second alert latency
+
+### 🚙 Vehicle Type Classification
+- Car, truck, motorcycle, bus, commercial vehicle
+- Triggers for unauthorized vehicle types in restricted zones
+
+### 🎯 Tailgating & Anti-Piggyback (door/gate)
+- Detect when two people pass through a single-credential entry
+- Integrates with access control systems
+
+---
+
+## How AI VisionStream is different
+
+**On-demand activation.** Unlike legacy VMS platforms that bundle "AI" into a one-size license, AI VisionStream lets you flip on a specific analytic on a specific camera for the period you need it. Decommission as needs change.
+
+**Network effect.** Every additional VDS deployment improves model accuracy. Customers benefit from cross-site model training (anonymized, opted-in).
+
+**LLM + Drone-AI ready.** Bring your own large language model for natural-language video search ("show me red trucks entering Zone B last Tuesday"). Integrate drone feeds for aerial perspective during incidents.
+
+**Camera-agnostic.** Any ONVIF or RTSP camera runs every analytic. No proprietary firmware required.
+
+---
+
+## Where it runs
+
+- **In cloud** — bulk analytics, historical search, model training
+- **On edge** (VDS trailers) — sub-second latency for safety-critical alerts
+- **Hybrid** — pre-filter at edge, deep analysis in cloud
+
+## Pricing model
+
+Activate per camera, per analytic. No bundled minimum. Scale up or down monthly. [See pricing →](/platform/pricing/)

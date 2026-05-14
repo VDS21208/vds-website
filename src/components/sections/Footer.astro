@@ -1,50 +1,190 @@
 ---
-import nav from '../../data/nav.json';
 import Icon from '../icons/Icon.astro';
+
+const cols = [
+  {
+    title: 'Platform',
+    links: [
+      { label: 'AI VisionStream overview', url: '/platform/' },
+      { label: 'AI Video Analytics', url: '/platform/ai-video-analytics/' },
+      { label: 'License Plate Recognition', url: '/platform/lpr/' },
+      { label: 'Cloud Video Surveillance', url: '/platform/cloud-video-surveillance/' },
+      { label: 'Alerts & Reporting', url: '/platform/alerts-reporting/' },
+      { label: 'Mobile Apps (iOS / Android)', url: '/platform/mobile-app/' },
+      { label: '24/7 SOC Monitoring', url: '/platform/soc/' },
+      { label: 'API, SDK & Web Toolkit', url: '/platform/api-sdk-access/' },
+    ],
+  },
+  {
+    title: 'Products',
+    links: [
+      { label: 'Sky Guard MSU', url: '/products/sky-guard-mobile-surveillance-trailer/' },
+      { label: 'Swift Deploy', url: '/products/swift-deploy-surveillance-trailer/' },
+      { label: 'Boundary Guard Pro', url: '/products/boundary-guard-pro/' },
+      { label: 'Solar Camera Poles', url: '/products/solar-camera-poles/' },
+      { label: 'LiveScan Thermal', url: '/products/livescan-thermal-imaging/' },
+      { label: 'Accessories', url: '/products/accessories/' },
+      { label: 'All products →', url: '/products/' },
+    ],
+  },
+  {
+    title: 'Industries',
+    links: [
+      { label: 'Construction', url: '/industries/construction-site-security/' },
+      { label: 'Utility & Substation', url: '/industries/utility-substation-security/' },
+      { label: 'Retail', url: '/industries/retail-shopping-center-security/' },
+      { label: 'Auto Dealerships', url: '/industries/automotive-dealership-security/' },
+      { label: 'Public Safety', url: '/industries/public-safety-law-enforcement-surveillance/' },
+      { label: 'Critical Infrastructure', url: '/industries/critical-infrastructure-security/' },
+      { label: 'All 17 industries →', url: '/industries/' },
+    ],
+  },
+  {
+    title: 'Resources',
+    links: [
+      { label: 'Buyer’s Guides', url: '/guides/' },
+      { label: 'Case Studies', url: '/resources/case-studies/' },
+      { label: 'ROI Calculator', url: '/guides/roi-calculator/' },
+      { label: 'Pricing Guide 2026', url: '/guides/pricing-guide-2026/' },
+      { label: 'Camera Sensor Types', url: '/resources/camera-sensor-types/' },
+      { label: 'Glossary', url: '/glossary/' },
+      { label: 'Blog', url: '/resources/blog/' },
+      { label: 'FAQ', url: '/resources/faq/' },
+    ],
+  },
+  {
+    title: 'Company',
+    links: [
+      { label: 'About VDS', url: '/about-us/' },
+      { label: 'Why VDS', url: '/about-us/why-vision-detection-systems/' },
+      { label: 'Trust Center', url: '/about-us/trust-center/' },
+      { label: 'NDAA Compliance', url: '/about-us/ndaa-compliance/' },
+      { label: 'Cybersecurity', url: '/about-us/cybersecurity/' },
+      { label: 'Sustainability', url: '/about-us/sustainability/' },
+      { label: 'Press', url: '/about-us/press/' },
+      { label: 'Careers', url: '/about-us/careers/' },
+    ],
+  },
+  {
+    title: 'Partners',
+    links: [
+      { label: 'Dealer Program', url: '/partners/dealer-program/' },
+      { label: 'Integrator Program', url: '/partners/integrator-program/' },
+      { label: 'For Specifiers', url: '/specifiers/' },
+      { label: 'Integrations', url: '/integrations/' },
+      { label: 'Find a Dealer', url: '/partners/find-a-dealer/' },
+    ],
+  },
+];
+
+const compliance = [
+  { label: 'NDAA Section 889' },
+  { label: 'AWS Partner' },
+  { label: 'SOC 2' },
+  { label: 'TLS 1.3' },
+  { label: 'AES-256' },
+  { label: 'Sourcewell' },
+  { label: 'GSA Schedule' },
+];
 ---
-<footer class="bg-navy text-white pt-20 pb-10 relative overflow-hidden">
+<footer class="bg-navy text-white pt-20 pb-8 relative overflow-hidden">
   <div class="hero-orb-layer">
-    <div class="gradient-orb gradient-orb-orange" style="width: 500px; height: 500px; top: 30%; right: -200px; opacity: 0.15;"></div>
+    <div class="gradient-orb gradient-orb-orange" style="width:500px;height:500px;top:30%;right:-200px;opacity:0.12;"></div>
+    <div class="gradient-orb gradient-orb-blue" style="width:600px;height:600px;bottom:-200px;left:-100px;opacity:0.1;animation-delay:-7s;"></div>
   </div>
+  <div class="dot-pattern absolute inset-0 opacity-10"></div>
   <div class="container-wide relative z-10">
-    <div class="grid grid-cols-2 md:grid-cols-6 gap-10 mb-14">
-      <div class="col-span-2 md:col-span-2">
+
+    <!-- Newsletter / Brand band -->
+    <div class="grid lg:grid-cols-12 gap-10 pb-14 mb-14 border-b border-white/10">
+      <div class="lg:col-span-5">
         <a href="/" class="inline-flex items-center gap-3 mb-5 group">
           <img src="/assets/vds-mark.svg" alt="" class="h-12 w-auto" style="filter: invert(1) brightness(2);" />
           <div class="flex flex-col leading-tight">
             <span class="text-[0.625rem] uppercase tracking-[0.2em] text-white/55 font-medium">Vision Detection</span>
-            <span class="text-xl text-orange font-display font-semibold tracking-wide -mt-1">Systems</span>
+            <span class="text-2xl text-white font-display font-semibold tracking-wide -mt-1">Systems</span>
           </div>
         </a>
-        <p class="text-sm text-white/70 leading-relaxed mb-6 max-w-xs">America's integrated mobile security infrastructure company. Solar-autonomous hardware. Cloud VMS. 24/7 US SOC.</p>
-        <a href="tel:+14104011986" class="block text-base text-white hover:text-orange mb-2 font-medium inline-flex items-center gap-2"><Icon name="phone" size={16} /> (410) 401-1986</a>
-        <a href="mailto:info@visiondetectionsystems.com" class="block text-sm text-white/70 hover:text-white inline-flex items-center gap-2"><Icon name="mail" size={14} /> info@visiondetectionsystems.com</a>
+        <p class="text-base text-white/75 leading-relaxed mb-6 max-w-md">America's integrated mobile security infrastructure company. Solar-autonomous hardware. AI VisionStream cloud platform. 24/7 in-house US SOC.</p>
+        <div class="flex flex-wrap gap-3">
+          <a href="/request-a-quote/" class="inline-flex items-center gap-2 bg-orange hover:bg-orange-dark text-white text-sm font-medium px-5 py-2.5 rounded-md transition-all">Request a quote <Icon name="arrow-right" size={14} /></a>
+          <a href="/schedule-a-demo/" class="inline-flex items-center gap-2 border border-white/30 hover:border-white text-white text-sm font-medium px-5 py-2.5 rounded-md transition-all">Schedule a demo</a>
+        </div>
       </div>
-      {nav.map(section => (
+      <div class="lg:col-span-7 lg:pl-12 lg:border-l border-white/10">
+        <div class="text-xs uppercase tracking-[0.2em] text-orange font-medium mb-3">Stay in the loop</div>
+        <h3 class="font-display text-2xl text-white mb-3 leading-tight">Field reports, deployment data, and new launches.</h3>
+        <p class="text-sm text-white/65 mb-5 max-w-xl">Monthly only. We don't spam, and you can unsubscribe with one click.</p>
+        <form class="flex flex-col sm:flex-row gap-3 max-w-xl form-on-dark" onsubmit="event.preventDefault(); this.querySelector('button').textContent='Subscribed ✓'; this.querySelector('input').value='';">
+          <input type="email" placeholder="you@company.com" required class="flex-1" />
+          <button type="submit" class="bg-orange hover:bg-orange-dark text-white text-sm font-medium px-6 py-3 rounded-md transition-all whitespace-nowrap">Subscribe</button>
+        </form>
+        <div class="flex flex-wrap items-center gap-3 mt-6 text-[0.6875rem] uppercase tracking-[0.15em] text-white/45">
+          <a href="tel:+14104011986" class="inline-flex items-center gap-1.5 hover:text-white"><Icon name="phone" size={12} /> (410) 401-1986</a>
+          <span class="w-1 h-1 rounded-full bg-white/30"></span>
+          <a href="mailto:info@visiondetectionsystems.com" class="inline-flex items-center gap-1.5 hover:text-white"><Icon name="mail" size={12} /> info@visiondetectionsystems.com</a>
+          <span class="w-1 h-1 rounded-full bg-white/30"></span>
+          <span class="inline-flex items-center gap-1.5"><Icon name="map-pin" size={12} /> Pikesville, MD</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Link columns -->
+    <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-8 mb-14">
+      {cols.map((col) => (
         <div>
-          <div class="text-xs uppercase tracking-[0.15em] text-orange font-medium mb-4">{section.label}</div>
+          <div class="text-[0.6875rem] uppercase tracking-[0.18em] text-orange font-semibold mb-4">{col.title}</div>
           <ul class="space-y-2.5">
-            {section.primary.slice(0, 5).map((item: any) => (
-              <li><a href={item.url} class="text-sm text-white/70 hover:text-white transition-colors">{item.label}</a></li>
+            {col.links.map((link) => (
+              <li><a href={link.url} class="text-sm text-white/70 hover:text-white hover:translate-x-0.5 inline-block transition-all">{link.label}</a></li>
             ))}
           </ul>
         </div>
       ))}
     </div>
-    <div class="border-t border-white/10 pt-8 flex flex-wrap items-center justify-between gap-4">
-      <div class="text-xs text-white/50">
-        © {new Date().getFullYear()} Vision Detection Systems · 
-        <a href="/privacy-policy" class="hover:text-white/80 underline-offset-2">Privacy</a> · 
-        <a href="/terms-of-service" class="hover:text-white/80 underline-offset-2">Terms</a> · 
-        <a href="/sitemap-page" class="hover:text-white/80 underline-offset-2">Sitemap</a>
+
+    <!-- Compliance / trust badges -->
+    <div class="flex flex-wrap items-center justify-center gap-x-6 gap-y-3 py-6 border-y border-white/10 mb-8">
+      <span class="text-[0.6875rem] uppercase tracking-[0.18em] text-white/45 font-medium mr-2">Compliance & trust:</span>
+      {compliance.map((c, i) => (
+        <span class="inline-flex items-center gap-2 text-xs text-white/65">
+          <Icon name="shield" size={12} class="text-orange" />
+          {c.label}
+        </span>
+      ))}
+    </div>
+
+    <!-- Legal + socials -->
+    <div class="flex flex-wrap items-center justify-between gap-4">
+      <div class="text-xs text-white/45 flex flex-wrap items-center gap-2">
+        <span>© {new Date().getFullYear()} Vision Detection Systems</span>
+        <span class="text-white/20">·</span>
+        <a href="/legal/privacy-policy/" class="hover:text-white/80">Privacy</a>
+        <span class="text-white/20">·</span>
+        <a href="/legal/terms-of-service/" class="hover:text-white/80">Terms</a>
+        <span class="text-white/20">·</span>
+        <a href="/about-us/data-privacy/" class="hover:text-white/80">Data Privacy</a>
+        <span class="text-white/20">·</span>
+        <a href="/sitemap-page/" class="hover:text-white/80">Sitemap</a>
       </div>
-      <div class="text-xs text-white/40 uppercase tracking-[0.15em] flex flex-wrap items-center gap-4">
-        <span>NDAA 889</span>
-        <span class="w-1 h-1 rounded-full bg-white/30"></span>
-        <span>AWS Partner</span>
-        <span class="w-1 h-1 rounded-full bg-white/30"></span>
-        <span>Made in Pikesville, MD</span>
+      <div class="flex items-center gap-2">
+        <a href="https://www.linkedin.com/company/vision-detection-systems/" target="_blank" rel="noopener" aria-label="LinkedIn" class="w-8 h-8 rounded-md border border-white/15 hover:border-orange hover:bg-orange/10 flex items-center justify-center text-white/70 hover:text-orange transition-colors">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M19 3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14m-.5 15.5v-5.3a3.26 3.26 0 0 0-3.26-3.26c-.85 0-1.84.52-2.32 1.3v-1.11h-2.79v8.37h2.79v-4.93c0-.77.62-1.4 1.39-1.4a1.4 1.4 0 0 1 1.4 1.4v4.93h2.79M6.88 8.56a1.68 1.68 0 0 0 1.68-1.68c0-.93-.75-1.69-1.68-1.69a1.69 1.69 0 0 0-1.69 1.69c0 .93.76 1.68 1.69 1.68m1.39 9.94v-8.37H5.5v8.37h2.77Z"/></svg>
+        </a>
+        <a href="https://www.youtube.com/@visiondetectionsystems" target="_blank" rel="noopener" aria-label="YouTube" class="w-8 h-8 rounded-md border border-white/15 hover:border-orange hover:bg-orange/10 flex items-center justify-center text-white/70 hover:text-orange transition-colors">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M10 15l5.19-3L10 9v6m11.56-7.83c.13.47.22 1.1.28 1.9.07.8.1 1.49.1 2.09L22 12c0 2.19-.16 3.8-.44 4.83-.25.9-.83 1.48-1.73 1.73-.47.13-1.33.22-2.65.28-1.3.07-2.49.1-3.59.1L12 19c-4.19 0-6.8-.16-7.83-.44-.9-.25-1.48-.83-1.73-1.73-.13-.47-.22-1.1-.28-1.9-.07-.8-.1-1.49-.1-2.09L2 12c0-2.19.16-3.8.44-4.83.25-.9.83-1.48 1.73-1.73.47-.13 1.33-.22 2.65-.28 1.3-.07 2.49-.1 3.59-.1L12 5c4.19 0 6.8.16 7.83.44.9.25 1.48.83 1.73 1.73Z"/></svg>
+        </a>
+        <a href="https://twitter.com/VDS_Security" target="_blank" rel="noopener" aria-label="Twitter / X" class="w-8 h-8 rounded-md border border-white/15 hover:border-orange hover:bg-orange/10 flex items-center justify-center text-white/70 hover:text-orange transition-colors">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231Zm-1.161 17.52h1.833L7.084 4.126H5.117Z"/></svg>
+        </a>
+        <a href="https://www.facebook.com/visiondetectionsystems" target="_blank" rel="noopener" aria-label="Facebook" class="w-8 h-8 rounded-md border border-white/15 hover:border-orange hover:bg-orange/10 flex items-center justify-center text-white/70 hover:text-orange transition-colors">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.477 2 2 6.477 2 12c0 5 3.66 9.15 8.44 9.88V14.9h-2.54V12h2.54V9.8c0-2.51 1.49-3.89 3.77-3.89 1.09 0 2.23.2 2.23.2v2.46h-1.26c-1.24 0-1.63.77-1.63 1.56V12h2.77l-.45 2.9h-2.32v7c4.78-.73 8.44-4.88 8.44-9.9 0-5.523-4.477-10-10-10z"/></svg>
+        </a>
       </div>
+    </div>
+
+    <div class="text-center text-[0.6875rem] uppercase tracking-[0.2em] text-white/30 mt-6">
+      Engineered & Assembled in Pikesville, MD · 🇺🇸 Made in USA
     </div>
   </div>
 </footer>
