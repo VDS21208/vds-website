@@ -46,6 +46,7 @@ const pageSchema = z.object({
   useCases: z.array(z.string()).optional().default([]),
   specsList: z.array(z.object({ label: z.string(), value: z.string() })).optional().default([]),
   relatedIndustries: z.array(z.string()).optional().default([]),
+  featureTiles: z.array(z.object({ title: z.string(), body: z.string() })).optional().default([]),
   tags: z.string().optional().default(""),
   notes: z.string().optional().default(""),
 });

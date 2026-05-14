@@ -9,13 +9,14 @@ import SchemaFAQ from '../../components/seo/SchemaFAQ.astro';
 import { heroImageUrl } from '../../lib/heroImage.ts';
 import PlatformBranding from '../../components/sections/PlatformBranding.astro';
 import PlatformShowcase from '../../components/sections/PlatformShowcase.astro';
+import FeatureTiles from '../../components/sections/FeatureTiles.astro';
 
 export async function getStaticPaths() {
   const all = await getCollection('pages');
   return all
     .filter((e) => e.data.collection === 'platform')
     .map((entry) => ({
-      params: { slug: entry.data.url.split('/').pop() },
+      params: { slug: entry.data.url.replace(/\/$/, '').split('/').pop() },
       props: { entry, allEntries: all }
     }));
 }
@@ -43,6 +44,7 @@ const related = allEntries
   <SchemaFAQ faqs={page.faq} />
   <HeroImage bgImage={heroImageUrl({ url: page.url, tags: page.tags, pageType: page.pageType, heroImage: page.heroImage })} eyebrow={page.heroEyebrow} h1={page.h1} subhead={page.heroSubhead} ctaPrimary={page.heroCTAPrimary} ctaSecondary={page.heroCTASecondary} stats={page.heroStats} />
   <PlatformBranding />
+  {page.featureTiles && page.featureTiles.length > 0 && <FeatureTiles tiles={page.featureTiles} heading={`What's inside ${page.h1}`} />}
   <PlatformShowcase />
   <TrustStrip />
   <PageBodyEnhanced Content={Content} page={page} related={related} />
