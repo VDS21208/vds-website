@@ -14,7 +14,7 @@ heroCTAPrimary:
 heroCTASecondary:
   label: Platform overview
   url: /platform/
-heroImage: /assets/3deye/cloud-illustration.avif
+heroImage: /assets/AI VisionStream/cloud-illustration.avif
 heroStats:
   - "Live · Multi-site"
   - "Camera-agnostic · ONVIF/RTSP"
@@ -23,7 +23,7 @@ parent: /platform/
 canonical: https://visiondetectionsystems.com/platform/time-lapse/
 ogTitle: Long-Term Time Lapse | VDS
 ogDescription: Capture months of activity in minutes. Built for construction documentation, vegetation monitoring, and progress tracking.
-ogImage: https://visiondetectionsystems.com/assets/3deye/cloud-illustration.avif
+ogImage: https://visiondetectionsystems.com/assets/AI VisionStream/cloud-illustration.avif
 ogType: article
 robots: index, follow
 tags: Long-Term Time Lapse, AI VisionStream, VDS platform, cloud VMS

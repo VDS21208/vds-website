@@ -14,7 +14,7 @@ heroCTAPrimary:
 heroCTASecondary:
   label: All AI modules
   url: /platform/ai-video-analytics/
-heroImage: /assets/3deye/object-detection.avif
+heroImage: /assets/AI VisionStream/object-detection.avif
 heroStats:
   - "Multi-class · real-time"
   - "Any camera · ONVIF/RTSP"
@@ -23,12 +23,12 @@ parent: /platform/ai-video-analytics/
 canonical: https://visiondetectionsystems.com/platform/analytics/object-detection/
 ogTitle: Object Detection, Classification & Tracking | VDS
 ogDescription: VDS AI Object Detection, Classification & Tracking — real-time identification of thousands of objects with metadata and direction tracking.
-ogImage: https://visiondetectionsystems.com/assets/3deye/object-detection.avif
+ogImage: https://visiondetectionsystems.com/assets/AI VisionStream/object-detection.avif
 ogType: article
 robots: index, follow
 tags: Object Detection, Classification & Tracking, AI video analytics, surveillance AI, VDS, AI VisionStream
 analyticIcon: cpu
-analyticImage: /assets/3deye/object-detection.avif
+analyticImage: /assets/AI VisionStream/object-detection.avif
 analyticHeadline: Identify thousands of objects with confidence.
 useCases:
   - Construction sites — equipment, personnel, vehicle tracking

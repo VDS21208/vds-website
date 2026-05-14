@@ -14,7 +14,7 @@ heroCTAPrimary:
 heroCTASecondary:
   label: All AI modules
   url: /platform/ai-video-analytics/
-heroImage: /assets/3deye/object-detection.avif
+heroImage: /assets/AI VisionStream/object-detection.avif
 heroStats:
   - "Fast · forensic"
   - "Any camera · ONVIF/RTSP"
@@ -23,12 +23,12 @@ parent: /platform/ai-video-analytics/
 canonical: https://visiondetectionsystems.com/platform/analytics/color-search/
 ogTitle: Color Search | VDS
 ogDescription: VDS AI Color Search — find suspects, vehicles, and assets in hours of footage by color attributes. Forensic-grade investigation tool.
-ogImage: https://visiondetectionsystems.com/assets/3deye/object-detection.avif
+ogImage: https://visiondetectionsystems.com/assets/AI VisionStream/object-detection.avif
 ogType: article
 robots: index, follow
 tags: Color Search, AI video analytics, surveillance AI, VDS, AI VisionStream
 analyticIcon: eye
-analyticImage: /assets/3deye/object-detection.avif
+analyticImage: /assets/AI VisionStream/object-detection.avif
 analyticHeadline: Find anything by color, instantly.
 useCases:
   - Retail loss prevention — find a 'red jacket' in 8 hours of footage

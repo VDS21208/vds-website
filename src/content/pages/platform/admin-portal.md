@@ -14,7 +14,7 @@ heroCTAPrimary:
 heroCTASecondary:
   label: Platform overview
   url: /platform/
-heroImage: /assets/3deye/admin-roles.avif
+heroImage: /assets/AI VisionStream/admin-roles.avif
 heroStats:
   - "Multi-tenant hierarchies"
   - "Camera-agnostic · ONVIF/RTSP"
@@ -23,7 +23,7 @@ parent: /platform/
 canonical: https://visiondetectionsystems.com/platform/admin-portal/
 ogTitle: Admin Portal | VDS
 ogDescription: Manage users, sites, cameras, and permissions across multi-tenant hierarchies — integrators, dealers, sub-accounts, end customers.
-ogImage: https://visiondetectionsystems.com/assets/3deye/admin-roles.avif
+ogImage: https://visiondetectionsystems.com/assets/AI VisionStream/admin-roles.avif
 ogType: article
 robots: index, follow
 tags: Admin Portal, AI VisionStream, VDS platform, cloud VMS

@@ -54,7 +54,7 @@ The downloadable press kit includes:
 - VDS primary logo (SVG, PNG transparent, PNG on dark)
 - VDS secondary mark and wordmark variants
 - Brand color and typography reference
-- Executive headshots (David Weingot, Steve Weingot) — 300 dpi print and web variants
+- Executive headshots (David Weingot, Joe Kruk) — 300 dpi print and web variants
 - Product photography for Sky Guard MSU, Swift Deploy, and Boundary Guard Pro
 - Approved boilerplate copy (50-word, 100-word, 200-word)
 - One-page company fact sheet
@@ -80,7 +80,7 @@ Awards, industry rankings, and analyst inclusions appear here when received. Awa
 
 ## On-record executive quotes
 
-For story-specific quotes from David Weingot or Steve Weingot, contact the press desk with the story topic, publication, deadline, and 2–3 questions. Standard quote turnaround is 24 hours for daily-news cycles and 3 business days for feature pieces. We do not pay for placement and do not offer exclusives in exchange for coverage.
+For story-specific quotes from David Weingot or Joe Kruk, contact the press desk with the story topic, publication, deadline, and 2–3 questions. Standard quote turnaround is 24 hours for daily-news cycles and 3 business days for feature pieces. We do not pay for placement and do not offer exclusives in exchange for coverage.
 
 ## Customer interviews
 

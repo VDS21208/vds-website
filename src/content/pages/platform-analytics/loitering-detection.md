@@ -14,7 +14,7 @@ heroCTAPrimary:
 heroCTASecondary:
   label: All AI modules
   url: /platform/ai-video-analytics/
-heroImage: /assets/3deye/loitering.avif
+heroImage: /assets/AI VisionStream/loitering.avif
 heroStats:
   - "98% · false-alarm reduction"
   - "Any camera · ONVIF/RTSP"
@@ -23,12 +23,12 @@ parent: /platform/ai-video-analytics/
 canonical: https://visiondetectionsystems.com/platform/analytics/loitering-detection/
 ogTitle: Behavioral Loitering Detection | VDS
 ogDescription: VDS AI Loitering Detection — behavioral analytics with 98% reduction in false alarms. Per-object tracking and dwell time analysis.
-ogImage: https://visiondetectionsystems.com/assets/3deye/loitering.avif
+ogImage: https://visiondetectionsystems.com/assets/AI VisionStream/loitering.avif
 ogType: article
 robots: index, follow
 tags: Behavioral Loitering Detection, AI video analytics, surveillance AI, VDS, AI VisionStream
 analyticIcon: shield
-analyticImage: /assets/3deye/loitering.avif
+analyticImage: /assets/AI VisionStream/loitering.avif
 analyticHeadline: 98% fewer false alarms.
 useCases:
   - Retail — catch shoplifting setup behavior

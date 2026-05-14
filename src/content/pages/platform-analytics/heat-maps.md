@@ -14,7 +14,7 @@ heroCTAPrimary:
 heroCTASecondary:
   label: All AI modules
   url: /platform/ai-video-analytics/
-heroImage: /assets/3deye/ai-analyze.avif
+heroImage: /assets/AI VisionStream/ai-analyze.avif
 heroStats:
   - "Visual · data-driven"
   - "Any camera · ONVIF/RTSP"
@@ -23,12 +23,12 @@ parent: /platform/ai-video-analytics/
 canonical: https://visiondetectionsystems.com/platform/analytics/heat-maps/
 ogTitle: Heat Maps | VDS
 ogDescription: VDS AI Heat Maps — object-tracked movement density visualization for retail, parking, transit, and event spaces.
-ogImage: https://visiondetectionsystems.com/assets/3deye/ai-analyze.avif
+ogImage: https://visiondetectionsystems.com/assets/AI VisionStream/ai-analyze.avif
 ogType: article
 robots: index, follow
 tags: Heat Maps, AI video analytics, surveillance AI, VDS, AI VisionStream
 analyticIcon: eye
-analyticImage: /assets/3deye/ai-analyze.avif
+analyticImage: /assets/AI VisionStream/ai-analyze.avif
 analyticHeadline: See where people and vehicles really move.
 useCases:
   - Retail merchandising — high-engagement zones

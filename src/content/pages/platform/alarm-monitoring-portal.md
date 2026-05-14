@@ -14,7 +14,7 @@ heroCTAPrimary:
 heroCTASecondary:
   label: Platform overview
   url: /platform/
-heroImage: /assets/3deye/dispatch.avif
+heroImage: /assets/AI VisionStream/dispatch.avif
 heroStats:
   - "Live · Multi-site"
   - "Camera-agnostic · ONVIF/RTSP"
@@ -23,7 +23,7 @@ parent: /platform/
 canonical: https://visiondetectionsystems.com/platform/alarm-monitoring-portal/
 ogTitle: Alarm Monitoring Portal | VDS
 ogDescription: Built for live video monitoring and remote guarding. AI pre-filters eliminate 97% of false alarms before they hit your operators.
-ogImage: https://visiondetectionsystems.com/assets/3deye/dispatch.avif
+ogImage: https://visiondetectionsystems.com/assets/AI VisionStream/dispatch.avif
 ogType: article
 robots: index, follow
 tags: Alarm Monitoring Portal, AI VisionStream, VDS platform, cloud VMS

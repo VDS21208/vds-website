@@ -14,7 +14,7 @@ heroCTAPrimary:
 heroCTASecondary:
   label: Platform overview
   url: /platform/
-heroImage: /assets/3deye/cameras-iot.jpg
+heroImage: /assets/AI VisionStream/cameras-iot.jpg
 heroStats:
   - "Live · Multi-site"
   - "Camera-agnostic · ONVIF/RTSP"
@@ -23,7 +23,7 @@ parent: /platform/
 canonical: https://visiondetectionsystems.com/platform/gateway/
 ogTitle: VDS Gateway | VDS
 ogDescription: Connect older NVR/DVR fleets to AI VisionStream without ripping out hardware. PoE-powered. Plug and play.
-ogImage: https://visiondetectionsystems.com/assets/3deye/cameras-iot.jpg
+ogImage: https://visiondetectionsystems.com/assets/AI VisionStream/cameras-iot.jpg
 ogType: article
 robots: index, follow
 tags: VDS Gateway, AI VisionStream, VDS platform, cloud VMS

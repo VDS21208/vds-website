@@ -14,7 +14,7 @@ heroCTAPrimary:
 heroCTASecondary:
   label: All AI modules
   url: /platform/ai-video-analytics/
-heroImage: /assets/3deye/face-recognition.avif
+heroImage: /assets/AI VisionStream/face-recognition.avif
 heroStats:
   - "Index · match"
   - "Any camera · ONVIF/RTSP"
@@ -23,12 +23,12 @@ parent: /platform/ai-video-analytics/
 canonical: https://visiondetectionsystems.com/platform/analytics/face-recognition/
 ogTitle: Face Recognition | VDS
 ogDescription: VDS AI Face Recognition — build face indexes, match watchlists, search archives by mug shot. Privacy-aware deployment.
-ogImage: https://visiondetectionsystems.com/assets/3deye/face-recognition.avif
+ogImage: https://visiondetectionsystems.com/assets/AI VisionStream/face-recognition.avif
 ogType: article
 robots: index, follow
 tags: Face Recognition, AI video analytics, surveillance AI, VDS, AI VisionStream
 analyticIcon: shield
-analyticImage: /assets/3deye/face-recognition.avif
+analyticImage: /assets/AI VisionStream/face-recognition.avif
 analyticHeadline: Search faces. Match watchlists. Carefully.
 useCases:
   - Retail — known-shoplifter alerts

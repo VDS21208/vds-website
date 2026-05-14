@@ -14,7 +14,7 @@ heroCTAPrimary:
 heroCTASecondary:
   label: Platform overview
   url: /platform/
-heroImage: /assets/3deye/ai-analyze.avif
+heroImage: /assets/AI VisionStream/ai-analyze.avif
 heroStats:
   - "Integrations: Axis"
   - "Camera-agnostic · ONVIF/RTSP"
@@ -23,7 +23,7 @@ parent: /platform/
 canonical: https://visiondetectionsystems.com/platform/technology-partners/
 ogTitle: Technology Partners | VDS
 ogDescription: AI VisionStream works with 30+ camera brands and integrates with the industry's leading VMS, alarm, and access platforms.
-ogImage: https://visiondetectionsystems.com/assets/3deye/ai-analyze.avif
+ogImage: https://visiondetectionsystems.com/assets/AI VisionStream/ai-analyze.avif
 ogType: article
 robots: index, follow
 tags: Technology Partners, AI VisionStream, VDS platform, cloud VMS

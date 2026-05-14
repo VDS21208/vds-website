@@ -14,7 +14,7 @@ heroCTAPrimary:
 heroCTASecondary:
   label: All AI modules
   url: /platform/ai-video-analytics/
-heroImage: /assets/3deye/safety-vest.avif
+heroImage: /assets/AI VisionStream/safety-vest.avif
 heroStats:
   - "Real-time · compliance"
   - "Any camera · ONVIF/RTSP"
@@ -23,12 +23,12 @@ parent: /platform/ai-video-analytics/
 canonical: https://visiondetectionsystems.com/platform/analytics/ppe-safety-vest/
 ogTitle: Safety Vest (PPE) Detection | VDS
 ogDescription: VDS AI Safety Vest (PPE) Detection — automated high-visibility compliance and intruder detection by vest absence.
-ogImage: https://visiondetectionsystems.com/assets/3deye/safety-vest.avif
+ogImage: https://visiondetectionsystems.com/assets/AI VisionStream/safety-vest.avif
 ogType: article
 robots: index, follow
 tags: Safety Vest (PPE) Detection, AI video analytics, surveillance AI, VDS, AI VisionStream
 analyticIcon: shield
-analyticImage: /assets/3deye/safety-vest.avif
+analyticImage: /assets/AI VisionStream/safety-vest.avif
 analyticHeadline: High-vis compliance, automatically.
 useCases:
   - Construction & roadwork — vest compliance audits

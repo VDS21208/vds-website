@@ -14,7 +14,7 @@ heroCTAPrimary:
 heroCTASecondary:
   label: Platform overview
   url: /platform/
-heroImage: /assets/3deye/tablet-ui.avif
+heroImage: /assets/AI VisionStream/tablet-ui.avif
 heroStats:
   - "Usage-based billing"
   - "Camera-agnostic · ONVIF/RTSP"
@@ -23,7 +23,7 @@ parent: /platform/
 canonical: https://visiondetectionsystems.com/platform/billing-module/
 ogTitle: Billing Module | VDS
 ogDescription: Automate billing for sub-accounts. Tier pricing, prorated charges, revenue reporting — all white-label ready.
-ogImage: https://visiondetectionsystems.com/assets/3deye/tablet-ui.avif
+ogImage: https://visiondetectionsystems.com/assets/AI VisionStream/tablet-ui.avif
 ogType: article
 robots: index, follow
 tags: Billing Module, AI VisionStream, VDS platform, cloud VMS

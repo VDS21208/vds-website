@@ -4,8 +4,8 @@ collection: about-us
 pageType: Leadership
 parent: /about-us
 status: Launch
-seoTitle: Leadership | David Weingot, Steve Weingot | VDS
-metaDescription: 'Leadership at VDS: David Weingot, CEO, and Steve Weingot, co-founder. Engineering-led, founder-operated, headquartered in Pikesville, Maryland.'
+seoTitle: Leadership | David Weingot, Joe Kruk | VDS
+metaDescription: 'Leadership at VDS: David Weingot, CEO, and Joe Kruk, Founder & CTO. Engineering-led, founder-operated, headquartered in Pikesville, Maryland.'
 announcementBar: ''
 h1: Founder-operated. Engineering-led. Accountable in writing.
 heroEyebrow: Leadership
@@ -22,8 +22,8 @@ heroStats:
 - HQ Pikesville, MD
 heroImage: ''
 faq:
-- q: Are David and Steve Weingot related?
-  a: '[PLACEHOLDER — relationship to be confirmed by VDS team for publication]'
+- q: Are David Weingot and Joe Kruk co-founders?
+  a: David Weingot is CEO and Joe Kruk is Founder & CTO. They built Vision Detection Systems from the ground up as an engineering-led, US-based company.
 - q: Who would I escalate to if my account manager is not responsive?
   a: Customer Success Director is the first escalation. If unresolved within 48 hours, a co-founder will engage directly. The escalation path is documented in every enterprise MSA.
 - q: Is VDS planning to raise outside capital?
@@ -37,7 +37,7 @@ schemaType: AboutPage, Person (x2)
 internalLinks: /about, /about-us/why-vision-detection-systems, /about-us/press, /about-us/careers, /contact-us
 canonical: https://visiondetectionsystems.com/about-us/leadership
 ogTitle: Founder-operated. Engineering-led. Accountable in writing.
-ogDescription: 'Leadership at VDS: David Weingot, CEO, and Steve Weingot, co-founder. Engineering-led, founder-operated, headquartered in Pikesville, Maryland.'
+ogDescription: 'Leadership at VDS: David Weingot, CEO, and Joe Kruk, Founder & CTO. Engineering-led, founder-operated, headquartered in Pikesville, Maryland.'
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg
 ogType: website
 robots: index, follow
@@ -47,7 +47,7 @@ tags: mobile surveillance, VDS
 notes: Bios are placeholders pending VDS team review. Page structure can ship as-is; swap in real bios when supplied. Person schema should populate from final bio data.
 ---
 
-## David Weingot — Chief Executive Officer & Co-Founder
+## David Weingot — Chief Executive Officer
 
 [PLACEHOLDER — bio to be supplied by VDS team]
 
@@ -55,13 +55,13 @@ Areas of focus: company strategy, enterprise customer relationships, technology 
 
 Contact: david@visiondetectionsystems.com (filtered through executive coordinator for non-customer inquiries)
 
-## Steve Weingot — Co-Founder
+## Joe Kruk — Founder & CTO
 
 [PLACEHOLDER — bio to be supplied by VDS team]
 
-Areas of focus: hardware engineering, field deployment standards, dealer program oversight, manufacturing partnerships. Steve owns the design standards for every unit that ships out of Pikesville, and personally signs off on hardware revisions before production runs.
+Areas of focus: hardware engineering, field deployment standards, dealer program oversight, manufacturing partnerships. Joe owns the technical architecture for every unit that ships out of Pikesville, and personally signs off on hardware revisions before production runs.
 
-Contact: steve@visiondetectionsystems.com
+Contact: joe@visiondetectionsystems.com
 
 ## How leadership operates
 

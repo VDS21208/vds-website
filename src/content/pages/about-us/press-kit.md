@@ -55,7 +55,7 @@ notes: Executive headshot placeholders — actual headshots to be supplied by VD
 - **Company:** Vision Detection Systems (VDS)
 - **Founded:** 2017
 - **Headquarters:** Pikesville, Maryland
-- **Founders:** David Weingot, Steve Weingot
+- **Founders:** David Weingot, Joe Kruk
 - **Footprint:** 500+ deployments across 30+ states
 - **Products:** Sky Guard MSU, Swift Deploy, Boundary Guard Pro (mobile surveillance trailers); AI VisionStream (camera-agnostic cloud VMS); 24/7 US-based Security Operations Center
 - **Compliance:** NDAA Section 889 compliant, AWS Cloud Partner, Sourcewell awarded contract holder
@@ -78,7 +78,7 @@ Download the VDS logo pack in SVG, PNG (transparent), and EPS formats. Includes:
 Professional headshots available for editorial use:
 
 - **David Weingot** — Co-Founder and Chief Executive Officer
-- **Steve Weingot** — Co-Founder and President
+- **Joe Kruk** — Co-Founder and President
 
 Headshots delivered in high-resolution (300dpi+) JPEG, with separate web-optimized versions. Caption and credit information included in the download.
 
@@ -91,7 +91,7 @@ The following quotes are pre-approved for editorial use without additional clear
 **On VDS's positioning** — attributable to David Weingot, CEO:
 > "Vision Detection Systems is America's integrated mobile security infrastructure company. We build the hardware, we run the software, we staff the SOC. When something happens on a customer's site at 3am, the alert reaches a US-based operator inside 60 seconds. That single design choice — owning the whole stack — is the difference between a tool and an operation."
 
-**On the construction theft problem** — attributable to Steve Weingot, President:
+**On the construction theft problem** — attributable to Joe Kruk, President:
 > "Construction theft is over a billion dollars a year by NICB tracking, and that's just what gets reported and claimed. Most of it isn't dramatic — it's wire, tools, copper, fuel, equipment that walks off-site overnight and reappears in a Facebook Marketplace listing within a week. The economics of physical guards stopped working a decade ago. The math now is documented monitoring with measurable outcomes."
 
 **On VDS's approach to AI** — attributable to David Weingot, CEO:

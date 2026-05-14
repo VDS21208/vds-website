@@ -14,7 +14,7 @@ heroCTAPrimary:
 heroCTASecondary:
   label: Platform overview
   url: /platform/
-heroImage: /assets/3deye/mobile-ui.avif
+heroImage: /assets/AI VisionStream/mobile-ui.avif
 heroStats:
   - "Live · Multi-site"
   - "Camera-agnostic · ONVIF/RTSP"
@@ -23,7 +23,7 @@ parent: /platform/
 canonical: https://visiondetectionsystems.com/platform/white-label/
 ogTitle: White Label & Co-branding | VDS
 ogDescription: Resell AI VisionStream under your own brand. Custom domains, your logo, your colors, your invoices — built-in.
-ogImage: https://visiondetectionsystems.com/assets/3deye/mobile-ui.avif
+ogImage: https://visiondetectionsystems.com/assets/AI VisionStream/mobile-ui.avif
 ogType: article
 robots: index, follow
 tags: White Label & Co-branding, AI VisionStream, VDS platform, cloud VMS
