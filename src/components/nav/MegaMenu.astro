@@ -112,9 +112,11 @@ function captionFor(label: string, notes: string): { title: string; sub: string 
 <script>
   const navItems = document.querySelectorAll('[data-nav-trigger]');
   const drawers = document.querySelectorAll('[data-megamenu]');
+  const header = document.querySelector('[data-sticky-nav]');
   let activeDrawer: HTMLElement | null = null;
   let closeTimer: number | undefined;
   const closeAll = () => {
+    if (closeTimer) { window.clearTimeout(closeTimer); closeTimer = undefined; }
     drawers.forEach(d => {
       const el = d as HTMLElement;
       el.classList.remove('opacity-100', 'visible', 'pointer-events-auto');
@@ -122,6 +124,33 @@ function captionFor(label: string, notes: string): { title: string; sub: string 
     });
     activeDrawer = null;
   };
+
+  // Close on any scroll
+  let lastScrollY = window.scrollY;
+  window.addEventListener('scroll', () => {
+    if (Math.abs(window.scrollY - lastScrollY) > 4) closeAll();
+    lastScrollY = window.scrollY;
+  }, { passive: true });
+
+  // Close when clicking anywhere outside the header
+  document.addEventListener('click', (e) => {
+    if (!activeDrawer) return;
+    const t = e.target as Node;
+    if (header && !header.contains(t)) closeAll();
+  });
+
+  // Close on Escape (also handled below, but kept for completeness)
+  document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeAll(); });
+
+  // Close when mouse leaves the entire header area (catches edge cases where
+  // user moves quickly off the drawer or scrolls without a triggering mouseleave)
+  if (header) {
+    header.addEventListener('mouseleave', () => {
+      if (closeTimer) window.clearTimeout(closeTimer);
+      closeTimer = window.setTimeout(closeAll, 200);
+    });
+  }
+
   const open = (label: string) => {
     closeAll();
     const drawer = document.querySelector(`[data-megamenu="${label}"]`) as HTMLElement;
