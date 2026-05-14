@@ -24,19 +24,19 @@ const ctaHeading = page.finalCTAHeading;
 const ctaBody = page.finalCTABody;
 ---
 <section class="relative bg-white">
-  <div class="absolute inset-0 dot-pattern-light opacity-30 pointer-events-none"></div>
-  <div class="container-main py-16 md:py-24 relative">
-    <div class="max-w-3xl mx-auto">
+  <div class="absolute inset-x-0 top-0 h-64 bg-gradient-to-b from-offwhite/40 to-transparent pointer-events-none"></div>
+  <div class="container-main py-20 md:py-28 relative">
+    <div class="max-w-[760px] mx-auto">
       <article class="prose-vds">
         <Content />
       </article>
 
       {parsedStats.length > 0 && (
-        <aside class="my-12 grid grid-cols-2 md:grid-cols-4 gap-4 not-prose">
+        <aside class="my-14 grid grid-cols-2 md:grid-cols-4 gap-4 not-prose border-y border-slate-100 py-10">
           {parsedStats.map((stat) => (
             <div class="border-l-2 border-orange pl-4 py-2">
-              <div class="font-display text-2xl md:text-3xl text-orange leading-none" data-target={stat.value}>{stat.value}</div>
-              {stat.label && <div class="text-xs uppercase tracking-wider text-slate-500 mt-1.5">{stat.label}</div>}
+              <div class="font-display text-3xl md:text-4xl text-orange leading-none" data-target={stat.value}>{stat.value}</div>
+              {stat.label && <div class="text-xs uppercase tracking-wider text-slate-500 mt-2">{stat.label}</div>}
             </div>
           ))}
         </aside>
@@ -48,15 +48,15 @@ const ctaBody = page.finalCTABody;
 {hasFAQ && <FAQAccordion faqs={page.faq} />}
 
 {relatedTop.length > 0 && (
-  <section class="bg-offwhite py-16 md:py-20">
+  <section class="bg-offwhite py-20">
     <div class="container-main">
       <div class="eyebrow mb-3">Related</div>
-      <h2 class="font-display mb-8 text-navy">Continue reading</h2>
+      <h2 class="font-display mb-10 text-navy text-3xl md:text-4xl">Continue reading</h2>
       <div class="grid md:grid-cols-3 gap-5">
         {relatedTop.map((r) => (
-          <a href={r.url} class="card-hover bg-white border border-slate-200 rounded-lg p-6 group block">
-            <h3 class="font-display text-lg text-navy mb-2">{r.title}</h3>
-            <p class="text-sm text-slate-600 leading-relaxed mb-3">{r.description}</p>
+          <a href={r.url} class="card-hover bg-white border border-slate-200 rounded-lg p-7 group block">
+            <h3 class="font-display text-xl text-navy mb-3 leading-snug">{r.title}</h3>
+            <p class="text-[0.95rem] text-slate-600 leading-relaxed mb-4">{r.description}</p>
             <span class="inline-flex items-center gap-1 text-sm text-orange font-medium">Read more <Icon name="arrow-right" size={14} /></span>
           </a>
         ))}
