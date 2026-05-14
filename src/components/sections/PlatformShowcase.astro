@@ -1,5 +1,20 @@
 ---
 import Icon from '../icons/Icon.astro';
+import { getCollection } from 'astro:content';
+
+const all = await getCollection('pages');
+const dynamicAnalytics = all
+  .filter((e: any) => e.data.url && e.data.url.startsWith('/platform/analytics/') && e.data.url !== '/platform/analytics/')
+  .map((e: any) => ({
+    name: e.data.h1,
+    stat: (e.data.heroStats?.[0] || '').split(' · ')[0] || 'AI',
+    sub: (e.data.heroStats?.[0] || '').split(' · ')[1] || 'analytic',
+    desc: e.data.heroSubhead || '',
+    url: e.data.url,
+    image: e.data.analyticImage || '',
+  }))
+  .sort((a, b) => a.name.localeCompare(b.name));
+
 
 const steps = [
   { num: '01', label: 'Aggregate', desc: 'Connect any camera, NVR, IoT or drone — no special hardware required.', icon: 'camera' },
@@ -8,14 +23,7 @@ const steps = [
   { num: '04', label: 'React', desc: 'Notify, dispatch, talk down, share footage — sub-60-second SOC.', icon: 'shield' },
 ];
 
-const aiModules = [
-  { name: 'License Plate Recognition', stat: '95%+', sub: 'accuracy', desc: 'Sub-3s alerts. Hotlist matching. Watchlist alerts.', url: '/platform/lpr/' },
-  { name: 'Fire & Smoke', stat: '<30s', sub: 'pre-flame detection', desc: 'Early-stage flame and smoke before sensors trigger.', url: '/platform/ai-video-analytics/' },
-  { name: 'People Counting', stat: 'Real-time', sub: 'zone + dwell', desc: 'Entry/exit counts, occupancy compliance, heatmaps.', url: '/platform/ai-video-analytics/' },
-  { name: 'Loitering Detection', stat: 'Per-zone', sub: 'duration alerts', desc: 'Catch precursors to vandalism, theft, break-ins.', url: '/platform/ai-video-analytics/' },
-  { name: 'Object Detection', stat: 'Multi-class', sub: 'people · vehicles · packages', desc: 'Real-time classification with confidence scoring.', url: '/platform/ai-video-analytics/' },
-  { name: 'Virtual Tripwire', stat: 'Multi-zone', sub: 'directional logic', desc: 'Polygon zones with in/out/cross triggers.', url: '/platform/ai-video-analytics/' },
-];
+
 
 const stats = [
   { value: '95%+', label: 'LPR accuracy' },
@@ -146,7 +154,7 @@ const integrations = [
       <a href="/platform/ai-video-analytics/" class="inline-flex items-center gap-2 text-navy hover:text-orange font-medium border-b border-navy/30 hover:border-orange pb-1 transition-colors">All AI modules <Icon name="arrow-right" size={16} /></a>
     </div>
     <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-5">
-      {aiModules.map((m) => (
+      {dynamicAnalytics.map((m) => (
         <a href={m.url} class="group block bg-offwhite border border-slate-200 rounded-xl p-7 hover:border-orange hover:shadow-lg transition-all hover:-translate-y-1">
           <div class="flex items-baseline justify-between mb-3">
             <span class="font-display text-3xl text-orange">{m.stat}</span>

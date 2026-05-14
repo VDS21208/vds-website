@@ -770,3 +770,101 @@ button.bg-orange:hover {
   transform: translateY(-1px);
   filter: brightness(1.06);
 }
+
+/* ===========================================================
+   BODY CONTENT TILE-STYLE — break long markdown into airy reading cards
+   =========================================================== */
+.prose-vds h2 {
+  position: relative;
+  padding-top: 1.5rem;
+  padding-left: 1.25rem;
+  border-top: 1px solid #E2E8F0;
+  margin-top: 3rem;
+}
+.prose-vds h2::before {
+  content: "";
+  position: absolute;
+  top: 1.5rem;
+  left: 0;
+  bottom: 0.25rem;
+  width: 4px;
+  background: linear-gradient(180deg, #E8621A, #D85410);
+  border-radius: 2px;
+}
+.prose-vds h2:first-child { border-top: none; padding-top: 0; margin-top: 0; }
+.prose-vds h2:first-child::before { top: 0.15em; }
+.prose-vds h3 {
+  margin-top: 2.5rem;
+}
+.prose-vds h3::before {
+  content: "—";
+  color: #E8621A;
+  margin-right: 0.5rem;
+  font-weight: 500;
+}
+
+/* Highlight first paragraph as a lede */
+.prose-vds > p:first-of-type {
+  font-size: 1.21875rem;
+  line-height: 1.65;
+  color: #0B1120;
+  font-weight: 400;
+  margin-bottom: 2rem;
+}
+
+/* Tighten paragraph spacing and add subtle accent on key terms */
+.prose-vds p {
+  max-width: 68ch;
+}
+
+/* Block quotes become callout cards */
+.prose-vds blockquote {
+  background: #FFF7F0;
+  border-left: 4px solid #E8621A;
+  padding: 1.5rem 1.75rem;
+  border-radius: 0 8px 8px 0;
+  font-size: 1.1875rem;
+  line-height: 1.6;
+  color: #0B1120;
+  font-style: normal;
+  font-weight: 500;
+  margin: 2rem 0;
+}
+
+/* Lists get more breathing room */
+.prose-vds ul li,
+.prose-vds ol li {
+  padding-left: 0.25rem;
+}
+
+/* Tables get a card wrapper feel */
+.prose-vds table {
+  border: 1px solid #E2E8F0;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 1px 3px rgba(11, 17, 32, 0.04);
+}
+
+/* HR becomes a section divider */
+.prose-vds hr {
+  border: none;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, #E2E8F0, transparent);
+  margin: 3rem 0;
+}
+
+/* Definition list / key-value style */
+.prose-vds dl {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 0.5rem 1.5rem;
+  margin: 1.5rem 0;
+}
+.prose-vds dt {
+  font-weight: 600;
+  color: #0B1120;
+}
+.prose-vds dd {
+  color: #475569;
+}
+

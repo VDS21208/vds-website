@@ -6,13 +6,26 @@ const cols = [
     title: 'Platform',
     links: [
       { label: 'AI VisionStream overview', url: '/platform/' },
-      { label: 'AI Video Analytics', url: '/platform/ai-video-analytics/' },
-      { label: 'License Plate Recognition', url: '/platform/lpr/' },
-      { label: 'Cloud Video Surveillance', url: '/platform/cloud-video-surveillance/' },
-      { label: 'Alerts & Reporting', url: '/platform/alerts-reporting/' },
-      { label: 'Mobile Apps (iOS / Android)', url: '/platform/mobile-app/' },
-      { label: '24/7 SOC Monitoring', url: '/platform/soc/' },
-      { label: 'API, SDK & Web Toolkit', url: '/platform/api-sdk-access/' },
+      { label: 'AI Analytics (10 modules)', url: '/platform/analytics/' },
+      { label: 'Video Portal', url: '/platform/video-portal/' },
+      { label: 'Admin Portal', url: '/platform/admin-portal/' },
+      { label: 'Alarm Monitoring Portal', url: '/platform/alarm-monitoring-portal/' },
+      { label: 'Mobile Apps', url: '/platform/mobile-app/' },
+      { label: '24/7 SOC', url: '/platform/soc/' },
+      { label: 'API & SDK', url: '/platform/api-sdk-access/' },
+    ],
+  },
+  {
+    title: 'AI Modules',
+    links: [
+      { label: 'License Plate Recognition', url: '/platform/analytics/license-plate-recognition/' },
+      { label: 'Fire & Smoke Detection', url: '/platform/analytics/fire-smoke-detection/' },
+      { label: 'People Counting', url: '/platform/analytics/people-counting/' },
+      { label: 'Loitering Detection', url: '/platform/analytics/loitering-detection/' },
+      { label: 'Object Detection', url: '/platform/analytics/object-detection/' },
+      { label: 'Face Recognition', url: '/platform/analytics/face-recognition/' },
+      { label: 'PPE Detection', url: '/platform/analytics/ppe-hard-hat/' },
+      { label: 'All 10 modules →', url: '/platform/analytics/' },
     ],
   },
   {
@@ -130,7 +143,7 @@ const compliance = [
     </div>
 
     <!-- Link columns -->
-    <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-8 mb-14">
+    <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-7 gap-6 mb-14">
       {cols.map((col) => (
         <div>
           <div class="text-[0.6875rem] uppercase tracking-[0.18em] text-orange font-semibold mb-4">{col.title}</div>
