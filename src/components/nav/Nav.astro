@@ -18,12 +18,8 @@ const NAV_ICONS: Record<string, string> = {
 <header class="sticky top-0 z-40 bg-navy text-white transition-all duration-200 shadow-[0_2px_8px_rgba(11,17,32,0.18)]" data-sticky-nav transition:persist>
   <div class="relative">
     <div class="container-wide flex items-center justify-between py-3 border-b border-white/5">
-      <a href="/" class="flex items-center gap-3 group" aria-label="Vision Detection Systems home">
-        <img src="/assets/vds-mark.svg" alt="VDS" class="h-10 w-auto text-white" style="filter: invert(1) brightness(2);" />
-        <div class="hidden sm:flex flex-col leading-tight">
-          <span class="text-[0.625rem] uppercase tracking-[0.2em] text-white/55 font-medium">Vision Detection</span>
-          <span class="text-base text-white font-display font-semibold tracking-wide -mt-0.5">Systems</span>
-        </div>
+      <a href="/" class="flex items-center group" aria-label="Vision Detection Systems home">
+        <img src="/assets/vds-logo-full.png" alt="Vision Detection Systems" class="h-10 md:h-12 w-auto object-contain" />
       </a>
       <nav class="hidden lg:flex items-center gap-1" aria-label="Primary">
         {nav.map(section => {
