@@ -989,39 +989,13 @@ button.bg-orange:hover {
 
 
 /* ===========================================================
-   DEFENSIVE TEXT COLOR — guarantee readable text on light backgrounds
+   DEFENSIVE TEXT COLOR — only direct-section bg-white, not body cascade
    =========================================================== */
-/* Any white/light section gets dark text by default */
-section.bg-white,
-section.bg-offwhite,
-.bg-white > div,
-.bg-offwhite > div {
-  color: #0B1120;
-}
-
-/* Body content on light backgrounds */
-.bg-white p:not([class*="text-"]),
-.bg-offwhite p:not([class*="text-"]) {
-  color: #334155;
-}
-
-/* Headings on light backgrounds default to navy */
-.bg-white h1:not([class*="text-"]),
-.bg-white h2:not([class*="text-"]),
-.bg-white h3:not([class*="text-"]),
-.bg-white h4:not([class*="text-"]),
-.bg-offwhite h1:not([class*="text-"]),
-.bg-offwhite h2:not([class*="text-"]),
-.bg-offwhite h3:not([class*="text-"]),
-.bg-offwhite h4:not([class*="text-"]) {
-  color: #0B1120;
-}
-
-/* Lists on light backgrounds */
-.bg-white ul li:not([class*="text-"]),
-.bg-white ol li:not([class*="text-"]),
-.bg-offwhite ul li:not([class*="text-"]),
-.bg-offwhite ol li:not([class*="text-"]) {
-  color: #334155;
+/* Only target direct <section class="bg-white"> wrappers, not the body class */
+section.bg-white > .container-wide,
+section.bg-white > .container-main,
+section.bg-offwhite > .container-wide,
+section.bg-offwhite > .container-main {
+  color: inherit;
 }
 
