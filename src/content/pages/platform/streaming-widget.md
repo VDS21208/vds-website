@@ -14,7 +14,7 @@ heroCTAPrimary:
 heroCTASecondary:
   label: Platform overview
   url: /platform/
-heroImage: /assets/AI VisionStream/monitoring-poster.jpg
+heroImage: /assets/platform-ui/monitoring-poster.jpg
 heroStats:
   - "Live · Multi-site"
   - "Camera-agnostic · ONVIF/RTSP"
@@ -23,7 +23,7 @@ parent: /platform/
 canonical: https://visiondetectionsystems.com/platform/streaming-widget/
 ogTitle: Streaming Widget | VDS
 ogDescription: Embed live camera feeds on any website. Perfect for civic engagement, traffic dashboards, and event streaming.
-ogImage: https://visiondetectionsystems.com/assets/AI VisionStream/monitoring-poster.jpg
+ogImage: https://visiondetectionsystems.com/assets/platform-ui/monitoring-poster.jpg
 ogType: article
 robots: index, follow
 tags: Streaming Widget, AI VisionStream, VDS platform, cloud VMS

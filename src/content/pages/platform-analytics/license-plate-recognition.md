@@ -14,7 +14,7 @@ heroCTAPrimary:
 heroCTASecondary:
   label: All AI modules
   url: /platform/ai-video-analytics/
-heroImage: /assets/AI VisionStream/alpr.avif
+heroImage: /assets/platform-ui/alpr.avif
 heroStats:
   - "95%+ · <3s"
   - "Any camera · ONVIF/RTSP"
@@ -23,12 +23,12 @@ parent: /platform/ai-video-analytics/
 canonical: https://visiondetectionsystems.com/platform/analytics/license-plate-recognition/
 ogTitle: License Plate Recognition (ALPR) | VDS
 ogDescription: VDS cloud-based License Plate Recognition (ALPR/LPR) — 95%+ accuracy, sub-3-second alerts, hotlist matching. Works with any IP camera.
-ogImage: https://visiondetectionsystems.com/assets/AI VisionStream/alpr.avif
+ogImage: https://visiondetectionsystems.com/assets/platform-ui/alpr.avif
 ogType: article
 robots: index, follow
 tags: License Plate Recognition (ALPR), AI video analytics, surveillance AI, VDS, AI VisionStream
 analyticIcon: camera
-analyticImage: /assets/AI VisionStream/alpr.avif
+analyticImage: /assets/platform-ui/alpr.avif
 analyticHeadline: Read every plate. Match every list.
 useCases:
   - Parking lots & garages — authorized vs. unauthorized vehicle detection

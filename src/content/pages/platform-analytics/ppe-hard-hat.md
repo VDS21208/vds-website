@@ -14,7 +14,7 @@ heroCTAPrimary:
 heroCTASecondary:
   label: All AI modules
   url: /platform/ai-video-analytics/
-heroImage: /assets/AI VisionStream/hard-hat.avif
+heroImage: /assets/platform-ui/hard-hat.avif
 heroStats:
   - "Real-time · compliance"
   - "Any camera · ONVIF/RTSP"
@@ -23,12 +23,12 @@ parent: /platform/ai-video-analytics/
 canonical: https://visiondetectionsystems.com/platform/analytics/ppe-hard-hat/
 ogTitle: Hard Hat (PPE) Detection | VDS
 ogDescription: VDS AI Hard Hat (PPE) Detection — real-time compliance monitoring for construction, oil & gas, and warehouse operations.
-ogImage: https://visiondetectionsystems.com/assets/AI VisionStream/hard-hat.avif
+ogImage: https://visiondetectionsystems.com/assets/platform-ui/hard-hat.avif
 ogType: article
 robots: index, follow
 tags: Hard Hat (PPE) Detection, AI video analytics, surveillance AI, VDS, AI VisionStream
 analyticIcon: shield
-analyticImage: /assets/AI VisionStream/hard-hat.avif
+analyticImage: /assets/platform-ui/hard-hat.avif
 analyticHeadline: Real-time PPE compliance.
 useCases:
   - Construction sites — daily PPE compliance

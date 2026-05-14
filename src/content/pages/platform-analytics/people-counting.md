@@ -14,7 +14,7 @@ heroCTAPrimary:
 heroCTASecondary:
   label: All AI modules
   url: /platform/ai-video-analytics/
-heroImage: /assets/AI VisionStream/people-counting.avif
+heroImage: /assets/platform-ui/people-counting.avif
 heroStats:
   - "Real-time · zone + dwell"
   - "Any camera · ONVIF/RTSP"
@@ -23,12 +23,12 @@ parent: /platform/ai-video-analytics/
 canonical: https://visiondetectionsystems.com/platform/analytics/people-counting/
 ogTitle: AI People Counting | VDS
 ogDescription: VDS AI People Counting — object-tracking-based occupancy, zone dwell, and traffic analytics. More accurate than line-crossing counters.
-ogImage: https://visiondetectionsystems.com/assets/AI VisionStream/people-counting.avif
+ogImage: https://visiondetectionsystems.com/assets/platform-ui/people-counting.avif
 ogType: article
 robots: index, follow
 tags: AI People Counting, AI video analytics, surveillance AI, VDS, AI VisionStream
 analyticIcon: eye
-analyticImage: /assets/AI VisionStream/people-counting.avif
+analyticImage: /assets/platform-ui/people-counting.avif
 analyticHeadline: Count what matters. Zone by zone.
 useCases:
   - Retail & shopping — entry/exit, dwell, conversion zones

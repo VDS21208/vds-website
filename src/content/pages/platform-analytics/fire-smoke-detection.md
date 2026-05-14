@@ -14,7 +14,7 @@ heroCTAPrimary:
 heroCTASecondary:
   label: All AI modules
   url: /platform/ai-video-analytics/
-heroImage: /assets/AI VisionStream/fire-smoke-panel.avif
+heroImage: /assets/platform-ui/fire-smoke-panel.avif
 heroStats:
   - "<30s · pre-flame"
   - "Any camera · ONVIF/RTSP"
@@ -23,12 +23,12 @@ parent: /platform/ai-video-analytics/
 canonical: https://visiondetectionsystems.com/platform/analytics/fire-smoke-detection/
 ogTitle: Fire & Smoke Detection | VDS
 ogDescription: VDS AI fire & smoke detection catches fires in seconds — early-stage flame/smoke recognition before traditional sensors trigger.
-ogImage: https://visiondetectionsystems.com/assets/AI VisionStream/fire-smoke-panel.avif
+ogImage: https://visiondetectionsystems.com/assets/platform-ui/fire-smoke-panel.avif
 ogType: article
 robots: index, follow
 tags: Fire & Smoke Detection, AI video analytics, surveillance AI, VDS, AI VisionStream
 analyticIcon: shield
-analyticImage: /assets/AI VisionStream/fire-smoke-panel.avif
+analyticImage: /assets/platform-ui/fire-smoke-panel.avif
 analyticHeadline: Catch the fire before the alarm sounds.
 useCases:
   - Lumber & recycling yards — early flame detection in outdoor stockpiles

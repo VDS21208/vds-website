@@ -14,7 +14,7 @@ heroCTAPrimary:
 heroCTASecondary:
   label: Platform overview
   url: /platform/
-heroImage: /assets/AI VisionStream/admin-roles.avif
+heroImage: /assets/platform-ui/admin-roles.avif
 heroStats:
   - "Live grid"
   - "Camera-agnostic · ONVIF/RTSP"
@@ -23,7 +23,7 @@ parent: /platform/
 canonical: https://visiondetectionsystems.com/platform/video-portal/
 ogTitle: Video Portal | VDS
 ogDescription: Multi-site live view, playback, search — every camera in one tab.
-ogImage: https://visiondetectionsystems.com/assets/AI VisionStream/admin-roles.avif
+ogImage: https://visiondetectionsystems.com/assets/platform-ui/admin-roles.avif
 ogType: article
 robots: index, follow
 tags: Video Portal, AI VisionStream, VDS platform, cloud VMS
