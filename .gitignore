@@ -10,6 +10,5 @@ dist/
 .netlify/
 
 # TinaCMS
-tina/__generated__/
 studio/
 public/admin/index.html.bak

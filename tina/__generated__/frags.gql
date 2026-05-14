@@ -1,0 +1,878 @@
+fragment BlogParts on Blog {
+  __typename
+  url
+  collection
+  pageType
+  status
+  h1
+  heroEyebrow
+  heroSubhead
+  heroImage
+  heroCTAPrimary {
+    __typename
+    label
+    url
+  }
+  heroCTASecondary {
+    __typename
+    label
+    url
+  }
+  heroStats
+  seoTitle
+  metaDescription
+  canonical
+  ogTitle
+  ogDescription
+  ogImage
+  ogType
+  robots
+  tags
+  finalCTAHeading
+  finalCTABody
+  finalCTAButtons {
+    __typename
+    label
+    url
+  }
+  faq {
+    __typename
+    q
+    a
+  }
+  body
+}
+
+fragment CaseStudiesParts on CaseStudies {
+  __typename
+  url
+  collection
+  pageType
+  status
+  h1
+  heroEyebrow
+  heroSubhead
+  heroImage
+  heroCTAPrimary {
+    __typename
+    label
+    url
+  }
+  heroCTASecondary {
+    __typename
+    label
+    url
+  }
+  heroStats
+  seoTitle
+  metaDescription
+  canonical
+  ogTitle
+  ogDescription
+  ogImage
+  ogType
+  robots
+  tags
+  finalCTAHeading
+  finalCTABody
+  finalCTAButtons {
+    __typename
+    label
+    url
+  }
+  faq {
+    __typename
+    q
+    a
+  }
+  body
+}
+
+fragment ProductsParts on Products {
+  __typename
+  url
+  collection
+  pageType
+  status
+  h1
+  heroEyebrow
+  heroSubhead
+  heroImage
+  heroCTAPrimary {
+    __typename
+    label
+    url
+  }
+  heroCTASecondary {
+    __typename
+    label
+    url
+  }
+  heroStats
+  seoTitle
+  metaDescription
+  canonical
+  ogTitle
+  ogDescription
+  ogImage
+  ogType
+  robots
+  tags
+  finalCTAHeading
+  finalCTABody
+  finalCTAButtons {
+    __typename
+    label
+    url
+  }
+  faq {
+    __typename
+    q
+    a
+  }
+  body
+}
+
+fragment IndustriesParts on Industries {
+  __typename
+  url
+  collection
+  pageType
+  status
+  h1
+  heroEyebrow
+  heroSubhead
+  heroImage
+  heroCTAPrimary {
+    __typename
+    label
+    url
+  }
+  heroCTASecondary {
+    __typename
+    label
+    url
+  }
+  heroStats
+  seoTitle
+  metaDescription
+  canonical
+  ogTitle
+  ogDescription
+  ogImage
+  ogType
+  robots
+  tags
+  finalCTAHeading
+  finalCTABody
+  finalCTAButtons {
+    __typename
+    label
+    url
+  }
+  faq {
+    __typename
+    q
+    a
+  }
+  body
+}
+
+fragment PlatformParts on Platform {
+  __typename
+  url
+  collection
+  pageType
+  status
+  h1
+  heroEyebrow
+  heroSubhead
+  heroImage
+  heroCTAPrimary {
+    __typename
+    label
+    url
+  }
+  heroCTASecondary {
+    __typename
+    label
+    url
+  }
+  heroStats
+  seoTitle
+  metaDescription
+  canonical
+  ogTitle
+  ogDescription
+  ogImage
+  ogType
+  robots
+  tags
+  finalCTAHeading
+  finalCTABody
+  finalCTAButtons {
+    __typename
+    label
+    url
+  }
+  faq {
+    __typename
+    q
+    a
+  }
+  body
+}
+
+fragment PlatformAnalyticsParts on PlatformAnalytics {
+  __typename
+  url
+  collection
+  pageType
+  status
+  h1
+  heroEyebrow
+  heroSubhead
+  heroImage
+  heroCTAPrimary {
+    __typename
+    label
+    url
+  }
+  heroCTASecondary {
+    __typename
+    label
+    url
+  }
+  heroStats
+  seoTitle
+  metaDescription
+  canonical
+  ogTitle
+  ogDescription
+  ogImage
+  ogType
+  robots
+  tags
+  finalCTAHeading
+  finalCTABody
+  finalCTAButtons {
+    __typename
+    label
+    url
+  }
+  faq {
+    __typename
+    q
+    a
+  }
+  body
+  analyticIcon
+  analyticImage
+  analyticHeadline
+  useCases
+  specsList {
+    __typename
+    label
+    value
+  }
+}
+
+fragment CompareParts on Compare {
+  __typename
+  url
+  collection
+  pageType
+  status
+  h1
+  heroEyebrow
+  heroSubhead
+  heroImage
+  heroCTAPrimary {
+    __typename
+    label
+    url
+  }
+  heroCTASecondary {
+    __typename
+    label
+    url
+  }
+  heroStats
+  seoTitle
+  metaDescription
+  canonical
+  ogTitle
+  ogDescription
+  ogImage
+  ogType
+  robots
+  tags
+  finalCTAHeading
+  finalCTABody
+  finalCTAButtons {
+    __typename
+    label
+    url
+  }
+  faq {
+    __typename
+    q
+    a
+  }
+  body
+}
+
+fragment UseCasesParts on UseCases {
+  __typename
+  url
+  collection
+  pageType
+  status
+  h1
+  heroEyebrow
+  heroSubhead
+  heroImage
+  heroCTAPrimary {
+    __typename
+    label
+    url
+  }
+  heroCTASecondary {
+    __typename
+    label
+    url
+  }
+  heroStats
+  seoTitle
+  metaDescription
+  canonical
+  ogTitle
+  ogDescription
+  ogImage
+  ogType
+  robots
+  tags
+  finalCTAHeading
+  finalCTABody
+  finalCTAButtons {
+    __typename
+    label
+    url
+  }
+  faq {
+    __typename
+    q
+    a
+  }
+  body
+}
+
+fragment SolutionsParts on Solutions {
+  __typename
+  url
+  collection
+  pageType
+  status
+  h1
+  heroEyebrow
+  heroSubhead
+  heroImage
+  heroCTAPrimary {
+    __typename
+    label
+    url
+  }
+  heroCTASecondary {
+    __typename
+    label
+    url
+  }
+  heroStats
+  seoTitle
+  metaDescription
+  canonical
+  ogTitle
+  ogDescription
+  ogImage
+  ogType
+  robots
+  tags
+  finalCTAHeading
+  finalCTABody
+  finalCTAButtons {
+    __typename
+    label
+    url
+  }
+  faq {
+    __typename
+    q
+    a
+  }
+  body
+}
+
+fragment GuidesParts on Guides {
+  __typename
+  url
+  collection
+  pageType
+  status
+  h1
+  heroEyebrow
+  heroSubhead
+  heroImage
+  heroCTAPrimary {
+    __typename
+    label
+    url
+  }
+  heroCTASecondary {
+    __typename
+    label
+    url
+  }
+  heroStats
+  seoTitle
+  metaDescription
+  canonical
+  ogTitle
+  ogDescription
+  ogImage
+  ogType
+  robots
+  tags
+  finalCTAHeading
+  finalCTABody
+  finalCTAButtons {
+    __typename
+    label
+    url
+  }
+  faq {
+    __typename
+    q
+    a
+  }
+  body
+}
+
+fragment IntegrationsParts on Integrations {
+  __typename
+  url
+  collection
+  pageType
+  status
+  h1
+  heroEyebrow
+  heroSubhead
+  heroImage
+  heroCTAPrimary {
+    __typename
+    label
+    url
+  }
+  heroCTASecondary {
+    __typename
+    label
+    url
+  }
+  heroStats
+  seoTitle
+  metaDescription
+  canonical
+  ogTitle
+  ogDescription
+  ogImage
+  ogType
+  robots
+  tags
+  finalCTAHeading
+  finalCTABody
+  finalCTAButtons {
+    __typename
+    label
+    url
+  }
+  faq {
+    __typename
+    q
+    a
+  }
+  body
+}
+
+fragment PartnersParts on Partners {
+  __typename
+  url
+  collection
+  pageType
+  status
+  h1
+  heroEyebrow
+  heroSubhead
+  heroImage
+  heroCTAPrimary {
+    __typename
+    label
+    url
+  }
+  heroCTASecondary {
+    __typename
+    label
+    url
+  }
+  heroStats
+  seoTitle
+  metaDescription
+  canonical
+  ogTitle
+  ogDescription
+  ogImage
+  ogType
+  robots
+  tags
+  finalCTAHeading
+  finalCTABody
+  finalCTAButtons {
+    __typename
+    label
+    url
+  }
+  faq {
+    __typename
+    q
+    a
+  }
+  body
+}
+
+fragment AboutUsParts on AboutUs {
+  __typename
+  url
+  collection
+  pageType
+  status
+  h1
+  heroEyebrow
+  heroSubhead
+  heroImage
+  heroCTAPrimary {
+    __typename
+    label
+    url
+  }
+  heroCTASecondary {
+    __typename
+    label
+    url
+  }
+  heroStats
+  seoTitle
+  metaDescription
+  canonical
+  ogTitle
+  ogDescription
+  ogImage
+  ogType
+  robots
+  tags
+  finalCTAHeading
+  finalCTABody
+  finalCTAButtons {
+    __typename
+    label
+    url
+  }
+  faq {
+    __typename
+    q
+    a
+  }
+  body
+}
+
+fragment LocationsParts on Locations {
+  __typename
+  url
+  collection
+  pageType
+  status
+  h1
+  heroEyebrow
+  heroSubhead
+  heroImage
+  heroCTAPrimary {
+    __typename
+    label
+    url
+  }
+  heroCTASecondary {
+    __typename
+    label
+    url
+  }
+  heroStats
+  seoTitle
+  metaDescription
+  canonical
+  ogTitle
+  ogDescription
+  ogImage
+  ogType
+  robots
+  tags
+  finalCTAHeading
+  finalCTABody
+  finalCTAButtons {
+    __typename
+    label
+    url
+  }
+  faq {
+    __typename
+    q
+    a
+  }
+  body
+}
+
+fragment CityLocationsParts on CityLocations {
+  __typename
+  url
+  collection
+  pageType
+  status
+  h1
+  heroEyebrow
+  heroSubhead
+  heroImage
+  heroCTAPrimary {
+    __typename
+    label
+    url
+  }
+  heroCTASecondary {
+    __typename
+    label
+    url
+  }
+  heroStats
+  seoTitle
+  metaDescription
+  canonical
+  ogTitle
+  ogDescription
+  ogImage
+  ogType
+  robots
+  tags
+  finalCTAHeading
+  finalCTABody
+  finalCTAButtons {
+    __typename
+    label
+    url
+  }
+  faq {
+    __typename
+    q
+    a
+  }
+  body
+}
+
+fragment StateLocationsParts on StateLocations {
+  __typename
+  url
+  collection
+  pageType
+  status
+  h1
+  heroEyebrow
+  heroSubhead
+  heroImage
+  heroCTAPrimary {
+    __typename
+    label
+    url
+  }
+  heroCTASecondary {
+    __typename
+    label
+    url
+  }
+  heroStats
+  seoTitle
+  metaDescription
+  canonical
+  ogTitle
+  ogDescription
+  ogImage
+  ogType
+  robots
+  tags
+  finalCTAHeading
+  finalCTABody
+  finalCTAButtons {
+    __typename
+    label
+    url
+  }
+  faq {
+    __typename
+    q
+    a
+  }
+  body
+}
+
+fragment PricingParts on Pricing {
+  __typename
+  url
+  collection
+  pageType
+  status
+  h1
+  heroEyebrow
+  heroSubhead
+  heroImage
+  heroCTAPrimary {
+    __typename
+    label
+    url
+  }
+  heroCTASecondary {
+    __typename
+    label
+    url
+  }
+  heroStats
+  seoTitle
+  metaDescription
+  canonical
+  ogTitle
+  ogDescription
+  ogImage
+  ogType
+  robots
+  tags
+  finalCTAHeading
+  finalCTABody
+  finalCTAButtons {
+    __typename
+    label
+    url
+  }
+  faq {
+    __typename
+    q
+    a
+  }
+  body
+}
+
+fragment SingletonsParts on Singletons {
+  __typename
+  url
+  collection
+  pageType
+  status
+  h1
+  heroEyebrow
+  heroSubhead
+  heroImage
+  heroCTAPrimary {
+    __typename
+    label
+    url
+  }
+  heroCTASecondary {
+    __typename
+    label
+    url
+  }
+  heroStats
+  seoTitle
+  metaDescription
+  canonical
+  ogTitle
+  ogDescription
+  ogImage
+  ogType
+  robots
+  tags
+  finalCTAHeading
+  finalCTABody
+  finalCTAButtons {
+    __typename
+    label
+    url
+  }
+  faq {
+    __typename
+    q
+    a
+  }
+  body
+}
+
+fragment ResourcesParts on Resources {
+  __typename
+  url
+  collection
+  pageType
+  status
+  h1
+  heroEyebrow
+  heroSubhead
+  heroImage
+  heroCTAPrimary {
+    __typename
+    label
+    url
+  }
+  heroCTASecondary {
+    __typename
+    label
+    url
+  }
+  heroStats
+  seoTitle
+  metaDescription
+  canonical
+  ogTitle
+  ogDescription
+  ogImage
+  ogType
+  robots
+  tags
+  finalCTAHeading
+  finalCTABody
+  finalCTAButtons {
+    __typename
+    label
+    url
+  }
+  faq {
+    __typename
+    q
+    a
+  }
+  body
+}
+
+fragment NavParts on Nav {
+  __typename
+  sections {
+    __typename
+    label
+    url
+    primary {
+      __typename
+      label
+      url
+      notes
+    }
+  }
+}
