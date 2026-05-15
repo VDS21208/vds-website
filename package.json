@@ -6,7 +6,7 @@
   "scripts": {
     "extract": "python3 scripts/extract-data.py",
     "dev": "tinacms dev -c \"astro dev\"",
-    "build": "tinacms build && npm run extract && astro build && node scripts/generate-sitemap.mjs",
+    "build": "tinacms build --skipIndexing && npm run extract && astro build && node scripts/generate-sitemap.mjs",
     "preview": "astro preview",
     "astro": "astro"
   },
