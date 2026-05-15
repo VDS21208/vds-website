@@ -1,20 +1,20 @@
----
-import nav from '../../data/nav.json';
+﻿---
+import nav from '../../data/site-nav.json';
 import Icon from '../icons/Icon.astro';
 export interface Props { activeUrl?: string }
 const { activeUrl } = Astro.props;
 
 // Default preview shown when the drawer first opens
 const SECTION_IMAGE: Record<string, { src: string; alt: string; caption: string; sub: string }> = {
- 'Products': { src: '/assets/webflow/camera-product.avif', alt: 'VDS mobile surveillance trailer', caption: 'Mobile surveillance trailers', sub: 'Solar-autonomous · AI-driven · NDAA-compliant' },
+ 'Products': { src: '/assets/webflow/camera-product.avif', alt: 'VDS mobile surveillance trailer', caption: 'Mobile surveillance trailers', sub: 'Solar-autonomous Â· AI-driven Â· NDAA-compliant' },
  'Platform': { src: '/assets/webflow/frame-28.webp', alt: 'AI VisionStream dashboard', caption: 'AI VisionStream platform', sub: 'Live monitoring, alerts, analytics' },
  'Industries': { src: '/assets/webflow/hero-security-1.avif', alt: 'Construction site surveillance', caption: '17 verticals covered', sub: 'From construction to substations' },
- 'Why VDS': { src: '/assets/webflow/hero-security-2.avif', alt: 'VDS deployment', caption: 'US-engineered. Built to last.', sub: '24/7 SOC · NDAA Section 889' },
+ 'Why VDS': { src: '/assets/webflow/hero-security-2.avif', alt: 'VDS deployment', caption: 'US-engineered. Built to last.', sub: '24/7 SOC Â· NDAA Section 889' },
  'Resources': { src: '/assets/webflow/frame-29.webp', alt: 'VDS guide', caption: 'Buyer playbook', sub: 'Guides, case studies, ROI tools' },
- 'Partners': { src: '/assets/webflow/hero-security-3.avif', alt: 'VDS dealer network', caption: 'Dealer & integrator network', sub: 'Margins · training · support' },
+ 'Partners': { src: '/assets/webflow/hero-security-3.avif', alt: 'VDS dealer network', caption: 'Dealer & integrator network', sub: 'Margins Â· training Â· support' },
 };
 
-// Per-link preview image (swap on hover) — mapped from URL pattern
+// Per-link preview image (swap on hover) â€” mapped from URL pattern
 function previewFor(url: string): string {
  const u = (url || '').toLowerCase();
  if (u.includes('mobile-surveillance-unit')) return '/assets/products/mobile-surveillance-unit.png';
