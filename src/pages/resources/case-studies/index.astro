@@ -37,4 +37,17 @@ const STATS = ['73% theft cut', '$340K saved', '18% YoY drop', '45K claims preve
               </div>
               <div class="absolute bottom-4 left-4 right-4">
                 <div class="font-display text-3xl md:text-4xl text-orange leading-none">{STATS[i % STATS.length]}</div>
-                <div class="text-xs uppercase tracking-[0.15em
+                <div class="text-xs uppercase tracking-[0.15em] text-white/70 mt-2">Measured outcome</div>
+              </div>
+            </div>
+            <div class="p-7">
+              <h3 class="font-display text-xl text-navy group-hover:text-orange transition-colors mb-2 leading-snug">{s.h1}</h3>
+              <p class="text-sm text-slate-600 leading-relaxed mb-4">{s.metaDescription}</p>
+              <span class="inline-flex items-center gap-1 text-sm text-orange font-medium group-hover:gap-2 transition-all">Read the full study <Icon name="arrow-right" size={14} /></span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+</Layout>

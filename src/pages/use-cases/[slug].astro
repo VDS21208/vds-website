@@ -40,4 +40,8 @@ const related = allEntries
 >
   <SchemaArticle headline={page.h1} description={page.metaDescription} url={page.canonical} keywords={page.tags} />
   <SchemaFAQ faqs={page.faq} />
-  <HeroImage bgImage={heroImageUrl({ url: page.url, tags: page.tags, pageType: page.pageType, heroImage: page.heroImage })} eyebrow={page.heroEyebrow} h1={page.h1} subhead={page.heroSubhead} ctaPrimary={page.heroCTAPrimary} ctaSecondary={page.heroCTASecondary} stats={page.he
+  <HeroImage bgImage={heroImageUrl({ url: page.url, tags: page.tags, pageType: page.pageType, heroImage: page.heroImage })} eyebrow={page.heroEyebrow} h1={page.h1} subhead={page.heroSubhead} ctaPrimary={page.heroCTAPrimary} ctaSecondary={page.heroCTASecondary} stats={page.heroStats} />
+  <TrustStrip />
+  <UseCaseShowcase page={page} />
+  <PageBodyEnhanced Content={Content} page={page} related={related} />
+</Layout>

@@ -39,4 +39,15 @@ const COVERS = ['/assets/webflow/slider-1.webp', '/assets/webflow/slider-2.webp'
             </div>
             <div class="p-6 flex flex-col flex-1">
               <h3 class="font-display text-lg text-navy group-hover:text-orange transition-colors mb-2 leading-snug">{post.h1}</h3>
-              <p class="text-sm t
+              <p class="text-sm text-slate-600 leading-relaxed line-clamp-3 mb-4 flex-1">{post.metaDescription}</p>
+              <div class="flex items-center justify-between pt-4 border-t border-slate-100">
+                <span class="text-xs text-slate-500 uppercase tracking-wider">{post.pageType || 'Article'}</span>
+                <span class="inline-flex items-center gap-1 text-sm text-orange font-medium group-hover:gap-2 transition-all">Read <Icon name="arrow-right" size={14} /></span>
+              </div>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+</Layout>

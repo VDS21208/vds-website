@@ -38,3 +38,18 @@ const analytics = all
               <div class="absolute inset-0 bg-gradient-to-t from-navy/60 to-transparent"></div>
               <div class="absolute top-3 left-3 inline-flex items-center gap-1.5 bg-orange text-white text-[0.625rem] uppercase tracking-wider font-medium px-2.5 py-1 rounded-sm">
                 <Icon name={a.analyticIcon || 'eye'} size={12} /> AI Analytic
+              </div>
+            </div>
+            <div class="p-6">
+              <h3 class="font-display text-xl text-navy group-hover:text-orange transition-colors mb-2 leading-tight">{a.h1}</h3>
+              <p class="text-sm text-slate-600 leading-relaxed mb-4 line-clamp-3">{a.heroSubhead}</p>
+              <span class="inline-flex items-center gap-1 text-sm text-orange font-medium group-hover:gap-2 transition-all">
+                Learn more <Icon name="arrow-right" size={14} />
+              </span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+</Layout>

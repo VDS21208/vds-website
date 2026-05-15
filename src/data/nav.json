@@ -1,638 +1,112 @@
-[
+﻿[
   {
     "label": "Products",
     "url": "/products",
     "primary": [
-      {
-        "label": "Sky Guard MSU",
-        "url": "/products/sky-guard-mobile-surveillance-trailer",
-        "type": "link",
-        "notes": "Flagship product \u00b7 thermal + radar + 4K + LPR + deterrence"
-      },
-      {
-        "label": "Swift Deploy",
-        "url": "/products/swift-deploy-surveillance-trailer",
-        "type": "link",
-        "notes": "Most popular \u00b7 under-20-min deployment"
-      },
-      {
-        "label": "Boundary Guard Pro",
-        "url": "/products/boundary-guard-pro",
-        "type": "link",
-        "notes": "500+ ft fence-line coverage"
-      },
-      {
-        "label": "Mobile Surveillance Trailers",
-        "url": "/products/mobile-surveillance-trailers",
-        "type": "link",
-        "notes": "Category overview"
-      },
-      {
-        "label": "All products \u2192",
-        "url": "/products",
-        "type": "link",
-        "notes": "Products hub"
-      }
+      { "label": "Mobile Surveillance Unit", "url": "/products/mobile-surveillance-unit", "type": "link", "notes": "Trailer-based PTZ + 360 + solar + cellular. Flagship." },
+      { "label": "Wall Mount System", "url": "/products/wall-mount-system", "type": "link", "notes": "Fixed PTZ surveillance for buildings and perimeters." },
+      { "label": "Solar-Powered Surveillance Kit", "url": "/products/solar-powered-surveillance-kit", "type": "link", "notes": "Standalone 4G solar camera with AI detection." },
+      { "label": "License Plate Recognition", "url": "/products/license-plate-recognition", "type": "link", "notes": "LPR solar cam + analytic for any camera." },
+      { "label": "All products", "url": "/products", "type": "link", "notes": "Full lineup" }
     ],
     "supporting": [
-      {
-        "label": "Solar Camera Poles",
-        "url": "/products/solar-camera-poles",
-        "type": "link",
-        "notes": "Pole-mounted solar-autonomous cameras"
-      },
-      {
-        "label": "Security Guard Booths",
-        "url": "/products/guard-booths",
-        "type": "link",
-        "notes": "Manned guard booth solutions"
-      },
-      {
-        "label": "Medical & Cooling Stations",
-        "url": "/products/medical-cooling-stations",
-        "type": "link",
-        "notes": "Mobile medical and cooling units"
-      },
-      {
-        "label": "Light Trailers",
-        "url": "/products/light-trailers",
-        "type": "link",
-        "notes": "Mobile lighting trailers"
-      },
-      {
-        "label": "Accessories & Add-Ons",
-        "url": "/products/accessories",
-        "type": "link",
-        "notes": "Mounts, adapters, replacement parts"
-      },
-      {
-        "label": "License Plate Recognition",
-        "url": "/products/license-plate-recognition",
-        "type": "link",
-        "notes": "LPR-equipped trailers"
-      }
-    ],
-    "featured": [
-      {
-        "label": "Sky Guard MSU",
-        "url": "/products/sky-guard-mobile-surveillance-trailer",
-        "type": "featured-card",
-        "notes": "Thermal + radar + 4K + LPR + active deterrence in one solar-autonomous trailer. From $2,200/mo \u2192"
-      }
+      { "label": "Guardian Sentry Tower", "url": "/products/guardian-sentry-tower", "type": "link", "notes": "Trailer-mounted solar lighting tower." },
+      { "label": "Guardian Beacon MLU", "url": "/products/guardian-beacon-mlu", "type": "link", "notes": "Compact solar lighting for restricted spaces." },
+      { "label": "SolarVolt WorkSite Illuminator", "url": "/products/solarvolt-worksite-illuminator", "type": "link", "notes": "High-output solar lighting for industrial sites." },
+      { "label": "Security Booth", "url": "/products/guard-booths", "type": "link", "notes": "Compact climate-controlled access-control booth." },
+      { "label": "Medical & Cooling Booth", "url": "/products/medical-cooling-stations", "type": "link", "notes": "Mobile climate-controlled welfare unit." },
+      { "label": "Custom Solutions", "url": "/products/custom-solutions", "type": "link", "notes": "Engineered hardware + software configurations." },
+      { "label": "Accessories", "url": "/products/accessories", "type": "link", "notes": "Mounts, adapters, add-ons." }
     ],
     "cta": [
-      {
-        "label": "Request a quote",
-        "url": "/request-a-quote",
-        "type": "cta-primary",
-        "notes": "Orange button"
-      },
-      {
-        "label": "See pricing",
-        "url": "/pricing",
-        "type": "cta-secondary",
-        "notes": "Outlined button"
-      }
+      { "label": "Request a quote", "url": "/request-a-quote", "type": "cta-primary", "notes": "Orange button" },
+      { "label": "See pricing", "url": "/pricing", "type": "cta-secondary", "notes": "Outlined button" }
     ]
   },
   {
     "label": "Platform",
     "url": "/platform",
     "primary": [
-      {
-        "label": "AI VisionStream overview",
-        "url": "/platform",
-        "type": "link",
-        "notes": "Hub page"
-      },
-      {
-        "label": "Analytics & detection",
-        "url": "/platform/ai-video-analytics",
-        "type": "link",
-        "notes": "Object, person, vehicle detection"
-      },
-      {
-        "label": "SOC operations",
-        "url": "/platform/soc",
-        "type": "link",
-        "notes": "24/7 US SOC"
-      },
-      {
-        "label": "Mobile app",
-        "url": "/platform/mobile-app",
-        "type": "link",
-        "notes": "iOS + Android"
-      },
-      {
-        "label": "Integrations",
-        "url": "/platform/integrations",
-        "type": "link",
-        "notes": "Cameras, NVRs, alarm systems we support"
-      }
+      { "label": "AI VisionStream overview", "url": "/platform", "type": "link", "notes": "The cloud VMS that powers it all" },
+      { "label": "AI Analytics (10 modules)", "url": "/platform/analytics", "type": "link", "notes": "License plate, fire/smoke, loitering, PPE, more" },
+      { "label": "24/7 SOC", "url": "/platform/soc", "type": "link", "notes": "US-staffed remote monitoring" },
+      { "label": "Video Portal", "url": "/platform/video-portal", "type": "link", "notes": "Live view, playback, search" },
+      { "label": "Mobile Apps", "url": "/platform/mobile-app", "type": "link", "notes": "iOS + Android" }
     ],
     "supporting": [
-      {
-        "label": "Cloud video surveillance",
-        "url": "/platform/cloud-video-surveillance",
-        "type": "link",
-        "notes": "Cloud video storage + playback"
-      },
-      {
-        "label": "License plate recognition",
-        "url": "/platform/lpr",
-        "type": "link",
-        "notes": "95%+ accuracy, <3s alerts"
-      },
-      {
-        "label": "Alerts & reporting",
-        "url": "/platform/alerts-reporting",
-        "type": "link",
-        "notes": "Real-time alerts and incident reports"
-      },
-      {
-        "label": "API & SDK access",
-        "url": "/platform/api-sdk-access",
-        "type": "link",
-        "notes": "Dev/integrator audience"
-      },
-      {
-        "label": "Cloud security",
-        "url": "/platform/cloud-security",
-        "type": "link",
-        "notes": "NDAA, TLS 1.3, AES-256"
-      },
-      {
-        "label": "Platform pricing \u2192",
-        "url": "/platform/pricing",
-        "type": "link",
-        "notes": "Subscription tiers"
-      }
-    ],
-    "featured": [
-      {
-        "label": "60-second SOC response",
-        "url": "/platform/soc",
-        "type": "featured-card",
-        "notes": "AI verification + human operator + audio talk-down + LE dispatch. Under one minute, every time. See the SOC in action \u2192"
-      }
+      { "label": "Admin Portal", "url": "/platform/admin-portal", "type": "link", "notes": "User & device management" },
+      { "label": "Alarm Monitoring Portal", "url": "/platform/alarm-monitoring-portal", "type": "link", "notes": "SOC operator console" },
+      { "label": "API & SDK Access", "url": "/platform/api-sdk-access", "type": "link", "notes": "Integrate with your stack" }
     ],
     "cta": [
-      {
-        "label": "Schedule a demo",
-        "url": "/schedule-a-demo",
-        "type": "cta-primary",
-        "notes": ""
-      },
-      {
-        "label": "See pricing",
-        "url": "/platform/pricing",
-        "type": "cta-secondary",
-        "notes": ""
-      }
+      { "label": "Schedule a demo", "url": "/schedule-a-demo", "type": "cta-primary", "notes": "Orange button" },
+      { "label": "See the platform", "url": "/platform", "type": "cta-secondary", "notes": "Outlined button" }
     ]
   },
   {
     "label": "Industries",
     "url": "/industries",
     "primary": [
-      {
-        "label": "Construction",
-        "url": "/industries/construction-site-security",
-        "type": "link",
-        "notes": "Hero industry"
-      },
-      {
-        "label": "Utilities & energy",
-        "url": "/industries/utility-substation-security",
-        "type": "link",
-        "notes": "NERC CIP-014"
-      },
-      {
-        "label": "Retail & shopping centers",
-        "url": "/industries/retail-shopping-center-security",
-        "type": "link",
-        "notes": "ORC"
-      },
-      {
-        "label": "Auto dealerships",
-        "url": "/industries/automotive-dealership-security",
-        "type": "link",
-        "notes": "Catalytic + inventory protection"
-      },
-      {
-        "label": "Parking & garages",
-        "url": "/industries/parking-lot-garage-security",
-        "type": "link",
-        "notes": "LPR + law-enforcement dispatch"
-      },
-      {
-        "label": "Government & public safety",
-        "url": "/industries/public-safety-law-enforcement-surveillance",
-        "type": "link",
-        "notes": "NDAA"
-      }
+      { "label": "Construction site security", "url": "/industries/construction-site-security", "type": "link", "notes": "Theft, vandalism, after-hours coverage" },
+      { "label": "Utility & substation", "url": "/industries/utility-substation-security", "type": "link", "notes": "Copper theft, perimeter, compliance" },
+      { "label": "Retail & shopping center", "url": "/industries/retail-shopping-center-security", "type": "link", "notes": "ORC, parking, after-hours" },
+      { "label": "Auto dealerships", "url": "/industries/automotive-dealership-security", "type": "link", "notes": "Inventory protection, LPR" },
+      { "label": "Public safety", "url": "/industries/public-safety-law-enforcement-surveillance", "type": "link", "notes": "Hot-spot policing, recovery ops" },
+      { "label": "Critical infrastructure", "url": "/industries/critical-infrastructure-security", "type": "link", "notes": "NDAA-compliant, hardened" }
     ],
     "supporting": [
-      {
-        "label": "Warehouse / logistics",
-        "url": "/industries/warehouse-logistics-security",
-        "type": "link",
-        "notes": "Cargo theft"
-      },
-      {
-        "label": "Oil & gas",
-        "url": "/industries/oil-gas-security",
-        "type": "link",
-        "notes": "Remote pipeline + facility coverage"
-      },
-      {
-        "label": "Events & temporary",
-        "url": "/industries/event-security",
-        "type": "link",
-        "notes": "Short-term rapid deployment"
-      },
-      {
-        "label": "Healthcare / hospitality",
-        "url": "/industries/hospitality-healthcare-security",
-        "type": "link",
-        "notes": "Hotels, hospitals, campuses"
-      },
-      {
-        "label": "School & campus",
-        "url": "/industries/school-campus-security",
-        "type": "link",
-        "notes": "K-12 and university perimeters"
-      },
-      {
-        "label": "Critical infrastructure",
-        "url": "/industries/critical-infrastructure-security",
-        "type": "link",
-        "notes": "NERC + CFATS ready"
-      },
-      {
-        "label": "Commercial property",
-        "url": "/industries/commercial-property-security",
-        "type": "link",
-        "notes": "Multi-tenant + property mgmt"
-      },
-      {
-        "label": "Insurance carriers",
-        "url": "/industries/insurance-carriers",
-        "type": "link",
-        "notes": "Channel buyer"
-      },
-      {
-        "label": "All 17 industries \u2192",
-        "url": "/industries",
-        "type": "link",
-        "notes": "Industries hub"
-      }
-    ],
-    "featured": [
-      {
-        "label": "$340,800 saved in 12 months",
-        "url": "/resources/case-studies/mid-atlantic-gc",
-        "type": "featured-card",
-        "notes": "National GC. $28M Mid-Atlantic project. 2 Swift Deploy + 3 Solar Camera Poles. 73% theft reduction, $0 insurance claims. Read the full case \u2192"
-      }
-    ],
-    "cta": [
-      {
-        "label": "Find your industry",
-        "url": "/industries",
-        "type": "cta-primary",
-        "notes": ""
-      },
-      {
-        "label": "Request a quote",
-        "url": "/request-a-quote",
-        "type": "cta-secondary",
-        "notes": ""
-      }
+      { "label": "Parking lot & garage", "url": "/industries/parking-lot-garage-security", "type": "link", "notes": "Liability, after-hours, LPR" },
+      { "label": "Logistics & warehousing", "url": "/industries/logistics-warehouse-security", "type": "link", "notes": "Yard, dock, cargo" },
+      { "label": "All industries", "url": "/industries", "type": "link", "notes": "17 verticals covered" }
     ]
   },
   {
     "label": "Why VDS",
-    "url": "/compare",
+    "url": "/about-us/why-vision-detection-systems",
     "primary": [
-      {
-        "label": "Compare hub",
-        "url": "/compare",
-        "type": "link",
-        "notes": "All comparison pages"
-      },
-      {
-        "label": "About VDS",
-        "url": "/about-us",
-        "type": "link",
-        "notes": "Our company and mission"
-      },
-      {
-        "label": "Trust center",
-        "url": "/about-us/trust-center",
-        "type": "link",
-        "notes": "NDAA, AWS, SOC 2"
-      },
-      {
-        "label": "NDAA Section 889",
-        "url": "/about-us/ndaa-compliance",
-        "type": "link",
-        "notes": "NDAA Section 889 details"
-      },
-      {
-        "label": "Why VDS exists \u2192",
-        "url": "/about-us/why-vision-detection-systems",
-        "type": "link",
-        "notes": "What makes VDS different"
-      }
+      { "label": "Why VDS", "url": "/about-us/why-vision-detection-systems", "type": "link", "notes": "Our differentiation" },
+      { "label": "Trust Center", "url": "/about-us/trust-center", "type": "link", "notes": "Security, compliance, uptime" },
+      { "label": "NDAA Section 889", "url": "/about-us/ndaa-compliance", "type": "link", "notes": "Compliance documentation" },
+      { "label": "Cybersecurity", "url": "/about-us/cybersecurity", "type": "link", "notes": "TLS 1.3, AES-256, RBAC, MFA" },
+      { "label": "Our plant", "url": "/about-us/our-plant", "type": "link", "notes": "Pikesville, MD manufacturing" }
     ],
     "supporting": [
-      {
-        "label": "Mission",
-        "url": "/about-us/mission",
-        "type": "link",
-        "notes": "Mission and origin story"
-      },
-      {
-        "label": "Leadership",
-        "url": "/about-us/leadership",
-        "type": "link",
-        "notes": "Executive team"
-      },
-      {
-        "label": "Our plant (Pikesville, MD)",
-        "url": "/about-us/our-plant",
-        "type": "link",
-        "notes": "Pikesville, MD US-assembly plant"
-      },
-      {
-        "label": "Sustainability",
-        "url": "/about-us/sustainability",
-        "type": "link",
-        "notes": "Solar autonomy + carbon"
-      },
-      {
-        "label": "Awards & recognition",
-        "url": "/about-us/awards",
-        "type": "link",
-        "notes": "Awards and certifications"
-      },
-      {
-        "label": "Careers",
-        "url": "/about-us/careers",
-        "type": "link",
-        "notes": "Open roles at VDS"
-      },
-      {
-        "label": "Press & media",
-        "url": "/about-us/press",
-        "type": "link",
-        "notes": "News and press releases"
-      },
-      {
-        "label": "Editorial team",
-        "url": "/about-us/editorial-team",
-        "type": "link",
-        "notes": "E-E-A-T signal"
-      }
-    ],
-    "featured": [
-      {
-        "label": "VDS vs. Flock",
-        "url": "/compare/vds-vs-flock-safety",
-        "type": "featured-card",
-        "notes": "Private security, not public surveillance. Your cameras, your network, your data \u2014 never publicly exposed, never shared. See the comparison \u2192"
-      }
-    ],
-    "cta": [
-      {
-        "label": "Get a comparison packet",
-        "url": "/request-a-quote",
-        "type": "cta-primary",
-        "notes": ""
-      },
-      {
-        "label": "Talk to sales",
-        "url": "/contact-us",
-        "type": "cta-secondary",
-        "notes": ""
-      }
+      { "label": "Leadership", "url": "/about-us/leadership", "type": "link", "notes": "Founder-operated, engineering-led" },
+      { "label": "Mission", "url": "/about-us/mission", "type": "link", "notes": "Close the three gaps in site security" },
+      { "label": "Press", "url": "/about-us/press", "type": "link", "notes": "News & coverage" },
+      { "label": "Careers", "url": "/about-us/careers", "type": "link", "notes": "We hire builders" }
     ]
   },
   {
     "label": "Resources",
     "url": "/resources",
     "primary": [
-      {
-        "label": "ROI calculator",
-        "url": "/guides/roi-calculator",
-        "type": "link",
-        "notes": "Highest-conversion asset"
-      },
-      {
-        "label": "2026 pricing guide",
-        "url": "/guides/pricing-guide-2026",
-        "type": "link",
-        "notes": "Gated PDF"
-      },
-      {
-        "label": "Case studies",
-        "url": "/resources/case-studies",
-        "type": "link",
-        "notes": "Real customer outcomes"
-      },
-      {
-        "label": "Master FAQ",
-        "url": "/resources/faq",
-        "type": "link",
-        "notes": "Frequently asked questions"
-      },
-      {
-        "label": "Answers",
-        "url": "/answers",
-        "type": "link",
-        "notes": "AEO hub"
-      },
-      {
-        "label": "Glossary",
-        "url": "/glossary",
-        "type": "link",
-        "notes": "Industry terms A\u2013W"
-      }
+      { "label": "Buyers guides", "url": "/guides", "type": "link", "notes": "How to spec, scope, and buy" },
+      { "label": "Case studies", "url": "/resources/case-studies", "type": "link", "notes": "Real customer deployments" },
+      { "label": "ROI Calculator", "url": "/guides/roi-calculator", "type": "link", "notes": "vs. guards, vs. fixed install" },
+      { "label": "Pricing guide 2026", "url": "/guides/pricing-guide-2026", "type": "link", "notes": "What things cost, before you ask" },
+      { "label": "Blog", "url": "/resources/blog", "type": "link", "notes": "Field reports + industry analysis" }
     ],
     "supporting": [
-      {
-        "label": "Construction theft guide",
-        "url": "/guides/construction-theft-prevention",
-        "type": "link",
-        "notes": "Stopping copper + equipment theft"
-      },
-      {
-        "label": "NDAA compliance guide",
-        "url": "/guides/ndaa-compliance",
-        "type": "link",
-        "notes": "NDAA Section 889 buying guide"
-      },
-      {
-        "label": "Utility substation guide",
-        "url": "/guides/utility-substation-security",
-        "type": "link",
-        "notes": "Substation perimeter playbook"
-      },
-      {
-        "label": "Retail / ORC guide",
-        "url": "/guides/retail-orc",
-        "type": "link",
-        "notes": "Organized retail crime defense"
-      },
-      {
-        "label": "Webinars",
-        "url": "/resources/webinars",
-        "type": "link",
-        "notes": "Live and on-demand webinars"
-      },
-      {
-        "label": "Video library",
-        "url": "/resources/videos",
-        "type": "link",
-        "notes": "Product demos and walkthroughs"
-      },
-      {
-        "label": "Blog",
-        "url": "/resources/blog",
-        "type": "link",
-        "notes": "Industry news and field reports"
-      },
-      {
-        "label": "News & press",
-        "url": "/resources/news",
-        "type": "link",
-        "notes": "Press and announcements"
-      }
-    ],
-    "featured": [
-      {
-        "label": "State of Mobile Surveillance 2026",
-        "url": "/resources/state-of-mobile-surveillance-2026",
-        "type": "featured-card",
-        "notes": "VDS annual report. Field data from 500+ deployments. Industry stats, threat trends, predictions for 2027. Download the report \u2192"
-      }
-    ],
-    "cta": [
-      {
-        "label": "Calculate your ROI",
-        "url": "/guides/roi-calculator",
-        "type": "cta-primary",
-        "notes": ""
-      },
-      {
-        "label": "Download guide",
-        "url": "/guides/pricing-guide-2026",
-        "type": "cta-secondary",
-        "notes": ""
-      }
+      { "label": "FAQ", "url": "/resources/faq", "type": "link", "notes": "What customers ask most" },
+      { "label": "Glossary", "url": "/glossary", "type": "link", "notes": "Industry terms decoded" },
+      { "label": "Camera sensor types", "url": "/resources/camera-sensor-types", "type": "link", "notes": "Thermal, LWIR, IR, optical" },
+      { "label": "Compare", "url": "/compare", "type": "link", "notes": "VDS vs. competitors" }
     ]
   },
   {
     "label": "Partners",
     "url": "/partners",
     "primary": [
-      {
-        "label": "Program overview",
-        "url": "/partners/dealer-program",
-        "type": "link",
-        "notes": "Become a VDS dealer"
-      },
-      {
-        "label": "Become a dealer",
-        "url": "/partners/become-a-dealer",
-        "type": "link",
-        "notes": "Join the VDS dealer network"
-      },
-      {
-        "label": "White label program",
-        "url": "/partners/white-label",
-        "type": "link",
-        "notes": "White-label program"
-      },
-      {
-        "label": "Dealer resources",
-        "url": "/partners/resources",
-        "type": "link",
-        "notes": "Sales tools and collateral"
-      },
-      {
-        "label": "Financing",
-        "url": "/partners/financing",
-        "type": "link",
-        "notes": "Customer financing options"
-      },
-      {
-        "label": "Find a dealer \u2192",
-        "url": "/partners/find-a-dealer",
-        "type": "link",
-        "notes": "Locate a local dealer"
-      }
-    ],
-    "supporting": [
-      {
-        "label": "Integrations directory",
-        "url": "/integrations",
-        "type": "link",
-        "notes": "Integrations directory"
-      },
-      {
-        "label": "Specifiers (A&E portal)",
-        "url": "/specifiers",
-        "type": "link",
-        "notes": "Architects/Engineers"
-      },
-      {
-        "label": "Insurance carriers",
-        "url": "/industries/insurance-carriers",
-        "type": "link",
-        "notes": "Insurance channel buyers"
-      },
-      {
-        "label": "API & SDK access",
-        "url": "/platform/api-sdk-access",
-        "type": "link",
-        "notes": "Developer + integrator API/SDK"
-      },
-      {
-        "label": "VDS + Genetec",
-        "url": "/integrations/genetec",
-        "type": "link",
-        "notes": "Genetec Security Center integration"
-      },
-      {
-        "label": "VDS + Milestone",
-        "url": "/integrations/milestone",
-        "type": "link",
-        "notes": "Milestone XProtect integration"
-      }
-    ],
-    "featured": [
-      {
-        "label": "VDS + Genetec",
-        "url": "/integrations/genetec",
-        "type": "featured-card",
-        "notes": "Stream VDS cameras to Genetec Security Center. Native plugin, webhook event sync, ONVIF compatible. See the integration \u2192"
-      }
+      { "label": "Dealer program", "url": "/partners/dealer-program", "type": "link", "notes": "Margins, training, support" },
+      { "label": "Integrator program", "url": "/partners/integrator-program", "type": "link", "notes": "Spec-sheet ready" },
+      { "label": "For specifiers", "url": "/specifiers", "type": "link", "notes": "A&E, fed/SLED specs" },
+      { "label": "Find a dealer", "url": "/partners/find-a-dealer", "type": "link", "notes": "Local representation" },
+      { "label": "Integrations", "url": "/integrations", "type": "link", "notes": "API + ecosystem" }
     ],
     "cta": [
-      {
-        "label": "Apply to be a dealer",
-        "url": "/partners/become-a-dealer",
-        "type": "cta-primary",
-        "notes": ""
-      },
-      {
-        "label": "Talk to channel team",
-        "url": "/contact-us",
-        "type": "cta-secondary",
-        "notes": ""
-      }
+      { "label": "Become a dealer", "url": "/partners/dealer-program", "type": "cta-primary", "notes": "Orange button" },
+      { "label": "Talk to channel team", "url": "/contact-us", "type": "cta-secondary", "notes": "" }
     ]
   }
 ]

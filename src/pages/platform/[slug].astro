@@ -44,4 +44,8 @@ const related = allEntries
   <SchemaFAQ faqs={page.faq} />
   <HeroImage bgImage={heroImageUrl({ url: page.url, tags: page.tags, pageType: page.pageType, heroImage: page.heroImage })} eyebrow={page.heroEyebrow} h1={page.h1} subhead={page.heroSubhead} ctaPrimary={page.heroCTAPrimary} ctaSecondary={page.heroCTASecondary} stats={page.heroStats} />
   <PlatformBranding />
-  {page.featureTiles && page.featureTiles.length > 0 && <FeatureTiles tiles={page.featureTiles} heading=
+  {page.featureTiles && page.featureTiles.length > 0 && <FeatureTiles tiles={page.featureTiles} heading={`What's inside ${page.h1}`} />}
+  <PlatformShowcase />
+  <TrustStrip />
+  <PageBodyEnhanced Content={Content} page={page} related={related} />
+</Layout>
