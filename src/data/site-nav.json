@@ -1,112 +1,412 @@
-﻿[
+[
   {
     "label": "Products",
     "url": "/products",
     "primary": [
-      { "label": "Mobile Surveillance Unit", "url": "/products/mobile-surveillance-unit", "type": "link", "notes": "Trailer-based PTZ + 360 + solar + cellular. Flagship." },
-      { "label": "Wall Mount System", "url": "/products/wall-mount-system", "type": "link", "notes": "Fixed PTZ surveillance for buildings and perimeters." },
-      { "label": "Solar-Powered Surveillance Kit", "url": "/products/solar-powered-surveillance-kit", "type": "link", "notes": "Standalone 4G solar camera with AI detection." },
-      { "label": "License Plate Recognition", "url": "/products/license-plate-recognition", "type": "link", "notes": "LPR solar cam + analytic for any camera." },
-      { "label": "All products", "url": "/products", "type": "link", "notes": "Full lineup" }
+      {
+        "label": "Mobile Surveillance Unit",
+        "url": "/products/mobile-surveillance-unit",
+        "type": "link",
+        "notes": "Trailer-based PTZ + 360 + solar + cellular. Flagship."
+      },
+      {
+        "label": "Wall Mount System",
+        "url": "/products/wall-mount-system",
+        "type": "link",
+        "notes": "Fixed PTZ surveillance for buildings and perimeters."
+      },
+      {
+        "label": "Solar-Powered Surveillance Kit",
+        "url": "/products/solar-powered-surveillance-kit",
+        "type": "link",
+        "notes": "Standalone 4G solar camera with AI detection."
+      },
+      {
+        "label": "License Plate Recognition",
+        "url": "/products/license-plate-recognition",
+        "type": "link",
+        "notes": "LPR solar cam + analytic for any camera."
+      },
+      {
+        "label": "All products",
+        "url": "/products",
+        "type": "link",
+        "notes": "Full lineup"
+      }
     ],
     "supporting": [
-      { "label": "Guardian Sentry Tower", "url": "/products/guardian-sentry-tower", "type": "link", "notes": "Trailer-mounted solar lighting tower." },
-      { "label": "Guardian Beacon MLU", "url": "/products/guardian-beacon-mlu", "type": "link", "notes": "Compact solar lighting for restricted spaces." },
-      { "label": "SolarVolt WorkSite Illuminator", "url": "/products/solarvolt-worksite-illuminator", "type": "link", "notes": "High-output solar lighting for industrial sites." },
-      { "label": "Security Booth", "url": "/products/guard-booths", "type": "link", "notes": "Compact climate-controlled access-control booth." },
-      { "label": "Medical & Cooling Booth", "url": "/products/medical-cooling-stations", "type": "link", "notes": "Mobile climate-controlled welfare unit." },
-      { "label": "Custom Solutions", "url": "/products/custom-solutions", "type": "link", "notes": "Engineered hardware + software configurations." },
-      { "label": "Accessories", "url": "/products/accessories", "type": "link", "notes": "Mounts, adapters, add-ons." }
+      {
+        "label": "Guardian Sentry Tower",
+        "url": "/products/guardian-sentry-tower",
+        "type": "link",
+        "notes": "Trailer-mounted solar lighting tower."
+      },
+      {
+        "label": "Guardian Beacon MLU",
+        "url": "/products/guardian-beacon-mlu",
+        "type": "link",
+        "notes": "Compact solar lighting for restricted spaces."
+      },
+      {
+        "label": "SolarVolt WorkSite Illuminator",
+        "url": "/products/solarvolt-worksite-illuminator",
+        "type": "link",
+        "notes": "High-output solar lighting for industrial sites."
+      },
+      {
+        "label": "Security Booth",
+        "url": "/products/guard-booths",
+        "type": "link",
+        "notes": "Compact climate-controlled access-control booth."
+      },
+      {
+        "label": "Medical & Cooling Booth",
+        "url": "/products/medical-cooling-stations",
+        "type": "link",
+        "notes": "Mobile climate-controlled welfare unit."
+      },
+      {
+        "label": "Custom Solutions",
+        "url": "/products/custom-solutions",
+        "type": "link",
+        "notes": "Engineered hardware + software configurations."
+      },
+      {
+        "label": "Accessories",
+        "url": "/products/accessories",
+        "type": "link",
+        "notes": "Mounts, adapters, add-ons."
+      }
     ],
     "cta": [
-      { "label": "Request a quote", "url": "/request-a-quote", "type": "cta-primary", "notes": "Orange button" },
-      { "label": "See pricing", "url": "/pricing", "type": "cta-secondary", "notes": "Outlined button" }
-    ]
+      {
+        "label": "Request a quote",
+        "url": "/request-a-quote",
+        "type": "cta-primary",
+        "notes": "Orange button"
+      },
+      {
+        "label": "See pricing",
+        "url": "/pricing",
+        "type": "cta-secondary",
+        "notes": "Outlined button"
+      }
+    ],
+    "featured": []
   },
   {
     "label": "Platform",
     "url": "/platform",
     "primary": [
-      { "label": "AI VisionStream overview", "url": "/platform", "type": "link", "notes": "The cloud VMS that powers it all" },
-      { "label": "AI Analytics (10 modules)", "url": "/platform/analytics", "type": "link", "notes": "License plate, fire/smoke, loitering, PPE, more" },
-      { "label": "24/7 SOC", "url": "/platform/soc", "type": "link", "notes": "US-staffed remote monitoring" },
-      { "label": "Video Portal", "url": "/platform/video-portal", "type": "link", "notes": "Live view, playback, search" },
-      { "label": "Mobile Apps", "url": "/platform/mobile-app", "type": "link", "notes": "iOS + Android" }
+      {
+        "label": "AI VisionStream overview",
+        "url": "/platform",
+        "type": "link",
+        "notes": "The cloud VMS that powers it all"
+      },
+      {
+        "label": "AI Analytics (10 modules)",
+        "url": "/platform/analytics",
+        "type": "link",
+        "notes": "License plate, fire/smoke, loitering, PPE, more"
+      },
+      {
+        "label": "24/7 SOC",
+        "url": "/platform/soc",
+        "type": "link",
+        "notes": "US-staffed remote monitoring"
+      },
+      {
+        "label": "Video Portal",
+        "url": "/platform/video-portal",
+        "type": "link",
+        "notes": "Live view, playback, search"
+      },
+      {
+        "label": "Mobile Apps",
+        "url": "/platform/mobile-app",
+        "type": "link",
+        "notes": "iOS + Android"
+      }
     ],
     "supporting": [
-      { "label": "Admin Portal", "url": "/platform/admin-portal", "type": "link", "notes": "User & device management" },
-      { "label": "Alarm Monitoring Portal", "url": "/platform/alarm-monitoring-portal", "type": "link", "notes": "SOC operator console" },
-      { "label": "API & SDK Access", "url": "/platform/api-sdk-access", "type": "link", "notes": "Integrate with your stack" }
+      {
+        "label": "Admin Portal",
+        "url": "/platform/admin-portal",
+        "type": "link",
+        "notes": "User & device management"
+      },
+      {
+        "label": "Alarm Monitoring Portal",
+        "url": "/platform/alarm-monitoring-portal",
+        "type": "link",
+        "notes": "SOC operator console"
+      },
+      {
+        "label": "API & SDK Access",
+        "url": "/platform/api-sdk-access",
+        "type": "link",
+        "notes": "Integrate with your stack"
+      }
     ],
     "cta": [
-      { "label": "Schedule a demo", "url": "/schedule-a-demo", "type": "cta-primary", "notes": "Orange button" },
-      { "label": "See the platform", "url": "/platform", "type": "cta-secondary", "notes": "Outlined button" }
-    ]
+      {
+        "label": "Schedule a demo",
+        "url": "/schedule-a-demo",
+        "type": "cta-primary",
+        "notes": "Orange button"
+      },
+      {
+        "label": "See the platform",
+        "url": "/platform",
+        "type": "cta-secondary",
+        "notes": "Outlined button"
+      }
+    ],
+    "featured": []
   },
   {
     "label": "Industries",
     "url": "/industries",
     "primary": [
-      { "label": "Construction site security", "url": "/industries/construction-site-security", "type": "link", "notes": "Theft, vandalism, after-hours coverage" },
-      { "label": "Utility & substation", "url": "/industries/utility-substation-security", "type": "link", "notes": "Copper theft, perimeter, compliance" },
-      { "label": "Retail & shopping center", "url": "/industries/retail-shopping-center-security", "type": "link", "notes": "ORC, parking, after-hours" },
-      { "label": "Auto dealerships", "url": "/industries/automotive-dealership-security", "type": "link", "notes": "Inventory protection, LPR" },
-      { "label": "Public safety", "url": "/industries/public-safety-law-enforcement-surveillance", "type": "link", "notes": "Hot-spot policing, recovery ops" },
-      { "label": "Critical infrastructure", "url": "/industries/critical-infrastructure-security", "type": "link", "notes": "NDAA-compliant, hardened" }
+      {
+        "label": "Construction site security",
+        "url": "/industries/construction-site-security",
+        "type": "link",
+        "notes": "Theft, vandalism, after-hours coverage"
+      },
+      {
+        "label": "Utility & substation",
+        "url": "/industries/utility-substation-security",
+        "type": "link",
+        "notes": "Copper theft, perimeter, compliance"
+      },
+      {
+        "label": "Retail & shopping center",
+        "url": "/industries/retail-shopping-center-security",
+        "type": "link",
+        "notes": "ORC, parking, after-hours"
+      },
+      {
+        "label": "Auto dealerships",
+        "url": "/industries/automotive-dealership-security",
+        "type": "link",
+        "notes": "Inventory protection, LPR"
+      },
+      {
+        "label": "Public safety",
+        "url": "/industries/public-safety-law-enforcement-surveillance",
+        "type": "link",
+        "notes": "Hot-spot policing, recovery ops"
+      },
+      {
+        "label": "Critical infrastructure",
+        "url": "/industries/critical-infrastructure-security",
+        "type": "link",
+        "notes": "NDAA-compliant, hardened"
+      }
     ],
     "supporting": [
-      { "label": "Parking lot & garage", "url": "/industries/parking-lot-garage-security", "type": "link", "notes": "Liability, after-hours, LPR" },
-      { "label": "Logistics & warehousing", "url": "/industries/logistics-warehouse-security", "type": "link", "notes": "Yard, dock, cargo" },
-      { "label": "All industries", "url": "/industries", "type": "link", "notes": "17 verticals covered" }
-    ]
+      {
+        "label": "Parking lot & garage",
+        "url": "/industries/parking-lot-garage-security",
+        "type": "link",
+        "notes": "Liability, after-hours, LPR"
+      },
+      {
+        "label": "Logistics & warehousing",
+        "url": "/industries/logistics-warehouse-security",
+        "type": "link",
+        "notes": "Yard, dock, cargo"
+      },
+      {
+        "label": "All industries",
+        "url": "/industries",
+        "type": "link",
+        "notes": "17 verticals covered"
+      }
+    ],
+    "featured": [],
+    "cta": []
   },
   {
     "label": "Why VDS",
     "url": "/about-us/why-vision-detection-systems",
     "primary": [
-      { "label": "Why VDS", "url": "/about-us/why-vision-detection-systems", "type": "link", "notes": "Our differentiation" },
-      { "label": "Trust Center", "url": "/about-us/trust-center", "type": "link", "notes": "Security, compliance, uptime" },
-      { "label": "NDAA Section 889", "url": "/about-us/ndaa-compliance", "type": "link", "notes": "Compliance documentation" },
-      { "label": "Cybersecurity", "url": "/about-us/cybersecurity", "type": "link", "notes": "TLS 1.3, AES-256, RBAC, MFA" },
-      { "label": "Our plant", "url": "/about-us/our-plant", "type": "link", "notes": "Pikesville, MD manufacturing" }
+      {
+        "label": "Why VDS",
+        "url": "/about-us/why-vision-detection-systems",
+        "type": "link",
+        "notes": "Our differentiation"
+      },
+      {
+        "label": "Trust Center",
+        "url": "/about-us/trust-center",
+        "type": "link",
+        "notes": "Security, compliance, uptime"
+      },
+      {
+        "label": "NDAA Section 889",
+        "url": "/about-us/ndaa-compliance",
+        "type": "link",
+        "notes": "Compliance documentation"
+      },
+      {
+        "label": "Cybersecurity",
+        "url": "/about-us/cybersecurity",
+        "type": "link",
+        "notes": "TLS 1.3, AES-256, RBAC, MFA"
+      },
+      {
+        "label": "Our plant",
+        "url": "/about-us/our-plant",
+        "type": "link",
+        "notes": "Pikesville, MD manufacturing"
+      }
     ],
     "supporting": [
-      { "label": "Leadership", "url": "/about-us/leadership", "type": "link", "notes": "Founder-operated, engineering-led" },
-      { "label": "Mission", "url": "/about-us/mission", "type": "link", "notes": "Close the three gaps in site security" },
-      { "label": "Press", "url": "/about-us/press", "type": "link", "notes": "News & coverage" },
-      { "label": "Careers", "url": "/about-us/careers", "type": "link", "notes": "We hire builders" }
-    ]
+      {
+        "label": "Leadership",
+        "url": "/about-us/leadership",
+        "type": "link",
+        "notes": "Founder-operated, engineering-led"
+      },
+      {
+        "label": "Mission",
+        "url": "/about-us/mission",
+        "type": "link",
+        "notes": "Close the three gaps in site security"
+      },
+      {
+        "label": "Press",
+        "url": "/about-us/press",
+        "type": "link",
+        "notes": "News & coverage"
+      },
+      {
+        "label": "Careers",
+        "url": "/about-us/careers",
+        "type": "link",
+        "notes": "We hire builders"
+      }
+    ],
+    "featured": [],
+    "cta": []
   },
   {
     "label": "Resources",
     "url": "/resources",
     "primary": [
-      { "label": "Buyers guides", "url": "/guides", "type": "link", "notes": "How to spec, scope, and buy" },
-      { "label": "Case studies", "url": "/resources/case-studies", "type": "link", "notes": "Real customer deployments" },
-      { "label": "ROI Calculator", "url": "/guides/roi-calculator", "type": "link", "notes": "vs. guards, vs. fixed install" },
-      { "label": "Pricing guide 2026", "url": "/guides/pricing-guide-2026", "type": "link", "notes": "What things cost, before you ask" },
-      { "label": "Blog", "url": "/resources/blog", "type": "link", "notes": "Field reports + industry analysis" }
+      {
+        "label": "Buyers guides",
+        "url": "/guides",
+        "type": "link",
+        "notes": "How to spec, scope, and buy"
+      },
+      {
+        "label": "Case studies",
+        "url": "/resources/case-studies",
+        "type": "link",
+        "notes": "Real customer deployments"
+      },
+      {
+        "label": "ROI Calculator",
+        "url": "/guides/roi-calculator",
+        "type": "link",
+        "notes": "vs. guards, vs. fixed install"
+      },
+      {
+        "label": "Pricing guide 2026",
+        "url": "/guides/pricing-guide-2026",
+        "type": "link",
+        "notes": "What things cost, before you ask"
+      },
+      {
+        "label": "Blog",
+        "url": "/resources/blog",
+        "type": "link",
+        "notes": "Field reports + industry analysis"
+      }
     ],
     "supporting": [
-      { "label": "FAQ", "url": "/resources/faq", "type": "link", "notes": "What customers ask most" },
-      { "label": "Glossary", "url": "/glossary", "type": "link", "notes": "Industry terms decoded" },
-      { "label": "Camera sensor types", "url": "/resources/camera-sensor-types", "type": "link", "notes": "Thermal, LWIR, IR, optical" },
-      { "label": "Compare", "url": "/compare", "type": "link", "notes": "VDS vs. competitors" }
-    ]
+      {
+        "label": "FAQ",
+        "url": "/resources/faq",
+        "type": "link",
+        "notes": "What customers ask most"
+      },
+      {
+        "label": "Glossary",
+        "url": "/glossary",
+        "type": "link",
+        "notes": "Industry terms decoded"
+      },
+      {
+        "label": "Camera sensor types",
+        "url": "/resources/camera-sensor-types",
+        "type": "link",
+        "notes": "Thermal, LWIR, IR, optical"
+      },
+      {
+        "label": "Compare",
+        "url": "/compare",
+        "type": "link",
+        "notes": "VDS vs. competitors"
+      }
+    ],
+    "featured": [],
+    "cta": []
   },
   {
     "label": "Partners",
     "url": "/partners",
     "primary": [
-      { "label": "Dealer program", "url": "/partners/dealer-program", "type": "link", "notes": "Margins, training, support" },
-      { "label": "Integrator program", "url": "/partners/integrator-program", "type": "link", "notes": "Spec-sheet ready" },
-      { "label": "For specifiers", "url": "/specifiers", "type": "link", "notes": "A&E, fed/SLED specs" },
-      { "label": "Find a dealer", "url": "/partners/find-a-dealer", "type": "link", "notes": "Local representation" },
-      { "label": "Integrations", "url": "/integrations", "type": "link", "notes": "API + ecosystem" }
+      {
+        "label": "Dealer program",
+        "url": "/partners/dealer-program",
+        "type": "link",
+        "notes": "Margins, training, support"
+      },
+      {
+        "label": "Integrator program",
+        "url": "/partners/integrator-program",
+        "type": "link",
+        "notes": "Spec-sheet ready"
+      },
+      {
+        "label": "For specifiers",
+        "url": "/specifiers",
+        "type": "link",
+        "notes": "A&E, fed/SLED specs"
+      },
+      {
+        "label": "Find a dealer",
+        "url": "/partners/find-a-dealer",
+        "type": "link",
+        "notes": "Local representation"
+      },
+      {
+        "label": "Integrations",
+        "url": "/integrations",
+        "type": "link",
+        "notes": "API + ecosystem"
+      }
     ],
     "cta": [
-      { "label": "Become a dealer", "url": "/partners/dealer-program", "type": "cta-primary", "notes": "Orange button" },
-      { "label": "Talk to channel team", "url": "/contact-us", "type": "cta-secondary", "notes": "" }
-    ]
+      {
+        "label": "Become a dealer",
+        "url": "/partners/dealer-program",
+        "type": "cta-primary",
+        "notes": "Orange button"
+      },
+      {
+        "label": "Talk to channel team",
+        "url": "/contact-us",
+        "type": "cta-secondary",
+        "notes": ""
+      }
+    ],
+    "supporting": [],
+    "featured": []
   }
 ]
