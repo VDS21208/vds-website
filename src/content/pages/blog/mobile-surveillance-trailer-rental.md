@@ -43,7 +43,7 @@ finalCTAButtons:
 - label: See How It Compares
   url: /compare
 schemaType: Article
-internalLinks: /products/mobile-surveillance-trailers, /request-a-quote
+internalLinks: /products/mobile-surveillance-unit, /request-a-quote
 canonical: https://visiondetectionsystems.com/resources/blog/mobile-surveillance-trailer-rental
 ogTitle: 'Mobile Surveillance Trailer Rental vs Purchase: What''s Right?'
 ogDescription: ''
@@ -82,7 +82,7 @@ H1 heading: Mobile Surveillance Trailer Rental vs. Purchase: What's Right for Yo
 
 Internal links to add after publishing:
 
-/products/mobile-surveillance-trailers
+/products/mobile-surveillance-unit
 
 /industries/construction-site-security/
 

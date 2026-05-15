@@ -9,7 +9,7 @@ metaDescription: Reduce parking lot crime, assault risk, and premises liability 
 announcementBar: ''
 h1: Reduce Parking Lot Crime, Assault Risk, and Customer-Vehicle Incidents at Retail Centers
 heroEyebrow: SOLUTION · RETAIL · PARKING LOT
-heroSubhead: Parking lot incidents drive premises-liability lawsuits, customer churn, and asset write-downs that show up on the property's NOI. VDS deploys Sky Guard MSU at lot center with 360-degree fisheye coverage, AI VisionStream behavior classification, and after-hours audio talk-down through a 24/7 US SOC.
+heroSubhead: Parking lot incidents drive premises-liability lawsuits, customer churn, and asset write-downs that show up on the property's NOI. VDS deploys Mobile Surveillance Unit at lot center with 360-degree fisheye coverage, AI VisionStream behavior classification, and after-hours audio talk-down through a 24/7 US SOC.
 heroCTAPrimary:
   label: Quote Property Coverage
   url: /request-a-quote
@@ -25,7 +25,7 @@ faq:
 - q: What about ADA and customer-comfort concerns with audio talk-downs?
   a: The on-unit speaker is used only after verified intrusion or threat event after hours. There is no "robotic warning" cycling. Customers do not experience the system.
 - q: Will this work for parking garages and structured parking?
-  a: Sky Guard MSU is optimized for open lots. For garages, see [/solutions/parking/after-hours-coverage](/solutions/parking/after-hours-coverage) — different camera placement and detection profile.
+  a: Mobile Surveillance Unit is optimized for open lots. For garages, see [/solutions/parking/after-hours-coverage](/solutions/parking/after-hours-coverage) — different camera placement and detection profile.
 - q: How does this support our premises-liability defense?
   a: 90-day standard video retention (extendable to 365), SOC dispatch logs, AI VisionStream incident records, and quarterly summary reports. Defensible documentation of reasonable monitored security.
 - q: Is the system visible enough to deter without being ugly?
@@ -36,7 +36,7 @@ finalCTAButtons:
 - label: Quote My Property
   url: /contact-us/
 schemaType: Article
-internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /solutions/retail, /solutions/retail/orc-flash-mob-prevention, /solutions/parking/after-hours-coverage
+internalLinks: /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /solutions/retail, /solutions/retail/orc-flash-mob-prevention, /solutions/parking/after-hours-coverage
 canonical: https://visiondetectionsystems.com/solutions/retail/parking-lot-crime
 ogTitle: Reduce Parking Lot Crime, Assault Risk, and Customer-Vehicle Incidents at Retail Centers
 ogDescription: Reduce parking lot crime, assault risk, and premises liability at retail centers. 360-degree coverage, after-hours audio talk-down, 24/7 US SOC.
@@ -69,7 +69,7 @@ Operationally, the cost shows up in:
 
 The defense covers the full lot 24/7 with verified monitored response:
 
-**Sky Guard MSU at lot center.** Thermal LWIR sees a person on the lot at 1,200ft, day or night. Radar correlates. 4K PTZ tracks. The 360-degree coverage means no fixed blind spot — wherever the incident develops, the system is on it.
+**Mobile Surveillance Unit at lot center.** Thermal LWIR sees a person on the lot at 1,200ft, day or night. Radar correlates. 4K PTZ tracks. The 360-degree coverage means no fixed blind spot — wherever the incident develops, the system is on it.
 
 **AI VisionStream behavior classification.** A person walking through the lot at 11am is a customer. A person dwelling next to a vehicle at 2am, in a row of parked cars away from any store entrance, is a verification event. The system understands posture, dwell, and pattern.
 
@@ -81,12 +81,12 @@ The defense covers the full lot 24/7 with verified monitored response:
 
 | Property type | Configuration | Monthly |
 |---|---|---|
-| Single-tenant retail | 1× Sky Guard MSU | $2,200 |
-| Strip / power center | 1× Sky Guard MSU + 1-2× Swift Deploy | $3,700-$5,200 |
-| Mall / large center | 2× Sky Guard MSU + Swift Deploy + LPR at exits | $6,200-$8,400 |
+| Single-tenant retail | 1× Mobile Surveillance Unit | $2,200 |
+| Strip / power center | 1× Mobile Surveillance Unit + 1-2× Mobile Surveillance Unit | $3,700-$5,200 |
+| Mall / large center | 2× Mobile Surveillance Unit + Mobile Surveillance Unit + LPR at exits | $6,200-$8,400 |
 
 24/7 US SOC, AI VisionStream, 90-day retention included.
 
 ## What it looks like working
 
-A 22-store power center in the Southwest had 14 reportable parking lot incidents in 12 months (assaults, break-ins, encampments), driving a premises-liability suit, tenant complaints, and a 19% GL premium increase. After VDS deployment of 2 Sky Guard MSUs: **incidents dropped to 3 in the next 12 months, no successful liability claims, GL premium reduced 9% at renewal
+A 22-store power center in the Southwest had 14 reportable parking lot incidents in 12 months (assaults, break-ins, encampments), driving a premises-liability suit, tenant complaints, and a 19% GL premium increase. After VDS deployment of 2 Mobile Surveillance Units: **incidents dropped to 3 in the next 12 months, no successful liability claims, GL premium reduced 9% at renewal

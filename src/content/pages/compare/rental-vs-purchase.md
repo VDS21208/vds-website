@@ -98,7 +98,7 @@ VDS hardware is available two ways: monthly rental (the default and the most com
 
 ## Break-even math
 
-For a single Sky Guard MSU at $2,200/mo rental vs. a $68,000 purchase + $1,000/mo combined SOC + VMS + support:
+For a single Mobile Surveillance Unit at $2,200/mo rental vs. a $68,000 purchase + $1,000/mo combined SOC + VMS + support:
 
 - **Rental cost at month 30:** $2,200 × 30 = $66,000
 - **Purchase cost at month 30:** $68,000 + ($1,000 × 30) = $98,000

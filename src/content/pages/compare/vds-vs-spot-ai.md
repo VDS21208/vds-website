@@ -66,7 +66,7 @@ Spot AI's product fit is indoor video AI on top of customer-owned cameras, with 
 | Camera-agnostic | Yes | Yes |
 | Hybrid NVR storage | Yes | Cloud-first, edge cache |
 | Cloud storage option | Yes | Yes (US-only AWS) |
-| Outdoor solar hardware | No | Yes (Sky Guard, Swift Deploy, Boundary Guard Pro) |
+| Outdoor solar hardware | No | Yes (Mobile Surveillance Unit, Mobile Surveillance Unit, Mobile Surveillance Unit) |
 | Mobile / redeployable trailers | No | Yes |
 | 24/7 in-house SOC | No | Yes |
 | Audio talk-down | No | Yes (on every trailer) |
@@ -103,7 +103,7 @@ Spot AI's product fit is indoor video AI on top of customer-owned cameras, with 
 
 Spot AI pricing is quote-based and varies by camera count and feature tier; typical mid-size deployments report $50-$120 per camera per month. NVR hardware is roughly $2,000-$5,000 per site, customer-purchased.
 
-VDS Sky Guard at $2,200/mo includes the trailer, the cameras, the cloud storage, the SOC, the audio talk-down, the LE dispatch workflow, and hardware refresh inside the rental term. No per-camera license escalator.
+VDS Mobile Surveillance Unit at $2,200/mo includes the trailer, the cameras, the cloud storage, the SOC, the audio talk-down, the LE dispatch workflow, and hardware refresh inside the rental term. No per-camera license escalator.
 
 For pure indoor 60-camera enterprise: Spot AI is often the right answer.
 For pure outdoor mobile: VDS is the right answer and Spot AI doesn't offer the product.
@@ -111,5 +111,5 @@ For hybrid (indoor + outdoor): run both.
 
 ## Switching to a hybrid VDS + Spot AI architecture
 
-1. **Audit indoor vs. outdoor.** Most sites have a clear split. Indoor cameras stay on Spot AI; outdoor coverage moves to VDS Sky Guard.
+1. **Audit indoor vs. outdoor.** Most sites have a clear split. Indoor cameras stay on Spot AI; outdoor coverage moves to VDS Mobile Surveillance Unit.
 2. **Define the operations split.** Spot AI users search and review indoor footage themselves. VDS SOC handles outdoor monitoring, audio talk-down,

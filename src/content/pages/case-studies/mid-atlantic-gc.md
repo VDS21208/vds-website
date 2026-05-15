@@ -5,11 +5,11 @@ pageType: Case Study
 parent: /resources/case-studies
 status: Launch
 seoTitle: 'Case Study: Mid-Atlantic GC Saves $340,800 in 12 Months'
-metaDescription: A $28M Mid-Atlantic general contractor cut jobsite theft 73% and saved $340,800 in 12 months with two Swift Deploy units and three Solar Camera Poles
+metaDescription: A $28M Mid-Atlantic general contractor cut jobsite theft 73% and saved $340,800 in 12 months with two Mobile Surveillance Unit units and three Solar-Powered Surveillance Kit
 announcementBar: ''
 h1: How a $28M Mid-Atlantic GC cut jobsite theft 73% and saved $340,800
 heroEyebrow: Case Study — Construction
-heroSubhead: 'Two Swift Deploy units, three Solar Camera Poles, 24/7 US SOC monitoring. Twelve months of verified data: 73% reduction in theft incidents, $0 in insurance claims, $340,800 in avoided loss.'
+heroSubhead: 'Two Mobile Surveillance Unit units, three Solar-Powered Surveillance Kit, 24/7 US SOC monitoring. Twelve months of verified data: 73% reduction in theft incidents, $0 in insurance claims, $340,800 in avoided loss.'
 heroCTAPrimary:
   label: Download PDF
   url: /request-a-quote
@@ -29,17 +29,17 @@ finalCTAButtons:
 - label: Request an assessment
   url: /contact-us/
 schemaType: Article
-internalLinks: /products/swift-deploy-surveillance-trailer, /products/solar-camera-pole, /industries/construction-site-security, /platform/soc, /contact-us
+internalLinks: /products/mobile-surveillance-unit, /products/solar-camera-pole, /industries/construction-site-security, /platform/soc, /contact-us
 canonical: https://visiondetectionsystems.com/resources/case-studies/mid-atlantic-gc
 ogTitle: How a $28M Mid-Atlantic GC cut jobsite theft 73% and saved $340,800
-ogDescription: A $28M Mid-Atlantic general contractor cut jobsite theft 73% and saved $340,800 in 12 months with two Swift Deploy units and three Solar Camera Poles
+ogDescription: A $28M Mid-Atlantic general contractor cut jobsite theft 73% and saved $340,800 in 12 months with two Mobile Surveillance Unit units and three Solar-Powered Surveillance Kit
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg
 ogType: website
 robots: index, follow
 speakable: .hero-h1, .hero-subhead, h2
 author: Vision Detection Systems
 tags: mobile surveillance, VDS
-notes: Anchor case study — highest-priority asset in the entire site. Should be linked from homepage hero, construction industry page, and Swift Deploy product page.
+notes: Anchor case study — highest-priority asset in the entire site. Should be linked from homepage hero, construction industry page, and Mobile Surveillance Unit product page.
 ---
 
 ## Customer profile
@@ -54,10 +54,10 @@ The CFO and the firm's risk manager evaluated three alternatives: hire two overn
 
 ## The configuration
 
-VDS deployed two Swift Deploy mobile surveillance trailers and three Solar Camera Poles across the three active sites. Deployment summary:
+VDS deployed two Mobile Surveillance Unit mobile surveillance trailers and three Solar-Powered Surveillance Kit across the three active sites. Deployment summary:
 
-- **Site A (mid-rise, 4.5 acres):** One Swift Deploy at the primary site entrance covering the material lay-down yard. Two Solar Camera Poles at the rear perimeter where the access road met an adjacent commercial property.
-- **Site B (distribution center pad, 6.2 acres):** One Swift Deploy at the southwest corner covering the generator and fuel storage area. One Solar Camera Pole at the northeast corner covering staged copper and electrical materials.
+- **Site A (mid-rise, 4.5 acres):** One Mobile Surveillance Unit at the primary site entrance covering the material lay-down yard. Two Solar-Powered Surveillance Kit at the rear perimeter where the access road met an adjacent commercial property.
+- **Site B (distribution center pad, 6.2 acres):** One Mobile Surveillance Unit at the southwest corner covering the generator and fuel storage area. One Solar-Powered Surveillance Kit at the northeast corner covering staged copper and electrical materials.
 - **Site C (interior renovation, 3.1 acres):** Coverage shared with Site B via repositioning between phases; no permanent unit on this site after week 6.
 
 All units fed into the VDS Cloud VMS, with 24/7 monitoring by the US-based SOC. Audio talk-down enabled at every unit. Local LE coordination established with the township police departments serving each site in week one.

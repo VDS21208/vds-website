@@ -184,34 +184,4 @@ const home = entry?.data || { seoTitle: "VDS — Mobile Security Infrastructure"
           { competitor: "vs. Flock", angle: "Private security. Not public surveillance.", body: "Jan 2026: 67 Flock cameras exposed publicly. 30+ city contract cancellations since. VDS cameras stream to your account on AWS US-only.", url: "/compare/vds-vs-flock-safety" },
           { competitor: "vs. Verkada", angle: "No $1,799/cam/yr. No 2021 hack record.", body: "Cloud security questionnaires don't survive Verkada's track record. VDS is camera-agnostic with NDAA from day one.", url: "/compare/vds-vs-verkada" },
         ].map((c) => (
-          <a href={c.url} data-tilt data-tilt-max="6" class="card-hover cursor-spotlight group relative glass rounded-xl p-7"><div class="tilt-card-inner">
-            <div class="text-xs uppercase tracking-[0.15em] text-orange font-medium mb-4">{c.competitor}</div>
-            <h3 class="font-display text-2xl text-white mb-4 leading-tight">{c.angle}</h3>
-            <p class="text-sm text-white/70 mb-6 leading-relaxed">{c.body}</p>
-            <div class="text-sm text-orange font-medium inline-flex items-center gap-2 group-hover:gap-3 transition-all">See comparison <Icon name="arrow-right" size={16} /></div>
-          </div></a>
-        ))}
-      </div>
-      <div class="text-center mt-14 reveal">
-        <a href="/compare" class="inline-flex items-center gap-2 text-white hover:text-orange transition-all font-medium border-b border-white/30 hover:border-orange pb-1">See all 11 comparison pages <Icon name="arrow-right" size={16} /></a>
-      </div>
-    </div>
-  </section>
-
-  <FAQAccordion heading="Frequently asked questions" faqs={[
-    { q: "How much does a mobile surveillance trailer cost?", a: "VDS mobile surveillance trailers rent from $1,500 to $2,200 per month depending on configuration. Purchase prices start at $38,000 for the Sky Guard MSU. Pricing includes the trailer, AI VisionStream platform access, and the option to add 24/7 SOC monitoring at $399/site/month." },
-    { q: "How fast can VDS deploy to my site?", a: "Most sites are operational within 72 hours of contract signing in our 30-state service area. Same-day or 24-hour deployment is available from our Pikesville HQ for the MD/DC/N.VA region." },
-    { q: "Is VDS NDAA Section 889 compliant?", a: "Yes. All VDS hardware is NDAA Section 889 compliant, assembled in Pikesville, MD. We do not use Dahua or Hikvision components." },
-    { q: "What is the SOC response time?", a: "Under 60 seconds from alert to operator acknowledgement. AI pre-filtering reduces false alarms by 97%. Confirmed threats trigger audio talk-down through the trailer PA and direct law enforcement dispatch with live video." },
-    { q: "Does VDS work with the cameras I already have?", a: "Yes. AI VisionStream is camera-agnostic and supports any ONVIF/RTSP camera. We do not support Dahua or Hikvision under NDAA Section 889." }
-  ]} />
-
-  <FinalCTAStrip
-    heading="Your site. Protected. Starting this week."
-    body="Most quote requests get a response within one business hour."
-    buttons={[
-      { label: "Request a quote", url: "/request-a-quote" },
-      { label: "Schedule a demo", url: "/schedule-a-demo" }
-    ]}
-  />
-</Layout>
+          <a href={c.url} data-tilt data-tilt-max="6" class="card-hove

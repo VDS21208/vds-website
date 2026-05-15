@@ -29,14 +29,14 @@ faq:
 - q: Will pricing be the same when VDS launches in Toronto?
   a: Pricing will be published in CAD at Canadian launch and will reflect Canadian operating costs (SOC staffing in Canada, AWS Canada Central, local logistics). US pricing won't transfer 1:1.
 - q: Does the hardware work in Toronto winters?
-  a: Yes. Sky Guard MSU is rated to -20F, and solar performance in Toronto winters is adequate with battery sizing we already use in Northern US deployments. The hardware isn't the gap — operations is.
+  a: Yes. Mobile Surveillance Unit is rated to -20F, and solar performance in Toronto winters is adequate with battery sizing we already use in Northern US deployments. The hardware isn't the gap — operations is.
 finalCTAHeading: Toronto coverage, two paths
 finalCTABody: Cross-border programs available today through VDS. Toronto-only deployments through a Canadian operator we'll point you to.
 finalCTAButtons:
 - label: Talk about cross-border
   url: /compare/top-mobile-surveillance-companies/
 schemaType: LocalBusiness
-internalLinks: /locations/canada, /locations/canada/vancouver, /guides/mobile-surveillance-canada, /products/sky-guard-mobile-surveillance-trailer, /industries/construction-site-security
+internalLinks: /locations/canada, /locations/canada/vancouver, /guides/mobile-surveillance-canada, /products/mobile-surveillance-unit, /industries/construction-site-security
 canonical: https://visiondetectionsystems.com/locations/canada/toronto
 ogTitle: Toronto
 ogDescription: VDS operates in 30+ US states, not yet Toronto. Honest guidance for GTA buyers, plus US/Canada cross-border coverage for North American portfolios.
@@ -70,7 +70,7 @@ These are exactly the use cases VDS handles in US markets. We're not yet positio
 
 ## For cross-border programs
 
-This is where VDS contributes today. If you run a portfolio that spans Buffalo and Toronto, Detroit and Windsor, or any US/Canada mix, we can quote the US sites under our standard pricing (Sky Guard MSU $2,200/mo, Boundary Guard Pro $1,800/mo, Swift Deploy $1,500/mo) and coordinate Toronto coverage through a Canadian partner.
+This is where VDS contributes today. If you run a portfolio that spans Buffalo and Toronto, Detroit and Windsor, or any US/Canada mix, we can quote the US sites under our standard pricing (Mobile Surveillance Unit $2,200/mo, Mobile Surveillance Unit $1,800/mo, Mobile Surveillance Unit $1,500/mo) and coordinate Toronto coverage through a Canadian partner.
 
 One vendor relationship. Consistent reporting on the US side. Defensible compliance on the Canadian side. Worth a conversation if you'd otherwise sign two separate contracts.
 

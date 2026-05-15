@@ -38,7 +38,7 @@ finalCTAButtons:
 - label: Download the guide
   url: /contact-us/
 schemaType: Article
-internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/boundary-guard-pro, /products/swift-deploy-surveillance-trailer, /guides/temporary-surveillance, /guides/roi-calculator, /contact-us
+internalLinks: /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /guides/temporary-surveillance, /guides/roi-calculator, /contact-us
 canonical: https://visiondetectionsystems.com/guides/retail-orc
 ogTitle: Retail Organized Crime (ORC) Response Guide
 ogDescription: NRF reports 18% YoY shoplifting increase and 67% of retailers report transnational ORC groups since 2024
@@ -107,5 +107,5 @@ Retail loss prevention directors, asset protection managers, multi-store operato
 
 ## Related products
 
-- **[Sky Guard MSU](/products/sky-guard-mobile-surveillance-trailer)** — $2,200/mo. Parking lot coverage with audio talk-down.
-- **[Boundary Guard Pro](/produc
+- **[Mobile Surveillance Unit](/products/mobile-surveillance-unit)** — $2,200/mo. Parking lot coverage with audio talk-down.
+- **[Mobile Surveillance Unit](/produc

@@ -5,7 +5,7 @@ pageType: Hub
 parent: /
 status: Launch
 seoTitle: Products | Mobile Security Trailers, Poles, VMS | VDS
-metaDescription: Sky Guard MSU, Swift Deploy, Boundary Guard, solar poles, guard booths and more. Eight hardware lines integrated with one cloud VMS and SOC.
+metaDescription: Mobile Surveillance Unit, Mobile Surveillance Unit, Boundary Guard, solar poles, guard booths and more. Eight hardware lines integrated with one cloud VMS and SOC.
 announcementBar: All hardware NDAA Section 889 compliant. Assembled in Pikesville, MD.
 h1: Eight hardware lines. One platform. One SOC.
 heroEyebrow: Product Catalog
@@ -30,7 +30,7 @@ faq:
 - q: What is the shortest contract you write?
   a: Month-to-month on trailer leases. Most construction customers run 6-18 month engagements. We do not lock you into 36-month contracts.
 - q: How do I know which trailer I need?
-  a: Swift Deploy for fast-moving sites, short timelines, and PTZ coverage. Sky Guard MSU when you need thermal, radar, and active deterrence in one unit. Boundary Guard Pro when you have a long fence line. We will spec it on a 20-minute call.
+  a: Mobile Surveillance Unit for fast-moving sites, short timelines, and PTZ coverage. Mobile Surveillance Unit when you need thermal, radar, and active deterrence in one unit. Mobile Surveillance Unit when you have a long fence line. We will spec it on a 20-minute call.
 finalCTAHeading: Not sure which unit fits your site?
 finalCTABody: Send us your perimeter, your timeline, and your threat profile. We will scope a configuration within 24 hours.
 finalCTAButtons:
@@ -41,7 +41,7 @@ finalCTAButtons:
 schemaType: ItemList
 canonical: https://visiondetectionsystems.com/products
 ogTitle: Eight hardware lines. One platform. One SOC.
-ogDescription: Sky Guard MSU, Swift Deploy, Boundary Guard, solar poles, guard booths and more. Eight hardware lines integrated with one cloud VMS and SOC.
+ogDescription: Mobile Surveillance Unit, Mobile Surveillance Unit, Boundary Guard, solar poles, guard booths and more. Eight hardware lines integrated with one cloud VMS and SOC.
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg
 ogType: website
 robots: index, follow
@@ -54,19 +54,19 @@ Every product on this page connects to the same platform. The same operators see
 
 ## Mobile units
 
-### Sky Guard MSU — flagship
-22ft mast, thermal LWIR, 500ft ground radar, 4K multi-sensor, LPR, active deterrence. 600W solar, 48+ hr battery, IP66, -20F to 120F. From $2,200/mo or $38,000 purchase. [Spec sheet](/products/sky-guard-mobile-surveillance-trailer)
+### Mobile Surveillance Unit — flagship
+22ft mast, thermal LWIR, 500ft ground radar, 4K multi-sensor, LPR, active deterrence. 600W solar, 48+ hr battery, IP66, -20F to 120F. From $2,200/mo or $38,000 purchase. [Spec sheet](/products/mobile-surveillance-unit)
 
-### Swift Deploy Trailer — most popular
-HD PTZ with 30x zoom, dual-spectrum full-color night vision, AI analytics, optional LPR, 300ft detection. 20ft mast, 400W solar, 36+ hr battery, strobe + PA. Deploys in under 20 minutes by one person with no tools. From $1,500/mo. [Spec sheet](/products/swift-deploy-surveillance-trailer)
+### Mobile Surveillance Unit — most popular
+HD PTZ with 30x zoom, dual-spectrum full-color night vision, AI analytics, optional LPR, 300ft detection. 20ft mast, 400W solar, 36+ hr battery, strobe + PA. Deploys in under 20 minutes by one person with no tools. From $1,500/mo. [Spec sheet](/products/mobile-surveillance-unit)
 
-### Boundary Guard Pro
-500+ linear feet of fence-line coverage. No blind spots. Built for perimeters where a single PTZ leaves gaps. From $1,800/mo. [Spec sheet](/products/boundary-guard-pro)
+### Mobile Surveillance Unit
+500+ linear feet of fence-line coverage. No blind spots. Built for perimeters where a single PTZ leaves gaps. From $1,800/mo. [Spec sheet](/products/mobile-surveillance-unit)
 
 ## Fixed solar
 
-### Solar Camera Poles
-Fixed-point, solar-autonomous, ideal for long-term sites where a trailer is overkill but cellular fiber would cost more than the camera. [Spec sheet](/products/solar-camera-poles)
+### Solar-Powered Surveillance Kit
+Fixed-point, solar-autonomous, ideal for long-term sites where a trailer is overkill but cellular fiber would cost more than the camera. [Spec sheet](/products/solar-powered-surveillance-kit)
 
 ## Site infrastructure
 
@@ -76,8 +76,8 @@ Heavy-gauge steel, HVAC, bullet-resistant options available. Pairs with manned a
 ### Medical & Cooling Stations
 OSHA-compliant welfare units for crews in heat or cold. Power, HVAC, and seating for site safety compliance. [Spec sheet](/products/medical-cooling-stations)
 
-### Light Trailers
-LED, optional camera integration. For sites that need lumens first and surveillance second. [Spec sheet](/products/light-trailers)
+### Guardian Sentry Tower
+LED, optional camera integration. For sites that need lumens first and surveillance second. [Spec sheet](/products/guardian-sentry-tower)
 
 ## Add-ons
 

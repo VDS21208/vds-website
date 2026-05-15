@@ -9,7 +9,7 @@ metaDescription: Detect substation intrusion before it becomes a CIP-014 inciden
 announcementBar: ''
 h1: Detect Substation Perimeter Intrusion Before It Becomes a NERC CIP-014 Incident
 heroEyebrow: SOLUTION · UTILITY · SUBSTATION INTRUSION
-heroSubhead: NERC CIP-014 requires documented physical security at high-impact substations. VDS deploys solar-autonomous Sky Guard MSUs with thermal LWIR, radar, and 4K visual, backed by a 24/7 US SOC and an audit-ready event log designed for FERC and your auditor.
+heroSubhead: NERC CIP-014 requires documented physical security at high-impact substations. VDS deploys solar-autonomous Mobile Surveillance Units with thermal LWIR, radar, and 4K visual, backed by a 24/7 US SOC and an audit-ready event log designed for FERC and your auditor.
 heroCTAPrimary:
   label: Request CIP-014 Brief
   url: /request-a-quote
@@ -25,7 +25,7 @@ faq:
 - q: Can VDS integrate with our existing SCADA or physical access control?
   a: Yes. AI VisionStream exposes REST and MQTT integrations. Common integrations include AccessIT, Lenel, and direct OSI-PI tagging.
 - q: What about drone overflight detection?
-  a: Sky Guard radar classifies small UAS at typical operational altitudes within line of sight. Counter-UAS effector integration available on request.
+  a: Mobile Surveillance Unit radar classifies small UAS at typical operational altitudes within line of sight. Counter-UAS effector integration available on request.
 - q: Is the hardware NDAA Section 889 compliant?
   a: Yes. Critical for federal contracts, increasingly required by state PUCs. All VDS hardware ships NDAA-compliant.
 - q: How does the SOC handle armed-attacker scenarios?
@@ -36,7 +36,7 @@ finalCTAButtons:
 - label: Request CIP-014 Assessment
   url: /contact-us/
 schemaType: Article
-internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/boundary-guard-pro, /solutions/utility, /solutions/utility/copper-theft-prevention, /compliance/nerc-cip
+internalLinks: /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /solutions/utility, /solutions/utility/copper-theft-prevention, /compliance/nerc-cip
 canonical: https://visiondetectionsystems.com/solutions/utility/substation-intrusion
 ogTitle: Detect Substation Perimeter Intrusion Before It Becomes a NERC CIP-014 Incident
 ogDescription: Detect substation intrusion before it becomes a CIP-014 incident. Thermal + radar + 24/7 US SOC. Audit-ready documentation pack for compliance.
@@ -62,7 +62,7 @@ CIP-014 requires documented physical security controls at identified critical su
 
 ## How VDS detects substation intrusion
 
-Sky Guard MSU is purpose-built for this environment. No utility power required — the unit is solar-autonomous with battery backup. The detection chain:
+Mobile Surveillance Unit is purpose-built for this environment. No utility power required — the unit is solar-autonomous with battery backup. The detection chain:
 
 1. **Thermal LWIR (1,200ft human detection)** classifies a human, vehicle, or large animal against thermal background, day or night, through fog and light smoke.
 2. **Radar correlation** confirms a moving target on the same vector and provides range and bearing.
@@ -76,9 +76,9 @@ Every detection event — verified or rejected — is logged with timestamps, vi
 
 | Site type | Configuration | Monthly |
 |---|---|---|
-| Single-bay distribution sub | 1× Sky Guard MSU + Boundary Guard Pro | $4,000 |
-| Transmission sub (small) | 2× Sky Guard MSU + Boundary Guard Pro | $6,200 |
-| CIP-014 high-impact sub | 2-3× Sky Guard MSU + Boundary Guard Pro + integration | $7,400-$9,600 |
+| Single-bay distribution sub | 1× Mobile Surveillance Unit + Mobile Surveillance Unit | $4,000 |
+| Transmission sub (small) | 2× Mobile Surveillance Unit + Mobile Surveillance Unit | $6,200 |
+| CIP-014 high-impact sub | 2-3× Mobile Surveillance Unit + Mobile Surveillance Unit + integration | $7,400-$9,600 |
 
 Includes 24/7 US SOC, AI VisionStream, 365-day evidence retention, monthly compliance report, and quarterly tabletop review with your CIP team.
 

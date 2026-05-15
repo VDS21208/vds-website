@@ -92,7 +92,7 @@ The case for mobile solar surveillance comes down to three numbers: install lead
 
 **Site-up in hours, not days.** A construction site that needs surveillance tomorrow waits 5-15 days for a fixed camera install — permit, trench, conduit, electrician, network drop, mount, configure. By then, the site has been hit twice. A VDS trailer arrives on a truck, levels in 90 minutes, and is recording within 4 hours.
 
-**No trenching, no conduit, no electrician.** A typical fixed install on a vacant lot involves coordinating an electrician for power, a low-voltage contractor for network, and possibly a permit for trenching. Total cost commonly runs $3,000-$8,000 per camera before you ever see a frame of video. A VDS Sky Guard trailer needs an empty pad of dirt and a clear sky.
+**No trenching, no conduit, no electrician.** A typical fixed install on a vacant lot involves coordinating an electrician for power, a low-voltage contractor for network, and possibly a permit for trenching. Total cost commonly runs $3,000-$8,000 per camera before you ever see a frame of video. A VDS Mobile Surveillance Unit trailer needs an empty pad of dirt and a clear sky.
 
 **Redeployable when the site changes.** Construction sites move. A camera positioned over the foundation phase is in the wrong place by the time framing starts. With fixed cameras, you pay an installer to relocate. With a VDS trailer, you hook a truck to the tongue and tow it to the new position. Cost: zero, time: an hour.
 
@@ -105,7 +105,7 @@ The case for mobile solar surveillance comes down to three numbers: install lead
 ## Cost and TCO over 36 months — perimeter coverage at a 5-acre site
 
 - **Fixed cameras:** 8 cameras × $2,800 installed = $22,400 capex. NVR + storage $4,000 capex. VMS license $80/cam/mo × 8 × 36 = $23,040. Monitoring contract $600/mo × 36 = $21,600. Power/network $200/mo × 36 = $7,200. **Total 36-month: $78,240.** Redeployment if site changes: $1,500-$4,000 per move.
-- **VDS Sky Guard MSU:** $2,200/mo × 36 = **$79,200.** Redeployment included.
+- **VDS Mobile Surveillance Unit:** $2,200/mo × 36 = **$79,200.** Redeployment included.
 
 At 36 months the prices are similar. The difference is risk: if your site changes once during that period, the fixed install loses by $1,500-$4,000+. If you have 5-15 day site-up gaps, the fixed install loses by whatever was stolen in those gaps.
 
@@ -133,5 +133,5 @@ At 36 months the prices are similar. The difference is risk: if your site change
 ## Switching from a planned fixed install
 
 1. **Re-scope the urgent need.** Most projects scoped for fixed install can run VDS at the perimeter during the install lead time, then decide whether the fixed install is still needed.
-2. **Pilot the trailer.** A single Sky Guard deployment for 90 days proves out coverage and cost.
+2. **Pilot the trailer.** A single Mobile Surveillance Unit deployment for 90 days proves out coverage and cost.
 3. **Decide on permanent architecture.** Many 

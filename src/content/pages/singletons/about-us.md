@@ -57,7 +57,7 @@ That integration is the point. The site security industry fragmented decades ago
 
 ## What we do
 
-**Solar-autonomous mobile surveillance units.** Sky Guard MSU, Swift Deploy, and Boundary Guard Pro — three platforms covering construction sites, perimeters, lots, yards, and remote infrastructure. No trenching. No grid hookup. Deploy in 4 hours.
+**Solar-autonomous mobile surveillance units.** Mobile Surveillance Unit, Mobile Surveillance Unit, and Mobile Surveillance Unit — three platforms covering construction sites, perimeters, lots, yards, and remote infrastructure. No trenching. No grid hookup. Deploy in 4 hours.
 
 **Camera-agnostic cloud VMS.** Hosted on AWS GovCloud-adjacent infrastructure. TLS 1.3 in transit. AES-256 at rest. US-only data residency. Integrates with existing IP cameras alongside VDS units — you are not locked into one hardware ecosystem.
 

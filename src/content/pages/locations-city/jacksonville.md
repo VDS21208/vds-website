@@ -1,5 +1,5 @@
 ---
-url: /locations/products/mobile-surveillance-trailersjacksonville
+url: /locations/products/mobile-surveillance-unitjacksonville
 collection: locations-city
 pageType: City Detail
 parent: /locations/mobile-surveillance-trailers
@@ -37,8 +37,8 @@ finalCTAButtons:
 - label: Request a Jacksonville quote
   url: /contact-us/
 schemaType: LocalBusiness
-internalLinks: /locations/mobile-surveillance-trailers, /locations/florida, /products/sky-guard-mobile-surveillance-trailer, /products/boundary-guard-pro, /industries/port-logistics, /industries/auto-dealer-security, /compliance/ndaa-889
-canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailersjacksonville
+internalLinks: /locations/mobile-surveillance-trailers, /locations/florida, /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /industries/port-logistics, /industries/auto-dealer-security, /compliance/ndaa-889
+canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-unitjacksonville
 ogTitle: Mobile surveillance trailers in Jacksonville, FL
 ogDescription: Mobile surveillance trailers across Jacksonville metro — Port of Jacksonville, Navy-adjacent sites, construction, auto dealer clusters. Hurricane redeploy.
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg
@@ -70,7 +70,7 @@ We cover Duval, Clay, St. Johns, Nassau, Baker, and Putnam counties from a South
 
 ## A Jacksonville-area deployment
 
-An auto auction operator running a 40-acre vehicle staging yard inland of the port signed two Sky Guard MSUs at $2,200/mo each plus one Boundary Guard Pro at $1,800/mo after losing six high-line vehicles in a single overnight breach. We deployed within 72 hours of contract sign. In the first 90 days the SOC handled 41 verified perimeter escalations, JSO made two arrests on a recurring trespass crew, and the operator's recovered-vehicle loss rate dropped to zero across the deployment.
+An auto auction operator running a 40-acre vehicle staging yard inland of the port signed two Mobile Surveillance Units at $2,200/mo each plus one Mobile Surveillance Unit at $1,800/mo after losing six high-line vehicles in a single overnight breach. We deployed within 72 hours of contract sign. In the first 90 days the SOC handled 41 verified perimeter escalations, JSO made two arrests on a recurring trespass crew, and the operator's recovered-vehicle loss rate dropped to zero across the deployment.
 
 ## Local compliance note
 

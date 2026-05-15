@@ -55,7 +55,7 @@ A 30-minute video call with a VDS sales engineer and, when relevant, a SOC super
 - **Minutes 0–5:** Your situation. What you are deploying, what you are evaluating against, what the timeline looks like.
 - **Minutes 5–15:** Live VMS walkthrough. We log into a live demonstration tenant with anonymized real data. You see camera feeds, alerts, audit logs, RBAC, and reporting in their working state.
 - **Minutes 15–22:** SOC workflow. We play through a recorded P1 incident — alert generation, AI pre-filter, operator triage, talk-down, dispatch — exactly as it ran with a real operator on a real customer event.
-- **Minutes 22–28:** Hardware review. Sky Guard MSU, Swift Deploy, Boundary Guard Pro shown on camera with deployment specs and field photos. We answer questions on solar autonomy, battery life, NDAA, and integration.
+- **Minutes 22–28:** Hardware review. Mobile Surveillance Unit, Mobile Surveillance Unit, Mobile Surveillance Unit shown on camera with deployment specs and field photos. We answer questions on solar autonomy, battery life, NDAA, and integration.
 - **Minutes 28–30:** Next steps. Quote, technical scoping call, RFP response, or "we will follow up in 90 days" — whichever fits.
 
 You will not see a slide deck unless you specifically ask. You will not be asked qualifying questions you already answered when booking.

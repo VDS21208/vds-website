@@ -30,7 +30,7 @@ const plans = [
     unit: '/mo',
     blurb: 'Per-trailer rental. Includes hardware, AI VisionStream, and standard support.',
     features: [
-      'Sky Guard / Swift Deploy trailer',
+      'Mobile Surveillance Unit / Mobile Surveillance Unit trailer',
       'AI VisionStream cloud platform',
       'Standard analytics package',
       'Free deployment within 30-state service area',
@@ -48,8 +48,8 @@ const plans = [
     unit: 'one-time',
     blurb: 'Own the hardware. Pay only for cloud platform and optional SOC.',
     features: [
-      'Sky Guard MSU from $38K',
-      'Swift Deploy from $32K',
+      'Mobile Surveillance Unit from $38K',
+      'Mobile Surveillance Unit from $32K',
       'Platform from $99/cam/mo',
       'Optional 24/7 SOC',
       'NDAA 889 compliant',
@@ -148,39 +148,4 @@ const aiAddons = [
             <div class="col-span-8 flex items-center gap-3">
               <span class="inline-flex items-center justify-center w-8 h-8 rounded-md bg-orange/10 text-orange group-hover:bg-orange group-hover:text-white transition-colors"><Icon name="eye" size={14} /></span>
               <span class="font-display text-base text-navy group-hover:text-orange transition-colors">{a.name}</span>
-            </div>
-            <div class="col-span-3 text-right font-display text-base text-orange">{a.price}</div>
-            <div class="col-span-1 text-right text-slate-400 group-hover:text-orange transition-colors"><Icon name="arrow-right" size={16} /></div>
-          </a>
-        ))}
-      </div>
-    </div>
-  </section>
-
-  <!-- WHAT'S INCLUDED COMPARISON -->
-  <section class="py-20 bg-offwhite">
-    <div class="container-wide max-w-5xl">
-      <div class="text-center mb-10">
-        <div class="eyebrow mb-3 justify-center">What's included</div>
-        <h2 class="font-display text-navy text-3xl md:text-4xl">Every VDS plan includes.</h2>
-      </div>
-      <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-4">
-        {[
-          { icon: 'shield', title: 'NDAA 889 compliant', body: 'US-engineered hardware. No Dahua, no Hikvision.' },
-          { icon: 'cpu', title: 'AI VisionStream', body: 'Cloud-native VMS. AWS US-only.' },
-          { icon: 'eye', title: 'Standard analytics', body: 'Intrusion, line-cross, time-of-day rules.' },
-          { icon: 'phone', title: 'Onboarding + training', body: 'Live walkthrough. Recorded videos.' },
-        ].map((b) => (
-          <div class="bg-white border border-slate-200 rounded-xl p-6">
-            <div class="inline-flex items-center justify-center w-10 h-10 rounded-md bg-orange/10 text-orange mb-3"><Icon name={b.icon} size={16} /></div>
-            <h3 class="font-display text-base text-navy mb-1.5">{b.title}</h3>
-            <p class="text-sm text-slate-600 leading-relaxed">{b.body}</p>
-          </div>
-        ))}
-      </div>
-    </div>
-  </section>
-
-  <FAQAccordion heading="Pricing FAQ" faqs={page.faq || []} />
-  {page.finalCTAHeading && <FinalCTAStrip heading={page.finalCTAHeading} body={page.finalCTABody} buttons={page.finalCTAButtons || []} />}
-</Layout>
+     

@@ -34,7 +34,7 @@ finalCTAButtons:
 - label: Book a Consult
   url: /products/
 schemaType: Organization
-internalLinks: /about-us, /about-us/why-vision-detection-systems, /about-us/our-plant, /platform/soc, /products/sky-guard-mobile-surveillance-trailer, /platform/platform
+internalLinks: /about-us, /about-us/why-vision-detection-systems, /about-us/our-plant, /platform/soc, /products/mobile-surveillance-unit, /platform/platform
 canonical: https://visiondetectionsystems.com/about-us/mission
 ogTitle: Close the three gaps in site security.
 ogDescription: 'VDS exists to close three gaps in site security: cost, blind spots, and response time. Built in Maryland since 2017 — 500+ deployments across 30+ states.'
@@ -65,7 +65,7 @@ We started VDS because site security in the field has three structural failures,
 
 ## What we built
 
-VDS is built as a manufacturer, not a reseller. We assemble our hardware in Pikesville, MD — Sky Guard MSU, Swift Deploy, Boundary Guard Pro, solar camera poles, guard booths, cooling stations, light trailers. We run the cloud VMS (AI VisionStream) on AWS. We staff our own 24/7 SOC in the US.
+VDS is built as a manufacturer, not a reseller. We assemble our hardware in Pikesville, MD — Mobile Surveillance Unit, Mobile Surveillance Unit, Mobile Surveillance Unit, solar camera poles, guard booths, cooling stations, light trailers. We run the cloud VMS (AI VisionStream) on AWS. We staff our own 24/7 SOC in the US.
 
 That stack matters because the three gaps are connected. You cannot fix response time if your camera vendor, your cloud vendor, and your monitoring vendor are three different companies pointing at each other. You cannot guarantee NDAA compliance if you are reselling whatever the distributor had in stock. You cannot keep pricing predictable if every layer is marked up by someone else.
 
@@ -73,7 +73,7 @@ So we own the layers. One number to call. One company accountable for the outcom
 
 ## What "integrated mobile security infrastructure" actually means
 
-It means the camera, the power source, the chassis, the network, the VMS, and the human watching the screen at 3 AM all answer to the same company. It means a Sky Guard MSU deployed in Arizona and one deployed in Maine pull data into the same platform, get monitored by the same SOC, and run on the same audit log. It means when a customer asks "who is watching this site right now," the answer is a name, not a vendor chain.
+It means the camera, the power source, the chassis, the network, the VMS, and the human watching the screen at 3 AM all answer to the same company. It means a Mobile Surveillance Unit deployed in Arizona and one deployed in Maine pull data into the same platform, get monitored by the same SOC, and run on the same audit log. It means when a customer asks "who is watching this site right now," the answer is a name, not a vendor chain.
 
 ## The commitments
 

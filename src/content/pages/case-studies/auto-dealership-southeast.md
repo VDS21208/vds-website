@@ -5,11 +5,11 @@ pageType: Case Study
 parent: /resources/case-studies
 status: Expansion
 seoTitle: 'Case Study: Auto Dealership Group Catalytic Converter Theft'
-metaDescription: A Southeast auto dealer group eliminated catalytic converter theft across 7 lots in 90 days with Swift Deploy and LPR integration
+metaDescription: A Southeast auto dealer group eliminated catalytic converter theft across 7 lots in 90 days with Mobile Surveillance Unit and LPR integration
 announcementBar: ''
 h1: Seven lots, four catalytic converter thefts per month, zero in 90 days
 heroEyebrow: Case Study — Auto & Dealership
-heroSubhead: 'A Southeast dealer group deployed Swift Deploy with LPR integration across seven new and used lots. Pre-deployment baseline: an average of four catalytic converter thefts per month. Ninety days post-deployment: zero. Annual avoided loss: $128,000.'
+heroSubhead: 'A Southeast dealer group deployed Mobile Surveillance Unit with LPR integration across seven new and used lots. Pre-deployment baseline: an average of four catalytic converter thefts per month. Ninety days post-deployment: zero. Annual avoided loss: $128,000.'
 heroCTAPrimary:
   label: Download PDF
   url: /request-a-quote
@@ -29,10 +29,10 @@ finalCTAButtons:
 - label: Request an assessment
   url: /contact-us/
 schemaType: Article
-internalLinks: /products/swift-deploy-surveillance-trailer, /platform/lpr, /industries/auto-dealership, /platform/soc, /resources/case-studies/mid-atlantic-gc
+internalLinks: /products/mobile-surveillance-unit, /platform/lpr, /industries/auto-dealership, /platform/soc, /resources/case-studies/mid-atlantic-gc
 canonical: https://visiondetectionsystems.com/resources/case-studies/auto-dealership-southeast
 ogTitle: Seven lots, four catalytic converter thefts per month, zero in 90 days
-ogDescription: A Southeast auto dealer group eliminated catalytic converter theft across 7 lots in 90 days with Swift Deploy and LPR integration
+ogDescription: A Southeast auto dealer group eliminated catalytic converter theft across 7 lots in 90 days with Mobile Surveillance Unit and LPR integration
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg
 ogType: website
 robots: index, follow
@@ -56,9 +56,9 @@ The general manager evaluated three options: hire overnight security guards acro
 
 ## The configuration
 
-VDS deployed Swift Deploy units configured for dealer lot use, with the following adaptations:
+VDS deployed Mobile Surveillance Unit units configured for dealer lot use, with the following adaptations:
 
-- **One Swift Deploy per lot at the highest-loss two lots; shared coverage at the remaining five lots via three units rotating on a two-week reposition cycle.**
+- **One Mobile Surveillance Unit per lot at the highest-loss two lots; shared coverage at the remaining five lots via three units rotating on a two-week reposition cycle.**
 - **LPR integration:** Every vehicle entering and leaving the lot during after-hours had its plate captured, timestamped, and logged to the Cloud VMS. The SOC was given a hot-list of known regional theft-crew plates supplied by local LE intelligence units.
 - **Thermal-mode evening hours:** From 9pm to 5am, units ran in thermal-priority mode to identify human heat signatures crossing the perimeter regardless of light conditions.
 - **Audio talk-down:** Enabled at every unit with a dealer-specific script tied to the group's preferred LE coordination protocol.
@@ -84,7 +84,7 @@ Across the 90-day measurement window:
 
 ## What the customer said
 
-The GM at the highest-loss lot summarized the deployment at the 90-day review: "We had spent two years buying alarms that called us after the fact. The Swift Deploy talks back before the saw comes out."
+The GM at the highest-loss lot summarized the deployment at the 90-day review: "We had spent two years buying alarms that called us after the fact. The Mobile Surveillance Unit talks back before the saw comes out."
 
 ## Configuration notes for other dealer groups
 

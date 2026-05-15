@@ -1,0 +1,71 @@
+---
+import Icon from '../icons/Icon.astro';
+
+interface Badge { icon: string; label: string; sub: string; tone: 'orange' | 'navy'; }
+
+const badges: Badge[] = [
+  { icon: 'shield', label: 'NDAA Section 889', sub: 'Federal-grade compliance', tone: 'orange' },
+  { icon: 'lock',   label: 'AWS US-only',       sub: 'TLS 1.3 · AES-256',     tone: 'navy'   },
+  { icon: 'eye',    label: 'In-house US SOC',   sub: '24/7 operators',         tone: 'orange' },
+  { icon: 'cpu',    label: 'AI VisionStream',   sub: 'Camera-agnostic platform', tone: 'navy'  },
+  { icon: 'shield', label: 'Made in Pikesville', sub: 'US-engineered & assembled', tone: 'orange' },
+  { icon: 'target', label: '30-state service area', sub: 'Same-week deployments', tone: 'navy' },
+];
+
+const stats = [
+  { value: '500+', label: 'deployments' },
+  { value: '7 yr', label: 'field data' },
+  { value: '<60s', label: 'SOC escalation' },
+  { value: '99.999%', label: 'AWS uptime' },
+];
+
+// Precompute classes per badge (avoid template literals inside JSX)
+function cardClass(tone: string): string {
+  return tone === 'orange'
+    ? 'group relative bg-white border-l-4 border-orange rounded-r-xl px-6 py-5 flex items-center gap-4 hover:shadow-lg transition-shadow'
+    : 'group relative bg-white border-l-4 border-navy rounded-r-xl px-6 py-5 flex items-center gap-4 hover:shadow-lg transition-shadow';
+}
+function iconClass(tone: string): string {
+  return tone === 'orange'
+    ? 'flex-shrink-0 inline-flex items-center justify-center w-12 h-12 rounded-lg bg-orange/10 text-orange group-hover:scale-110 transition-transform'
+    : 'flex-shrink-0 inline-flex items-center justify-center w-12 h-12 rounded-lg bg-navy/10 text-navy group-hover:scale-110 transition-transform';
+}
+function dotClass(tone: string): string {
+  return tone === 'orange'
+    ? 'absolute top-3 right-3 inline-block w-2 h-2 rounded-full bg-orange opacity-0 group-hover:opacity-100 transition-opacity animate-pulse'
+    : 'absolute top-3 right-3 inline-block w-2 h-2 rounded-full bg-navy opacity-0 group-hover:opacity-100 transition-opacity animate-pulse';
+}
+---
+<section class="bg-offwhite py-20 md:py-24 relative overflow-hidden border-y border-slate-200">
+  <div class="dot-pattern-light absolute inset-0 opacity-40"></div>
+  <div class="container-wide relative z-10">
+    <div class="text-center mb-12 reveal">
+      <div class="eyebrow mb-3 justify-center">Built for enterprise procurement</div>
+      <h2 class="font-display text-navy text-3xl md:text-4xl leading-tight">Why security teams<br/><span class="gradient-text-dark">trust VDS infrastructure.</span></h2>
+    </div>
+
+    <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4 max-w-5xl mx-auto mb-14">
+      {badges.map((b) => (
+        <div class={cardClass(b.tone)}>
+          <span class={iconClass(b.tone)}>
+            <Icon name={b.icon} size={22} />
+          </span>
+          <div class="min-w-0">
+            <div class="font-display text-base text-navy leading-tight">{b.label}</div>
+            <div class="text-xs text-slate-500 mt-0.5 leading-tight">{b.sub}</div>
+          </div>
+          <span class={dotClass(b.tone)}></span>
+        </div>
+      ))}
+    </div>
+
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-6 max-w-4xl mx-auto pt-10 border-t border-slate-200">
+      {stats.map((s) => (
+        <div class="text-center">
+          <div class="font-display text-4xl md:text-5xl text-orange leading-none" data-target={s.value}>{s.value}</div>
+          <div class="text-xs uppercase tracking-[0.15em] text-slate-500 mt-2">{s.label}</div>
+        </div>
+      ))}
+    </div>
+  </div>
+</section>

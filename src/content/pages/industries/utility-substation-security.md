@@ -9,7 +9,7 @@ metaDescription: Solar-autonomous surveillance for substations and utility yards
 announcementBar: ''
 h1: Substation surveillance that doesn't need a utility hookup
 heroEyebrow: For utility security directors and physical security teams
-heroSubhead: Solar-autonomous Sky Guard MSU plus 500-foot Boundary Guard Pro fence-line coverage. NERC CIP-014 aligned. NDAA Section 889 compliant. AWS Partner. 24/7 US Security Operations Center.
+heroSubhead: Solar-autonomous Mobile Surveillance Unit plus 500-foot Mobile Surveillance Unit fence-line coverage. NERC CIP-014 aligned. NDAA Section 889 compliant. AWS Partner. 24/7 US Security Operations Center.
 heroCTAPrimary:
   label: Request a substation assessment
   url: /request-a-quote
@@ -26,7 +26,7 @@ faq:
 - q: Does this satisfy NERC CIP-014 requirements?
   a: Our deployment supports several CIP-014 R5 controls — perimeter detection, video assessment, monitoring, and response — and we provide the documentation for your physical security plan. CIP-014 still requires a designated R3 third-party verifier; we are a component of the plan, not the plan itself.
 - q: Will it work at a fully off-grid substation?
-  a: Yes. Sky Guard MSU and Boundary Guard Pro are solar-autonomous with battery banks sized for multi-day low-light conditions. Cellular backhaul; satellite available as a fallback.
+  a: Yes. Mobile Surveillance Unit and Mobile Surveillance Unit are solar-autonomous with battery banks sized for multi-day low-light conditions. Cellular backhaul; satellite available as a fallback.
 - q: Is the system NDAA Section 889 compliant?
   a: Yes, end to end. No covered telecom or video equipment. We ship a compliance certificate with every deployment and maintain a current Bill of Materials for federal and state procurement.
 - q: Can the cloud VMS integrate with our existing PSIM or SCADA alarm management?
@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Request a substation assessment
   url: /contact-us/
 schemaType: Service
-internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/boundary-guard-pro, /compliance/ndaa, /platform/soc, /security/aws-partner
+internalLinks: /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /compliance/ndaa, /platform/soc, /security/aws-partner
 canonical: https://visiondetectionsystems.com/industries/utility-substation-security
 ogTitle: Substation surveillance that doesn't need a utility hookup
 ogDescription: Solar-autonomous surveillance for substations and utility yards. NERC CIP-014 aligned, NDAA Section 889 compliant, AWS Partner. 24/7 US SOC.
@@ -62,11 +62,11 @@ The challenge: most surveillance vendors can't deploy without trenching and a ut
 
 ## What we deploy at a substation
 
-A typical configuration is **one Sky Guard MSU** at the access point with **Boundary Guard Pro** along the fence line. For larger substations or transmission yards, multiple Sky Guard units cover opposing fence segments.
+A typical configuration is **one Mobile Surveillance Unit** at the access point with **Mobile Surveillance Unit** along the fence line. For larger substations or transmission yards, multiple Mobile Surveillance Unit units cover opposing fence segments.
 
-**Sky Guard MSU ($2,200/mo, from $38K)** — solar-autonomous mobile surveillance unit with multi-camera PTZ, thermal optional, hardened enclosure rated for the conditions the substation already sits in. 4-hour deployment.
+**Mobile Surveillance Unit ($2,200/mo, from $38K)** — solar-autonomous mobile surveillance unit with multi-camera PTZ, thermal optional, hardened enclosure rated for the conditions the substation already sits in. 4-hour deployment.
 
-**Boundary Guard Pro ($1,800/mo)** — 500-foot fence-line coverage with detection analytics tuned for fence climb, fence cut, and approach. Pairs with the Sky Guard for verification: detection at the fence triggers PTZ slew-to-target.
+**Mobile Surveillance Unit ($1,800/mo)** — 500-foot fence-line coverage with detection analytics tuned for fence climb, fence cut, and approach. Pairs with the Mobile Surveillance Unit for verification: detection at the fence triggers PTZ slew-to-target.
 
 **AI VisionStream cloud VMS** — intrusion zones around transformers, control house, and copper grounding. Time-of-day rules: stricter analytics outside maintenance windows. LPR at the access road captures every vehicle entering or leaving — including the unmarked pickup at 3 AM.
 

@@ -56,7 +56,7 @@ VDS operates a hub-and-spoke logistics model anchored at our Pikesville, Marylan
 
 Available in Maryland, Washington DC, Northern Virginia (Loudoun, Fairfax, Prince William, Arlington, Alexandria), and Southern Pennsylvania (Lancaster, York, Chester, Delaware, Philadelphia, Bucks, Montgomery counties).
 
-For sites inside this radius, a Sky Guard MSU or Boundary Guard Pro trailer can be on the ground, solar-aligned, cellular-connected, and registered with the 24/7 SOC inside 12 hours of contract signature. We hold standing inventory at the Pikesville depot specifically to support same-day calls.
+For sites inside this radius, a Mobile Surveillance Unit or Mobile Surveillance Unit trailer can be on the ground, solar-aligned, cellular-connected, and registered with the 24/7 SOC inside 12 hours of contract signature. We hold standing inventory at the Pikesville depot specifically to support same-day calls.
 
 ### 24-72 hour deployment
 

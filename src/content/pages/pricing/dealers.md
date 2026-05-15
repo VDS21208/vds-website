@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Apply to the Program
   url: /contact-us/
 schemaType: WebPage
-internalLinks: /pricing, /pricing/subscription-plans, /pricing/leasing-rentals, /pricing/purchase-options, /products/mobile-surveillance-trailers
+internalLinks: /pricing, /pricing/subscription-plans, /pricing/leasing-rentals, /pricing/purchase-options, /products/mobile-surveillance-unit
 canonical: https://visiondetectionsystems.com/pricing/dealers
 ogTitle: Dealer Pricing for Integrators Who Sell Mobile Surveillance
 ogDescription: VDS dealer program — wholesale pricing on trailers and platform, MAP enforcement, dealer portal, marketing co-op. Tiered by annual volume.

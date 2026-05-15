@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Get an Event Quote
   url: /contact-us/
 schemaType: Article
-internalLinks: /products/sky-guard | /products/swift-deploy-surveillance-trailer | /products/boundary-guard-pro | /platform/platform | /pricing
+internalLinks: /products/mobile-surveillance-unit | /products/mobile-surveillance-unit | /products/mobile-surveillance-unit | /platform/platform | /pricing
 canonical: https://visiondetectionsystems.com/industries/event-security
 ogTitle: Event Surveillance That Deploys in 24 Hours and Demobilizes the Day After Load-Out
 ogDescription: Mobile surveillance for festivals, vendor villages, and event parking lots. 24-hour deployment, 3-day to 3-month rentals, 24/7 US SOC verification.
@@ -60,9 +60,9 @@ Off-duty police cover the inside; the parking lots, the vendor village, the arti
 
 ## Recommended VDS configuration
 
-**Main event parking and entry:** Sky Guard MSU at $2,200/mo (or short-term rental). 30-foot mast, AI LPR on every plate at the lot entrance, four PTZ cameras for coverage of the lanes.
+**Main event parking and entry:** Mobile Surveillance Unit at $2,200/mo (or short-term rental). 30-foot mast, AI LPR on every plate at the lot entrance, four PTZ cameras for coverage of the lanes.
 
-**Vendor village and equipment yard:** Swift Deploy at $1,500/mo. Faster setup, lower mast, ideal for backstage compounds and merch storage. Boundary Guard Pro for fence-line coverage of 500-foot perimeter segments.
+**Vendor village and equipment yard:** Mobile Surveillance Unit at $1,500/mo. Faster setup, lower mast, ideal for backstage compounds and merch storage. Mobile Surveillance Unit for fence-line coverage of 500-foot perimeter segments.
 
 **Multi-day or multi-week buildouts:** AI VisionStream gives the event operations team and the touring security director the same dashboard, from anywhere. Role-based access lets the local PD liaison see what they need without seeing the artist compound.
 

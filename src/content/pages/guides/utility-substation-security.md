@@ -27,7 +27,7 @@ faq:
 - q: Do you support cooperative purchasing for utility procurement?
   a: Yes. VDS is available through , which most cooperative utilities use as a pre-vetted contract vehicle. Cuts procurement timeline from months to weeks.
 - q: How do you handle sites without cellular coverage?
-  a: Cellular + satellite failover is available on Sky Guard MSU for remote substations. SOC monitoring continues uninterrupted across backhaul switchover.
+  a: Cellular + satellite failover is available on Mobile Surveillance Unit for remote substations. SOC monitoring continues uninterrupted across backhaul switchover.
 - q: What about Section 889 compliance?
   a: Full Section 889 Part B compliance, end to end. See the [NDAA Compliance Guide](/guides/ndaa-compliance) for full procurement language.
 - q: Can the system integrate with existing SCADA or access control?
@@ -38,7 +38,7 @@ finalCTAButtons:
 - label: Download the guide
   url: /contact-us/
 schemaType: Article
-internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/boundary-guard-pro, /guides/ndaa-compliance, /compliance, /contact-us
+internalLinks: /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /guides/ndaa-compliance, /compliance, /contact-us
 canonical: https://visiondetectionsystems.com/guides/utility-substation-security
 ogTitle: Utility Substation Security Guide
 ogDescription: Substation physical security under NERC CIP-014 R5. Threat actor profiles, camera placement, and the post-Moore County deployment playbook for cooperatives
@@ -79,13 +79,13 @@ Substation security cameras traditionally tap station service power. That create
 1. **Loss-of-power blackout.** If the substation goes dark — whether from attack, weather, or equipment failure — the security system goes with it. The exact moment you need cameras most is the moment they fail.
 2. **Engineering review and lockout/tagout.** Tapping station service requires utility engineering review, P&C coordination, and outage windows. A six-month process to install a camera.
 
-Solar-autonomous mobile surveillance units sidestep both. The Sky Guard MSU runs on its own solar + battery, cellular + (optional) satellite backhaul, completely independent of station service. Deployment time: 1 day. Engineering review on station infrastructure: zero.
+Solar-autonomous mobile surveillance units sidestep both. The Mobile Surveillance Unit runs on its own solar + battery, cellular + (optional) satellite backhaul, completely independent of station service. Deployment time: 1 day. Engineering review on station infrastructure: zero.
 
 ## Free excerpt: the three placement zones
 
-**Zone 1 — Perimeter fence-line.** Detect approach before breach. Long-range thermal + visible cameras, fence-vibration integration where present. Boundary Guard Pro handles this profile.
+**Zone 1 — Perimeter fence-line.** Detect approach before breach. Long-range thermal + visible cameras, fence-vibration integration where present. Mobile Surveillance Unit handles this profile.
 
-**Zone 2 — Gate and access.** LPR for vehicle entry, audio talk-down for unauthorized presence, integration with existing card readers. Sky Guard MSU positioned for unobstructed approach.
+**Zone 2 — Gate and access.** LPR for vehicle entry, audio talk-down for unauthorized presence, integration with existing card readers. Mobile Surveillance Unit positioned for unobstructed approach.
 
 **Zone 3 — Switchyard interior.** PTZ coverage for equipment monitoring, with audio detection (gunfire, glass break). This is the post-Moore County overlay.
 
@@ -95,5 +95,5 @@ Utility security directors, NERC compliance officers, transmission planners, coo
 
 ## Related products
 
-- **[Sky Guard MSU](/products/sky-guard-mobile-surveillance-trailer)** — $2,200/mo. Primary substation deployment unit.
-- **[Boundary Guard Pro](
+- **[Mobile Surveillance Unit](/products/mobile-surveillance-unit)** — $2,200/mo. Primary substation deployment unit.
+- **[Mobile Surveillance Unit](

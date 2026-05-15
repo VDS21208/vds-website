@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Get HOA Pricing
   url: /schedule-a-demo/
 schemaType: Article
-internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /products/boundary-guard-pro, /platform/soc, /privacy-by-design, /industries
+internalLinks: /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /platform/soc, /privacy-by-design, /industries
 canonical: https://visiondetectionsystems.com/industries/community-safety
 ogTitle: Community Safety on Private Property
 ogDescription: Mobile surveillance for HOAs, condos, and gated communities. Solar-autonomous units for amenity areas, construction stages, and post-storm coverage
@@ -72,9 +72,9 @@ Typical community use cases:
 
 ## Recommended configuration
 
-- **Single amenity area (pool, clubhouse, parking row):** one Sky Guard MSU at $2,200/mo, solar-autonomous, redeploys in 90 minutes if the board wants to rotate coverage seasonally.
-- **Active construction stage on common ground:** one Swift Deploy at $1,500/mo for the contract duration, demobilized when the punch list closes.
-- **Perimeter or front-gate vehicle access:** Boundary Guard Pro at $1,800/mo with LPR — 95%+ read accuracy in under 3 seconds, useful for tracking repeat trespass vehicles.
+- **Single amenity area (pool, clubhouse, parking row):** one Mobile Surveillance Unit at $2,200/mo, solar-autonomous, redeploys in 90 minutes if the board wants to rotate coverage seasonally.
+- **Active construction stage on common ground:** one Mobile Surveillance Unit at $1,500/mo for the contract duration, demobilized when the punch list closes.
+- **Perimeter or front-gate vehicle access:** Mobile Surveillance Unit at $1,800/mo with LPR — 95%+ read accuracy in under 3 seconds, useful for tracking repeat trespass vehicles.
 
 All footage retains 30, 60, or 90 days in AWS, TLS 1.3 in transit, AES-256 at rest, exportable on board request with chain-of-custody metadata.
 

@@ -41,7 +41,7 @@ finalCTAButtons:
 - label: Request Rental Quote
   url: /contact-us/
 schemaType: Article
-internalLinks: /solutions, /solutions/mobile-surveillance-trailer-cost, /solutions/buy-vs-rent-mobile-surveillance-trailer, /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /products/boundary-guard-pro
+internalLinks: /solutions, /solutions/mobile-surveillance-trailer-cost, /solutions/buy-vs-rent-mobile-surveillance-trailer, /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /products/mobile-surveillance-unit
 canonical: https://visiondetectionsystems.com/solutions/mobile-surveillance-trailer-rental-cost
 ogTitle: 'Mobile Surveillance Trailer Rental Cost: Short-Term and Long-Term Rates'
 ogDescription: Mobile surveillance trailer rentals run $1,500-$2,200/mo at VDS. Short-term, long-term, deposit, lead time, redeployment fees. Full rental cost breakdown.
@@ -60,7 +60,7 @@ This page covers rental rates by term length, what's included, deposit and lead 
 
 ## Rental rates by term
 
-| Term | Swift Deploy | Sky Guard MSU | Boundary Guard Pro |
+| Term | Mobile Surveillance Unit | Mobile Surveillance Unit | Mobile Surveillance Unit |
 |---|---|---|---|
 | Month-to-month (1-2 mo) | $1,800/mo | $2,600/mo | $2,200/mo |
 | Short-term (3-11 mo) | $1,650/mo | $2,400/mo | $2,000/mo |
@@ -72,7 +72,7 @@ Quarterly billing is available at the 12-month rate. Monthly billing is standard
 ## Per-week and per-quarter math
 
 For short jobs (event security, disaster response, 60-day projects):
-- **Per week:** Sky Guard MSU at month-to-month = $2,600/mo ÷ 4.3 weeks = **~$605/week**
+- **Per week:** Mobile Surveillance Unit at month-to-month = $2,600/mo ÷ 4.3 weeks = **~$605/week**
 - **Per quarter:** Standard 12-month rate prepaid = $2,200 x 3 = **$6,600/quarter**
 
 We don't list a true "per-week" rate because deployment costs make sub-2-week rentals uneconomical for both parties. Minimum rental is 14 days for emergency response, 30 days standard.
@@ -114,7 +114,7 @@ We don't require a credit check for rentals under 12 months at standard configur
 
 | Configuration | Lead Time |
 |---|---|
-| Standard SKU (Sky Guard, Swift Deploy, Boundary Guard) | 14 days from PO |
+| Standard SKU (Mobile Surveillance Unit, Mobile Surveillance Unit, Boundary Guard) | 14 days from PO |
 | Emergency / disaster response | 48-72 hours (rates apply) |
 | Custom configuration | 30-45 days |
 | Out-of-state fleet redeployment | 7-10 days |
@@ -143,4 +143,4 @@ Buy when:
 - You have capex available and prefer ownership
 - Your asset depreciation policy favors capitalization
 
-Full break-even math is on [Buy vs Rent](/solutions/buy-vs-rent-mobile-surveillance-trailer). At Sky Guard rates
+Full break-even math is on [Buy vs Rent](/solutions/buy-vs-rent-mobile-surveillance-trailer). At Mobile Surveillance Unit rates

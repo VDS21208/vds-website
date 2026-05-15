@@ -38,7 +38,7 @@ finalCTAButtons:
 - label: Download the guide
   url: /contact-us/
 schemaType: Article
-internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/boundary-guard-pro, /products/swift-deploy-surveillance-trailer, /resources/case-studies/mid-atlantic-gc, /guides/temporary-surveillance, /guides/ndaa-compliance, /contact-us
+internalLinks: /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /resources/case-studies/mid-atlantic-gc, /guides/temporary-surveillance, /guides/ndaa-compliance, /contact-us
 canonical: https://visiondetectionsystems.com/guides/construction-theft-prevention
 ogTitle: Construction Theft Prevention Guide
 ogDescription: 'FBI: construction theft tops $1B/year, recovery under 7%. Get the threat model, deployment playbook, and Mid-Atlantic GC case study (73% reduction'
@@ -76,7 +76,7 @@ Construction sites are not single-threat environments. Each phase has a differen
 
 ## Free excerpt: the Mid-Atlantic GC case study
 
-A $28M general contractor in the Mid-Atlantic was running average annual theft and vandalism losses of $467,000 across 14 active sites. After deploying a mix of Sky Guard MSU and Boundary Guard Pro units with 24/7 SOC monitoring:
+A $28M general contractor in the Mid-Atlantic was running average annual theft and vandalism losses of $467,000 across 14 active sites. After deploying a mix of Mobile Surveillance Unit and Mobile Surveillance Unit units with 24/7 SOC monitoring:
 
 - 73% reduction in theft and vandalism incidents (12-month comparison)
 - $340,800 in direct loss avoidance (year one)
@@ -96,5 +96,5 @@ GC project executives, risk managers, CFOs reviewing insurance lines, and site s
 
 ## Related products
 
-- **[Sky Guard MSU](/products/sky-guard-mobile-surveillance-trailer)** — $2,200/mo. Solar-autonomous, 30-day deployment to teardown.
-- **[Boundary Guard Pro](/pr
+- **[Mobile Surveillance Unit](/products/mobile-surveillance-unit)** — $2,200/mo. Solar-autonomous, 30-day deployment to teardown.
+- **[Mobile Surveillance Unit](/pr

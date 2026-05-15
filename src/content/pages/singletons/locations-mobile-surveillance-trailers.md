@@ -28,7 +28,7 @@ faq:
 - q: What's the fastest you can deploy?
   a: Same-day in Baltimore. Next-day in DC, Philadelphia, and Richmond. 2–4 days for most other listed metros. Faster on existing customer redeployments.
 - q: Do you bill per city or per unit?
-  a: Per unit, per month. Sky Guard MSU $2,200/mo, Swift Deploy $1,500/mo, Boundary Guard Pro $1,800/mo. Lead time and travel are included.
+  a: Per unit, per month. Mobile Surveillance Unit $2,200/mo, Mobile Surveillance Unit $1,500/mo, Mobile Surveillance Unit $1,800/mo. Lead time and travel are included.
 - q: Can I see units in another customer's deployment before signing?
   a: Yes. We arrange site walks at active customer deployments in most listed metros. Ask your deployment engineer.
 finalCTAHeading: Find a unit in your city

@@ -28,7 +28,7 @@ faq:
 - q: Can you cover special events in Orlando or Miami?
   a: Yes. We have an event template that handles 3-30 day deployments with installation in 24 hours of arrival. Used for music festivals, sporting events, and convention parking.
 - q: Do you work with Florida HOAs and property management companies?
-  a: Yes. Boundary Guard Pro is common for HOA common areas, pool deck monitoring, and parking lot coverage. Monthly rate, no installation capex.
+  a: Yes. Mobile Surveillance Unit is common for HOA common areas, pool deck monitoring, and parking lot coverage. Monthly rate, no installation capex.
 - q: How do your units handle Florida humidity?
   a: Enclosures are IP66-rated. We've run units continuously in South Florida since 2019 with no humidity-related failures.
 finalCTAHeading: Build season and storm season, one provider
@@ -37,7 +37,7 @@ finalCTAButtons:
 - label: Get a Florida quote
   url: /contact-us/
 schemaType: LocalBusiness
-internalLinks: /industries/construction-site-security, /industries/hospitality-healthcare-security, /resources/hurricane-protocol, /products/sky-guard-mobile-surveillance-trailer
+internalLinks: /industries/construction-site-security, /industries/hospitality-healthcare-security, /resources/hurricane-protocol, /products/mobile-surveillance-unit
 canonical: https://visiondetectionsystems.com/locations/florida
 ogTitle: Mobile surveillance for Florida construction, events, and storm response
 ogDescription: Florida mobile surveillance for construction, hospitality, and event security. Hurricane-redeploy capable units. 5-7 day deployment across Miami, Orlando
@@ -58,7 +58,7 @@ We've executed this protocol four times since 2022. Zero unit losses.
 
 ## Industries we protect in Florida
 
-**Construction.** South Florida multifamily, Orlando hospitality build-outs, Tampa industrial and logistics, Jacksonville port-adjacent industrial. We're active across all four metros with both Sky Guard MSU perimeter coverage and Swift Deploy interior asset protection.
+**Construction.** South Florida multifamily, Orlando hospitality build-outs, Tampa industrial and logistics, Jacksonville port-adjacent industrial. We're active across all four metros with both Mobile Surveillance Unit perimeter coverage and Mobile Surveillance Unit interior asset protection.
 
 **Hospitality and events.** Orlando theme park adjacency, Miami event venues, large parking deployments around beach communities and special event venues. The use cases are vehicle theft, vandalism, and after-hours intrusion. Our event template handles short-duration high-density deployment without permanent infrastructure.
 
@@ -74,8 +74,8 @@ Florida inventory pre-stages in Orlando. Hurricane-season secondary cache in Atl
 
 ## A Florida-area deployment
 
-A South Florida multifamily developer with three concurrent garden-style projects in Broward and Palm Beach counties asked us to cover all three after a string of HVAC condenser thefts ($14,000-$22,000 per incident). Five Sky Guard MSUs and two Swift Deploys went out in 6 business days. Nine months: 31 deterred entries, one arrest, zero successful condenser thefts after week two. Insurance carrier reduced project premium by 8% the following policy year on documented loss reduction.
+A South Florida multifamily developer with three concurrent garden-style projects in Broward and Palm Beach counties asked us to cover all three after a string of HVAC condenser thefts ($14,000-$22,000 per incident). Five Mobile Surveillance Units and two Mobile Surveillance Units went out in 6 business days. Nine months: 31 deterred entries, one arrest, zero successful condenser thefts after week two. Insurance carrier reduced project premium by 8% the following policy year on documented loss reduction.
 
 ## Florida compliance and procurement
 
-Florida has no statewide ALPR restriction affecting our typical deployments. We're active on and on the Florida State Term Contracts where applicable. For Disney-, Universal-, and theme-park-adjacent deployments, we navigate FAA airspace concerns for any tower-elevated camera mast (our Sky Guard MSU at 
+Florida has no statewide ALPR restriction affecting our typical deployments. We're active on and on the Florida State Term Contracts where applicable. For Disney-, Universal-, and theme-park-adjacent deployments, we navigate FAA airspace concerns for any tower-elevated camera mast (our Mobile Surveillance Unit at 

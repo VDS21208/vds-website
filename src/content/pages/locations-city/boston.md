@@ -1,5 +1,5 @@
 ---
-url: /locations/products/mobile-surveillance-trailersboston
+url: /locations/products/mobile-surveillance-unitboston
 collection: locations-city
 pageType: City Detail
 parent: /locations/mobile-surveillance-trailers
@@ -37,8 +37,8 @@ finalCTAButtons:
 - label: Request a Boston quote
   url: /contact-us/
 schemaType: LocalBusiness
-internalLinks: /locations/mobile-surveillance-trailers, /locations/massachusetts, /products/sky-guard-mobile-surveillance-trailer, /industries/construction-security, /industries/university-campus-security, /industries/retail-orc
-canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailersboston
+internalLinks: /locations/mobile-surveillance-trailers, /locations/massachusetts, /products/mobile-surveillance-unit, /industries/construction-security, /industries/university-campus-security, /industries/retail-orc
+canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-unitboston
 ogTitle: Mobile surveillance trailers in Boston, MA
 ogDescription: Mobile surveillance trailers across Greater Boston — Seaport, Allston, Kendall biotech, university campuses. 24-72 hour deployment. NDAA 889 compliant.
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg
@@ -72,7 +72,7 @@ We do not currently stage units in-state, which means we plan around shipper sch
 
 ## A Boston-area deployment
 
-A Seaport general contractor running a 14-story life-science tower switched to VDS after their previous guard-only vendor missed three after-hours intrusions in a single quarter. We deployed two Sky Guard MSUs at $2,200/mo each, with the SOC handling escalations and Boston Police dispatched on verified events. In the first 60 days the SOC logged 22 verified perimeter escalations, average dispatch acknowledgment under 60 seconds, and the project's after-hours theft losses dropped to zero. False-alarm rate post-tuning: under 3%.
+A Seaport general contractor running a 14-story life-science tower switched to VDS after their previous guard-only vendor missed three after-hours intrusions in a single quarter. We deployed two Mobile Surveillance Units at $2,200/mo each, with the SOC handling escalations and Boston Police dispatched on verified events. In the first 60 days the SOC logged 22 verified perimeter escalations, average dispatch acknowledgment under 60 seconds, and the project's after-hours theft losses dropped to zero. False-alarm rate post-tuning: under 3%.
 
 ## Local compliance note
 

@@ -24,9 +24,9 @@ heroStats:
 heroImage: ''
 faq:
 - q: How many units do I need for a 10-acre active site?
-  a: Typical configuration is 2 Swift Deploy units (covering opposing diagonals) plus 3-4 Solar Camera Poles on the gate, fuel area, and equipment line. We size it during the assessment based on sight lines and asset density.
+  a: Typical configuration is 2 Mobile Surveillance Unit units (covering opposing diagonals) plus 3-4 Solar-Powered Surveillance Kit on the gate, fuel area, and equipment line. We size it during the assessment based on sight lines and asset density.
 - q: What happens when the project ends and we move to the next site?
-  a: That's the point. Swift Deploy is towable. We schedule a relocation, you move it, and it's back online in 4 hours at the next site. No abandoned infrastructure.
+  a: That's the point. Mobile Surveillance Unit is towable. We schedule a relocation, you move it, and it's back online in 4 hours at the next site. No abandoned infrastructure.
 - q: Will insurance give me a credit for this?
   a: Most carriers in the Mid-Atlantic do — typically 5-15% on the builder's risk policy when you can document 24/7 monitored surveillance with a US SOC and recorded retention. We provide the documentation package.
 - q: We've tried cameras before. The footage was useless after the fact.
@@ -41,7 +41,7 @@ finalCTAButtons:
 - label: Get a project quote
   url: /resources/case-studies/
 schemaType: Service
-internalLinks: /products/swift-deploy-surveillance-trailer, /products/solar-camera-poles, /products/sky-guard-mobile-surveillance-trailer, /resources/case-studies/mid-atlantic-gc, /platform/soc, /pricing
+internalLinks: /products/mobile-surveillance-unit, /products/solar-powered-surveillance-kit, /products/mobile-surveillance-unit, /resources/case-studies/mid-atlantic-gc, /platform/soc, /pricing
 canonical: https://visiondetectionsystems.com/industries/construction-site-security
 ogTitle: Construction Site Security
 ogDescription: Solar-powered surveillance for construction sites. 73% theft reduction, $340,800 saved in 12 months. NDAA compliant. 24/7 US SOC. 4-hour deployment.
@@ -149,7 +149,7 @@ resolve correctly on the new site before publishing.
 
 ### Equipment Staging Yards
 
-<p>Excavators, skid steers, generators — the highest-value equipment concentrates in the lay-down yard. One Swift Deploy Trailer covers the entire area with full-color night vision and AI detection.</p>
+<p>Excavators, skid steers, generators — the highest-value equipment concentrates in the lay-down yard. One Mobile Surveillance Unit covers the entire area with full-color night vision and AI detection.</p>
 
 
 

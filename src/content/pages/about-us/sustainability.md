@@ -37,7 +37,7 @@ finalCTAButtons:
 - label: Request energy data [/contact-us]
   url: /pricing/
 schemaType: AboutPage
-internalLinks: /about, /platform, /products/sky-guard, /pricing
+internalLinks: /about, /platform, /products/mobile-surveillance-unit, /pricing
 canonical: https://visiondetectionsystems.com/about-us/sustainability
 ogTitle: Sustainability is an operating cost line. We measure it that way.
 ogDescription: VDS solar-autonomous units displace diesel generators, reduce truck rolls, and use longer-life lithium battery banks. Field data on kWh saved
@@ -56,7 +56,7 @@ A typical jobsite security alternative to a VDS mobile unit is one of two things
 
 A diesel light tower running surveillance and lighting at a typical construction perimeter consumes approximately 0.6 gallons of diesel per hour. At 24-hour operation, that is 14.4 gallons per day, or roughly 5,250 gallons per year per tower. At current commercial diesel pricing, that is between $20,000 and $25,000 per year per tower in fuel cost alone, plus weekly fuel-delivery truck rolls.
 
-A VDS Sky Guard MSU consumes approximately 11.5 kWh per day under typical 24/7 operation including IR illumination, cellular uplink, edge AI inference, and onboard recording. That energy is supplied by a 1.2 kW solar array with a 25 kWh lithium battery bank sized for 7 days of zero-sun autonomy.
+A VDS Mobile Surveillance Unit consumes approximately 11.5 kWh per day under typical 24/7 operation including IR illumination, cellular uplink, edge AI inference, and onboard recording. That energy is supplied by a 1.2 kW solar array with a 25 kWh lithium battery bank sized for 7 days of zero-sun autonomy.
 
 **Fuel consumed per VDS unit per year: zero gallons of diesel.**
 

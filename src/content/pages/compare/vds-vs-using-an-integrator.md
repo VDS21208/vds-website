@@ -37,7 +37,7 @@ finalCTAButtons:
 - label: Get a direct quote
   url: /contact-us/
 schemaType: Article
-internalLinks: /products/sky-guard, /products/swift-deploy-surveillance-trailer, /products/boundary-guard-pro, /partners, /platform/soc, /compliance/ndaa, /compare
+internalLinks: /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /partners, /platform/soc, /compliance/ndaa, /compare
 canonical: https://visiondetectionsystems.com/compare/vds-vs-using-an-integrator
 ogTitle: Manufacturer vs. Integrator — Buying Direct vs. Buying through Security 101
 ogDescription: When does Security 101 or a multi-brand integrator make sense vs. buying mobile surveillance direct from a manufacturer like VDS? Honest decision
@@ -52,7 +52,7 @@ notes: Not a hit piece on integrators. Integrators are part of the channel. The 
 
 ## Why this comparison matters
 
-Security 101 is the most-recognized national US integrator. They resell Verkada, Avigilon, Genetec, and others, and assemble those products into a system for the buyer. VDS is a manufacturer — we design and build mobile surveillance hardware (Sky Guard, Swift Deploy, Boundary Guard Pro), run the AI VisionStream platform, and operate a 24/7 US SOC under one roof.
+Security 101 is the most-recognized national US integrator. They resell Verkada, Avigilon, Genetec, and others, and assemble those products into a system for the buyer. VDS is a manufacturer — we design and build mobile surveillance hardware (Mobile Surveillance Unit, Mobile Surveillance Unit, Mobile Surveillance Unit), run the AI VisionStream platform, and operate a 24/7 US SOC under one roof.
 
 Neither model is automatically better. The right model depends on what you are buying.
 
@@ -90,7 +90,7 @@ Neither model is automatically better. The right model depends on what you are b
 
 **Manufacturer SOC and warranty.** When a unit fails at 3 AM, you want the manufacturer's SOC and the manufacturer's field service. Going through an integrator means the integrator opens a ticket with VDS — extra step, no benefit.
 
-**Transparent pricing.** Published rates: Swift Deploy from $1,500/mo, Boundary Guard Pro from $1,800/mo, Sky Guard from $2,200/mo, Sky Guard purchase from $38,000. An integrator quote layers margin on top of MSRP. You are paying for the relationship.
+**Transparent pricing.** Published rates: Mobile Surveillance Unit from $1,500/mo, Mobile Surveillance Unit from $1,800/mo, Mobile Surveillance Unit from $2,200/mo, Mobile Surveillance Unit purchase from $38,000. An integrator quote layers margin on top of MSRP. You are paying for the relationship.
 
 **NDAA Section 889 traceability.** When the GC's federal flow-down audit lands on your desk, you need a component bill of materials. Direct from manufacturer is one document. Through an integrator is two paper trails and a phone call.
 

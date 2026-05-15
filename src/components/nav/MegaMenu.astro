@@ -17,12 +17,17 @@ const SECTION_IMAGE: Record<string, { src: string; alt: string; caption: string;
 // Per-link preview image (swap on hover) — mapped from URL pattern
 function previewFor(url: string): string {
  const u = (url || '').toLowerCase();
- if (u.includes('sky-guard')) return '/assets/webflow/product-1.avif';
- if (u.includes('swift-deploy')) return '/assets/webflow/product-2.avif';
- if (u.includes('boundary-guard')) return '/assets/webflow/product-3.avif';
- if (u.includes('solar-camera-poles')) return '/assets/webflow/product-5.avif';
- if (u.includes('livescan') || u.includes('thermal')) return '/assets/webflow/camera-product.avif';
- if (u.includes('mobile-surveillance-trailers')) return '/assets/webflow/product-4.avif';
+ if (u.includes('mobile-surveillance-unit')) return '/assets/products/mobile-surveillance-unit.png';
+ if (u.includes('wall-mount-system')) return '/assets/products/wall-mount-system.png';
+ if (u.includes('solar-powered-surveillance-kit')) return '/assets/products/solar-powered-surveillance-kit.png';
+ if (u.includes('guardian-sentry-tower')) return '/assets/products/guardian-sentry-tower.png';
+ if (u.includes('guardian-beacon-mlu')) return '/assets/products/guardian-beacon-mlu.png';
+ if (u.includes('solarvolt-worksite-illuminator')) return '/assets/products/solarvolt-worksite-illuminator.png';
+ if (u.includes('security-booth') || u.includes('guard-booths')) return '/assets/products/security-booth.png';
+ if (u.includes('medical-cooling')) return '/assets/products/medical-cooling-booth.png';
+ if (u.includes('license-plate-recognition') || u.includes('lpr')) return '/assets/products/ai-analytics.png';
+ if (u.includes('custom-solutions')) return '/assets/webflow/frame-28.webp';
+ if (u.includes('thermal')) return '/assets/webflow/camera-product.avif';
  if (u.includes('/products')) return '/assets/webflow/camera-product.avif';
  if (u.includes('visionstream') || u.includes('/platform')) return '/assets/webflow/frame-28.webp';
  if (u.includes('construction')) return '/assets/webflow/hero-security-1.avif';

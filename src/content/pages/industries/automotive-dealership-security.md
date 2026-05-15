@@ -9,7 +9,7 @@ metaDescription: Mobile surveillance for auto dealerships. LPR at every entry/ex
 announcementBar: ''
 h1: Automotive Dealership Security
 heroEyebrow: For dealer principals, GMs, and security officers
-heroSubhead: Swift Deploy on the lot plus LPR at every entry and exit. Catalytic converter theft, vehicle theft, and after-hours liability — covered by a 24/7 US Security Operations Center with sub-60-second response.
+heroSubhead: Mobile Surveillance Unit on the lot plus LPR at every entry and exit. Catalytic converter theft, vehicle theft, and after-hours liability — covered by a 24/7 US Security Operations Center with sub-60-second response.
 heroCTAPrimary:
   label: Get a dealership quote
   url: /request-a-quote
@@ -41,7 +41,7 @@ finalCTAButtons:
 - label: Get a dealership quote
   url: /contact-us/
 schemaType: Service
-internalLinks: /products/swift-deploy-surveillance-trailer, /platform/lpr, /platform/soc, /pricing, /case-studies
+internalLinks: /products/mobile-surveillance-unit, /platform/lpr, /platform/soc, /pricing, /case-studies
 canonical: https://visiondetectionsystems.com/industries/automotive-dealership-security
 ogTitle: Automotive Dealership Security
 ogDescription: Mobile surveillance for auto dealerships. LPR at every entry/exit, 24/7 US SOC, after-hours coverage. Catalytic converter, vehicle theft

@@ -43,9 +43,9 @@ tags: mobile surveillance, VDS
 
 ## Products
 - [Products overview](/products)
-- [Sky Guard MSU](/products/sky-guard-mobile-surveillance-trailer) — $2,200/month
-- [Swift Deploy](/products/swift-deploy-surveillance-trailer) — $1,500/month
-- [Boundary Guard Pro](/products/boundary-guard-pro) — $1,800/month
+- [Mobile Surveillance Unit](/products/mobile-surveillance-unit) — $2,200/month
+- [Mobile Surveillance Unit](/products/mobile-surveillance-unit) — $1,500/month
+- [Mobile Surveillance Unit](/products/mobile-surveillance-unit) — $1,800/month
 
 ## Security Operations Center
 - [SOC overview](/platform/soc)

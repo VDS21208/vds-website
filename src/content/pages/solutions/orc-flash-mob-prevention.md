@@ -9,7 +9,7 @@ metaDescription: Document organized retail crime flash mobs for evidence and rec
 announcementBar: ''
 h1: Document Organized Retail Crime Flash Mobs for Evidence and Recovery
 heroEyebrow: SOLUTION · RETAIL · ORC FLASH MOB
-heroSubhead: NRF reports 18% YoY shoplifting growth and 67% of retailers identifying transnational ORC group involvement since 2024. The crews enter, sweep, and exit in under 4 minutes. VDS positions Swift Deploy with LPR in the parking lot — every getaway plate captured, SOC dispatches LE with live video, evidence package ready for prosecutors.
+heroSubhead: NRF reports 18% YoY shoplifting growth and 67% of retailers identifying transnational ORC group involvement since 2024. The crews enter, sweep, and exit in under 4 minutes. VDS positions Mobile Surveillance Unit with LPR in the parking lot — every getaway plate captured, SOC dispatches LE with live video, evidence package ready for prosecutors.
 heroCTAPrimary:
   label: Quote Retail Coverage
   url: /request-a-quote
@@ -36,7 +36,7 @@ finalCTAButtons:
 - label: Quote My Stores
   url: /contact-us/
 schemaType: Article
-internalLinks: /products/swift-deploy-surveillance-trailer, /products/sky-guard-mobile-surveillance-trailer, /features/lpr, /solutions/retail, /solutions/retail/parking-lot-crime
+internalLinks: /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /features/lpr, /solutions/retail, /solutions/retail/parking-lot-crime
 canonical: https://visiondetectionsystems.com/solutions/retail/orc-flash-mob-prevention
 ogTitle: Document Organized Retail Crime Flash Mobs for Evidence and Recovery
 ogDescription: Document organized retail crime flash mobs for evidence and recovery. Parking lot cameras + LPR captures getaway plates. SOC dispatches LE with live video.
@@ -65,7 +65,7 @@ VDS produces the second, third, and fourth bullets. That is where most retail se
 
 The defense recognizes that you will not stop a 12-person flash mob in motion through audio talk-down alone. The win is at evidence and recovery:
 
-**Swift Deploy in the parking lot.** Positioned for full coverage of staged getaway vehicles, with line-of-sight on the storefront. Thermal sees people loading bags into trunks; AI VisionStream classifies the loading behavior pattern.
+**Mobile Surveillance Unit in the parking lot.** Positioned for full coverage of staged getaway vehicles, with line-of-sight on the storefront. Thermal sees people loading bags into trunks; AI VisionStream classifies the loading behavior pattern.
 
 **LPR captures every plate.** 95%+ accuracy under 3 seconds. Multiple plates per vehicle (front and rear) where geometry allows. State, partial-plate confidence, vehicle make/color metadata.
 
@@ -77,15 +77,15 @@ The defense recognizes that you will not stop a 12-person flash mob in motion th
 
 | Property type | Configuration | Monthly |
 |---|---|---|
-| Single big-box | 1× Swift Deploy + LPR + storefront integration | $1,500 |
-| Power center / strip | 1-2× Swift Deploy + LPR at primary exits | $1,500-$3,000 |
-| Mall / large lifestyle center | 1× Sky Guard MSU + 2-3× Swift Deploy + LPR at all exits | $5,200-$7,400 |
+| Single big-box | 1× Mobile Surveillance Unit + LPR + storefront integration | $1,500 |
+| Power center / strip | 1-2× Mobile Surveillance Unit + LPR at primary exits | $1,500-$3,000 |
+| Mall / large lifestyle center | 1× Mobile Surveillance Unit + 2-3× Mobile Surveillance Unit + LPR at all exits | $5,200-$7,400 |
 
 We do not replace your in-store loss prevention team — we extend their reach into the parking lot, where the event ends.
 
 ## What it looks like working
 
-A West Coast specialty retailer was hit by three flash mobs in 60 days, losing $340,000 across the three events. VDS deployed Swift Deploy with LPR at the two parking lot exits. The next event, four weeks later: **all 6 getaway vehicle plates captured, live feed pushed to PD, 4 arrests within 11 days across the regional ORC task force, $180,000 in merchandise recovered, federal charges filed against the ring leader.**
+A West Coast specialty retailer was hit by three flash mobs in 60 days, losing $340,000 across the three events. VDS deployed Mobile Surveillance Unit with LPR at the two parking lot exits. The next event, four weeks later: **all 6 getaway vehicle plates captured, live feed pushed to PD, 4 arrests within 11 days across the regional ORC task force, $180,000 in merchandise recovered, federal charges filed against the ring leader.**
 
 ## Pricing
 

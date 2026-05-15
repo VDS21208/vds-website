@@ -64,10 +64,10 @@ Standard lease pricing. All trailers ship with the Standard platform tier includ
 
 | Trailer | Monthly Lease | Purchase | Coverage |
 |---|---|---|---|
-| **Swift Deploy Trailer** | $1,500/mo | Contact | General site, 20 ft mast |
-| **Boundary Guard Pro** | $1,800/mo | Contact | 500 ft linear fence-line |
-| **Sky Guard MSU** | $2,200/mo | $38,000 | Wide-area, 30 ft mast |
-| **Solar Camera Pole** | Custom | Custom | Fixed-point solar autonomous |
+| **Mobile Surveillance Unit** | $1,500/mo | Contact | General site, 20 ft mast |
+| **Mobile Surveillance Unit** | $1,800/mo | Contact | 500 ft linear fence-line |
+| **Mobile Surveillance Unit** | $2,200/mo | $38,000 | Wide-area, 30 ft mast |
+| **Solar-Powered Surveillance Kit** | Custom | Custom | Fixed-point solar autonomous |
 
 Lease terms: 3-month minimum. Month-to-month after the minimum. No annual prepay required. Standard ground freight is billed at cost; expedited and weekend deployments quoted separately. Full lease terms: [Leasing & Rentals →](/pricing/leasing-rentals)
 

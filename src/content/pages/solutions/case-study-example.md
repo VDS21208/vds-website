@@ -56,7 +56,7 @@ This page curates our published case studies. Each is summarized here; full depl
 
 **Vertical:** Construction (commercial mixed-use)
 **Duration:** 14 months
-**Configuration:** 3x Sky Guard MSU + 24/7 SOC monitoring
+**Configuration:** 3x Mobile Surveillance Unit + 24/7 SOC monitoring
 **Replaced:** Overnight guard contract ($32,400/mo)
 
 **Outcomes (12 months post-deployment):**
@@ -74,22 +74,22 @@ This is the case study we cite most often because it spans the full stack — ha
 ## Other published deployments
 
 **Tier 2 grocery chain, 14-store retail rollout (Southeast)**
-- Configuration: Boundary Guard Pro at each store perimeter + Pro platform
+- Configuration: Mobile Surveillance Unit at each store perimeter + Pro platform
 - Outcomes: 61% shrinkage reduction in parking-lot incidents, 4-month payback
 - [Full case study →](/resources/case-studies)
 
 **Last-mile logistics yard (Texas)**
-- Configuration: 2x Sky Guard MSU + 8 fixed-camera additions to VMS
+- Configuration: 2x Mobile Surveillance Unit + 8 fixed-camera additions to VMS
 - Outcomes: $180K in prevented cargo theft over 9 months, 1.8x ROI in year one
 - [Full case study →](/resources/case-studies)
 
 **Municipal utility substation network (Pacific Northwest)**
-- Configuration: 5x Boundary Guard Pro + Enterprise platform
+- Configuration: 5x Mobile Surveillance Unit + Enterprise platform
 - Outcomes: Two prevented copper-theft attempts, $0 substation damage in 18 months
 - [Full case study →](/resources/case-studies)
 
 **Disaster response / FEMA staging site (Gulf Coast)**
-- Configuration: 4x Swift Deploy Trailer, 72-hour deployment
+- Configuration: 4x Mobile Surveillance Unit, 72-hour deployment
 - Outcomes: Continuous coverage of $4M in equipment staging, zero loss events
 - [Full case study →](/resources/case-studies)
 

@@ -36,7 +36,7 @@ finalCTAButtons:
 - label: Talk about cross-border
   url: /compare/top-mobile-surveillance-companies/
 schemaType: LocalBusiness
-internalLinks: /locations/canada, /locations/canada/toronto, /guides/mobile-surveillance-canada, /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /industries/construction-site-security, /industries/warehouse-logistics-security-logistics
+internalLinks: /locations/canada, /locations/canada/toronto, /guides/mobile-surveillance-canada, /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /industries/construction-site-security, /industries/warehouse-logistics-security-logistics
 canonical: https://visiondetectionsystems.com/locations/canada/vancouver
 ogTitle: Vancouver
 ogDescription: VDS operates in 30+ US states, not yet Vancouver. Honest guidance for BC buyers, plus US/Canada cross-border coverage for Pacific Northwest portfolios.
@@ -46,7 +46,7 @@ robots: index, follow
 speakable: .hero-h1, .hero-subhead, h2
 author: Vision Detection Systems
 tags: mobile surveillance Canada, PIPEDA, Canadian security, mobile surveillance Vancouver, BC security
-notes: LocalBusiness schema reflects service area, not physical presence. Swift Deploy is highlighted because Vancouver film/event production maps well to that unit class. Update at launch with CAD pricing and BC-specific compliance language (BC PIPA references).
+notes: LocalBusiness schema reflects service area, not physical presence. Mobile Surveillance Unit is highlighted because Vancouver film/event production maps well to that unit class. Update at launch with CAD pricing and BC-specific compliance language (BC PIPA references).
 ---
 
 ## Where VDS stands in Vancouver
@@ -59,10 +59,10 @@ The Lower Mainland and adjacent regions stress mobile surveillance in a few spec
 
 - **Port and intermodal** — The Port of Vancouver is Canada's largest and runs a sprawling network of container yards, rail terminals, and storage facilities. Yard surveillance, after-hours intrusion detection, and cargo monitoring all benefit from solar-autonomous units that move with the work.
 - **Construction boom** — Mount Pleasant, False Creek, Broadway corridor, and the Surrey/Langley corridor all have multi-year construction pipelines. Highrise residential and mixed-use sites need long-duration perimeter coverage.
-- **Film and event production** — Vancouver's production economy means equipment yards, exterior sets, and short-duration venues that need rapid deploy and rapid takedown. The Swift Deploy class of unit was designed for this.
+- **Film and event production** — Vancouver's production economy means equipment yards, exterior sets, and short-duration venues that need rapid deploy and rapid takedown. The Mobile Surveillance Unit class of unit was designed for this.
 - **Resource and remote sites** — BC interior operations (mining, forestry, energy) sit hours from any urban SOC and benefit from autonomous units that don't depend on grid power or wired connectivity.
 
-Cold-weather performance is not the blocker. Sky Guard MSU is rated to -20F, which covers Lower Mainland conditions and most BC interior conditions comfortably. The gap is operations and compliance, not hardware.
+Cold-weather performance is not the blocker. Mobile Surveillance Unit is rated to -20F, which covers Lower Mainland conditions and most BC interior conditions comfortably. The gap is operations and compliance, not hardware.
 
 ## For Vancouver buyers today
 

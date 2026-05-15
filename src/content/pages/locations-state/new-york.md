@@ -37,7 +37,7 @@ finalCTAButtons:
 - label: Get a New York quote
   url: /legal/privacy-policy/
 schemaType: LocalBusiness
-internalLinks: /compliance/privacy-framework, /industries/construction-site-security, /procurement/nys-ogs, /products/swift-deploy-surveillance-trailer
+internalLinks: /compliance/privacy-framework, /industries/construction-site-security, /procurement/nys-ogs, /products/mobile-surveillance-unit
 canonical: https://visiondetectionsystems.com/locations/new-york
 ogTitle: Mobile surveillance for New York construction and infrastructure
 ogDescription: Mobile surveillance for NYC metro construction, ConEd substations, NYS DOT infrastructure, and parking enforcement. Privacy-aware deployment
@@ -58,11 +58,11 @@ We have 30+ active units in NY, concentrated in NYC metro construction, NYS DOT 
 
 ## Industries we protect in New York
 
-**Construction.** NYC five-borough commercial and infrastructure work, Long Island multifamily, Westchester and Rockland county industrial. Standard Sky Guard MSU perimeter deployments with copper and tool theft as the steady-state driver. Manhattan jobsites use Swift Deploy more often than Sky Guard MSU due to footprint constraints.
+**Construction.** NYC five-borough commercial and infrastructure work, Long Island multifamily, Westchester and Rockland county industrial. Standard Mobile Surveillance Unit perimeter deployments with copper and tool theft as the steady-state driver. Manhattan jobsites use Mobile Surveillance Unit more often than Mobile Surveillance Unit due to footprint constraints.
 
 **State DOT and utilities.** NYS DOT bridge, highway, and tunnel projects under federal-aid funding (NDAA 889 compliance required). ConEd substations across NYC and Westchester. Both run under our standard utility and infrastructure deployment patterns.
 
-**Parking and municipal.** Long Island and upstate municipal parking enforcement and downtown camera programs. Boundary Guard Pro fixed-mount on existing infrastructure or our own poles. We don't deploy ALPR features without the customer's specific written authorization and a documented retention framework.
+**Parking and municipal.** Long Island and upstate municipal parking enforcement and downtown camera programs. Mobile Surveillance Unit fixed-mount on existing infrastructure or our own poles. We don't deploy ALPR features without the customer's specific written authorization and a documented retention framework.
 
 ## Coverage and lead time
 
@@ -75,7 +75,7 @@ Pikesville inventory covers all of NY in same-week. Limited pre-stage near Newar
 
 ## A New York-area deployment
 
-A general contractor on a four-block infrastructure replacement project for NYC DDC in Brooklyn was losing roughly $6,000/month to copper, tool, and equipment theft across an active 18-month build window. Two Sky Guard MSUs and three Swift Deploys deployed over 8 business days (Manhattan-adjacent traffic permits added time). Eleven-month coverage: 44 deterred entries, two arrests via SOC-dispatched NYPD, an 81% reduction in successful theft incidents. GC carried the deployment template to a Queens DEP project.
+A general contractor on a four-block infrastructure replacement project for NYC DDC in Brooklyn was losing roughly $6,000/month to copper, tool, and equipment theft across an active 18-month build window. Two Mobile Surveillance Units and three Mobile Surveillance Units deployed over 8 business days (Manhattan-adjacent traffic permits added time). Eleven-month coverage: 44 deterred entries, two arrests via SOC-dispatched NYPD, an 81% reduction in successful theft incidents. GC carried the deployment template to a Queens DEP project.
 
 ## New York compliance and procurement
 

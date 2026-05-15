@@ -37,7 +37,7 @@ finalCTAButtons:
 - label: Get a Georgia quote
   url: /resources/case-studies/
 schemaType: LocalBusiness
-internalLinks: /industries/warehouse-logistics-security, /industries/construction-site-security, /industries/film-production, /products/sky-guard-mobile-surveillance-trailer
+internalLinks: /industries/warehouse-logistics-security, /industries/construction-site-security, /industries/film-production, /products/mobile-surveillance-unit
 canonical: https://visiondetectionsystems.com/locations/georgia
 ogTitle: Mobile surveillance for Georgia construction, port logistics, and production
 ogDescription: Mobile surveillance for Atlanta metro construction, Port of Savannah logistics, Georgia Power infrastructure, and film production
@@ -58,7 +58,7 @@ We pre-stage inventory near Atlanta for statewide same-week coverage and maintai
 
 ## Industries we protect in Georgia
 
-**Construction.** Atlanta multifamily, BeltLine-adjacent commercial, north metro industrial, and the rapid growth around Hartsfield-Jackson logistics. Standard Sky Guard MSU perimeter with Swift Deploy interior coverage for high-value materials and equipment lay-down.
+**Construction.** Atlanta multifamily, BeltLine-adjacent commercial, north metro industrial, and the rapid growth around Hartsfield-Jackson logistics. Standard Mobile Surveillance Unit perimeter with Mobile Surveillance Unit interior coverage for high-value materials and equipment lay-down.
 
 **Port of Savannah and logistics.** GPA-adjacent container yards, third-party warehousing, and the I-16 logistics corridor between Savannah and Atlanta. Cargo theft is the steady-state driver; SOC-dispatched response into the Savannah Port complex and Chatham County is documented and routine.
 
@@ -74,7 +74,7 @@ Atlanta pre-stage covers most of the state in 48 hours from yard release.
 
 ## A Georgia-area deployment
 
-A Savannah-based logistics operator running a 60-acre container yard adjacent to GPA was losing roughly $12,000/month to cargo and equipment theft across approximately 14 active incidents. Four Sky Guard MSUs deployed in 6 business days. Nine-month coverage: 41 deterred entries, three arrests via SOC-dispatched Chatham County and Savannah PD, an 87% reduction in successful theft incidents. Customer extended to a second Pooler-area yard.
+A Savannah-based logistics operator running a 60-acre container yard adjacent to GPA was losing roughly $12,000/month to cargo and equipment theft across approximately 14 active incidents. Four Mobile Surveillance Units deployed in 6 business days. Nine-month coverage: 41 deterred entries, three arrests via SOC-dispatched Chatham County and Savannah PD, an 87% reduction in successful theft incidents. Customer extended to a second Pooler-area yard.
 
 ## Georgia compliance and procurement
 

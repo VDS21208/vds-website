@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Book the architecture call
   url: /contact-us/
 schemaType: Article
-internalLinks: /compare, /platform/soc, /resources/case-studies/mid-atlantic-gc, /hardware/sky-guard-msu
+internalLinks: /compare, /platform/soc, /resources/case-studies/mid-atlantic-gc, /products/mobile-surveillance-unit
 canonical: https://visiondetectionsystems.com/compare/vds-vs-security-guards
 ogTitle: VDS vs. Security Guards
 ogDescription: 24/7 guard coverage costs $60K-$110K/yr per FTE. A VDS trailer covers the same perimeter at $1,500-$2,200/mo with documented video evidence and zero
@@ -62,7 +62,7 @@ This page is the math, the documented case study, and the honest answer about wh
 
 ## The feature matrix
 
-| Capability | 24/7 Guard FTE Coverage | VDS Sky Guard MSU |
+| Capability | 24/7 Guard FTE Coverage | VDS Mobile Surveillance Unit |
 |---|---|---|
 | Annual cost (2026) | $60,000-$110,000 per FTE | $26,400 ($2,200/mo) |
 | FTEs needed for 24/7 single site | 3-4 (shifts + overlap) | One trailer |
@@ -92,7 +92,7 @@ This page is the math, the documented case study, and the honest answer about wh
 
 ## Where VDS wins
 
-**The cost math is brutal.** 24/7 guard coverage at a single site requires 3-4 FTEs (three 8-hour shifts plus overlap and PTO coverage). At a $20-$26/hr fully-loaded rate including benefits and overhead, that's $180,000-$440,000/year for one site. A Sky Guard MSU covers the same perimeter at $26,400/year. The savings recover the cost of a security director's salary on a single property.
+**The cost math is brutal.** 24/7 guard coverage at a single site requires 3-4 FTEs (three 8-hour shifts plus overlap and PTO coverage). At a $20-$26/hr fully-loaded rate including benefits and overhead, that's $180,000-$440,000/year for one site. A Mobile Surveillance Unit covers the same perimeter at $26,400/year. The savings recover the cost of a security director's salary on a single property.
 
 **Documented ROI on a real project.** On a $28M Mid-Atlantic general contractor project, we replaced a guard contract running $32,400/mo with a single trailer at $4,000/mo (all-in including SOC). Result: 73% theft reduction, $0 insurance claims for the project duration, $340,800 saved in 12 months. We'll share the project name under NDA on the architecture call.
 
@@ -107,12 +107,12 @@ This page is the math, the documented case study, and the honest answer about wh
 ## Cost and TCO over 12 months — single mid-risk site
 
 - **Guard coverage 24/7:** 3.5 FTE × $24/hr × 2,080 hrs = $174,720 base. Add 22% benefits + overhead = **$213,158/year**.
-- **VDS Sky Guard MSU:** $2,200/mo × 12 = **$26,400/year**.
+- **VDS Mobile Surveillance Unit:** $2,200/mo × 12 = **$26,400/year**.
 
 Difference: **$186,758/year**, with documented video evidence and zero shift-gap risk on the VDS side.
 
 ## Switching from guards to VDS
 
 1. **Risk audit week 1.** We walk the site with your operations lead and identify which guard functions are passive monitoring (replaceable) and which are active intervention (retained).
-2. **Pilot week 2-3.** A single Sky Guard MSU deploys to the highest-risk zone. Guard coverage continues in parallel. Both teams document incidents for comparison.
+2. **Pilot week 2-3.** A single Mobile Surveillance Unit deploys to the highest-risk zone. Guard coverage continues in parallel. Both teams document incidents for comparison.
 3. **Reduction week 4-6.** Guard hours reduce on a 

@@ -102,7 +102,7 @@ VDS owns the full stack — the trailer, the cameras inside it, the LTE radio, t
 
 Pro-Vigil monthly monitoring runs roughly $300-$800 per site for service only — but that excludes camera hardware, installation, network, and ongoing repair, which the customer pays separately. Real all-in cost lands $1,200-$2,500/mo depending on installer markup.
 
-VDS Sky Guard at $2,200/mo includes the trailer, the cameras, the LTE, the VMS, the SOC, the audio talk-down, the LE dispatch workflow, the audit log, and the hardware refresh. No installer line item, no repair surprises.
+VDS Mobile Surveillance Unit at $2,200/mo includes the trailer, the cameras, the LTE, the VMS, the SOC, the audio talk-down, the LE dispatch workflow, the audit log, and the hardware refresh. No installer line item, no repair surprises.
 
 ## Switching from Pro-Vigil
 

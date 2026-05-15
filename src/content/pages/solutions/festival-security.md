@@ -9,7 +9,7 @@ metaDescription: Mobile surveillance for festivals, concerts, and special events
 announcementBar: ''
 h1: Mobile Surveillance for Festivals, Concerts, and Special Events
 heroEyebrow: SOLUTION · EVENTS · FESTIVAL SECURITY
-heroSubhead: 'Festivals, multi-day concerts, sporting events, and temporary special events run on three security problems at once: ingress/egress crowd flow, vendor and equipment zone protection, and after-hours overnight asset security. VDS deploys Sky Guard MSU and Swift Deploy in under 72 hours, runs LPR on credentialed vehicles, and provides a 24/7 US SOC for the entire event window.'
+heroSubhead: 'Festivals, multi-day concerts, sporting events, and temporary special events run on three security problems at once: ingress/egress crowd flow, vendor and equipment zone protection, and after-hours overnight asset security. VDS deploys Mobile Surveillance Unit and Mobile Surveillance Unit in under 72 hours, runs LPR on credentialed vehicles, and provides a 24/7 US SOC for the entire event window.'
 heroCTAPrimary:
   label: Quote Event Coverage
   url: /request-a-quote
@@ -36,7 +36,7 @@ finalCTAButtons:
 - label: Quote My Event
   url: /contact-us/
 schemaType: Article
-internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /features/lpr, /features/rapid-deploy, /solutions/events
+internalLinks: /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /features/lpr, /features/rapid-deploy, /solutions/events
 canonical: https://visiondetectionsystems.com/solutions/events/festival-security
 ogTitle: Mobile Surveillance for Festivals, Concerts, and Special Events
 ogDescription: Mobile surveillance for festivals, concerts, and special events. <72hr deploy, thermal cameras, LPR for credentialed vehicles, 24/7 US SOC.
@@ -65,13 +65,13 @@ Permanent CCTV is not the answer — the event will be gone in days or weeks. St
 
 The deployment matches the event timeline:
 
-**Pre-event build-out:** Sky Guard MSU and Swift Deploy units arrive on site within 72 hours of contract. Solar-autonomous — no power tie-in needed. Operational the same day they roll off the trailer.
+**Pre-event build-out:** Mobile Surveillance Unit and Mobile Surveillance Unit units arrive on site within 72 hours of contract. Solar-autonomous — no power tie-in needed. Operational the same day they roll off the trailer.
 
-**Main entry credential check:** Swift Deploy with LPR at the credentialed-vehicle entry. Every VIP, vendor, and crew vehicle plate captured. Hot-list and credential-list integration runs in real time. The gate guard sees the LPR confidence pop on their tablet as the vehicle approaches.
+**Main entry credential check:** Mobile Surveillance Unit with LPR at the credentialed-vehicle entry. Every VIP, vendor, and crew vehicle plate captured. Hot-list and credential-list integration runs in real time. The gate guard sees the LPR confidence pop on their tablet as the vehicle approaches.
 
-**Vendor zone and back-of-house:** Swift Deploy or pole cameras at the vendor compound, AV village, and back-of-house service road. AI VisionStream classifies after-hours intrusion.
+**Vendor zone and back-of-house:** Mobile Surveillance Unit or pole cameras at the vendor compound, AV village, and back-of-house service road. AI VisionStream classifies after-hours intrusion.
 
-**Overnight asset protection:** Sky Guard MSU at the equipment compound. Thermal sees a person at 1,200ft during the dark hours when the crew has cleared the site. SOC talk-down on intrusion.
+**Overnight asset protection:** Mobile Surveillance Unit at the equipment compound. Thermal sees a person at 1,200ft during the dark hours when the crew has cleared the site. SOC talk-down on intrusion.
 
 **Strike / load-out:** Coverage stays in place until the last truck leaves the site. We demobilize on agreed schedule.
 
@@ -81,9 +81,9 @@ The deployment matches the event timeline:
 
 | Event size | Configuration | Pricing |
 |---|---|---|
-| Single-day or 3-day event | 1-2× Swift Deploy + LPR | Custom term pricing |
-| 3-day to 7-day festival | 1× Sky Guard MSU + 2-3× Swift Deploy + LPR | Custom |
-| Multi-week event / fair | 2× Sky Guard MSU + 3-5× Swift Deploy + LPR + Boundary Guard | Custom |
+| Single-day or 3-day event | 1-2× Mobile Surveillance Unit + LPR | Custom term pricing |
+| 3-day to 7-day festival | 1× Mobile Surveillance Unit + 2-3× Mobile Surveillance Unit + LPR | Custom |
+| Multi-week event / fair | 2× Mobile Surveillance Unit + 3-5× Mobile Surveillance Unit + LPR + Boundary Guard | Custom |
 | 3-month event run | Full multi-unit deployment with weekly check-in | Custom |
 
 Event pricing is term-based rather than monthly. Includes deploy, demobe, 24/7 SOC, AI VisionStream, and post-event evidence pack.

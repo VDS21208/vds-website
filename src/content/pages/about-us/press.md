@@ -55,7 +55,7 @@ The downloadable press kit includes:
 - VDS secondary mark and wordmark variants
 - Brand color and typography reference
 - Executive headshots (David Weingot, Joe Kruk) — 300 dpi print and web variants
-- Product photography for Sky Guard MSU, Swift Deploy, and Boundary Guard Pro
+- Product photography for Mobile Surveillance Unit, Mobile Surveillance Unit, and Mobile Surveillance Unit
 - Approved boilerplate copy (50-word, 100-word, 200-word)
 - One-page company fact sheet
 

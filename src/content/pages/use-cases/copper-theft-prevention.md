@@ -9,7 +9,7 @@ metaDescription: Stop copper theft at substations, construction sites, and telec
 announcementBar: ''
 h1: Copper theft prevention for substations, construction, and telecom.
 heroEyebrow: USE CASE · COPPER THEFT
-heroSubhead: One copper theft incident at a substation costs $80,000 to $300,000 when you count downtime, replacement, and outage exposure. Sky Guard MSU sees the suspect through cover at 2am — and the SOC is in their ear before they reach the wire.
+heroSubhead: One copper theft incident at a substation costs $80,000 to $300,000 when you count downtime, replacement, and outage exposure. Mobile Surveillance Unit sees the suspect through cover at 2am — and the SOC is in their ear before they reach the wire.
 heroCTAPrimary:
   label: Get a Copper Theft Quote
   url: /request-a-quote
@@ -30,16 +30,16 @@ faq:
 - q: What happens if a suspect ignores the audio challenge?
   a: SOC operator dispatches local PD with live video feed and GPS. We coordinate evidence handoff and prosecution support.
 - q: Do we need power and internet at the substation?
-  a: No. Sky Guard MSU is solar-powered with cellular LTE/5G backhaul.
+  a: No. Mobile Surveillance Unit is solar-powered with cellular LTE/5G backhaul.
 - q: How does this compare to a guard service?
-  a: A guard at $35/hr is $25,200/mo for 24/7 coverage at one site. Sky Guard MSU is $2,200/mo and never sleeps.
+  a: A guard at $35/hr is $25,200/mo for 24/7 coverage at one site. Mobile Surveillance Unit is $2,200/mo and never sleeps.
 finalCTAHeading: One copper theft pays for years of VDS coverage.
 finalCTABody: 30-minute call with an engineer. We'll review your substation locations and propose a deployment plan within 48 hours.
 finalCTAButtons:
 - label: Get a Quote
   url: /contact-us/
 schemaType: Article
-internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/boundary-guard-pro, /platform/platform, /platform/soc, /industries/utility-substation-security, /industries/construction-site-security, /industries/utility-substation-security
+internalLinks: /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /platform/platform, /platform/soc, /industries/utility-substation-security, /industries/construction-site-security, /industries/utility-substation-security
 canonical: https://visiondetectionsystems.com/use-cases/copper-theft-prevention
 ogTitle: Copper theft prevention for substations, construction, and telecom.
 ogDescription: Stop copper theft at substations, construction sites, and telecom huts. Thermal + radar + 24/7 US SOC audio challenge
@@ -62,7 +62,7 @@ Static surveillance cameras record the theft. They do not prevent it. The suspec
 
 ## How VDS prevents copper theft
 
-Sky Guard MSU is built for this threat. Thermal imaging detects body heat through brush, fence cover, and low light — the visual camera misses the suspect, the thermal camera does not. Radar detects movement at the property line before a perimeter breach, giving the SOC 30 to 90 seconds of lead time.
+Mobile Surveillance Unit is built for this threat. Thermal imaging detects body heat through brush, fence cover, and low light — the visual camera misses the suspect, the thermal camera does not. Radar detects movement at the property line before a perimeter breach, giving the SOC 30 to 90 seconds of lead time.
 
 AI VisionStream classifies the target. Person at the fence line at 2am, on foot, carrying tools — that is not a deer or a security false alarm. The rule fires, the alert hits a US SOC operator's screen, and the operator initiates live audio talk-down through the unit's speaker: "You are on private utility property. Law enforcement has been dispatched. Leave the area now."
 
@@ -70,8 +70,8 @@ In our case data, audio talk-down ends the incident before any wire is touched i
 
 ## Recommended VDS configuration
 
-- **Sky Guard MSU at the substation interior** — $2,200/mo. Thermal + radar + 4K visual + LPR + active deterrence. Solar-autonomous, no trenching, repositionable.
-- **Boundary Guard Pro along the fence-line** — $1,800/mo per 500-foot run. Detects an approach before the suspect reaches the fence.
+- **Mobile Surveillance Unit at the substation interior** — $2,200/mo. Thermal + radar + 4K visual + LPR + active deterrence. Solar-autonomous, no trenching, repositionable.
+- **Mobile Surveillance Unit along the fence-line** — $1,800/mo per 500-foot run. Detects an approach before the suspect reaches the fence.
 - **AI VisionStream rules** — person-at-fence-line, loitering, tool detection, after-hours zones.
 - **24/7 US SOC** — <60s escalation, audio talk-down, LE dispatch, evidence preservation.
 
@@ -81,4 +81,4 @@ In our case data, audio talk-down ends the incident before any wire is touched i
 
 ## ROI math
 
-Avoiding one substation incident pays for Sky Guard MSU coverage for 36 to 136 months. A utility with 12 unmanned substations fa
+Avoiding one substation incident pays for Mobile Surveillance Unit coverage for 36 to 136 months. A utility with 12 unmanned substations fa

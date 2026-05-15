@@ -86,7 +86,7 @@ Internal links to add after publishing:
 
 /construction-live-monitoring/
 
-/products/mobile-surveillance-trailers
+/products/mobile-surveillance-unit
 
 /solutions/remote-monitoring-vs-security-guards/
 

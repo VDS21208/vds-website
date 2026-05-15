@@ -9,7 +9,7 @@ metaDescription: Parking lot surveillance and LPR for multi-store retail. 95%+ L
 announcementBar: ''
 h1: Retail & Shopping Center Security
 heroEyebrow: For VPs of Loss Prevention and multi-store security directors
-heroSubhead: Swift Deploy in the parking lot plus AI VisionStream LPR captures getaway plates within seconds. NRF reports 18% YoY shoplifting growth and 67% of retailers citing transnational ORC involvement. The footage you'll wish you had — recorded, verified, dispatched.
+heroSubhead: Mobile Surveillance Unit in the parking lot plus AI VisionStream LPR captures getaway plates within seconds. NRF reports 18% YoY shoplifting growth and 67% of retailers citing transnational ORC involvement. The footage you'll wish you had — recorded, verified, dispatched.
 heroCTAPrimary:
   label: Get a multi-store quote
   url: /request-a-quote
@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Get a multi-store quote
   url: /contact-us/
 schemaType: Service
-internalLinks: /products/swift-deploy-surveillance-trailer, /products/solar-camera-poles, /platform/lpr, /platform/soc, /pricing
+internalLinks: /products/mobile-surveillance-unit, /products/solar-powered-surveillance-kit, /platform/lpr, /platform/soc, /pricing
 canonical: https://visiondetectionsystems.com/industries/retail-shopping-center-security
 ogTitle: Retail & Shopping Center Security
 ogDescription: Parking lot surveillance and LPR for multi-store retail. 95%+ LPR accuracy, <3-second alerts. Counter ORC and flash-mob events with 24/7 US SOC monitoring.

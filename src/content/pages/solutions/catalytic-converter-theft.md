@@ -9,7 +9,7 @@ metaDescription: Stop catalytic converter theft from dealer lots. Thermal camera
 announcementBar: ''
 h1: Catalytic Converter Theft Protection for Auto Dealerships
 heroEyebrow: SOLUTION · AUTO · CATALYTIC CONVERTER THEFT
-heroSubhead: A skilled crew cuts a catalytic converter in under 90 seconds. With rhodium at $10,400/oz and individual converters fetching $400-$1,200 on the black market, the economics for the thief are brutal. VDS deploys Swift Deploy units with thermal at the lot perimeter, LPR at every entry and exit, and a SOC that talks down in under 60 seconds.
+heroSubhead: A skilled crew cuts a catalytic converter in under 90 seconds. With rhodium at $10,400/oz and individual converters fetching $400-$1,200 on the black market, the economics for the thief are brutal. VDS deploys Mobile Surveillance Unit units with thermal at the lot perimeter, LPR at every entry and exit, and a SOC that talks down in under 60 seconds.
 heroCTAPrimary:
   label: Quote Dealer Coverage
   url: /request-a-quote
@@ -27,7 +27,7 @@ faq:
 - q: Does this integrate with our DMS or CRM for plate-to-customer matching?
   a: Yes. LPR data exports to most major DMS platforms. Useful for service-lane efficiency in addition to security.
 - q: What about flatbed theft of entire vehicles?
-  a: Covered. Sky Guard MSU + LPR captures the tow truck plate, vehicle being loaded, and dispatches LE with live feed. See [/solutions/auto/vehicle-theft-prevention](/solutions/auto/vehicle-theft-prevention).
+  a: Covered. Mobile Surveillance Unit + LPR captures the tow truck plate, vehicle being loaded, and dispatches LE with live feed. See [/solutions/auto/vehicle-theft-prevention](/solutions/auto/vehicle-theft-prevention).
 - q: Is this NDAA-compliant for fleet/government dealer contracts?
   a: Yes. NDAA Section 889 compliant hardware.
 finalCTAHeading: 90 seconds is not enough time for a guard. It is enough for VDS.
@@ -36,7 +36,7 @@ finalCTAButtons:
 - label: Quote My Lot
   url: /contact-us/
 schemaType: Article
-internalLinks: /products/swift-deploy-surveillance-trailer, /products/sky-guard-mobile-surveillance-trailer, /solutions/auto, /solutions/auto/vehicle-theft-prevention, /features/lpr
+internalLinks: /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /solutions/auto, /solutions/auto/vehicle-theft-prevention, /features/lpr
 canonical: https://visiondetectionsystems.com/solutions/catalytic-converter-theft-prevention
 ogTitle: Catalytic Converter Theft Protection for Auto Dealerships
 ogDescription: Stop catalytic converter theft from dealer lots. Thermal cameras + LPR + 24/7 SOC audio talk-down. Theft takes 90 seconds — we respond in under 60.
@@ -67,7 +67,7 @@ Traditional dealer security (perimeter chain-link + dome cameras + alarm) record
 
 The defense recognizes the 90-second window:
 
-**Thermal at the perimeter.** Swift Deploy with dual-spectrum night vision detects a human shape on the lot at 2am before the saw comes out of the bag. Thermal works through humidity, light fog, and dealer lot light pollution — standard CCTV does not.
+**Thermal at the perimeter.** Mobile Surveillance Unit with dual-spectrum night vision detects a human shape on the lot at 2am before the saw comes out of the bag. Thermal works through humidity, light fog, and dealer lot light pollution — standard CCTV does not.
 
 **LPR at every gate.** 95%+ accuracy in under 3 seconds. Every plate in, every plate out, with hot-list lookups. Many theft crews are repeat offenders working a regional route.
 
@@ -79,12 +79,12 @@ The defense recognizes the 90-second window:
 
 | Lot size | Configuration | Monthly |
 |---|---|---|
-| Small lot (<50 units) | 1× Swift Deploy + LPR | $1,500 |
-| Mid lot (50-150 units) | 2× Swift Deploy + LPR at gate | $3,000 |
-| Large lot (150+) or multi-rooftop | 1× Sky Guard MSU + 1-2× Swift Deploy + LPR | $3,700-$5,200 |
+| Small lot (<50 units) | 1× Mobile Surveillance Unit + LPR | $1,500 |
+| Mid lot (50-150 units) | 2× Mobile Surveillance Unit + LPR at gate | $3,000 |
+| Large lot (150+) or multi-rooftop | 1× Mobile Surveillance Unit + 1-2× Mobile Surveillance Unit + LPR | $3,700-$5,200 |
 
 24/7 US SOC and AI VisionStream included.
 
 ## What it looks like working
 
-A Toyota dealer in the Midwest was losing 4-7 converters/month, averaging $9,200/month in repairs and customer goodwill. VDS deployed two Swift Deploy units and LPR at the main gate. In the first 6 months: **1 attempted theft (intercepted at talk-down, plate captured, suspect arrested 3 days later on a separate dealer hit), 0 successful thefts, $5
+A Toyota dealer in the Midwest was losing 4-7 converters/month, averaging $9,200/month in repairs and customer goodwill. VDS deployed two Mobile Surveillance Unit units and LPR at the main gate. In the first 6 months: **1 attempted theft (intercepted at talk-down, plate captured, suspect arrested 3 days later on a separate dealer hit), 0 successful thefts, $5

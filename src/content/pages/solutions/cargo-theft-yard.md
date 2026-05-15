@@ -5,11 +5,11 @@ pageType: Solution Intersection
 parent: /solutions
 status: Launch
 seoTitle: Warehouse Yard Cargo Theft Prevention | LPR + Fence | VDS
-metaDescription: Stop cargo theft at warehouse yards and loading docks. Boundary Guard Pro fence-line + LPR on every truck. SOC monitors unauthorized trailer hookups 24/7.
+metaDescription: Stop cargo theft at warehouse yards and loading docks. Mobile Surveillance Unit fence-line + LPR on every truck. SOC monitors unauthorized trailer hookups 24/7.
 announcementBar: ''
 h1: Stop Cargo Theft at the Warehouse Yard and Loading Docks
 heroEyebrow: SOLUTION · WAREHOUSE · CARGO THEFT
-heroSubhead: CargoNet tracked over $15B in US cargo theft in 2024 — and the warehouse yard, not the highway, is the highest-frequency theft location. Strategic cargo theft (fraudulent pickup, identity theft, trailer hookups) is up 1,500% over five years. VDS deploys Boundary Guard Pro at the yard perimeter, Swift Deploy with LPR at every dock, and a 24/7 SOC that catches unauthorized trailer hookups before the rig leaves.
+heroSubhead: CargoNet tracked over $15B in US cargo theft in 2024 — and the warehouse yard, not the highway, is the highest-frequency theft location. Strategic cargo theft (fraudulent pickup, identity theft, trailer hookups) is up 1,500% over five years. VDS deploys Mobile Surveillance Unit at the yard perimeter, Mobile Surveillance Unit with LPR at every dock, and a 24/7 SOC that catches unauthorized trailer hookups before the rig leaves.
 heroCTAPrimary:
   label: Quote Yard Coverage
   url: /request-a-quote
@@ -36,10 +36,10 @@ finalCTAButtons:
 - label: Quote My Yard
   url: /contact-us/
 schemaType: Article
-internalLinks: /products/boundary-guard-pro, /products/swift-deploy-surveillance-trailer, /products/sky-guard-mobile-surveillance-trailer, /features/lpr, /solutions/warehouse
+internalLinks: /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /features/lpr, /solutions/warehouse
 canonical: https://visiondetectionsystems.com/solutions/warehouse/cargo-theft-yard
 ogTitle: Stop Cargo Theft at the Warehouse Yard and Loading Docks
-ogDescription: Stop cargo theft at warehouse yards and loading docks. Boundary Guard Pro fence-line + LPR on every truck. SOC monitors unauthorized trailer hookups 24/7.
+ogDescription: Stop cargo theft at warehouse yards and loading docks. Mobile Surveillance Unit fence-line + LPR on every truck. SOC monitors unauthorized trailer hookups 24/7.
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg
 ogType: article
 robots: index, follow
@@ -66,9 +66,9 @@ The gate guard plus a chain-link fence plus paper BOLs is no longer adequate, an
 
 The defense covers the perimeter, the dock, and the gate, with the SOC as the integration layer:
 
-**Boundary Guard Pro at the yard perimeter.** 500ft of fence-line coverage per unit. Thermal + radar detects fence-line approach (cut-and-enter) and detects bobtail arrival from off-property.
+**Mobile Surveillance Unit at the yard perimeter.** 500ft of fence-line coverage per unit. Thermal + radar detects fence-line approach (cut-and-enter) and detects bobtail arrival from off-property.
 
-**Swift Deploy with LPR at the dock and gate.** Every truck plate captured under 3 seconds at 95%+ accuracy. Plate logs to AI VisionStream with carrier hot-list lookup. A non-manifested plate triggers SOC review before the trailer hookup.
+**Mobile Surveillance Unit with LPR at the dock and gate.** Every truck plate captured under 3 seconds at 95%+ accuracy. Plate logs to AI VisionStream with carrier hot-list lookup. A non-manifested plate triggers SOC review before the trailer hookup.
 
 **AI VisionStream trailer-hookup detection.** The system understands what a trailer hookup looks like — bobtail arrival, backup-to-trailer, fifth-wheel coupling, glad-hand connection, departure. After-hours hookups trigger immediate SOC verification against the dispatch schedule.
 
@@ -78,12 +78,12 @@ The defense covers the perimeter, the dock, and the gate, with the SOC as the in
 
 | Yard size | Configuration | Monthly |
 |---|---|---|
-| Small 3PL (<20 doors) | 1× Swift Deploy + LPR + Boundary Guard Pro | $3,300 |
-| Mid yard (20-60 doors) | 2× Swift Deploy + LPR + 1-2× Boundary Guard Pro | $4,800-$6,600 |
-| Large DC (60+ doors) | 1× Sky Guard MSU + 2-3× Swift Deploy + LPR + 2× Boundary Guard Pro | $8,400-$10,600 |
+| Small 3PL (<20 doors) | 1× Mobile Surveillance Unit + LPR + Mobile Surveillance Unit | $3,300 |
+| Mid yard (20-60 doors) | 2× Mobile Surveillance Unit + LPR + 1-2× Mobile Surveillance Unit | $4,800-$6,600 |
+| Large DC (60+ doors) | 1× Mobile Surveillance Unit + 2-3× Mobile Surveillance Unit + LPR + 2× Mobile Surveillance Unit | $8,400-$10,600 |
 
 Includes 24/7 SOC, AI VisionStream, dock + gate LPR retention.
 
 ## What it looks like working
 
-A 3PL with 38 doors in the Mid-South was hit twice in 4 months for $620,000 in strategic cargo theft. VDS deployed Boundary Guard Pro on the south fence, Swift Deploy with LPR at the guard gate, and AI VisionStream integration with their dispatch schedule. In the next 11 months: **2 attempted unauthorized hookups, both stopped at audio talk-down with LE dispatched, $0 successful losses, 1 arrest tied to a regional
+A 3PL with 38 doors in the Mid-South was hit twice in 4 months for $620,000 in strategic cargo theft. VDS deployed Mobile Surveillance Unit on the south fence, Mobile Surveillance Unit with LPR at the guard gate, and AI VisionStream integration with their dispatch schedule. In the next 11 months: **2 attempted unauthorized hookups, both stopped at audio talk-down with LE dispatched, $0 successful losses, 1 arrest tied to a regional

@@ -114,42 +114,4 @@ const others = allEntries
         </div>
       </div>
     </section>
-  )}
-
-  <!-- Body content -->
-  <section class="py-16 bg-white">
-    <div class="container-wide">
-      <div class="max-w-3xl mx-auto">
-        <article class="prose-vds"><Content /></article>
-      </div>
-    </div>
-  </section>
-
-  <!-- Other analytics -->
-  {others.length > 0 && (
-    <section class="bg-offwhite py-16">
-      <div class="container-wide">
-        <div class="eyebrow mb-3">More analytics</div>
-        <h2 class="font-display text-navy text-3xl mb-8">Other modules you can activate.</h2>
-        <div class="grid md:grid-cols-3 gap-5">
-          {others.map((o: any) => (
-            <a href={o.data.url} class="group bg-white border border-slate-200 rounded-xl overflow-hidden hover:border-orange hover:shadow-lg transition-all">
-              {o.data.analyticImage && (
-                <div class="aspect-[16/10] bg-navy overflow-hidden relative">
-                  <img src={o.data.analyticImage} alt={o.data.h1} loading="lazy" class="absolute inset-0 w-full h-full object-cover" />
-                </div>
-              )}
-              <div class="p-5">
-                <h3 class="font-display text-lg text-navy group-hover:text-orange transition-colors mb-1">{o.data.h1}</h3>
-                <p class="text-sm text-slate-600 leading-relaxed line-clamp-2">{o.data.heroSubhead}</p>
-              </div>
-            </a>
-          ))}
-        </div>
-      </div>
-    </section>
-  )}
-
-  <FAQAccordion heading="Frequently asked questions" faqs={page.faq} />
-  {page.finalCTAHeading && <FinalCTAStrip heading={page.finalCTAHeading} body={page.finalCTABody} buttons={page.finalCTAButtons || []} />}
-</Layout>
+  )}

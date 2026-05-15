@@ -29,18 +29,18 @@ faq:
 - q: Does GoView have a 24/7 SOC?
   a: Confirm with GoView directly. VDS operates a 24/7 in-house US SOC with documented escalation times.
 - q: What is the lowest VDS monthly price?
-  a: Swift Deploy starts at $1,500/mo and includes hardware, AI VisionStream, and SOC monitoring. There is no separate platform fee.
+  a: Mobile Surveillance Unit starts at $1,500/mo and includes hardware, AI VisionStream, and SOC monitoring. There is no separate platform fee.
 - q: Can VDS ingest cameras I already own?
   a: Yes. AI VisionStream is camera-agnostic via ONVIF/RTSP. If you have existing fixed cameras at your sites, we ingest them and apply the AI layer.
 - q: Is the data stored in the US?
   a: Yes. All AI VisionStream footage lives in US AWS regions only, encrypted with AES-256 at rest and TLS 1.3 in transit.
 finalCTAHeading: Get the GoView side-by-side
-finalCTABody: Send us a GoView quote and we will map it line-by-line against VDS Swift Deploy or Sky Guard. 24-hour turnaround.
+finalCTABody: Send us a GoView quote and we will map it line-by-line against VDS Mobile Surveillance Unit or Mobile Surveillance Unit. 24-hour turnaround.
 finalCTAButtons:
 - label: Get the side-by-side
   url: /contact-us/
 schemaType: Article
-internalLinks: /products/swift-deploy-surveillance-trailer, /products/sky-guard, /platform/platform, /platform/soc, /compliance/ndaa, /compare
+internalLinks: /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /platform/platform, /platform/soc, /compliance/ndaa, /compare
 canonical: https://visiondetectionsystems.com/compare/vds-vs-goview
 ogTitle: VDS vs. GoView
 ogDescription: VDS vs. GoView side-by-side. AI platform depth, 24/7 US SOC, NDAA, 500+ deployments vs. a smaller rent/purchase vendor. Pricing and migration included.
@@ -81,7 +81,7 @@ The mobile surveillance market has small rent/purchase vendors (GoView is one) a
 
 ## Where GoView wins
 
-**Lowest-end pricing if you have a narrow scope.** If your budget is tight and you need a basic camera trailer for a short window with minimal software requirements, a smaller rent vendor like GoView may come in below VDS Swift Deploy on price alone.
+**Lowest-end pricing if you have a narrow scope.** If your budget is tight and you need a basic camera trailer for a short window with minimal software requirements, a smaller rent vendor like GoView may come in below VDS Mobile Surveillance Unit on price alone.
 
 **Short-cycle rentals.** Smaller vendors sometimes accept very short rental terms that larger operators do not optimize for.
 
@@ -99,15 +99,15 @@ The mobile surveillance market has small rent/purchase vendors (GoView is one) a
 
 **Scale and references.** 500+ deployments across 30+ states. Hero case study with measurable dollar outcomes.
 
-**Published pricing.** Swift Deploy from $1,500/mo. Boundary Guard Pro from $1,800/mo. Sky Guard from $2,200/mo. Sky Guard purchase from $38,000.
+**Published pricing.** Mobile Surveillance Unit from $1,500/mo. Mobile Surveillance Unit from $1,800/mo. Mobile Surveillance Unit from $2,200/mo. Mobile Surveillance Unit purchase from $38,000.
 
 ## Pricing comparison
 
 | Product | VDS published | GoView |
 |---|---|---|
-| Solar mobile unit, monthly | From $1,500/mo (Swift Deploy) | Partial — site quote |
-| Premium MSU monthly | From $2,200/mo (Sky Guard) | Partial — site quote |
-| Purchase | From $38,000 (Sky Guard) | By quote |
+| Solar mobile unit, monthly | From $1,500/mo (Mobile Surveillance Unit) | Partial — site quote |
+| Premium MSU monthly | From $2,200/mo (Mobile Surveillance Unit) | Partial — site quote |
+| Purchase | From $38,000 (Mobile Surveillance Unit) | By quote |
 | AI platform | Included | Not bundled |
 | 24/7 SOC | Included | Confirm scope |
 

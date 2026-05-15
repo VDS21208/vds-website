@@ -1,5 +1,5 @@
 ---
-url: /locations/products/mobile-surveillance-trailerscharlotte
+url: /locations/products/mobile-surveillance-unitcharlotte
 collection: locations-city
 pageType: City Detail
 parent: /locations/mobile-surveillance-trailers
@@ -37,8 +37,8 @@ finalCTAButtons:
 - label: Request a Charlotte quote
   url: /contact-us/
 schemaType: LocalBusiness
-internalLinks: /locations/mobile-surveillance-trailers, /locations/north-carolina, /products/sky-guard-mobile-surveillance-trailer, /industries/construction-security, /industries/utility-substation-security, /industries/auto-dealer-security
-canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailerscharlotte
+internalLinks: /locations/mobile-surveillance-trailers, /locations/north-carolina, /products/mobile-surveillance-unit, /industries/construction-security, /industries/utility-substation-security, /industries/auto-dealer-security
+canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-unitcharlotte
 ogTitle: Mobile surveillance trailers in Charlotte, NC
 ogDescription: Mobile surveillance trailers across Charlotte metro — uptown, South End, University City. Banking, construction, utility substations. NC eVA eligible.
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg
@@ -70,7 +70,7 @@ We cover Mecklenburg, Union, Cabarrus, Gaston, Iredell, and York (SC) counties f
 
 ## A Charlotte-area deployment
 
-A regional general contractor running a 23-acre South End mixed-use development signed three Sky Guard MSUs at $2,200/mo each after a copper-theft incident on a competing site nearby. We deployed within 60 hours of contract sign. In the first 90 days the SOC handled 31 verified perimeter escalations, average dispatch acknowledgment under 60 seconds, and Charlotte-Mecklenburg PD made two arrests on a recurring after-hours trespass crew. The GC has since standardized on VDS across its Carolinas portfolio.
+A regional general contractor running a 23-acre South End mixed-use development signed three Mobile Surveillance Units at $2,200/mo each after a copper-theft incident on a competing site nearby. We deployed within 60 hours of contract sign. In the first 90 days the SOC handled 31 verified perimeter escalations, average dispatch acknowledgment under 60 seconds, and Charlotte-Mecklenburg PD made two arrests on a recurring after-hours trespass crew. The GC has since standardized on VDS across its Carolinas portfolio.
 
 ## Local compliance note
 

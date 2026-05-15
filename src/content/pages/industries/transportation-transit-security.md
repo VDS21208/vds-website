@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Get a Yard Assessment
   url: /contact-us/
 schemaType: Article
-internalLinks: /products/sky-guard | /products/boundary-guard-pro | /products/swift-deploy-surveillance-trailer | /platform/platform | /compliance/ndaa
+internalLinks: /products/mobile-surveillance-unit | /products/mobile-surveillance-unit | /products/mobile-surveillance-unit | /platform/platform | /compliance/ndaa
 canonical: https://visiondetectionsystems.com/industries/transportation-transit-security
 ogTitle: Rail Yards, Bus Depots, and Port Terminals — Continuous Surveillance Across Acreage and Federal
 ogDescription: Mobile surveillance for rail yards, bus depots, port terminals, and vehicle lots. NDAA-compliant, TSA-aligned, 24/7 US SOC, AI LPR on every gate.
@@ -60,13 +60,13 @@ TSA-regulated passenger rail and transit agencies operate under specific Securit
 
 ## Recommended VDS configuration
 
-**Vehicle storage yards and bus depots:** Sky Guard MSU at $2,200/mo. 30-foot mast clears bus and rail equipment. AI LPR on the gate. PTZ coverage of vehicle rows and the fuel island.
+**Vehicle storage yards and bus depots:** Mobile Surveillance Unit at $2,200/mo. 30-foot mast clears bus and rail equipment. AI LPR on the gate. PTZ coverage of vehicle rows and the fuel island.
 
-**Rail yard perimeter:** Sky Guard plus Boundary Guard Pro at $1,800/mo. 500 feet of AI fence-line detection per unit. Person-vs-vehicle classification. Mobile units relocate as the yard configuration changes through the season.
+**Rail yard perimeter:** Mobile Surveillance Unit plus Mobile Surveillance Unit at $1,800/mo. 500 feet of AI fence-line detection per unit. Person-vs-vehicle classification. Mobile units relocate as the yard configuration changes through the season.
 
-**Port terminals and intermodal yards:** Sky Guard for high-mast coverage of container stacks. AI LPR at every truck gate. Integration with the terminal operating system on prior deployments via AI VisionStream's API.
+**Port terminals and intermodal yards:** Mobile Surveillance Unit for high-mast coverage of container stacks. AI LPR at every truck gate. Integration with the terminal operating system on prior deployments via AI VisionStream's API.
 
-**Maintenance facilities and fuel islands:** Swift Deploy at $1,500/mo for tighter coverage. Audio talk-down for after-hours fuel theft.
+**Maintenance facilities and fuel islands:** Mobile Surveillance Unit at $1,500/mo for tighter coverage. Audio talk-down for after-hours fuel theft.
 
 ## The numbers
 
@@ -84,4 +84,4 @@ US-only AWS infrastructure. TLS 1.3 / AES-256. RBAC and MFA on every account.
 
 ## What it replaces
 
-A typical mid-sized transit yard runs a guard program at $400-800K/year for perimeter coverage. Three Sky Guard units and two Boundary Guard Pro fence-li
+A typical mid-sized transit yard runs a guard program at $400-800K/year for perimeter coverage. Three Mobile Surveillance Unit units and two Mobile Surveillance Unit fence-li

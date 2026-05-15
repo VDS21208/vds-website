@@ -26,9 +26,9 @@ faq:
 - q: Can you cover a yard before the building is finished?
   a: Yes. Mobile units deploy in 24 hours and run on solar — no utility hookup required. Construction-phase coverage is one of our most common use cases.
 - q: How fast can we relocate units when our trailer pool moves?
-  a: Same day. Sky Guard units tow on a standard trailer hitch. The cameras, the cloud, the SOC routing — everything follows the unit.
+  a: Same day. Mobile Surveillance Unit units tow on a standard trailer hitch. The cameras, the cloud, the SOC routing — everything follows the unit.
 - q: Will the AI catch a person on foot crossing the yard at night?
-  a: Yes. Boundary Guard Pro classifies person vs. vehicle in real time. A coyote crossing the yard won't trigger an alert. A person crossing the yard will trigger an alert in under three seconds.
+  a: Yes. Mobile Surveillance Unit classifies person vs. vehicle in real time. A coyote crossing the yard won't trigger an alert. A person crossing the yard will trigger an alert in under three seconds.
 - q: Do you integrate with our existing camera system?
   a: Yes. AI VisionStream is ONVIF/RTSP camera-agnostic. Your existing dock and dock-door cameras feed the same dashboard as the mobile units, with unified LPR and search.
 - q: What does your SOC actually do when an alert fires?
@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Get a Yard Coverage Plan
   url: /request-a-quote/
 schemaType: Article
-internalLinks: /products/sky-guard | /products/boundary-guard-pro | /products/swift-deploy-surveillance-trailer | /platform/platform | /industries
+internalLinks: /products/mobile-surveillance-unit | /products/mobile-surveillance-unit | /products/mobile-surveillance-unit | /platform/platform | /industries
 canonical: https://visiondetectionsystems.com/industries/warehouse-logistics-security
 ogTitle: Warehouse & Logistics Security
 ogDescription: Mobile surveillance for warehouses, distribution centers, and dock yards. Solar-autonomous, AI LPR, 24/7 US SOC. Cargo theft loss >$15B/yr.
@@ -103,7 +103,7 @@ resolve correctly on the new site before publishing.
 
 ## How VDS Solves It
 
-<p>VDS provides perimeter and dock monitoring with LPR logging on every inbound and outbound truck, AI detection of unusual after-hours activity, and SOC response in under 60 seconds. Combined with Solar Camera Poles at dock positions, VDS creates a complete cargo security program that scales with your operation — no trenching, no downtime, deployable in hours.</p>
+<p>VDS provides perimeter and dock monitoring with LPR logging on every inbound and outbound truck, AI detection of unusual after-hours activity, and SOC response in under 60 seconds. Combined with Solar-Powered Surveillance Kit at dock positions, VDS creates a complete cargo security program that scales with your operation — no trenching, no downtime, deployable in hours.</p>
 
 <p>The complete workflow delivers verified response: AI VisionStream detects unauthorized activity and filters 97% of false triggers before reaching human operators. Within 60 seconds, SOC personnel verify the threat through live video, issue audio challenges via PA system, and coordinate police dispatch with real-time video feeds. Every incident generates timestamped evidence-grade documentation for insurance claims and law enforcement investigation.</p>
 
@@ -135,7 +135,7 @@ resolve correctly on the new site before publishing.
 
 ## Deployment Model
 
-<p>VDS warehouse deployments begin with a site assessment call to identify high-risk areas: loading dock visibility, trailer staging zones, perimeter access points, and shift change vulnerabilities. The coverage plan positions mobile surveillance trailers for maximum dock and yard visibility while Solar Camera Poles cover individual bay doors and gate chokepoints.</p>
+<p>VDS warehouse deployments begin with a site assessment call to identify high-risk areas: loading dock visibility, trailer staging zones, perimeter access points, and shift change vulnerabilities. The coverage plan positions mobile surveillance trailers for maximum dock and yard visibility while Solar-Powered Surveillance Kit cover individual bay doors and gate chokepoints.</p>
 
 <p>Unlike fixed installations requiring 2–6 weeks and infrastructure investment, VDS trailers deploy in hours and reposition as operations change. Multi-site logistics operators use trailer rotation strategies, moving units between facilities based on seasonal volume, inventory value, and incident history. Cellular connectivity eliminates network infrastructure requirements while cloud-based AI VisionStream provides unified monitoring across all locations.</p>
 

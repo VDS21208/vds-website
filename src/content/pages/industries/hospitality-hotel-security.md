@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Get Hotel Pricing
   url: /schedule-a-demo/
 schemaType: Article
-internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/boundary-guard-pro, /platform/soc, /industries/hospitality-healthcare-security, /industries
+internalLinks: /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /platform/soc, /industries/hospitality-healthcare-security, /industries
 canonical: https://visiondetectionsystems.com/industries/hospitality-hotel-security
 ogTitle: Hotel Parking and Perimeter Security
 ogDescription: Mobile surveillance for hotel parking lots, valet zones, pool decks, and vendor delivery areas. Cut guest theft, vehicle break-ins, and vendor liability
@@ -75,8 +75,8 @@ Typical use cases:
 
 ## Recommended configuration
 
-- **Limited-service hotel, single parking lot:** one Sky Guard MSU at $2,200/mo covering main lot and side ingress.
-- **Full-service hotel with valet, pool, and vendor dock:** two Sky Guard MSUs plus Boundary Guard Pro at $1,800/mo with LPR for valet plate capture.
+- **Limited-service hotel, single parking lot:** one Mobile Surveillance Unit at $2,200/mo covering main lot and side ingress.
+- **Full-service hotel with valet, pool, and vendor dock:** two Mobile Surveillance Units plus Mobile Surveillance Unit at $1,800/mo with LPR for valet plate capture.
 - **Resort property with multiple lots and amenity zones:** scoped deployment, typically 3–6 units across guest parking, pool deck, and back-of-house.
 
 Retention configured at 30, 60, or 90 days. Insurance carriers commonly accept 60-day retention for slip-and-fall and vehicle-incident defense.

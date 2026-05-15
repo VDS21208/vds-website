@@ -38,7 +38,7 @@ finalCTAButtons:
 - label: Scope a US program
   url: /contact-us/
 schemaType: Article
-internalLinks: /products/sky-guard, /platform/soc, /compliance/ndaa, /platform/platform, /partners, /compare
+internalLinks: /products/mobile-surveillance-unit, /platform/soc, /compliance/ndaa, /platform/platform, /partners, /compare
 canonical: https://visiondetectionsystems.com/compare/vds-vs-zedcor
 ogTitle: VDS vs. Zedcor
 ogDescription: 'VDS is the US mobile surveillance operator. Zedcor is Canada''s largest. Side-by-side: NDAA, AWS US-only data residency, pricing, cross-border programs.'
@@ -63,7 +63,7 @@ Zedcor and VDS are often shortlisted together by North American buyers — energ
 | Ownership structure | Private | Public — TSX-V: ZDC |
 | Year founded | 2017 | 2008 |
 | Primary geography | United States (30+ states) | Canada (national, AB/SK/BC strength) |
-| Owns the hardware | Yes — Sky Guard MSU, Swift Deploy, Boundary Guard Pro | Yes — MobileyeZ solar units |
+| Owns the hardware | Yes — Mobile Surveillance Unit, Mobile Surveillance Unit, Mobile Surveillance Unit | Yes — MobileyeZ solar units |
 | Solar autonomous | Yes | Yes |
 | AI platform | AI VisionStream — proprietary, 7 years mature | Third-party VMS, growing AI overlay |
 | 24/7 SOC | Yes — in-house US SOC, <60s escalation | Yes — in-house Canadian operators |
@@ -89,7 +89,7 @@ Zedcor and VDS are often shortlisted together by North American buyers — energ
 
 **US AWS-only data residency.** All AI VisionStream footage is encrypted at rest with AES-256 in US AWS regions only. TLS 1.3 in transit. Immutable 12-month audit log. RBAC and MFA enforced.
 
-**Published pricing.** Sky Guard MSU from $2,200/mo, Swift Deploy from $1,500/mo, Boundary Guard Pro from $1,800/mo. Sky Guard purchase from $38,000. Zedcor pricing is by quote.
+**Published pricing.** Mobile Surveillance Unit from $2,200/mo, Mobile Surveillance Unit from $1,500/mo, Mobile Surveillance Unit from $1,800/mo. Mobile Surveillance Unit purchase from $38,000. Zedcor pricing is by quote.
 
 **7-year AI platform maturity.** AI VisionStream is camera-agnostic (ONVIF/RTSP), 95%+ LPR accuracy in under 3 seconds, 30/60/90-day cloud retention options, and feeds the SOC's 97% false-alarm reduction.
 
@@ -99,9 +99,9 @@ Zedcor and VDS are often shortlisted together by North American buyers — energ
 
 | Product | VDS published | Zedcor published |
 |---|---|---|
-| Solar mobile unit, monthly rental | From $1,500/mo (Swift Deploy) | By quote |
-| Premium MSU monthly | From $2,200/mo (Sky Guard) | By quote |
-| Purchase option | From $38,000 (Sky Guard) | By quote |
+| Solar mobile unit, monthly rental | From $1,500/mo (Mobile Surveillance Unit) | By quote |
+| Premium MSU monthly | From $2,200/mo (Mobile Surveillance Unit) | By quote |
+| Purchase option | From $38,000 (Mobile Surveillance Unit) | By quote |
 | Cloud retention | 30/60/90-day included tiers | By quote |
 | 24/7 SOC monitoring | Included | Included |
 

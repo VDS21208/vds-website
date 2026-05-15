@@ -26,7 +26,7 @@ faq:
 - q: How fast can VDS deploy in a state where you don't have pre-staged inventory?
   a: 7-14 business days for a new-build unit shipped from Pikesville. Redeploys from existing fleet inventory typically run 3-5 days regardless of state.
 - q: Do you charge more for distant states?
-  a: 'Monthly rates are flat: Sky Guard MSU $2,200/mo, Swift Deploy $1,500/mo, Boundary Guard Pro $1,800/mo. One-time deployment freight scales with distance from Pikesville. Quote includes both.'
+  a: 'Monthly rates are flat: Mobile Surveillance Unit $2,200/mo, Mobile Surveillance Unit $1,500/mo, Mobile Surveillance Unit $1,800/mo. One-time deployment freight scales with distance from Pikesville. Quote includes both.'
 - q: Which procurement vehicles can I use?
   a: ' (contract #042021-VDS-equivalent terms), GSA Schedule, and several state-level cooperative contracts. Ask the regional lead which applies to your entity.'
 - q: Does VDS deploy across multiple states for the same customer?
@@ -50,7 +50,7 @@ tags: service area, mobile surveillance near me
 
 We ship from a single assembly facility in Pikesville, Maryland, and pre-stage units in regional yards near high-demand metros. Mid-Atlantic deployments land in 24-48 hours. Texas, Florida, California, and other distant states stage in 5-10 business days for new builds, faster for redeploys from existing fleet inventory.
 
-Every unit ships with the same Sky Guard MSU ($2,200/mo), Swift Deploy ($1,500/mo), or Boundary Guard Pro ($1,800/mo) hardware spec. Camera-agnostic VMS in the cloud. Monitored from our US Security Operations Center, not offshore.
+Every unit ships with the same Mobile Surveillance Unit ($2,200/mo), Mobile Surveillance Unit ($1,500/mo), or Mobile Surveillance Unit ($1,800/mo) hardware spec. Camera-agnostic VMS in the cloud. Monitored from our US Security Operations Center, not offshore.
 
 ## What's on each state page
 

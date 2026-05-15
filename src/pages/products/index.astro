@@ -27,15 +27,19 @@ const products = all
     image: e.data.heroImage || '',
   }));
 
-// Map each product to an image (Webflow imagery)
+// Map each product to its catalog image
 const PRODUCT_IMAGE: Record<string, string> = {
-  '/products/sky-guard-mobile-surveillance-trailer': '/assets/webflow/product-1.avif',
-  '/products/swift-deploy-surveillance-trailer': '/assets/webflow/product-2.avif',
-  '/products/boundary-guard-pro': '/assets/webflow/product-3.avif',
-  '/products/mobile-surveillance-trailers': '/assets/webflow/product-4.avif',
-  '/products/solar-camera-poles': '/assets/webflow/product-5.avif',
-  '/products/livescan-thermal-imaging': '/assets/webflow/camera-product.avif',
-  '/products/sentry-ai-monitoring': '/assets/webflow/frame-28.webp',
+  '/products/mobile-surveillance-unit': '/assets/products/mobile-surveillance-unit.png',
+  '/products/wall-mount-system': '/assets/products/wall-mount-system.png',
+  '/products/solar-powered-surveillance-kit': '/assets/products/solar-powered-surveillance-kit.png',
+  '/products/guardian-sentry-tower': '/assets/products/guardian-sentry-tower.png',
+  '/products/guardian-beacon-mlu': '/assets/products/guardian-beacon-mlu.png',
+  '/products/solarvolt-worksite-illuminator': '/assets/products/solarvolt-worksite-illuminator.png',
+  '/products/license-plate-recognition': '/assets/products/ai-analytics.png',
+  '/products/guard-booths': '/assets/products/security-booth.png',
+  '/products/medical-cooling-stations': '/assets/products/medical-cooling-booth.png',
+  '/products/custom-solutions': '/assets/webflow/frame-28.webp',
+  '/products/accessories': '/assets/webflow/product-5.avif',
 };
 function imageFor(url: string): string {
   return PRODUCT_IMAGE[url] || '/assets/webflow/camera-product.avif';
@@ -43,18 +47,22 @@ function imageFor(url: string): string {
 
 // Quick badges per product
 function badgeFor(url: string): string {
-  if (url.includes('sky-guard')) return 'Flagship';
-  if (url.includes('swift-deploy')) return 'Most popular';
-  if (url.includes('boundary-guard')) return 'Long-range';
+  if (url.includes('mobile-surveillance-unit')) return 'Flagship';
+  if (url.includes('wall-mount-system')) return 'Fixed install';
+  if (url.includes('solar-powered-surveillance-kit')) return 'Off-grid';
+  if (url.includes('license-plate-recognition')) return 'AI + Hardware';
+  if (url.includes('custom-solutions')) return 'Engineered';
+  if (url.includes('guardian') || url.includes('solarvolt')) return 'Lighting';
+  if (url.includes('booth')) return 'Site infra';
   return 'NDAA';
 }
 
-// 4 quick filter pills (visual only — pre-wired data attrs for future filtering)
+// 4 quick filter pills
 const filters = [
   { label: 'All products', value: 'all', count: products.length },
-  { label: 'Mobile trailers', value: 'trailer', count: products.filter(p => p.url.includes('trailer') || p.url.includes('msu')).length },
-  { label: 'Fixed / pole', value: 'pole', count: products.filter(p => p.url.includes('pole')).length },
-  { label: 'Software', value: 'software', count: products.filter(p => p.url.includes('sentry') || p.url.includes('livescan')).length },
+  { label: 'Surveillance', value: 'surveillance', count: products.filter(p => /mobile-surveillance-unit|wall-mount|solar-powered-surveillance-kit|license-plate/.test(p.url)).length },
+  { label: 'Lighting', value: 'lighting', count: products.filter(p => /guardian|solarvolt/.test(p.url)).length },
+  { label: 'Site infrastructure', value: 'site-infra', count: products.filter(p => /booth|medical-cooling|accessories/.test(p.url)).length },
 ];
 ---
 <Layout
@@ -112,30 +120,4 @@ const filters = [
       </div>
 
       <!-- Comparison teaser -->
-      <div class="mt-12 bg-white border border-slate-200 rounded-xl p-8 flex items-center justify-between flex-wrap gap-6">
-        <div class="flex items-center gap-4">
-          <div class="w-12 h-12 rounded-lg bg-orange/10 text-orange flex items-center justify-center">
-            <Icon name="split" size={22} />
-          </div>
-          <div>
-            <div class="font-display text-lg text-navy">Not sure which is right?</div>
-            <p class="text-sm text-slate-600 mt-0.5">Compare 11 mobile surveillance vendors side-by-side.</p>
-          </div>
-        </div>
-        <a href="/compare/" class="inline-flex items-center gap-2 bg-navy text-white text-sm font-medium px-5 py-2.5 rounded-md hover:bg-navy-light transition-colors">
-          See the comparison <Icon name="arrow-right" size={14} />
-        </a>
-      </div>
-    </div>
-  </section>
-
-  <!-- Original content body below -->
-  <section class="py-16 md:py-20 bg-white">
-    <div class="container-main">
-      <div class="max-w-3xl mx-auto">
-        <article class="prose-vds"><Content /></article>
-      </div>
-    </div>
-  </section>
-  <PageBody body="" faq={page.faq} finalCTAHeading={page.finalCTAHeading} finalCTABody={page.finalCTABody} finalCTAButtons={page.finalCTAButtons} />
-</Layout>
+      <div 

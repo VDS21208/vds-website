@@ -24,7 +24,7 @@ heroStats:
 heroImage: ''
 faq:
 - q: Are you an approved vendor for Duke Energy?
-  a: Yes, across the Carolinas. Sky Guard MSU and Boundary Guard Pro are both on the approved list for substation and transmission asset protection.
+  a: Yes, across the Carolinas. Mobile Surveillance Unit and Mobile Surveillance Unit are both on the approved list for substation and transmission asset protection.
 - q: Can you cover EV battery plant construction sites at scale?
   a: Yes. These sites typically run 8-15 units across 200-500 acre footprints. We've executed similar deployments in three states.
 - q: How fast can you respond to a Duke Energy storm event?
@@ -37,7 +37,7 @@ finalCTAButtons:
 - label: Get an NC quote
   url: /contact-us/
 schemaType: LocalBusiness
-internalLinks: /industries/utility-substation-security, /industries/construction-site-security, /procurement/duke-energy, /products/boundary-guard-pro
+internalLinks: /industries/utility-substation-security, /industries/construction-site-security, /procurement/duke-energy, /products/mobile-surveillance-unit
 canonical: https://visiondetectionsystems.com/locations/north-carolina
 ogTitle: Mobile surveillance for North Carolina's growth corridor
 ogDescription: Mobile surveillance for Research Triangle Park construction, Duke Energy substations, NC manufacturing, and auto dealerships
@@ -58,9 +58,9 @@ We pre-stage inventory near Greensboro for Triangle and Triad coverage, and near
 
 ## Industries we protect in North Carolina
 
-**Construction.** RTP biotech and lab construction, Charlotte CBD commercial, Greensboro logistics, Wilmington coastal multifamily. Standard Sky Guard MSU perimeter coverage with Swift Deploy for interior asset zones and lay-down yards.
+**Construction.** RTP biotech and lab construction, Charlotte CBD commercial, Greensboro logistics, Wilmington coastal multifamily. Standard Mobile Surveillance Unit perimeter coverage with Mobile Surveillance Unit for interior asset zones and lay-down yards.
 
-**Utilities.** Duke Energy substations and transmission projects across the Carolinas. We're an approved supplier under Duke's vendor program. Sky Guard MSU for active construction and storm response, Boundary Guard Pro fixed-mount for permanent substation coverage.
+**Utilities.** Duke Energy substations and transmission projects across the Carolinas. We're an approved supplier under Duke's vendor program. Mobile Surveillance Unit for active construction and storm response, Mobile Surveillance Unit fixed-mount for permanent substation coverage.
 
 **Manufacturing and auto.** EV battery plant construction (Toyota Liberty, others), auto dealerships across Charlotte and the Triangle, and the growing aerospace supplier footprint near Greensboro and Kinston. Catalytic converter theft is the steady-state driver at dealerships; copper and equipment theft drives the industrial deployments.
 
@@ -74,7 +74,7 @@ Greensboro pre-stage covers most of the state in 48 hours from yard release.
 
 ## A North Carolina-area deployment
 
-A general contractor running a $90M biotech lab expansion in Durham asked us to cover an active lay-down yard with $1.2M in HVAC and mechanical equipment staged for installation. Two Sky Guard MSUs deployed in 5 business days. Eight-month coverage: 19 deterred entries, one arrest, zero successful equipment theft. Project's site safety manager extended the contract to a second RTP project mid-contract.
+A general contractor running a $90M biotech lab expansion in Durham asked us to cover an active lay-down yard with $1.2M in HVAC and mechanical equipment staged for installation. Two Mobile Surveillance Units deployed in 5 business days. Eight-month coverage: 19 deterred entries, one arrest, zero successful equipment theft. Project's site safety manager extended the contract to a second RTP project mid-contract.
 
 ## North Carolina compliance and procurement
 

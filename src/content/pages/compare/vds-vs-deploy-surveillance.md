@@ -34,12 +34,12 @@ faq:
 - q: How do I verify NDAA Section 889 compliance?
   a: Ask any vendor for a written component bill of materials and a 889 compliance statement. VDS provides both before contract.
 finalCTAHeading: Considering both? Get the side-by-side
-finalCTABody: We will pull your current vendor quote and map it line-by-line against VDS Swift Deploy or Sky Guard. 24-hour turnaround.
+finalCTABody: We will pull your current vendor quote and map it line-by-line against VDS Mobile Surveillance Unit or Mobile Surveillance Unit. 24-hour turnaround.
 finalCTAButtons:
 - label: Get the side-by-side
   url: /contact-us/
 schemaType: Article
-internalLinks: /products/sky-guard, /products/swift-deploy-surveillance-trailer, /platform/platform, /platform/soc, /compliance/ndaa, /resources/case-studies/mid-atlantic-gc, /compare
+internalLinks: /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /platform/platform, /platform/soc, /compliance/ndaa, /resources/case-studies/mid-atlantic-gc, /compare
 canonical: https://visiondetectionsystems.com/compare/vds-vs-deploy-surveillance
 ogTitle: VDS vs. Deploy Surveillance
 ogDescription: VDS vs. Deploy Surveillance side-by-side. 500+ deployments, NDAA, 24/7 SOC, AI VisionStream vs. a smaller US mobile vendor. Honest comparison with pricing.
@@ -63,7 +63,7 @@ If you have searched "mobile surveillance" the brand names sometimes blur togeth
 | Headquarters | Pikesville, Maryland | United States |
 | Year founded | 2017 | Newer entrant |
 | Owns the hardware | Yes — three product lines | Yes |
-| Solar autonomous | Yes — Sky Guard, Swift Deploy, Boundary Guard Pro | Yes |
+| Solar autonomous | Yes — Mobile Surveillance Unit, Mobile Surveillance Unit, Mobile Surveillance Unit | Yes |
 | AI platform | AI VisionStream — proprietary, 7 years mature, camera-agnostic ONVIF/RTSP | Limited platform layer |
 | LPR accuracy | 95%+ at sub-3-second match | Not published |
 | 24/7 in-house US SOC | Yes — <60s escalation, 97% false-alarm reduction, audio talk-down, LE dispatch | Limited |
@@ -71,7 +71,7 @@ If you have searched "mobile surveillance" the brand names sometimes blur togeth
 | Cloud and data residency | US AWS regions only, TLS 1.3, AES-256, RBAC, MFA, 12-month immutable audit log | Unclear |
 | Retention | 30 / 60 / 90-day cloud tiers | By quote |
 | Field deployment count | 500+ deployments across 30+ states | Smaller |
-| Pricing transparency | Published — Swift Deploy from $1,500/mo, Sky Guard from $2,200/mo | By quote |
+| Pricing transparency | Published — Mobile Surveillance Unit from $1,500/mo, Mobile Surveillance Unit from $2,200/mo | By quote |
 | Hero customer outcome | $340,800 saved in 12 months, 73% theft reduction, $0 insurance claims (Mid-Atlantic GC, $28M project) | Not published |
 | Camera-agnostic VMS | Yes — works with existing ONVIF/RTSP cameras | Limited |
 
@@ -93,7 +93,7 @@ If you have searched "mobile surveillance" the brand names sometimes blur togeth
 
 **NDAA Section 889 in writing.** Required for federal contracts, federally-funded projects, and most large GC master agreements. We hand you the bill of materials.
 
-**Published pricing.** Sky Guard MSU from $2,200/mo. Swift Deploy from $1,500/mo. Boundary Guard Pro from $1,800/mo. Sky Guard purchase from $38,000. No quote-walls.
+**Published pricing.** Mobile Surveillance Unit from $2,200/mo. Mobile Surveillance Unit from $1,500/mo. Mobile Surveillance Unit from $1,800/mo. Mobile Surveillance Unit purchase from $38,000. No quote-walls.
 
 **Hero outcome data.** $28M Mid-Atlantic GC — 73% theft reduction, $0 insurance claims, $340,800 saved in 12 months. Numbers are the comparison.
 
@@ -101,9 +101,9 @@ If you have searched "mobile surveillance" the brand names sometimes blur togeth
 
 | Product | VDS published | Deploy Surveillance |
 |---|---|---|
-| Solar mobile unit, monthly | From $1,500/mo (Swift Deploy) | By quote |
-| Premium MSU monthly | From $2,200/mo (Sky Guard) | By quote |
-| Purchase | From $38,000 (Sky Guard) | By quote |
+| Solar mobile unit, monthly | From $1,500/mo (Mobile Surveillance Unit) | By quote |
+| Premium MSU monthly | From $2,200/mo (Mobile Surveillance Unit) | By quote |
+| Purchase | From $38,000 (Mobile Surveillance Unit) | By quote |
 
 ## Switching from Deploy Surveillance to VDS
 

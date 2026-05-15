@@ -37,7 +37,7 @@ finalCTAButtons:
 - label: Get a California quote
   url: /contact-us/
 schemaType: LocalBusiness
-internalLinks: /compliance/ccpa, /industries/retail-orc, /industries/cannabis, /products/swift-deploy-surveillance-trailer
+internalLinks: /compliance/ccpa, /industries/retail-orc, /industries/cannabis, /products/mobile-surveillance-unit
 canonical: https://visiondetectionsystems.com/locations/california
 ogTitle: Mobile surveillance for California's loss problem
 ogDescription: California mobile surveillance for ORC retail, construction, and cannabis. CCPA-aligned data retention. 7-10 day deployment across Bay Area, LA, San Diego
@@ -58,11 +58,11 @@ We're active across the Bay Area, Los Angeles, San Diego, the Inland Empire, and
 
 ## Industries we protect in California
 
-**Retail and ORC response.** Bay Area smash-and-grab incidents that hit national news in 2023 didn't stop in 2024. We deploy Swift Deploy and Sky Guard MSU around parking decks, distribution centers, and high-loss store locations for several national retail chains. SOC-monitored voice-down deterrent reduces 97% of false alarm escalation and gets PD on real incidents faster.
+**Retail and ORC response.** Bay Area smash-and-grab incidents that hit national news in 2023 didn't stop in 2024. We deploy Mobile Surveillance Unit and Mobile Surveillance Unit around parking decks, distribution centers, and high-loss store locations for several national retail chains. SOC-monitored voice-down deterrent reduces 97% of false alarm escalation and gets PD on real incidents faster.
 
 **Construction.** LA County multifamily, Inland Empire industrial, Bay Area infrastructure. Material theft (copper, lumber, equipment) is the baseline driver, with after-hours encampment response on urban sites in SF and LA proper.
 
-**Licensed cannabis.** California's licensed cultivation and retail sector requires extensive video surveillance under CCR Title 16 and local jurisdiction rules. We deploy NDAA-compliant Boundary Guard Pro for cultivation perimeters and Swift Deploy for retail dispensary lots, with retention configured to license requirements (typically 90 days for cannabis, longer than our default).
+**Licensed cannabis.** California's licensed cultivation and retail sector requires extensive video surveillance under CCR Title 16 and local jurisdiction rules. We deploy NDAA-compliant Mobile Surveillance Unit for cultivation perimeters and Mobile Surveillance Unit for retail dispensary lots, with retention configured to license requirements (typically 90 days for cannabis, longer than our default).
 
 ## Coverage and lead time
 
@@ -74,7 +74,7 @@ California inventory pre-stages in Ontario (Inland Empire) for SoCal and Stockto
 
 ## A California-area deployment
 
-A Bay Area-based developer running two podium-construction multifamily projects in Oakland and Hayward was losing roughly $11,000/month between copper, lumber, and tool theft, plus periodic encampment-related vandalism. Four Sky Guard MSUs deployed in 8 business days. Twelve-month coverage: 67 deterred entry attempts, four arrests via SOC-dispatched Oakland PD and Hayward PD, an 84% reduction in successful theft incidents. The developer extended the contract to a third Concord site.
+A Bay Area-based developer running two podium-construction multifamily projects in Oakland and Hayward was losing roughly $11,000/month between copper, lumber, and tool theft, plus periodic encampment-related vandalism. Four Mobile Surveillance Units deployed in 8 business days. Twelve-month coverage: 67 deterred entry attempts, four arrests via SOC-dispatched Oakland PD and Hayward PD, an 84% reduction in successful theft incidents. The developer extended the contract to a third Concord site.
 
 ## California compliance and procurement
 

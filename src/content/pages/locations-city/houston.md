@@ -1,5 +1,5 @@
 ---
-url: /locations/products/mobile-surveillance-trailershouston
+url: /locations/products/mobile-surveillance-unithouston
 collection: locations-city
 pageType: City Detail
 parent: /locations/mobile-surveillance-trailers
@@ -37,8 +37,8 @@ finalCTAButtons:
 - label: Request a Houston quote
   url: /contact-us/
 schemaType: LocalBusiness
-internalLinks: /locations/mobile-surveillance-trailers, /locations/texas, /products/sky-guard-mobile-surveillance-trailer, /products/boundary-guard-pro, /industries/oil-gas-security, /industries/port-logistics, /industries/petrochemical-security
-canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailershouston
+internalLinks: /locations/mobile-surveillance-trailers, /locations/texas, /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /industries/oil-gas-security, /industries/port-logistics, /industries/petrochemical-security
+canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-unithouston
 ogTitle: Mobile surveillance trailers in Houston, TX
 ogDescription: Mobile surveillance trailers across Houston — oil & gas, Port of Houston, petrochem, construction. Hurricane redeploy. Rated to 120F. NDAA 889 compliant.
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg
@@ -72,7 +72,7 @@ Heat note: VDS units are rated to 120F. The solar array is sized for Gulf Coast 
 
 ## A Houston-area deployment
 
-A petrochemical contractor running a multi-month Ship Channel turnaround signed three Sky Guard MSUs at $2,200/mo each plus one Boundary Guard Pro at $1,800/mo to cover the contractor-parking and tool-laydown perimeter. We deployed within 80 hours of contract sign. In the first 60 days the SOC handled 27 verified escalations, with three theft attempts interrupted in real time. When a hurricane warning closed the Ship Channel mid-project, we pulled all four units off-site within 24 hours and redeployed them post-storm at no additional mobilization fee — the redeployment clause is standard in our Houston contracts.
+A petrochemical contractor running a multi-month Ship Channel turnaround signed three Mobile Surveillance Units at $2,200/mo each plus one Mobile Surveillance Unit at $1,800/mo to cover the contractor-parking and tool-laydown perimeter. We deployed within 80 hours of contract sign. In the first 60 days the SOC handled 27 verified escalations, with three theft attempts interrupted in real time. When a hurricane warning closed the Ship Channel mid-project, we pulled all four units off-site within 24 hours and redeployed them post-storm at no additional mobilization fee — the redeployment clause is standard in our Houston contracts.
 
 ## Local compliance note
 

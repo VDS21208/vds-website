@@ -1,5 +1,5 @@
 ---
-url: /locations/products/mobile-surveillance-trailerschicago
+url: /locations/products/mobile-surveillance-unitchicago
 collection: locations-city
 pageType: City Detail
 parent: /locations/mobile-surveillance-trailers
@@ -37,8 +37,8 @@ finalCTAButtons:
 - label: Request a Chicago quote
   url: /contact-us/
 schemaType: LocalBusiness
-internalLinks: /locations/mobile-surveillance-trailers, /locations/illinois, /products/swift-deploy-surveillance-trailer, /industries/retail-orc, /industries/construction-security, /industries/transit, /industries/rail-intermodal, /compliance/bipa
-canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailerschicago
+internalLinks: /locations/mobile-surveillance-trailers, /locations/illinois, /products/mobile-surveillance-unit, /industries/retail-orc, /industries/construction-security, /industries/transit, /industries/rail-intermodal, /compliance/bipa
+canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-unitchicago
 ogTitle: Mobile surveillance trailers in Chicago, IL
 ogDescription: Mobile surveillance trailers across Chicagoland. BIPA compliant. No biometrics, no facial recognition. Mag Mile retail, CTA/Metra transit
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg
@@ -70,7 +70,7 @@ We cover Cook, DuPage, Kane, Lake (IL), McHenry, and Will counties from a Chicag
 
 ## A Chicago-area deployment
 
-A Mag Mile retail loss-prevention director signed three Swift Deploy units ($4,500/mo combined) for flash-mob and after-hours coverage of two flagship locations during a stretch of organized retail theft incidents. Deployment power-on time: under 36 hours from contract sign. SOC handled 21 escalations in the first 90 days, including a documented flash-mob attempt that dispersed when CPD responded to a verified SOC dispatch. The retailer added a fourth unit two months later.
+A Mag Mile retail loss-prevention director signed three Mobile Surveillance Unit units ($4,500/mo combined) for flash-mob and after-hours coverage of two flagship locations during a stretch of organized retail theft incidents. Deployment power-on time: under 36 hours from contract sign. SOC handled 21 escalations in the first 90 days, including a documented flash-mob attempt that dispersed when CPD responded to a verified SOC dispatch. The retailer added a fourth unit two months later.
 
 ## Local compliance note
 

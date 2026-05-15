@@ -4,12 +4,12 @@ collection: products
 pageType: Product Detail
 parent: /products
 status: Launch
-seoTitle: Medical & Cooling Stations — OSHA Compliant Welfare | VDS
-metaDescription: OSHA-compliant cooling and medical stations for outdoor crews. Power, HVAC, seating, and first-aid integration. Pairs with VDS site infrastructure.
+seoTitle: Medical & Cooling Booth — Mobile Climate-Controlled Welfare Unit | VDS
+metaDescription: Mobile, climate-controlled safety booth for first aid, heat relief, and emergency response. OSHA-compliant. Power, HVAC, seating, first-aid integration.
 announcementBar: OSHA-compliant. Assembled in Pikesville, MD.
-h1: Welfare units that keep crews compliant and on the clock.
+h1: Medical & Cooling Booth
 heroEyebrow: Site Infrastructure
-heroSubhead: OSHA-compliant cooling and medical stations for crews working in heat, cold, or extended outdoor exposure. Power, HVAC, seating, and first-aid integration in one delivered unit.
+heroSubhead: A mobile, climate-controlled safety booth for first aid, heat relief, and emergency response needs. OSHA-compliant cooling and medical stations for crews working in heat, cold, or extended outdoor exposure. Power, HVAC, seating, and first-aid integration in one delivered unit.
 heroCTAPrimary:
   label: Request a Quote
   url: /request-a-quote
@@ -21,14 +21,14 @@ heroStats:
 - HVAC standard
 - Solar option
 - Delivered ready
-heroImage: ''
+heroImage: /assets/products/medical-cooling-booth.png''
 faq:
 - q: Are these mobile?
   a: Yes. Trailer-mounted or skid-mounted configurations available. Most customers move them with the project phase.
 - q: Do they meet OSHA heat illness standards?
   a: Yes. Sized and equipped to the OSHA heat injury and illness prevention framework. We will document compliance for your safety program.
 - q: Can you integrate site cameras?
-  a: Yes — most welfare units pair well with a Swift Deploy or Sky Guard nearby for site coverage. Same AI VisionStream account.
+  a: Yes — most welfare units pair well with a Mobile Surveillance Unit nearby for site coverage. Same AI VisionStream account.
 - q: What is the lead time?
   a: 3-6 weeks for standard configurations.
 finalCTAHeading: Spec a welfare unit.
@@ -39,9 +39,9 @@ finalCTAButtons:
 - label: Talk to an Engineer
   url: /contact-us
 schemaType: Product
-internalLinks: /products/guard-booths, /products/light-trailers, /industries/construction-site-security
+internalLinks: /products/guard-booths, /products/guardian-sentry-tower, /industries/construction-site-security
 canonical: https://visiondetectionsystems.com/products/medical-cooling-stations
-ogTitle: Welfare units that keep crews compliant and on the clock.
+ogTitle: Medical & Cooling Booth — Mobile Welfare Unit | VDS
 ogDescription: OSHA-compliant cooling and medical stations for outdoor crews. Power, HVAC, seating, and first-aid integration. Pairs with VDS site infrastructure.
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg
 ogType: product

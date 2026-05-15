@@ -38,7 +38,7 @@ finalCTAButtons:
 - label: I need a fixed-site quote
   url: /compare/top-mobile-surveillance-companies/
 schemaType: Article
-internalLinks: /products/sky-guard, /products/swift-deploy-surveillance-trailer, /products/boundary-guard-pro, /platform/platform, /platform/soc, /compare/top-mobile-surveillance-companies, /compare
+internalLinks: /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /platform/platform, /platform/soc, /compare/top-mobile-surveillance-companies, /compare
 canonical: https://visiondetectionsystems.com/compare/fixed-site-vs-fleet-surveillance
 ogTitle: Fixed-Site Mobile Surveillance vs. Fleet, In-Car, and Body-Worn Video
 ogDescription: Mobile surveillance trailers and fleet/in-car video are different markets. Here is how to tell which one you need, and the vendors that lead each.
@@ -114,4 +114,4 @@ The key is that the procurement, RFP language, evaluation criteria, and vendor l
 
 ## Where VDS wins inside fixed-site mobile surveillance
 
-500+ deployments across 30+ states. Three product lines (Sky Guard MSU, Swift Deploy, Boundary Guard Pro). AI VisionStream — camera-agnostic ONVIF/RTSP, 95%+ LPR at sub-3-second match. 24/7 in-house US SOC with sub-60-second escalation and 97% false-alarm reduction. NDA
+500+ deployments across 30+ states. Three product lines (Mobile Surveillance Unit, Mobile Surveillance Unit, Mobile Surveillance Unit). AI VisionStream — camera-agnostic ONVIF/RTSP, 95%+ LPR at sub-3-second match. 24/7 in-house US SOC with sub-60-second escalation and 97% false-alarm reduction. NDA

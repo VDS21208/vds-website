@@ -1,5 +1,5 @@
 ---
-url: /locations/products/mobile-surveillance-trailerslas-vegas
+url: /locations/products/mobile-surveillance-unitlas-vegas
 collection: locations-city
 pageType: City Detail
 parent: /locations/mobile-surveillance-trailers
@@ -37,8 +37,8 @@ finalCTAButtons:
 - label: Request a Vegas quote
   url: /contact-us/
 schemaType: LocalBusiness
-internalLinks: /locations/mobile-surveillance-trailers, /locations/nevada, /products/sky-guard-mobile-surveillance-trailer, /products/boundary-guard-pro, /industries/construction-security, /industries/event-security, /industries/parking-garage-security
-canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailerslas-vegas
+internalLinks: /locations/mobile-surveillance-trailers, /locations/nevada, /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /industries/construction-security, /industries/event-security, /industries/parking-garage-security
+canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-unitlas-vegas
 ogTitle: Mobile surveillance trailers in Las Vegas, NV
 ogDescription: Mobile surveillance trailers across Las Vegas metro — Strip and downtown construction, new arenas and casinos, trade-show staging, parking garages
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg
@@ -74,7 +74,7 @@ Heat note: VDS units are rated to 120F. Battery thermal management is engineered
 
 ## A Vegas-area deployment
 
-A general contractor running a new entertainment-venue construction site off the Strip signed three Sky Guard MSUs at $2,200/mo each plus one Boundary Guard Pro at $1,800/mo to cover materials laydown and contractor parking. We deployed within 90 hours of contract sign. In the first 60 days the SOC handled 22 verified perimeter escalations, average dispatch acknowledgment under 60 seconds, and LVMPD made one arrest on a recurring trespass attempt. The GC has since added a fourth unit at a Henderson mixed-use project.
+A general contractor running a new entertainment-venue construction site off the Strip signed three Mobile Surveillance Units at $2,200/mo each plus one Mobile Surveillance Unit at $1,800/mo to cover materials laydown and contractor parking. We deployed within 90 hours of contract sign. In the first 60 days the SOC handled 22 verified perimeter escalations, average dispatch acknowledgment under 60 seconds, and LVMPD made one arrest on a recurring trespass attempt. The GC has since added a fourth unit at a Henderson mixed-use project.
 
 ## Local compliance note
 

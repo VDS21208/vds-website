@@ -60,9 +60,9 @@ A mobile surveillance unit is a multi-thousand-dollar piece of equipment paired 
 
 The default VDS offering is a service plan: a monthly fee covering hardware use, monitoring, software, support, and unit replacement. No separate capital purchase, no separate financing.
 
-- Sky Guard MSU: $2,200/month
-- Swift Deploy: $1,500/month
-- Boundary Guard Pro: $1,800/month
+- Mobile Surveillance Unit: $2,200/month
+- Mobile Surveillance Unit: $1,500/month
+- Mobile Surveillance Unit: $1,800/month
 
 Terms are typically 12 months minimum, month-to-month thereafter. No down payment. No early-termination penalty after the 12-month commitment. Most customers stay on this structure for the life of the deployment because it is the simplest accounting treatment — pure OpEx, no asset on the balance sheet, no depreciation schedule.
 

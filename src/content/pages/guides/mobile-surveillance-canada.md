@@ -38,7 +38,7 @@ finalCTAButtons:
 - label: Talk about cross-border
   url: /contact-us/
 schemaType: Article
-internalLinks: /locations/canada, /locations/canada/toronto, /locations/canada/vancouver, /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /products/boundary-guard-pro, /company/about
+internalLinks: /locations/canada, /locations/canada/toronto, /locations/canada/vancouver, /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /company/about
 canonical: https://visiondetectionsystems.com/guides/mobile-surveillance-canada
 ogTitle: Mobile Surveillance in Canada — Regulatory and Operational Guide
 ogDescription: A practical guide to mobile surveillance in Canada — PIPEDA, provincial privacy law, cold-weather operations, NDAA equivalence, and vendor selection.
@@ -77,7 +77,7 @@ Alberta PIPA and BC PIPA each have their own breach notification triggers and op
 
 Solar-autonomous mobile surveillance works in Canada, including in winter. Three caveats:
 
-- **Operating temperature.** Sky Guard MSU is rated to -20F (-29C). That covers the vast majority of Canadian populated regions year-round. Extreme cold beyond that range is a hardware spec question, not a "does it work" question.
+- **Operating temperature.** Mobile Surveillance Unit is rated to -20F (-29C). That covers the vast majority of Canadian populated regions year-round. Extreme cold beyond that range is a hardware spec question, not a "does it work" question.
 - **Solar irradiance in winter.** Short December days at northern latitudes mean battery sizing matters more than panel wattage. A well-sized system rides through 5–7 day overcast stretches at Vancouver or Toronto latitudes. Further north, sizing changes.
 - **Snow load and panel orientation.** Steeper panel angles shed snow better. This is a deployment-time configuration, not a hardware redesign.
 

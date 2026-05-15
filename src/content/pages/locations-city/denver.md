@@ -1,5 +1,5 @@
 ---
-url: /locations/products/mobile-surveillance-trailersdenver
+url: /locations/products/mobile-surveillance-unitdenver
 collection: locations-city
 pageType: City Detail
 parent: /locations/mobile-surveillance-trailers
@@ -37,8 +37,8 @@ finalCTAButtons:
 - label: Request a Denver quote
   url: /contact-us/
 schemaType: LocalBusiness
-internalLinks: /locations/mobile-surveillance-trailers, /locations/colorado, /products/sky-guard-mobile-surveillance-trailer, /products/boundary-guard-pro, /industries/construction-security, /industries/oil-gas-security, /industries/cannabis-security
-canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailersdenver
+internalLinks: /locations/mobile-surveillance-trailers, /locations/colorado, /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /industries/construction-security, /industries/oil-gas-security, /industries/cannabis-security
+canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-unitdenver
 ogTitle: Mobile surveillance trailers in Denver, CO
 ogDescription: Mobile surveillance trailers across Denver metro — downtown construction, suburban data centers, dispensary parking lots, Niobrara oil & gas
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg
@@ -72,7 +72,7 @@ Cold-weather note: VDS units are rated to -20F. The solar array is sized for low
 
 ## A Denver-area deployment
 
-A data center general contractor running a 240-acre Aurora campus build-out signed two Boundary Guard Pro units at $1,800/mo each for the active construction perimeter, plus one Sky Guard MSU at $2,200/mo for the materials staging yard. We deployed within 84 hours of contract sign. In the first 120 days the SOC handled 19 verified perimeter escalations, with two arrests by Aurora PD on a copper-and-tooling theft crew. The GC has since added a fourth unit at a separate Northern Colorado project.
+A data center general contractor running a 240-acre Aurora campus build-out signed two Mobile Surveillance Unit units at $1,800/mo each for the active construction perimeter, plus one Mobile Surveillance Unit at $2,200/mo for the materials staging yard. We deployed within 84 hours of contract sign. In the first 120 days the SOC handled 19 verified perimeter escalations, with two arrests by Aurora PD on a copper-and-tooling theft crew. The GC has since added a fourth unit at a separate Northern Colorado project.
 
 ## Local compliance note
 

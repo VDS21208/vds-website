@@ -31,7 +31,7 @@ finalCTAButtons:
 - label: See How It Compares
   url: /compare
 schemaType: Article
-internalLinks: /industries/public-safety-law-enforcement-surveillance, /products/mobile-surveillance-trailers, /request-a-quote
+internalLinks: /industries/public-safety-law-enforcement-surveillance, /products/mobile-surveillance-unit, /request-a-quote
 canonical: https://visiondetectionsystems.com/resources/blog/how-police-mobile-surveillance-trailers-are-deployed
 ogTitle: How Police Mobile Surveillance Trailers Are Deployed
 ogDescription: Police mobile surveillance trailer deployment guide covering placement, night validation, monitoring workflows

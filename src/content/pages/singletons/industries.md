@@ -27,11 +27,11 @@ faq:
 - q: Do you sell hardware only, or is the SOC required?
   a: You can purchase hardware outright or as a monthly service that includes the SOC, AI VisionStream cloud, maintenance, and cellular. About 90% of customers choose the monthly model because the SOC is what turns recorded video into prevented loss.
 - q: Which vertical drives the most volume for VDS?
-  a: Construction by deployment count, government by contract size. Both rely on the same hardware — Sky Guard MSU, Swift Deploy, Solar Camera Poles — configured differently.
+  a: Construction by deployment count, government by contract size. Both rely on the same hardware — Mobile Surveillance Unit, Mobile Surveillance Unit, Solar-Powered Surveillance Kit — configured differently.
 - q: My industry isn't listed. Do you serve it?
   a: Probably. The 17 verticals are where we have repeated playbooks. If you have a perimeter, valuable assets behind it, and limited or no fixed power, we can size a configuration. Book an assessment.
 - q: How fast can you stand up a site?
-  a: A Swift Deploy unit is operational in 4 hours from arrival. A multi-unit construction site or substation perimeter takes 1-3 days depending on scale.
+  a: A Mobile Surveillance Unit unit is operational in 4 hours from arrival. A multi-unit construction site or substation perimeter takes 1-3 days depending on scale.
 finalCTAHeading: Find the configuration for your site
 finalCTABody: Tell us your industry, site size, and current loss profile. We'll respond within 24 hours with a sized configuration and pricing.
 finalCTAButtons:
@@ -53,7 +53,7 @@ We do not sell a generic camera package and call it a "solution." Every deployme
 
 The underlying stack is the same across every vertical:
 
-- **Solar-autonomous hardware** — Sky Guard MSU, Swift Deploy, Boundary Guard Pro, Solar Camera Poles. No trenching. No utility hookup. Operational in 4 hours.
+- **Solar-autonomous hardware** — Mobile Surveillance Unit, Mobile Surveillance Unit, Mobile Surveillance Unit, Solar-Powered Surveillance Kit. No trenching. No utility hookup. Operational in 4 hours.
 - **AI VisionStream cloud VMS** — intrusion zones, virtual tripwires, loitering and crowd detection, time-of-day rules, license plate recognition at 95%+ accuracy with sub-3-second alerts.
 - **24/7 US Security Operations Center** — Pikesville, MD. <60-second escalation. 97% false alarm reduction. Live audio talk-down and direct law enforcement dispatch.
 
@@ -69,7 +69,7 @@ What changes per industry is camera placement, analytics rule sets, escalation t
 
 **Auto Dealerships** — Catalytic converter theft, vehicle theft, after-hours liability. Rhodium is back to $10,400/oz in 2026 and converter claims remain elevated. Entry/exit LPR plus lot coverage closes the gap insurance won't.
 
-**Parking Lots & Garages** — Operators (LAZ, ABM, ParkMobile-class) facing vehicle break-in, vandalism, and assault liability. Center-of-lot Sky Guard plus perimeter poles deliver coverage without trenching the asphalt.
+**Parking Lots & Garages** — Operators (LAZ, ABM, ParkMobile-class) facing vehicle break-in, vandalism, and assault liability. Center-of-lot Mobile Surveillance Unit plus perimeter poles deliver coverage without trenching the asphalt.
 
 **Government & Public Safety** — Federal, state, municipal property — parks, motor pools, public works yards, water districts. NDAA Section 889 compliant. Available via and GSA cooperative purchasing. This is private-property surveillance, not community-wide camera networks.
 

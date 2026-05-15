@@ -4,12 +4,12 @@ collection: guides
 pageType: Guide Landing
 parent: /guides
 status: Launch
-seoTitle: 2026 Mobile Surveillance Pricing Guide | Sky Guard
-metaDescription: 2026 pricing for VDS Sky Guard MSU ($2,200/mo), Swift Deploy ($1,500/mo), and Boundary Guard Pro ($1,800/mo). Cooperative purchasing rates included.
+seoTitle: 2026 Mobile Surveillance Pricing Guide | Mobile Surveillance Unit
+metaDescription: 2026 pricing for VDS Mobile Surveillance Unit ($2,200/mo), Mobile Surveillance Unit ($1,500/mo), and Mobile Surveillance Unit ($1,800/mo). Cooperative purchasing rates included.
 announcementBar: ''
 h1: 2026 Mobile Surveillance Pricing Guide
 heroEyebrow: Effective January 2026
-heroSubhead: Published list pricing for Sky Guard MSU, Swift Deploy, and Boundary Guard Pro. SOC monitoring tiers, rental rates, multi-unit pricing, cooperative purchasing (, GSA Schedule), and the typical total cost of ownership for one- and three-year programs.
+heroSubhead: Published list pricing for Mobile Surveillance Unit, Mobile Surveillance Unit, and Mobile Surveillance Unit. SOC monitoring tiers, rental rates, multi-unit pricing, cooperative purchasing (, GSA Schedule), and the typical total cost of ownership for one- and three-year programs.
 heroCTAPrimary:
   label: Download the full pricing guide (PDF)
   url: /contact-us/
@@ -17,9 +17,9 @@ heroCTASecondary:
   label: Book a deployment review
   url: /contact-us
 heroStats:
-- Sky Guard MSU $2,200/mo
-- Swift Deploy $1,500/mo
-- Boundary Guard Pro $1,800/mo
+- Mobile Surveillance Unit $2,200/mo
+- Mobile Surveillance Unit $1,500/mo
+- Mobile Surveillance Unit $1,800/mo
 -  + GSA
 heroImage: ''
 faq:
@@ -32,17 +32,17 @@ faq:
 - q: What happens at contract renewal?
   a: Annual renewal at then-current published pricing. We typically increase rates 3-5% per year; locked-in multi-year contracts hedge against that.
 - q: Can I get pricing without filling out the form?
-  a: The list pricing is on this page (Sky Guard MSU $2,200/mo, Swift Deploy $1,500/mo, Boundary Guard Pro $1,800/mo). The gated PDF adds volume tiers, TCO tables, and the SLA in printable format for procurement files.
+  a: The list pricing is on this page (Mobile Surveillance Unit $2,200/mo, Mobile Surveillance Unit $1,500/mo, Mobile Surveillance Unit $1,800/mo). The gated PDF adds volume tiers, TCO tables, and the SLA in printable format for procurement files.
 finalCTAHeading: Get the procurement package
 finalCTABody: Download the 48-page guide with full TCO tables, cooperative purchasing details, and the standard SLA. Or book a 20-minute deployment review.
 finalCTAButtons:
 - label: Download the pricing guide
   url: /contact-us/
 schemaType: Article
-internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /products/boundary-guard-pro, /guides/roi-calculator, /guides/ndaa-compliance, /contact-us
+internalLinks: /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /guides/roi-calculator, /guides/ndaa-compliance, /contact-us
 canonical: https://visiondetectionsystems.com/guides/pricing-guide-2026
 ogTitle: 2026 Mobile Surveillance Pricing Guide
-ogDescription: 2026 pricing for VDS Sky Guard MSU ($2,200/mo), Swift Deploy ($1,500/mo), and Boundary Guard Pro ($1,800/mo). Cooperative purchasing rates included.
+ogDescription: 2026 pricing for VDS Mobile Surveillance Unit ($2,200/mo), Mobile Surveillance Unit ($1,500/mo), and Mobile Surveillance Unit ($1,800/mo). Cooperative purchasing rates included.
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg
 ogType: website
 robots: index, follow
@@ -68,13 +68,13 @@ notes: Publishing list prices in plain text is a deliberate trust signal. Most c
 
 ## Free excerpt: published list pricing
 
-**Sky Guard MSU — $2,200/month**
+**Mobile Surveillance Unit — $2,200/month**
 Solar-autonomous mobile surveillance unit. PTZ + fixed cameras, audio talk-down, cellular backhaul. NDAA Section 889 compliant. Includes 24/7 SOC monitoring.
 
-**Swift Deploy — $1,500/month**
+**Mobile Surveillance Unit — $1,500/month**
 Compact rapid-deployment unit. Fixed multi-sensor camera array, audio talk-down, cellular backhaul. Section 889 compliant. Includes 24/7 SOC monitoring.
 
-**Boundary Guard Pro — $1,800/month**
+**Mobile Surveillance Unit — $1,800/month**
 Perimeter-focused unit with advanced fence-line and approach analytics. Section 889 compliant. Includes 24/7 SOC monitoring.
 
 All prices are per unit, per month, for 12-month contracts. Rental and short-term rates available.
@@ -109,7 +109,7 @@ What's not included (transparent add-ons):
 
 A typical mid-sized GC running 6 simultaneous active sites:
 
-- **6 Sky Guard MSU × 12 months = $158,400 program cost**
+- **6 Mobile Surveillance Unit × 12 months = $158,400 program cost**
 - Hardware purchase equivalent at $35,000/unit retail: $210,000 capex up front + $84,000/year monitoring = $294,000 year one, $84K/year ongoing
 - Mobile surveillance saves capex, includes monitoring, no maintenance line
 

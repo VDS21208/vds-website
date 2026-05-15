@@ -5,11 +5,11 @@ pageType: Case Study
 parent: /resources/case-studies
 status: Expansion
 seoTitle: 'Case Study: Utility Substation Copper Theft Halted | VDS'
-metaDescription: A Mid-Atlantic electric utility eliminated copper theft at three substations in 9 months with Sky Guard MSU. Six incidents to zero. $180K copper protected
+metaDescription: A Mid-Atlantic electric utility eliminated copper theft at three substations in 9 months with Mobile Surveillance Unit. Six incidents to zero. $180K copper protected
 announcementBar: ''
 h1: Three substations, six copper thefts, then nine months at zero
 heroEyebrow: Case Study — Utility & Energy
-heroSubhead: 'A Mid-Atlantic electric utility deployed Sky Guard MSU at three substation perimeters after a six-month run of copper theft. Nine months later: zero incidents, $180,000 in copper protected, $42,000 in avoided LE callout fees.'
+heroSubhead: 'A Mid-Atlantic electric utility deployed Mobile Surveillance Unit at three substation perimeters after a six-month run of copper theft. Nine months later: zero incidents, $180,000 in copper protected, $42,000 in avoided LE callout fees.'
 heroCTAPrimary:
   label: Download PDF
   url: /request-a-quote
@@ -29,10 +29,10 @@ finalCTAButtons:
 - label: Request an assessment
   url: /contact-us/
 schemaType: Article
-internalLinks: /products/sky-guard-mobile-surveillance-trailer, /industries/utility-energy, /platform/soc, /compliance/ndaa-889, /resources/nerc-cip-perimeter
+internalLinks: /products/mobile-surveillance-unit, /industries/utility-energy, /platform/soc, /compliance/ndaa-889, /resources/nerc-cip-perimeter
 canonical: https://visiondetectionsystems.com/resources/case-studies/utility-substation-copper-theft
 ogTitle: Three substations, six copper thefts, then nine months at zero
-ogDescription: A Mid-Atlantic electric utility eliminated copper theft at three substations in 9 months with Sky Guard MSU. Six incidents to zero. $180K copper protected
+ogDescription: A Mid-Atlantic electric utility eliminated copper theft at three substations in 9 months with Mobile Surveillance Unit. Six incidents to zero. $180K copper protected
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg
 ogType: website
 robots: index, follow
@@ -56,7 +56,7 @@ The utility evaluated three options: install fixed IP camera systems with on-sit
 
 ## The configuration
 
-VDS deployed one Sky Guard MSU at each of the three substations. Sky Guard was selected over Swift Deploy because the substations required permanent multi-year coverage rather than redeployable mobility, and because the unit's extended-runtime solar profile fit the utility's preference for zero grid dependency on the surveillance system itself. Each unit was positioned at the corner of the substation fence line with the longest sight lines to the fence perimeter and the staged equipment areas.
+VDS deployed one Mobile Surveillance Unit at each of the three substations. Mobile Surveillance Unit was selected over Mobile Surveillance Unit because the substations required permanent multi-year coverage rather than redeployable mobility, and because the unit's extended-runtime solar profile fit the utility's preference for zero grid dependency on the surveillance system itself. Each unit was positioned at the corner of the substation fence line with the longest sight lines to the fence perimeter and the staged equipment areas.
 
 All units fed into the VDS Cloud VMS. The utility's own physical security operations center maintained a viewer credential for situational awareness, but live monitoring and dispatch coordination ran through the VDS SOC. Audio talk-down was enabled at every unit. Two-stage escalation was configured: SOC operator verification within 30 seconds, audio talk-down within 60 seconds for verified intrusions, simultaneous LE dispatch and utility security duty officer notification for any verified perimeter breach.
 

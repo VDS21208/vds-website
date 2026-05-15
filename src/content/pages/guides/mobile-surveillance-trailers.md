@@ -36,7 +36,7 @@ finalCTAButtons:
 - label: Download the Guide (PDF)
   url: /schedule-a-demo/
 schemaType: Book
-internalLinks: /hardware/mobile-surveillance-trailers, /platform/platform, /services/24-7-soc, /guides/remote-video-monitoring
+internalLinks: /products/mobile-surveillance-unit, /platform/platform, /services/24-7-soc, /guides/remote-video-monitoring
 canonical: https://visiondetectionsystems.com/guides/mobile-surveillance-trailers
 ogTitle: 'Mobile Surveillance Trailers: The Complete Buyer''s Guide'
 ogDescription: 'The buyer''s guide to mobile surveillance trailers: solar power, AI cameras, monitoring, deployment, total cost. Free 42-page PDF from VDS.'

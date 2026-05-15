@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Get a Quote
   url: /resources/case-studies/
 schemaType: Article
-internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /platform/platform, /platform/soc, /resources/case-studies/mid-atlantic-gc, /industries/construction-site-security, /industries/retail-shopping-center-security, /industries/automotive-dealership-security, /industries/warehouse-logistics-security, /industries/critical-infrastructure-security
+internalLinks: /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /platform/platform, /platform/soc, /resources/case-studies/mid-atlantic-gc, /industries/construction-site-security, /industries/retail-shopping-center-security, /industries/automotive-dealership-security, /industries/warehouse-logistics-security, /industries/critical-infrastructure-security
 canonical: https://visiondetectionsystems.com/use-cases/after-hours-intrusion-detection
 ogTitle: After-hours intrusion detection with active SOC response.
 ogDescription: Detect and stop after-hours intruders between 10pm and 5am. AI loitering rules, thermal detection, <60s US SOC response, audio talk-down, LE dispatch
@@ -62,7 +62,7 @@ After-hours liability is rising in parallel — premises security litigation aga
 
 ## How VDS prevents after-hours intrusion
 
-VDS combines automated detection with human intervention. AI VisionStream runs time-of-day rules — after-hours zones arm automatically based on site schedule. The rule set includes person-on-site detection, vehicle loitering, fence-line breach, and perimeter approach. Thermal imaging on Sky Guard MSU detects body heat in low light, through brush, and behind cover. Radar detects movement at the property line before a breach.
+VDS combines automated detection with human intervention. AI VisionStream runs time-of-day rules — after-hours zones arm automatically based on site schedule. The rule set includes person-on-site detection, vehicle loitering, fence-line breach, and perimeter approach. Thermal imaging on Mobile Surveillance Unit detects body heat in low light, through brush, and behind cover. Radar detects movement at the property line before a breach.
 
 When a rule fires, the alert reaches a US SOC operator's console in seconds. The operator pulls live video, classifies the threat, and acts: live audio talk-down through the on-unit speaker, LE dispatch with GPS and direction of travel, evidence preservation. 97% false alarm reduction through AI pre-filtering means the alerts that reach a human are real.
 
@@ -70,8 +70,8 @@ Our Mid-Atlantic GC case study site saw a 73% reduction in theft incidents over 
 
 ## Recommended VDS configuration
 
-- **Sky Guard MSU at the highest-value asset area** — $2,200/mo. Thermal + radar + 4K visual + LPR + active deterrence.
-- **Swift Deploy at site entrances and high-traffic zones** — $1,500/mo each.
+- **Mobile Surveillance Unit at the highest-value asset area** — $2,200/mo. Thermal + radar + 4K visual + LPR + active deterrence.
+- **Mobile Surveillance Unit at site entrances and high-traffic zones** — $1,500/mo each.
 - **AI VisionStream rules** — after-hours zones, loitering, person-on-site, fence-line breach, time-of-day arming.
 - **24/7 US SOC** — <60s escalation, audio talk-down, LE dispatch, insurance documentation.
 
@@ -81,4 +81,4 @@ Our Mid-Atlantic GC case study site saw a 73% reduction in theft incidents over 
 
 ## ROI math
 
-A $28M construction site saved $340,800 over 12 months with Sky Guard M
+A $28M construction site saved $340,800 over 12 months with Mobile Surveillance Unit M

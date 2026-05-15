@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Get a Property Assessment
   url: /request-a-quote/
 schemaType: Article
-internalLinks: /industries/construction-site-security | /products/sky-guard | /products/swift-deploy-surveillance-trailer | /platform/platform | /pricing
+internalLinks: /industries/construction-site-security | /products/mobile-surveillance-unit | /products/mobile-surveillance-unit | /platform/platform | /pricing
 canonical: https://visiondetectionsystems.com/industries/commercial-property-security
 ogTitle: Surveillance for Class A Office, Multi-Family, and Mixed-Use
 ogDescription: Mobile surveillance for Class A office, multi-family, and mixed-use properties. Covers construction-to-occupancy gap. 24/7 US SOC, AI LPR, NDAA-compliant.
@@ -64,11 +64,11 @@ A Class A office tower or a 300-unit multi-family asset goes through three disti
 
 ## Recommended VDS configuration
 
-**Construction through TCO:** Swift Deploy at $1,500/mo for fast positioning. Sky Guard MSU at $2,200/mo for larger sites and tower podiums. Mobile units move as the job site geometry changes.
+**Construction through TCO:** Mobile Surveillance Unit at $1,500/mo for fast positioning. Mobile Surveillance Unit at $2,200/mo for larger sites and tower podiums. Mobile units move as the job site geometry changes.
 
-**Surface lots and parking decks:** Sky Guard with AI LPR on every entry. 30-foot mast covers a typical 200-300 stall surface lot from a single position.
+**Surface lots and parking decks:** Mobile Surveillance Unit with AI LPR on every entry. 30-foot mast covers a typical 200-300 stall surface lot from a single position.
 
-**Multi-family resident parking and rear access:** Sky Guard or Boundary Guard Pro for fence-line. Audio talk-down lets the SOC operator address an unauthorized person before property management dispatches.
+**Multi-family resident parking and rear access:** Mobile Surveillance Unit or Mobile Surveillance Unit for fence-line. Audio talk-down lets the SOC operator address an unauthorized person before property management dispatches.
 
 **Mixed-use and lifestyle centers:** AI VisionStream pulls the building's fixed cameras into the same dashboard as the mobile units — leasing office, property manager, and the local PD liaison each get role-based access.
 

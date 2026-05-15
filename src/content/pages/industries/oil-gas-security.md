@@ -23,7 +23,7 @@ heroStats:
 - Solar-autonomous, off-grid capable
 heroImage: ''
 faq:
-- q: How long does Sky Guard run without sun?
+- q: How long does Mobile Surveillance Unit run without sun?
   a: The unit is sized for the worst-case week in the region of deployment — typically 5-7 days of full overcast operation. We provision conservatively and monitor battery state continuously.
 - q: Will it work in a 10-rig pad density with constant truck movement?
   a: Yes. LPR is tuned for high-throughput access roads. Operator filters dismiss expected service traffic; alerts fire on unrecognized plates and after-hours activity.
@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Get a Wellsite Coverage Plan
   url: /request-a-quote/
 schemaType: Article
-internalLinks: /products/sky-guard | /products/solar-camera-poles | /products/boundary-guard-pro | /compliance/ndaa | /platform/platform
+internalLinks: /products/mobile-surveillance-unit | /products/solar-powered-surveillance-kit | /products/mobile-surveillance-unit | /compliance/ndaa | /platform/platform
 canonical: https://visiondetectionsystems.com/industries/oil-gas-security
 ogTitle: Wellsite and Pipeline Surveillance That Operates Off-Grid and Stands Up in Federal Contracts
 ogDescription: Solar-autonomous surveillance for wellsites, pipeline rights-of-way, and remote oilfield assets. NDAA-compliant, 24/7 US SOC, copper theft deterrence.
@@ -60,11 +60,11 @@ Copper theft alone costs the energy sector hundreds of millions annually — the
 
 ## Recommended VDS configuration
 
-**Active wellsite or compressor station:** Sky Guard MSU at $2,200/mo. 30-foot mast, four PTZ cameras with thermal options, AI LPR on the access road. Solar-autonomous through extended overcast. Cellular backhaul on dual carriers — if one drops, the other carries.
+**Active wellsite or compressor station:** Mobile Surveillance Unit at $2,200/mo. 30-foot mast, four PTZ cameras with thermal options, AI LPR on the access road. Solar-autonomous through extended overcast. Cellular backhaul on dual carriers — if one drops, the other carries.
 
-**Pipeline ROW and remote valve stations:** Solar Camera Poles at fixed installations. Person and vehicle detection, alerts to US SOC on motion across the ROW after hours.
+**Pipeline ROW and remote valve stations:** Solar-Powered Surveillance Kit at fixed installations. Person and vehicle detection, alerts to US SOC on motion across the ROW after hours.
 
-**Lease yard and pipe storage:** Boundary Guard Pro at $1,800/mo, 500 feet of AI fence-line detection per unit. Pipe stacks, equipment laydown, fuel storage.
+**Lease yard and pipe storage:** Mobile Surveillance Unit at $1,800/mo, 500 feet of AI fence-line detection per unit. Pipe stacks, equipment laydown, fuel storage.
 
 ## The numbers
 
@@ -82,4 +82,4 @@ US-only AWS infrastructure, TLS 1.3 in transit, AES-256 at rest, RBAC and MFA on
 
 ## What it replaces
 
-A field tech driving a 200-mile loop twice a week is not surveillance — it is a $90K/year inspection program with one-hour-per-site coverage. A monitored Sky Guard at $2,200/mo delivers continuous video, continuous LPR, and SOC dispatch o
+A field tech driving a 200-mile loop twice a week is not surveillance — it is a $90K/year inspection program with one-hour-per-site coverage. A monitored Mobile Surveillance Unit at $2,200/mo delivers continuous video, continuous LPR, and SOC dispatch o

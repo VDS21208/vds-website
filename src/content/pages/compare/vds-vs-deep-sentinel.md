@@ -38,7 +38,7 @@ finalCTAButtons:
 - label: Scope my site
   url: /contact-us/
 schemaType: Article
-internalLinks: /products/swift-deploy-surveillance-trailer, /products/sky-guard, /platform/soc, /compliance/ndaa, /industries/construction-site-security, /industries/utility-substation-security, /compare
+internalLinks: /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /platform/soc, /compliance/ndaa, /industries/construction-site-security, /industries/utility-substation-security, /compare
 canonical: https://visiondetectionsystems.com/compare/vds-vs-deep-sentinel
 ogTitle: VDS vs. Deep Sentinel
 ogDescription: Deep Sentinel is great for homes and small storefronts. VDS is built for commercial mobile, solar-autonomous coverage. Here is which one fits which buyer.
@@ -72,7 +72,7 @@ Both companies advertise AI-driven monitoring with human operators in the loop. 
 | Audit log | 12-month immutable | Confirm |
 | RBAC, MFA | Yes | Limited at consumer tier |
 | Camera-agnostic VMS (ONVIF/RTSP) | Yes — ingest existing cameras | No — proprietary cameras |
-| Pricing tier | From $1,500/mo (Swift Deploy) to $2,200+/mo (Sky Guard) | Consumer plans well under $100/mo; small-business plans $200–$500/mo |
+| Pricing tier | From $1,500/mo (Mobile Surveillance Unit) to $2,200+/mo (Mobile Surveillance Unit) | Consumer plans well under $100/mo; small-business plans $200–$500/mo |
 | Lowest entry price | $1,500/mo | Under $100/mo for residential |
 | Time to deploy | Days to weeks | Hours (DIY install) |
 
@@ -108,8 +108,8 @@ Both companies advertise AI-driven monitoring with human operators in the loop. 
 |---|---|---|
 | Residential | Under $100/mo | Not offered |
 | Single storefront | $200–$500/mo | Not the right fit |
-| Commercial mobile, single unit | Not offered | From $1,500/mo (Swift Deploy) |
-| Premium MSU, single unit | Not offered | From $2,200/mo (Sky Guard) |
+| Commercial mobile, single unit | Not offered | From $1,500/mo (Mobile Surveillance Unit) |
+| Premium MSU, single unit | Not offered | From $2,200/mo (Mobile Surveillance Unit) |
 | Multi-site enterprise | Not offered | Quoted per program |
 
 ## Which one do you need?

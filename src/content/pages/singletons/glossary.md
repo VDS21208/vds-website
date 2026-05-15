@@ -26,13 +26,13 @@ faq:
 - q: What is NDAA Section 889?
   a: Section 889 of the FY2019 National Defense Authorization Act prohibits federal agencies and contractors from using video surveillance gear from named Chinese manufacturers (Dahua, Hikvision, Hytera, Huawei, ZTE). All VDS hardware is NDAA Section 889 compliant.
 - q: What is a Mobile Surveillance Unit (MSU)?
-  a: An MSU is a self-contained surveillance unit, typically trailer-mounted and solar-powered, deployable to any site. VDS Sky Guard MSU combines thermal, radar, 4K cameras, LPR, and deterrence in one unit.
+  a: An MSU is a self-contained surveillance unit, typically trailer-mounted and solar-powered, deployable to any site. VDS Mobile Surveillance Unit combines thermal, radar, 4K cameras, LPR, and deterrence in one unit.
 - q: What is the difference between LPR and ALPR?
   a: LPR (License Plate Recognition) and ALPR (Automatic License Plate Recognition) refer to the same technology. The terms are used interchangeably.
 - q: What does ONVIF mean?
   a: ONVIF is the Open Network Video Interface Forum standard that lets IP cameras from different manufacturers work with the same VMS. VDS AI VisionStream supports any ONVIF camera.
 - q: What is NERC CIP-014?
-  a: NERC CIP-014 is a North American Electric Reliability Corporation standard governing physical security at high-impact transmission substations. VDS Sky Guard MSU supports NERC CIP-014 documentation requirements.
+  a: NERC CIP-014 is a North American Electric Reliability Corporation standard governing physical security at high-impact transmission substations. VDS Mobile Surveillance Unit supports NERC CIP-014 documentation requirements.
 finalCTAHeading: Talk to someone who speaks every term above.
 finalCTABody: VDS specialists translate spec sheets, RFPs, and compliance frameworks into deployable systems.
 finalCTAButtons:
@@ -80,7 +80,7 @@ Cloud computing platform hosting AI VisionStream. VDS uses US-only AWS regions f
 
 Illinois law (2008) governing biometric data collection. VDS does not use facial recognition or biometric matching, so VDS deployments are BIPA-friendly in Illinois.
 
-### Boundary Guard Pro
+### Mobile Surveillance Unit
 
 A VDS fence-line surveillance unit covering 500+ linear feet with no blind spots. Multi-camera configuration. Starting at $1,800/mo.
 
@@ -136,7 +136,7 @@ Google's Experience, Expertise, Authoritativeness, Trustworthiness rating framew
 
 ### Edge Computing
 
-Running AI analytics on the camera or trailer (the 'edge') rather than uploading raw video to the cloud. Lower bandwidth use, faster alerts. VDS uses edge analytics on Sky Guard MSU and Swift Deploy.
+Running AI analytics on the camera or trailer (the 'edge') rather than uploading raw video to the cloud. Lower bandwidth use, faster alerts. VDS uses edge analytics on Mobile Surveillance Unit and Mobile Surveillance Unit.
 
 ## F
 
@@ -186,7 +186,7 @@ AI analytic that alerts when a person or vehicle stays in an area longer than a 
 
 ### LWIR / Long-Wave Infrared
 
-Thermal imaging in the 8-14 micrometer range. Detects heat from bodies and vehicles in total darkness and through smoke or light fog. Standard on the Sky Guard MSU.
+Thermal imaging in the 8-14 micrometer range. Detects heat from bodies and vehicles in total darkness and through smoke or light fog. Standard on the Mobile Surveillance Unit.
 
 ## M
 
@@ -196,7 +196,7 @@ Login security requiring a second factor beyond a password (typically a code fro
 
 ### MSU / Mobile Surveillance Unit
 
-Industry term for a self-contained surveillance unit (typically trailer-mounted, solar-powered) deployable to any site. VDS Sky Guard MSU is the flagship MSU.
+Industry term for a self-contained surveillance unit (typically trailer-mounted, solar-powered) deployable to any site. VDS Mobile Surveillance Unit is the flagship MSU.
 
 ## N
 
@@ -206,7 +206,7 @@ Section 889 of the John S. McCain National Defense Authorization Act for Fiscal 
 
 ### NERC CIP-014
 
-North American Electric Reliability Corporation Critical Infrastructure Protection Standard 014 — physical security requirements for high-impact transmission substations. VDS Sky Guard MSU is configured to support NERC CIP-014 documentation requirements.
+North American Electric Reliability Corporation Critical Infrastructure Protection Standard 014 — physical security requirements for high-impact transmission substations. VDS Mobile Surveillance Unit is configured to support NERC CIP-014 documentation requirements.
 
 ### NVR / Network Video Recorder
 
@@ -234,7 +234,7 @@ VDS headquarters and assembly facility. Located in the Baltimore-DC metro area. 
 
 ### PTZ / Pan-Tilt-Zoom Camera
 
-A motorized camera that can pan, tilt, and zoom remotely. The Swift Deploy trailer uses a PTZ with 30x optical zoom.
+A motorized camera that can pan, tilt, and zoom remotely. The Mobile Surveillance Unit trailer uses a PTZ with 30x optical zoom.
 
 ## R
 
@@ -260,7 +260,7 @@ Open protocol for streaming video from IP cameras. VDS AI VisionStream supports 
 
 Standardized vocabulary for structured data on web pages. VDS uses Schema.org markup (Organization, Product, Article, FAQPage, LocalBusiness, etc.) for SEO and AEO.
 
-### Sky Guard MSU
+### Mobile Surveillance Unit
 
 VDS flagship mobile surveillance unit. Combines LWIR thermal, 500ft ground radar, 4K multi-sensor cameras, LPR, and active deterrence in one solar-autonomous trailer. From $2,200/mo or $38,000 purchase.
 
@@ -274,7 +274,7 @@ Service Organization Control 2 audit framework for service providers handling cu
 
 ### Solar-Autonomous
 
-Powered entirely by solar panels with battery backup. No grid hookup or generator required for normal operation. VDS Sky Guard MSU has 600W solar input + 48+ hour battery autonomy.
+Powered entirely by solar panels with battery backup. No grid hookup or generator required for normal operation. VDS Mobile Surveillance Unit has 600W solar input + 48+ hour battery autonomy.
 
 ### contract used by government agencies. VDS is available on .
 
@@ -282,7 +282,7 @@ Powered entirely by solar panels with battery backup. No grid hookup or generato
 
 Schema.org property identifying the parts of a page voice assistants and answer engines should read aloud. A key AEO signal.
 
-### Swift Deploy Trailer
+### Mobile Surveillance Unit
 
 VDS's most popular mobile surveillance trailer. HD PTZ with 30x zoom, dual-spectrum night vision, deploys in under 20 minutes by one person, no tools. From $1,500/mo.
 

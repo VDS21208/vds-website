@@ -37,7 +37,7 @@ finalCTAButtons:
 - label: Book the architecture call
   url: /contact-us/
 schemaType: Article
-internalLinks: /compare, /hardware/sky-guard-msu, /verticals/construction, /platform/soc
+internalLinks: /compare, /products/mobile-surveillance-unit, /verticals/construction, /platform/soc
 canonical: https://visiondetectionsystems.com/compare/vds-vs-wcctv
 ogTitle: VDS vs. WCCTV
 ogDescription: WCCTV brought UK mobile surveillance to US construction. VDS is US-assembled, AWS US-only, with a 24/7 in-house SOC and modern AI. Side-by-side compared.
@@ -76,8 +76,8 @@ This page is for buyers who've seen WCCTV on a previous project and want to know
 | NDAA Section 889 | Mixed reporting | Yes |
 | Pricing transparency | Quote-based | Published monthly rates |
 | Mobile app UX | Dated | Modern (improving) |
-| Sky Guard equivalent monthly | Quote-based | $2,200/mo |
-| Swift Deploy equivalent monthly | Quote-based | $1,500/mo |
+| Mobile Surveillance Unit equivalent monthly | Quote-based | $2,200/mo |
+| Mobile Surveillance Unit equivalent monthly | Quote-based | $1,500/mo |
 
 ## Where WCCTV wins
 
@@ -101,7 +101,7 @@ This page is for buyers who've seen WCCTV on a previous project and want to know
 
 ## Cost and TCO
 
-WCCTV quotes are not published; reported customer monthlies fall roughly in the $1,800-$2,800/mo range depending on configuration. VDS publishes its rates: Sky Guard $2,200/mo, Swift Deploy $1,500/mo, Boundary Guard Pro $1,800/mo, all-in with SOC and VMS included.
+WCCTV quotes are not published; reported customer monthlies fall roughly in the $1,800-$2,800/mo range depending on configuration. VDS publishes its rates: Mobile Surveillance Unit $2,200/mo, Mobile Surveillance Unit $1,500/mo, Mobile Surveillance Unit $1,800/mo, all-in with SOC and VMS included.
 
 Over a 12-month project, the difference is rarely the headline monthly — it's the variability. WCCTV monthlies on long projects often drift upward at refresh. Our pricing is locked for the term.
 

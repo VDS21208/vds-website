@@ -1,5 +1,5 @@
 ---
-url: /locations/products/mobile-surveillance-trailersbaltimore
+url: /locations/products/mobile-surveillance-unitbaltimore
 collection: locations-city
 pageType: City Detail
 parent: /locations/mobile-surveillance-trailers
@@ -37,8 +37,8 @@ finalCTAButtons:
 - label: Request same-day deployment
   url: /schedule-a-demo/
 schemaType: LocalBusiness
-internalLinks: /locations/mobile-surveillance-trailers, /locations/maryland, /products/sky-guard-mobile-surveillance-trailer, /industries/construction-security, /industries/port-logistics, /industries/auto-dealer-security
-canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailersbaltimore
+internalLinks: /locations/mobile-surveillance-trailers, /locations/maryland, /products/mobile-surveillance-unit, /industries/construction-security, /industries/port-logistics, /industries/auto-dealer-security
+canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-unitbaltimore
 ogTitle: Mobile surveillance trailers in Baltimore, MD
 ogDescription: VDS is headquartered 15 minutes from downtown Baltimore. Same-day mobile surveillance trailer deployment for construction, ports, auto, and parking.
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg
@@ -72,7 +72,7 @@ Lead time from quote-signed to power-on, average, in the Baltimore metro: 6 hour
 
 ## A Baltimore-area deployment
 
-A downtown high-rise general contractor signed a Sky Guard MSU at $2,200/mo for a 26-month mixed-use project near the Inner Harbor after their previous vendor's cellular-only unit went offline during a copper theft incident. We deployed within 4 hours of contract sign — same morning — and the SOC handled 38 escalations in the first 90 days. False-alarm rate post-tuning: under 3%. The GC has since added two units across other Baltimore-area projects.
+A downtown high-rise general contractor signed a Mobile Surveillance Unit at $2,200/mo for a 26-month mixed-use project near the Inner Harbor after their previous vendor's cellular-only unit went offline during a copper theft incident. We deployed within 4 hours of contract sign — same morning — and the SOC handled 38 escalations in the first 90 days. False-alarm rate post-tuning: under 3%. The GC has since added two units across other Baltimore-area projects.
 
 ## Local compliance note
 

@@ -37,7 +37,7 @@ finalCTAButtons:
 - label: Get an NJ quote
   url: /contact-us/
 schemaType: LocalBusiness
-internalLinks: /industries/cargo-logistics, /industries/utility-substation-security, /procurement/, /products/sky-guard-mobile-surveillance-trailer
+internalLinks: /industries/cargo-logistics, /industries/utility-substation-security, /procurement/, /products/mobile-surveillance-unit
 canonical: https://visiondetectionsystems.com/locations/new-jersey
 ogTitle: Mobile surveillance for New Jersey's cargo theft problem
 ogDescription: Mobile surveillance for Port Newark logistics, NJ cargo theft response, construction, and PSEG infrastructure. 24-72 hour deployment from Pikesville HQ.
@@ -74,7 +74,7 @@ Pikesville inventory covers all of NJ in same-week. Limited pre-stage in Cartere
 
 ## A New Jersey-area deployment
 
-A drayage operator running a 22-acre container staging yard adjacent to Port Newark was losing roughly $24,000/month to cargo theft across an average of 11 incidents — primarily after-hours entries cutting trailer seals and pulling specific high-value containers. Three Sky Guard MSUs and one Boundary Guard Pro fixed deployment went in over 4 business days (NJ priority lane). Seven-month coverage: 53 deterred entries, five arrests via SOC-dispatched Port Authority PD, an 89% reduction in successful theft incidents. Customer extended to a Newark-area sister yard.
+A drayage operator running a 22-acre container staging yard adjacent to Port Newark was losing roughly $24,000/month to cargo theft across an average of 11 incidents — primarily after-hours entries cutting trailer seals and pulling specific high-value containers. Three Mobile Surveillance Units and one Mobile Surveillance Unit fixed deployment went in over 4 business days (NJ priority lane). Seven-month coverage: 53 deterred entries, five arrests via SOC-dispatched Port Authority PD, an 89% reduction in successful theft incidents. Customer extended to a Newark-area sister yard.
 
 ## New Jersey compliance and procurement
 

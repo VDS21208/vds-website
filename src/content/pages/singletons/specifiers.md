@@ -74,14 +74,14 @@ For temporary or mobile deployments specifically, we provide language that overl
 
 ### Spec sheet pack
 Single download containing:
-- Sky Guard MSU technical data sheet (dimensions, power, sensor payload, environmental ratings)
-- Swift Deploy technical data sheet
-- Boundary Guard Pro technical data sheet
+- Mobile Surveillance Unit technical data sheet (dimensions, power, sensor payload, environmental ratings)
+- Mobile Surveillance Unit technical data sheet
+- Mobile Surveillance Unit technical data sheet
 - AI VisionStream platform specification (analytics capabilities, integration protocols, API documentation summary)
 - 24/7 SOC service specification
 
 ### Revit / CAD models
-3D Revit family files and 2D CAD blocks for site-plan integration. Current release covers Sky Guard MSU and Boundary Guard Pro deployment footprints with solar panel orientation and exclusion zones called out.
+3D Revit family files and 2D CAD blocks for site-plan integration. Current release covers Mobile Surveillance Unit and Mobile Surveillance Unit deployment footprints with solar panel orientation and exclusion zones called out.
 
 Available on request — release via secure download link, not public CDN, to keep version control clean.
 

@@ -1,5 +1,5 @@
 ---
-url: /locations/products/mobile-surveillance-trailersphiladelphia
+url: /locations/products/mobile-surveillance-unitphiladelphia
 collection: locations-city
 pageType: City Detail
 parent: /locations/mobile-surveillance-trailers
@@ -37,8 +37,8 @@ finalCTAButtons:
 - label: Request a Philly quote
   url: /schedule-a-demo/
 schemaType: LocalBusiness
-internalLinks: /locations/mobile-surveillance-trailers, /locations/pennsylvania, /products/sky-guard-mobile-surveillance-trailer, /industries/construction-security, /industries/port-logistics, /industries/university-campus, /compliance/pa-costars
-canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailersphiladelphia
+internalLinks: /locations/mobile-surveillance-trailers, /locations/pennsylvania, /products/mobile-surveillance-unit, /industries/construction-security, /industries/port-logistics, /industries/university-campus, /compliance/pa-costars
+canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-unitphiladelphia
 ogTitle: Mobile surveillance trailers in Philadelphia, PA
 ogDescription: Mobile surveillance trailers across Philadelphia metro. PA COSTARS cooperative purchasing eligible. Next-day deployment. Center City, Navy Yard
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg
@@ -68,7 +68,7 @@ We cover Philadelphia County, Bucks, Chester, Delaware, and Montgomery counties 
 
 ## A Philadelphia-area deployment
 
-A Navy Yard redevelopment GC running a 14-month industrial-conversion project signed three Sky Guard MSUs ($6,600/mo combined) after their previous static-camera vendor's solar power went down during a December cold snap and stayed offline for 11 days. Our units run on a 7-day battery reserve at the bottom of the solar curve and have not gone offline in the 9 months since deployment. SOC handled 22 trespass escalations and one verified theft-in-progress (suspect detained on-site by the responding officer).
+A Navy Yard redevelopment GC running a 14-month industrial-conversion project signed three Mobile Surveillance Units ($6,600/mo combined) after their previous static-camera vendor's solar power went down during a December cold snap and stayed offline for 11 days. Our units run on a 7-day battery reserve at the bottom of the solar curve and have not gone offline in the 9 months since deployment. SOC handled 22 trespass escalations and one verified theft-in-progress (suspect detained on-site by the responding officer).
 
 ## Local compliance note
 

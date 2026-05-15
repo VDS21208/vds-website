@@ -37,7 +37,7 @@ finalCTAButtons:
 - label: Get a Texas quote
   url: /resources/case-studies/
 schemaType: LocalBusiness
-internalLinks: /industries/oil-and-gas, /industries/automotive-dealership-security, /products/sky-guard-mobile-surveillance-trailer, /resources/case-studies/permian-operator
+internalLinks: /industries/oil-and-gas, /industries/automotive-dealership-security, /products/mobile-surveillance-unit, /resources/case-studies/permian-operator
 canonical: https://visiondetectionsystems.com/locations/texas
 ogTitle: Mobile surveillance built for Texas conditions
 ogDescription: Solar-autonomous mobile surveillance for Permian Basin oil & gas, Texas metro construction, and auto dealerships. 5-10 day deployment, SOC-monitored 24/7.
@@ -54,15 +54,15 @@ notes: Lead with heat/solar credibility. Permian operators care about this immed
 
 Texas is our largest non-Mid-Atlantic state. Three drivers: oil & gas in the Permian, construction in every major metro, and a wave of catalytic converter and inventory theft at auto dealerships across Dallas-Fort Worth and Houston.
 
-Solar performance matters here. Our Sky Guard MSU runs on a 1.2kW solar array sized for 4.5 peak sun hours, which means West Texas is overprovisioned and the unit holds charge through cloud cover and the rare freeze event. We rate the enclosure for sustained 115°F operation.
+Solar performance matters here. Our Mobile Surveillance Unit runs on a 1.2kW solar array sized for 4.5 peak sun hours, which means West Texas is overprovisioned and the unit holds charge through cloud cover and the rare freeze event. We rate the enclosure for sustained 115°F operation.
 
 ## Industries we protect in Texas
 
-**Oil & gas.** Permian Basin tank batteries, frac sand yards, drilling pads. Remote sites, no grid power, copper and equipment theft as a constant baseline. Sky Guard MSU is the standard deployment — solar-autonomous, LTE-backhauled, SOC-monitored.
+**Oil & gas.** Permian Basin tank batteries, frac sand yards, drilling pads. Remote sites, no grid power, copper and equipment theft as a constant baseline. Mobile Surveillance Unit is the standard deployment — solar-autonomous, LTE-backhauled, SOC-monitored.
 
 **Metro construction.** Austin Northwest, Frisco, Cypress, Round Rock, San Antonio Northside. The Texas Triangle has not slowed. We're active on multifamily, industrial, and tilt-wall commercial sites across all four major metros.
 
-**Auto dealerships.** Catalytic converter theft, inventory theft, key fob theft. We have a dealership-specific deployment template — Boundary Guard Pro fixed coverage of inventory lots, Swift Deploy for service yard and lot perimeter, SOC after-hours dispatch.
+**Auto dealerships.** Catalytic converter theft, inventory theft, key fob theft. We have a dealership-specific deployment template — Mobile Surveillance Unit fixed coverage of inventory lots, Mobile Surveillance Unit for service yard and lot perimeter, SOC after-hours dispatch.
 
 ## Coverage and lead time
 
@@ -74,7 +74,7 @@ Texas inventory pre-stages in Dallas. Local installation techs on contract in al
 
 ## A Texas-area deployment
 
-A Permian-focused E&P operator running 14 tank battery sites across Reeves and Loving counties was losing roughly $18,000/month to copper line theft and vandalism. We deployed Sky Guard MSUs to the eight highest-loss sites in 9 business days. Six-month coverage: 23 deterred entry attempts, two arrests through Reeves County Sheriff dispatch, zero successful copper theft incidents. Customer expanded to all 14 sites and added two pad-rotation units that move with active drilling.
+A Permian-focused E&P operator running 14 tank battery sites across Reeves and Loving counties was losing roughly $18,000/month to copper line theft and vandalism. We deployed Mobile Surveillance Units to the eight highest-loss sites in 9 business days. Six-month coverage: 23 deterred entry attempts, two arrests through Reeves County Sheriff dispatch, zero successful copper theft incidents. Customer expanded to all 14 sites and added two pad-rotation units that move with active drilling.
 
 ## Texas compliance and procurement
 

@@ -5,11 +5,11 @@ pageType: Pricing Detail
 parent: /pricing
 status: Launch
 seoTitle: Buy a Mobile Surveillance Trailer | VDS Purchase Pricing
-metaDescription: Buy a VDS trailer outright. Sky Guard MSU at $38,000. Capex vs opex breakdown, warranty terms, and post-sale service plans.
+metaDescription: Buy a VDS trailer outright. Mobile Surveillance Unit at $38,000. Capex vs opex breakdown, warranty terms, and post-sale service plans.
 announcementBar: ''
 h1: Buy Outright When the Math Works
 heroEyebrow: Purchase Options
-heroSubhead: For deployments that outlive a lease, ownership is the right answer. Sky Guard MSU at $38,000, full warranty, and a service plan that doesn't disappear after the PO clears.
+heroSubhead: For deployments that outlive a lease, ownership is the right answer. Mobile Surveillance Unit at $38,000, full warranty, and a service plan that doesn't disappear after the PO clears.
 heroCTAPrimary:
   label: Get a Purchase Quote
   url: /request-a-quote
@@ -29,7 +29,7 @@ faq:
   a: New features land on existing platform tiers per the published roadmap. You don't lose anything by buying today. You may want to upgrade tier later if a Pro-tier feature becomes important.
 - q: Can I sell a trailer I bought from VDS?
   a: Yes. It's your property. We'll re-onboard the new owner to the platform on standard terms. We don't charge a transfer fee, but the new owner becomes responsible for the platform subscription from the transfer date.
-- q: What's the difference between Sky Guard purchase and lease-to-own?
+- q: What's the difference between Mobile Surveillance Unit purchase and lease-to-own?
   a: Purchase is one payment, ownership immediately. Lease-to-own is 36 monthly payments with a $500 buyout — total cost is higher, but the cash-flow profile fits some budgets better.
 - q: Are purchase orders accepted, or do I need to prepay?
   a: Net-30 POs accepted for customers with approved credit. Standard for federal, state, and Fortune 1000 buyers. New customers may be asked for 50% deposit on the first unit.
@@ -39,10 +39,10 @@ finalCTAButtons:
 - label: Get a Purchase Quote
   url: /contact-us/
 schemaType: WebPage + Offer
-internalLinks: /pricing, /pricing/leasing-rentals, /pricing/subscription-plans, /products/sky-guard-mobile-surveillance-trailer, /products/mobile-surveillance-trailers
+internalLinks: /pricing, /pricing/leasing-rentals, /pricing/subscription-plans, /products/mobile-surveillance-unit, /products/mobile-surveillance-unit
 canonical: https://visiondetectionsystems.com/pricing/purchase-options
 ogTitle: Buy Outright When the Math Works
-ogDescription: Buy a VDS trailer outright. Sky Guard MSU at $38,000. Capex vs opex breakdown, warranty terms, and post-sale service plans.
+ogDescription: Buy a VDS trailer outright. Mobile Surveillance Unit at $38,000. Capex vs opex breakdown, warranty terms, and post-sale service plans.
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg
 ogType: website
 robots: index, follow
@@ -64,7 +64,7 @@ Lease economics work best for deployments under 30 months. Above that, the math 
 | Fleet, mobile across multiple sites | Lease (the flexibility outweighs the savings) |
 | Capex-only budget cycles | Purchase, regardless of horizon |
 
-The break-even on Sky Guard MSU is roughly 18 months — $2,200 × 17.3 months = $38,000. After 18 months of ownership, every additional month is platform + maintenance only.
+The break-even on Mobile Surveillance Unit is roughly 18 months — $2,200 × 17.3 months = $38,000. After 18 months of ownership, every additional month is platform + maintenance only.
 
 ## What you pay for
 
@@ -72,10 +72,10 @@ The purchase price is hardware. Software and monitoring are sold separately as o
 
 | Item | Price | Type |
 |---|---|---|
-| **Sky Guard MSU** | $38,000 | One-time, capex |
-| **Swift Deploy Trailer** | Contact | One-time, capex |
-| **Boundary Guard Pro** | Contact | One-time, capex |
-| **Solar Camera Pole** | Custom | One-time, capex |
+| **Mobile Surveillance Unit** | $38,000 | One-time, capex |
+| **Mobile Surveillance Unit** | Contact | One-time, capex |
+| **Mobile Surveillance Unit** | Contact | One-time, capex |
+| **Solar-Powered Surveillance Kit** | Custom | One-time, capex |
 | **VDS Platform (Standard)** | $39/cam/mo | Recurring, opex |
 | **SOC Active Monitoring** | $399/site/mo | Recurring, opex |
 | **Extended Warranty (3-year)** | 12% of purchase price | One-time, capex |

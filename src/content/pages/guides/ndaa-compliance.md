@@ -38,7 +38,7 @@ finalCTAButtons:
 - label: Download the guide
   url: /contact-us/
 schemaType: Article
-internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /products/boundary-guard-pro, /guides/utility-substation-security, /compliance, /contact-us
+internalLinks: /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /guides/utility-substation-security, /compliance, /contact-us
 canonical: https://visiondetectionsystems.com/guides/ndaa-compliance
 ogTitle: NDAA Section 889 Compliance Guide
 ogDescription: Section 889 prohibits federal use of Dahua, Hikvision, and covered telecom gear. Get the compliance checklist, audit language, and approved substitutions.
@@ -84,5 +84,5 @@ Federal procurement officers, GSA Schedule contracting officers, utility securit
 
 ## Related products
 
-- **[Sky Guard MSU](/products/sky-guard-mobile-surveillance-trailer)** — $2,200/mo. NDAA-compliant cameras, radios, and modems.
+- **[Mobile Surveillance Unit](/products/mobile-surveillance-unit)** — $2,200/mo. NDAA-compliant cameras, radios, and modems.
 - **

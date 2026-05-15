@@ -9,7 +9,7 @@ metaDescription: Stop vehicle theft from dealer lots and storage yards. Thermal 
 announcementBar: ''
 h1: Stop Vehicle Theft from Dealer Lots and Storage Yards
 heroEyebrow: SOLUTION · AUTO · VEHICLE THEFT
-heroSubhead: 'Organized vehicle theft rings target dealer lots and storage yards because the inventory is concentrated, the keys are predictable, and the response is slow. VDS reverses that math: Sky Guard MSU at lot center, solar camera poles at the perimeter, LPR on every plate in and out, SOC intervention in under 60 seconds.'
+heroSubhead: 'Organized vehicle theft rings target dealer lots and storage yards because the inventory is concentrated, the keys are predictable, and the response is slow. VDS reverses that math: Mobile Surveillance Unit at lot center, solar camera poles at the perimeter, LPR on every plate in and out, SOC intervention in under 60 seconds.'
 heroCTAPrimary:
   label: Quote Lot Coverage
   url: /request-a-quote
@@ -36,7 +36,7 @@ finalCTAButtons:
 - label: Quote My Lot
   url: /contact-us/
 schemaType: Article
-internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /products/solar-camera-poles, /solutions/catalytic-converter-theft-prevention, /features/lpr
+internalLinks: /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /products/solar-powered-surveillance-kit, /solutions/catalytic-converter-theft-prevention, /features/lpr
 canonical: https://visiondetectionsystems.com/solutions/auto/vehicle-theft-prevention
 ogTitle: Stop Vehicle Theft from Dealer Lots and Storage Yards
 ogDescription: Stop vehicle theft from dealer lots and storage yards. Thermal + radar + LPR captures every plate. 24/7 US SOC with audio talk-down. <60s response.
@@ -64,9 +64,9 @@ A successful lot pull moves the vehicle to a containerization yard within hours 
 
 The defense layers detection, identification, and intervention:
 
-**Sky Guard MSU at lot center.** Thermal LWIR sees a person or vehicle moving across the lot at 1,200ft. Radar correlates. 4K PTZ tracks. The SOC operator sees a flatbed pulling up to a row of trucks at 1:47am and intervenes before the load straps are out.
+**Mobile Surveillance Unit at lot center.** Thermal LWIR sees a person or vehicle moving across the lot at 1,200ft. Radar correlates. 4K PTZ tracks. The SOC operator sees a flatbed pulling up to a row of trucks at 1:47am and intervenes before the load straps are out.
 
-**Solar Camera Poles at the perimeter.** Continuous overlapping coverage along the fence line and rear access points. Battery + solar = no trenching, no power drop, relocates with the lot.
+**Solar-Powered Surveillance Kit at the perimeter.** Continuous overlapping coverage along the fence line and rear access points. Battery + solar = no trenching, no power drop, relocates with the lot.
 
 **LPR at every gate.** 95%+ accuracy under 3 seconds. The thieves' truck plate is captured on entry. The plate logs into AI VisionStream with a hot-list lookup — stolen vehicles, prior unauthorized entries, and out-of-pattern after-hours visitors flag instantly.
 
@@ -76,12 +76,12 @@ The defense layers detection, identification, and intervention:
 
 | Lot size | Configuration | Monthly |
 |---|---|---|
-| Small storage yard | 1× Swift Deploy + LPR | $1,500 |
-| Mid lot (75-200 units) | 1× Sky Guard MSU + 1× Swift Deploy + LPR | $3,700 |
-| Large lot / multi-acre | 1× Sky Guard MSU + 2-3× Swift Deploy + Solar Camera Poles | $5,200-$8,400 |
+| Small storage yard | 1× Mobile Surveillance Unit + LPR | $1,500 |
+| Mid lot (75-200 units) | 1× Mobile Surveillance Unit + 1× Mobile Surveillance Unit + LPR | $3,700 |
+| Large lot / multi-acre | 1× Mobile Surveillance Unit + 2-3× Mobile Surveillance Unit + Solar-Powered Surveillance Kit | $5,200-$8,400 |
 
 Solar-autonomous. No infrastructure tie-in. Relocates with the lot configuration.
 
 ## What it looks like working
 
-A 240-unit GM dealer in the Southeast had three flatbed pulls in 90 days, losing $228,000 in vehicles. VDS deployed Sky Guard MSU + 2 Swift Deploys + LPR. In the next 14 months: **0 successful pulls, 2 attempted intrusions intercepted at talk-down, 1 arrest from LPR-captured plate** (the same crew had hit four other regional 
+A 240-unit GM dealer in the Southeast had three flatbed pulls in 90 days, losing $228,000 in vehicles. VDS deployed Mobile Surveillance Unit + 2 Mobile Surveillance Units + LPR. In the next 14 months: **0 successful pulls, 2 attempted intrusions intercepted at talk-down, 1 arrest from LPR-captured plate** (the same crew had hit four other regional 

@@ -1,5 +1,5 @@
 ---
-url: /locations/products/mobile-surveillance-trailersmiami
+url: /locations/products/mobile-surveillance-unitmiami
 collection: locations-city
 pageType: City Detail
 parent: /locations/mobile-surveillance-trailers
@@ -37,8 +37,8 @@ finalCTAButtons:
 - label: Request a Miami quote
   url: /contact-us/
 schemaType: LocalBusiness
-internalLinks: /locations/mobile-surveillance-trailers, /locations/florida, /products/sky-guard-mobile-surveillance-trailer, /industries/construction-security, /industries/hospitality-healthcare-security, /industries/port-logistics
-canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailersmiami
+internalLinks: /locations/mobile-surveillance-trailers, /locations/florida, /products/mobile-surveillance-unit, /industries/construction-security, /industries/hospitality-healthcare-security, /industries/port-logistics
+canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-unitmiami
 ogTitle: Mobile surveillance trailers in Miami, FL
 ogDescription: Mobile surveillance trailers in Miami and South Florida. Brickell high-rise, PortMiami, hospitality, hurricane-season redeployment. 24/7 US SOC monitoring.
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg
@@ -70,7 +70,7 @@ We cover Miami-Dade, Broward, and Palm Beach counties from a South Florida stagi
 
 ## A Miami-area deployment
 
-A Brickell high-rise GC running a 42-story luxury residential project signed two Sky Guard MSUs ($4,400/mo combined) on a 28-month contract. During Hurricane season Year 1, units were pulled twice (Tropical Storm and a Category 1 landfall track that didn't materialize). Pull-to-storage time both events: under 4 hours. Redeployment after the all-clear: under 12 hours. SOC handled 31 trespass escalations across the contract period and zero unit damage.
+A Brickell high-rise GC running a 42-story luxury residential project signed two Mobile Surveillance Units ($4,400/mo combined) on a 28-month contract. During Hurricane season Year 1, units were pulled twice (Tropical Storm and a Category 1 landfall track that didn't materialize). Pull-to-storage time both events: under 4 hours. Redeployment after the all-clear: under 12 hours. SOC handled 31 trespass escalations across the contract period and zero unit damage.
 
 ## Local compliance note
 

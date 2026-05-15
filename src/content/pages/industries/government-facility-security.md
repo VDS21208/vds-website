@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Get Cooperative Pricing
   url: /schedule-a-demo/
 schemaType: Article
-internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/boundary-guard-pro, /procurement/cooperative-contracts, /compliance/ndaa-889, /industries/public-safety-law-enforcement-surveillance, /industries
+internalLinks: /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /procurement/cooperative-contracts, /compliance/ndaa-889, /industries/public-safety-law-enforcement-surveillance, /industries
 canonical: https://visiondetectionsystems.com/industries/government-facility-security
 ogTitle: Security for Government Facilities
 ogDescription: NDAA Section 889 mobile surveillance for federal, state, and local government facilities. Motor pools, public works yards, transfer stations.
@@ -74,10 +74,10 @@ Typical use cases:
 
 ## Recommended configuration
 
-- **Single municipal motor pool or public works yard:** one to two Sky Guard MSUs at $2,200/mo each, sited for cross-coverage on the main access gate and fuel island.
-- **Transfer station or recycling center with vehicle traffic:** Sky Guard MSU plus Boundary Guard Pro at $1,800/mo with LPR for illegal-dumping vehicle capture.
-- **Multi-site parks and rec coverage:** Swift Deploy units at $1,500/mo, rotated seasonally across high-incident parks.
-- **County impound lot perimeter:** Sky Guard MSU sited on the exterior fence line, integrated with existing interior cameras over ONVIF/RTSP if present.
+- **Single municipal motor pool or public works yard:** one to two Mobile Surveillance Units at $2,200/mo each, sited for cross-coverage on the main access gate and fuel island.
+- **Transfer station or recycling center with vehicle traffic:** Mobile Surveillance Unit plus Mobile Surveillance Unit at $1,800/mo with LPR for illegal-dumping vehicle capture.
+- **Multi-site parks and rec coverage:** Mobile Surveillance Unit units at $1,500/mo, rotated seasonally across high-incident parks.
+- **County impound lot perimeter:** Mobile Surveillance Unit sited on the exterior fence line, integrated with existing interior cameras over ONVIF/RTSP if present.
 
 Retention configured at 30, 60, or 90 days based on agency records retention schedule.
 

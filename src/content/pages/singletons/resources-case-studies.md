@@ -41,30 +41,30 @@ tags: mobile surveillance, VDS
 
 **By industry:** Construction | Utility & Energy | Auto & Dealership | Retail & ORC | Logistics & Cargo | Multifamily | Municipal | Cannabis
 
-**By product:** Sky Guard MSU | Swift Deploy | Boundary Guard Pro | Solar Camera Pole | Multi-unit deployment
+**By product:** Mobile Surveillance Unit | Mobile Surveillance Unit | Mobile Surveillance Unit | Solar-Powered Surveillance Kit | Multi-unit deployment
 
 **By region:** Mid-Atlantic | Northeast | Southeast | Midwest | Southwest | West Coast
 
 ## Featured
 
 ### Mid-Atlantic GC — $340,800 saved in 12 months
-**Construction | Swift Deploy + Solar Camera Pole | Mid-Atlantic**
+**Construction | Mobile Surveillance Unit + Solar-Powered Surveillance Kit | Mid-Atlantic**
 
-A $28M general contractor running three concurrent commercial sites lost copper wire, generators, and small equipment at a rate that threatened margin on two of the three jobs. Two Swift Deploy units and three Solar Camera Poles, monitored 24/7 by the VDS SOC, cut theft incidents 73% and produced $0 in insurance claims across the measurement year.
+A $28M general contractor running three concurrent commercial sites lost copper wire, generators, and small equipment at a rate that threatened margin on two of the three jobs. Two Mobile Surveillance Unit units and three Solar-Powered Surveillance Kit, monitored 24/7 by the VDS SOC, cut theft incidents 73% and produced $0 in insurance claims across the measurement year.
 
 **[Read the full case study](/resources/case-studies/mid-atlantic-gc)**
 
 ### Utility Substation Network — Copper theft halted in 9 months
-**Utility & Energy | Sky Guard MSU | Mid-Atlantic**
+**Utility & Energy | Mobile Surveillance Unit | Mid-Atlantic**
 
-A regional electric utility experienced six copper theft incidents at three substations in six months. After Sky Guard deployment with audio talk-down and LE coordination, incidents dropped to zero over the next nine months. $180,000 in copper protected, $42,000 in avoided LE callout fees.
+A regional electric utility experienced six copper theft incidents at three substations in six months. After Mobile Surveillance Unit deployment with audio talk-down and LE coordination, incidents dropped to zero over the next nine months. $180,000 in copper protected, $42,000 in avoided LE callout fees.
 
 **[Read the case study](/resources/case-studies/utility-substation-copper-theft)**
 
 ### Southeast Auto Dealership Group — Catalytic converter theft to zero
-**Auto & Dealership | Swift Deploy + LPR | Southeast**
+**Auto & Dealership | Mobile Surveillance Unit + LPR | Southeast**
 
-A seven-lot dealer group averaging four catalytic converter thefts per month deployed Swift Deploy with LPR integration. Theft dropped to zero within 90 days. $128,000 in avoided annual loss.
+A seven-lot dealer group averaging four catalytic converter thefts per month deployed Mobile Surveillance Unit with LPR integration. Theft dropped to zero within 90 days. $128,000 in avoided annual loss.
 
 **[Read the case study](/resources/case-studies/auto-dealership-southeast)**
 

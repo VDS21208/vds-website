@@ -5,11 +5,11 @@ pageType: Solution Intersection
 parent: /solutions
 status: Launch
 seoTitle: Construction Site Copper Theft Prevention | VDS
-metaDescription: Stop copper wire and pipe theft on active construction sites. Solar-powered thermal + radar + 24/7 SOC audio talk-down. $2,200/mo Sky Guard MSU.
+metaDescription: Stop copper wire and pipe theft on active construction sites. Solar-powered thermal + radar + 24/7 SOC audio talk-down. $2,200/mo Mobile Surveillance Unit.
 announcementBar: ''
 h1: Stop Construction Site Copper Theft Before It Happens
 heroEyebrow: SOLUTION · CONSTRUCTION · COPPER THEFT
-heroSubhead: 'FBI estimates over $1 billion in annual construction theft losses, and copper is the single most targeted material. VDS deploys thermal-radar Sky Guard MSUs at your laydown yard, Boundary Guard Pro along the fence line, and a 24/7 US SOC that talks intruders off the site before they cut a strand of #2 bare copper.'
+heroSubhead: 'FBI estimates over $1 billion in annual construction theft losses, and copper is the single most targeted material. VDS deploys thermal-radar Mobile Surveillance Units at your laydown yard, Mobile Surveillance Unit along the fence line, and a 24/7 US SOC that talks intruders off the site before they cut a strand of #2 bare copper.'
 heroCTAPrimary:
   label: Get a Site Walk
   url: /request-a-quote
@@ -36,10 +36,10 @@ finalCTAButtons:
 - label: Schedule Site Walk
   url: /contact-us/
 schemaType: Article
-internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/boundary-guard-pro, /solutions/construction, /resources/case-studies/mid-atlantic-gc, /solutions/construction/insurance-claim-reduction
+internalLinks: /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /solutions/construction, /resources/case-studies/mid-atlantic-gc, /solutions/construction/insurance-claim-reduction
 canonical: https://visiondetectionsystems.com/solutions/copper-theft-prevention
 ogTitle: Stop Construction Site Copper Theft Before It Happens
-ogDescription: Stop copper wire and pipe theft on active construction sites. Solar-powered thermal + radar + 24/7 SOC audio talk-down. $2,200/mo Sky Guard MSU.
+ogDescription: Stop copper wire and pipe theft on active construction sites. Solar-powered thermal + radar + 24/7 SOC audio talk-down. $2,200/mo Mobile Surveillance Unit.
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg
 ogType: article
 robots: index, follow
@@ -64,7 +64,7 @@ Standard reactive CCTV records the theft. It does not stop it. Recovery is below
 
 VDS treats the laydown yard as a defended perimeter, not a recorded space. The detection-to-response chain runs in under 60 seconds:
 
-1. **Thermal LWIR detection at 1,200ft** — Sky Guard MSU classifies a human shape against ambient at 4am, ignoring deer, raccoons, and the wind-shifted tarp on the rebar pile.
+1. **Thermal LWIR detection at 1,200ft** — Mobile Surveillance Unit classifies a human shape against ambient at 4am, ignoring deer, raccoons, and the wind-shifted tarp on the rebar pile.
 2. **Radar correlation** — radar confirms a moving target on the same vector. 97% false alarm reduction versus motion-only systems.
 3. **SOC operator verification** — a US-based operator pulls 4K visual, confirms the intrusion, and triggers the on-unit speaker.
 4. **Audio talk-down** — "You are on private property under live surveillance. Local law enforcement has been dispatched. Leave the site immediately." Roughly 9 out of 10 intrusions end here.
@@ -74,8 +74,8 @@ VDS treats the laydown yard as a defended perimeter, not a recorded space. The d
 
 | Component | Placement | Monthly |
 |---|---|---|
-| 1-2× Sky Guard MSU | Material laydown yard, generator/fuel area | $2,200 each |
-| 1× Boundary Guard Pro | 500ft fence-line segment, most-exposed side | $1,800 |
+| 1-2× Mobile Surveillance Unit | Material laydown yard, generator/fuel area | $2,200 each |
+| 1× Mobile Surveillance Unit | 500ft fence-line segment, most-exposed side | $1,800 |
 | 24/7 US SOC | Included | — |
 | AI VisionStream cloud VMS | Included, NDAA Section 889 compliant | — |
 

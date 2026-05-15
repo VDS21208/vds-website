@@ -57,7 +57,7 @@ notes: Executive headshot placeholders — actual headshots to be supplied by VD
 - **Headquarters:** Pikesville, Maryland
 - **Founders:** David Weingot, Joe Kruk
 - **Footprint:** 500+ deployments across 30+ states
-- **Products:** Sky Guard MSU, Swift Deploy, Boundary Guard Pro (mobile surveillance trailers); AI VisionStream (camera-agnostic cloud VMS); 24/7 US-based Security Operations Center
+- **Products:** Mobile Surveillance Unit, Mobile Surveillance Unit, Mobile Surveillance Unit (mobile surveillance trailers); AI VisionStream (camera-agnostic cloud VMS); 24/7 US-based Security Operations Center
 - **Compliance:** NDAA Section 889 compliant, AWS Cloud Partner, contract holder
 - **Hero customer outcome:** 73% theft reduction, $0 insurance claims, $340,800 documented savings over 12 months at a $28M Mid-Atlantic GC project
 

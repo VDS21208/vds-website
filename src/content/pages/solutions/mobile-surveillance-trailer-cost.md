@@ -23,7 +23,7 @@ heroStats:
 heroImage: ''
 faq:
 - q: What is the cheapest mobile surveillance trailer?
-  a: Entry-tier units start around $1,200/mo to rent or $30K to buy. These typically have 4 cameras, no AI, and no monitoring included. VDS Swift Deploy starts at $1,500/mo with a 1-year minimum.
+  a: Entry-tier units start around $1,200/mo to rent or $30K to buy. These typically have 4 cameras, no AI, and no monitoring included. VDS Mobile Surveillance Unit starts at $1,500/mo with a 1-year minimum.
 - q: Why is there such a wide price range?
   a: Camera count, AI tier, solar capacity, and whether 24/7 monitoring is bundled. A 4-camera unit with basic analytics is roughly half the cost of an 8-camera AI-heavy unit with SOC monitoring.
 - q: Do I need to buy or can I rent month-to-month?
@@ -31,7 +31,7 @@ faq:
 - q: Is installation included?
   a: For VDS rentals, yes. For purchases, deployment is $500-$1,200 depending on site distance.
 - q: What's the break-even point for buying vs renting?
-  a: Roughly 24 months at the Sky Guard MSU rate ($2,200/mo x 24 = $52,800 vs $38,000 purchase + $5,000 in platform/warranty). See [Buy vs Rent](/solutions/buy-vs-rent-mobile-surveillance-trailer).
+  a: Roughly 24 months at the Mobile Surveillance Unit rate ($2,200/mo x 24 = $52,800 vs $38,000 purchase + $5,000 in platform/warranty). See [Buy vs Rent](/solutions/buy-vs-rent-mobile-surveillance-trailer).
 - q: Does the rental include the cloud VMS?
   a: Standard tier ($39/cam/mo) is included. Pro and Enterprise tiers are add-ons.
 finalCTAHeading: Get a fixed-price quote for your site
@@ -40,7 +40,7 @@ finalCTAButtons:
 - label: Get a Quote
   url: /contact-us/
 schemaType: Article
-internalLinks: /solutions, /solutions/mobile-surveillance-trailer-rental-cost, /solutions/buy-vs-rent-mobile-surveillance-trailer, /solutions/remote-video-monitoring-cost, /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /products/boundary-guard-pro
+internalLinks: /solutions, /solutions/mobile-surveillance-trailer-rental-cost, /solutions/buy-vs-rent-mobile-surveillance-trailer, /solutions/remote-video-monitoring-cost, /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /products/mobile-surveillance-unit
 canonical: https://visiondetectionsystems.com/solutions/mobile-surveillance-trailer-cost
 ogTitle: How Much Does a Mobile Surveillance Trailer Cost?
 ogDescription: Mobile surveillance trailer cost ranges $1,200-$3,400/mo rental, $30K-$60K purchase. Full pricing, what's included, and annual TCO model from VDS.
@@ -61,9 +61,9 @@ This page covers all five. Numbers are current for 2026.
 
 | Trailer Class | VDS Model | VDS Rate | Industry Range |
 |---|---|---|---|
-| Entry / construction | Swift Deploy Trailer | $1,500/mo | $1,200-$1,800/mo |
-| Mid-tier / multi-camera | Sky Guard MSU | $2,200/mo | $1,800-$2,800/mo |
-| Heavy / extended perimeter | Boundary Guard Pro | $1,800/mo | $1,600-$2,400/mo |
+| Entry / construction | Mobile Surveillance Unit | $1,500/mo | $1,200-$1,800/mo |
+| Mid-tier / multi-camera | Mobile Surveillance Unit | $2,200/mo | $1,800-$2,800/mo |
+| Heavy / extended perimeter | Mobile Surveillance Unit | $1,800/mo | $1,600-$2,400/mo |
 | Premium / AI-heavy competitor units | — | — | $2,800-$3,400/mo |
 
 Industry ranges reflect publicly listed rates from LiveView Technologies (LVT), WCCTV, and regional rental fleets. The top of the range ($3,400/mo) is typical for AI-heavy units with bundled monitoring. The bottom ($1,200/mo) is typical for older 4-camera units without analytics.
@@ -72,9 +72,9 @@ Industry ranges reflect publicly listed rates from LiveView Technologies (LVT), 
 
 | VDS Model | Purchase Price | Configuration |
 |---|---|---|
-| Swift Deploy Trailer | $32,000 | 4 cameras, 800W solar, cellular |
-| Sky Guard MSU | $38,000 | 6 cameras, 1.2kW solar, AI analytics, cellular |
-| Boundary Guard Pro | $44,000 | 8 cameras + thermal, 1.5kW solar, AI, cellular |
+| Mobile Surveillance Unit | $32,000 | 4 cameras, 800W solar, cellular |
+| Mobile Surveillance Unit | $38,000 | 6 cameras, 1.2kW solar, AI analytics, cellular |
+| Mobile Surveillance Unit | $44,000 | 8 cameras + thermal, 1.5kW solar, AI, cellular |
 | Custom enterprise build | $50,000-$60,000 | 10+ cameras, redundant power, dual-carrier failover |
 
 Industry purchase prices range $30K (entry units) to $80K+ (custom builds with LiDAR or radar). VDS prices are positioned in the mid-range because we build to NDAA Section 889 specs and use commercial-grade cameras, not consumer hardware.
@@ -97,21 +97,21 @@ Rental includes hardware, solar power, cellular data, basic VMS access (Standard
 
 ## Annual TCO models
 
-**Construction site, 6 months, rented Sky Guard MSU with SOC:**
+**Construction site, 6 months, rented Mobile Surveillance Unit with SOC:**
 - Trailer rental: $2,200 x 6 = $13,200
 - Platform (6 cams, Standard): $39 x 6 x 6 = $1,404
 - SOC monitoring: $399 x 6 = $2,394
 - Deployment/pickup: $0 (included)
 - **Total 6-month TCO: $16,998**
 
-**Retail parking lot, 36 months, purchased Sky Guard MSU with SOC:**
+**Retail parking lot, 36 months, purchased Mobile Surveillance Unit with SOC:**
 - Hardware purchase: $38,000
 - Platform (6 cams, Standard, 36 mo): $39 x 6 x 36 = $8,424
 - SOC monitoring (36 mo): $399 x 36 = $14,364
 - Extended warranty (years 2-3): $1,800 x 2 = $3,600
 - **Total 36-month TCO: $64,388 ($1,789/mo amortized)**
 
-**Logistics yard, 12 months, rented Boundary Guard Pro with SOC, Pro platform:**
+**Logistics yard, 12 months, rented Mobile Surveillance Unit with SOC, Pro platform:**
 - Trailer rental: $1,800 x 12 = $21,600
 - Platform (8 cams, Pro): $69 x 8 x 12 = $6,624
 - SOC monitoring: $399 x 12 = $4,788
@@ -119,7 +119,7 @@ Rental includes hardware, solar power, cellular data, basic VMS access (Standard
 
 ## How this compares to a guard line item
 
-A single guard FTE for 24/7 single-site coverage (3 shifts plus overlap) runs $60,000 to $110,000 per year fully loaded. A rented Sky Guard MSU with SOC monitoring runs roughly $33,000 per year. WCCTV publicly cites up to 88% cost reduction vs guards. Our deployments hover in the 75-88% range depending on whether guards are fully replaced or kept for daytime presence.
+A single guard FTE for 24/7 single-site coverage (3 shifts plus overlap) runs $60,000 to $110,000 per year fully loaded. A rented Mobile Surveillance Unit with SOC monitoring runs roughly $33,000 per year. WCCTV publicly cites up to 88% cost reduction vs guards. Our deployments hover in the 75-88% range depending on whether guards are fully replaced or kept for daytime presence.
 
 ## Hidden costs to ask about
 

@@ -20,7 +20,7 @@ heroStats:
 - $15B+/yr US cargo theft loss
 - 95%+ LPR accuracy <3sec
 - <60s SOC escalation
-- 500ft fence-line coverage per Boundary Guard Pro
+- 500ft fence-line coverage per Mobile Surveillance Unit
 heroImage: ''
 faq:
 - q: Can you integrate with our dispatch and WMS to flag unauthorized hookups?
@@ -31,7 +31,7 @@ faq:
   a: Yes. LPR logs, audited access events, and 30-day cloud retention support CTPAT, TAPA, and FSMA physical security requirements.
 - q: What about insider theft from employees?
   a: AI rules cover after-hours employee badge access, unusual dock activity, and unauthorized trailer staging.
-- q: How fast does Swift Deploy install?
+- q: How fast does Mobile Surveillance Unit install?
   a: 4 hours on site, solar-powered, no trenching. Repositionable as yard layout changes.
 finalCTAHeading: Stop losing trailers. Start logging every plate.
 finalCTABody: 30-minute call with an engineer. Yard walkthrough and deployment plan within 48 hours.
@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Get a Quote
   url: /contact-us/
 schemaType: Article
-internalLinks: /products/boundary-guard-pro, /products/swift-deploy-surveillance-trailer, /platform/platform, /platform/soc, /industries/warehouse-logistics-security, /industries/warehouse-logistics-security, /industries/warehouse-logistics-security
+internalLinks: /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /platform/platform, /platform/soc, /industries/warehouse-logistics-security, /industries/warehouse-logistics-security, /industries/warehouse-logistics-security
 canonical: https://visiondetectionsystems.com/use-cases/cargo-theft-prevention
 ogTitle: Cargo theft prevention for yards, docks, and distribution centers.
 ogDescription: Stop cargo theft at warehouses, logistics yards, and ports. LPR on every dock, perimeter detection, 24/7 US SOC dispatch
@@ -62,14 +62,14 @@ Static cameras at the gate see the truck. They do not see that the trailer hooku
 
 ## How VDS prevents cargo theft
 
-VDS treats the yard as a system. Boundary Guard Pro runs the fence-line — every approach to the perimeter triggers an alert before the breach. Swift Deploy units at every vehicle entrance run LPR with 95%+ accuracy in under 3 seconds, logging every tractor and trailer plate against your authorized list.
+VDS treats the yard as a system. Mobile Surveillance Unit runs the fence-line — every approach to the perimeter triggers an alert before the breach. Mobile Surveillance Unit units at every vehicle entrance run LPR with 95%+ accuracy in under 3 seconds, logging every tractor and trailer plate against your authorized list.
 
 AI VisionStream rules catch the patterns static cameras miss. Trailer-hookup detection during after-hours windows fires when a tractor docks without a corresponding dispatch record. Loitering rules alert on a vehicle parked at the property line for more than 4 minutes. The SOC operator pulls live video, verifies in seconds, and either talks the driver down through the on-unit speaker or dispatches law enforcement with plate, GPS, and direction of travel.
 
 ## Recommended VDS configuration
 
-- **Boundary Guard Pro along the yard perimeter** — $1,800/mo per 500ft run. Detects perimeter approach before fence breach.
-- **Swift Deploy at every vehicle entrance** — $1,500/mo. PTZ + LPR captures every plate in/out, integrated with your dispatch system.
+- **Mobile Surveillance Unit along the yard perimeter** — $1,800/mo per 500ft run. Detects perimeter approach before fence breach.
+- **Mobile Surveillance Unit at every vehicle entrance** — $1,500/mo. PTZ + LPR captures every plate in/out, integrated with your dispatch system.
 - **AI VisionStream rules** — unauthorized trailer hookup, after-hours dock activity, perimeter loitering, unknown plate alerts.
 - **24/7 US SOC** — <60s escalation, live audio challenge, LE dispatch with plate and GPS.
 

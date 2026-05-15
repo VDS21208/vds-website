@@ -30,14 +30,14 @@ faq:
 - q: Can VDS handle a national retail account at LVT's scale?
   a: We currently operate in 30+ states with 500+ deployments. For a true national retail rollout (1,000+ sites), we partner with regional installers and run a shared deployment plan. We're transparent about the scale gap and the partnership model.
 - q: How long does a VDS deployment take vs. LVT?
-  a: 'Swift Deploy site-up: 4-6 hours from truck arrival. LVT D3 typical: 24-48 hours for first-time site, faster on repeat sites.'
+  a: 'Mobile Surveillance Unit site-up: 4-6 hours from truck arrival. LVT D3 typical: 24-48 hours for first-time site, faster on repeat sites.'
 finalCTAHeading: See the matrix on your sites
 finalCTABody: Send three site addresses. We'll come back with a unit plan, a per-site monthly, and a side-by-side against your current LVT footprint inside 5 business days.
 finalCTAButtons:
 - label: Book the architecture call
   url: /contact-us/
 schemaType: Article
-internalLinks: /compare, /platform, /platform/soc, /hardware/sky-guard-msu, /resources/case-studies/mid-atlantic-gc
+internalLinks: /compare, /platform, /platform/soc, /products/mobile-surveillance-unit, /resources/case-studies/mid-atlantic-gc
 canonical: https://visiondetectionsystems.com/compare/vds-vs-lvt
 ogTitle: VDS vs. LiveView Technologies (LVT)
 ogDescription: LVT has ~5,000 units deployed. VDS is camera-agnostic with a 24/7 US SOC and no hardware lock-in. Side-by-side matrix, TCO math, migration plan.
@@ -103,7 +103,7 @@ VDS sells a different shape. Hardware is rented monthly ($1,500-$2,200), the VMS
 For a single mid-complexity site running 24/7:
 
 - **LVT D3:** $45,000 average hardware + $1,200/mo subscription estimate = $45,000 + $43,200 over 36 months = **$88,200**, plus you own a unit that's now 3 years into its depreciation curve.
-- **VDS Sky Guard MSU:** $2,200/mo all-in = **$79,200** over 36 months, no terminal hardware liability, no resale obligation.
+- **VDS Mobile Surveillance Unit:** $2,200/mo all-in = **$79,200** over 36 months, no terminal hardware liability, no resale obligation.
 
 At month 37, the LVT customer is sitting on hardware that needs maintenance contracts and eventual replacement. The VDS customer either cancels, renews, or upgrades to the latest hardware generation at no incremental cost.
 

@@ -37,7 +37,7 @@ finalCTAButtons:
 - label: Request a Virginia quote
   url: /contact-us/
 schemaType: LocalBusiness
-internalLinks: /industries/data-centers, /compliance/ndaa-889, /procurement/gsa-, /products/sky-guard-mobile-surveillance-trailer
+internalLinks: /industries/data-centers, /compliance/ndaa-889, /procurement/gsa-, /products/mobile-surveillance-unit
 canonical: https://visiondetectionsystems.com/locations/virginia
 ogTitle: Mobile surveillance for Virginia data centers and federal-adjacent sites
 ogDescription: NDAA Section 889 compliant mobile surveillance for Virginia data centers, federal-adjacent construction, and Dominion utilities
@@ -58,11 +58,11 @@ Pikesville is 75 miles from Reston. NoVA deployments land in 24 hours, the rest 
 
 ## Industries we protect in Virginia
 
-**Data center construction.** Loudoun County hosts the largest data center concentration in the world. We're active on AWS, Microsoft, and hyperscaler-tenant construction sites across Ashburn, Sterling, Manassas, and the new Prince William cluster. Copper theft on these sites runs in the six figures per incident — Sky Guard MSUs sit on perimeter during shell construction and the SOC handles after-hours response.
+**Data center construction.** Loudoun County hosts the largest data center concentration in the world. We're active on AWS, Microsoft, and hyperscaler-tenant construction sites across Ashburn, Sterling, Manassas, and the new Prince William cluster. Copper theft on these sites runs in the six figures per incident — Mobile Surveillance Units sit on perimeter during shell construction and the SOC handles after-hours response.
 
 **Federal and DoD-adjacent construction.** Pentagon City, Quantico-area contractors, and the broader NoVA defense build environment. 889 compliance is the gate; we clear it.
 
-**Dominion Energy infrastructure.** Substations, transmission projects, and ongoing storm response. Boundary Guard Pro fixed deployments and Sky Guard mobile units depending on the asset.
+**Dominion Energy infrastructure.** Substations, transmission projects, and ongoing storm response. Mobile Surveillance Unit fixed deployments and Mobile Surveillance Unit mobile units depending on the asset.
 
 ## Coverage and lead time
 
@@ -74,7 +74,7 @@ Inventory pre-staged in Pikesville and a smaller cache near Manassas for emergen
 
 ## A Virginia-area deployment
 
-A hyperscaler-tenant general contractor building three data centers across 140 acres in eastern Loudoun County asked us to cover all three simultaneously. Eight Sky Guard MSUs deployed in 6 business days, with 24/7 SOC coverage and integration into their existing access control system. Eighteen-month coverage: 89 deterred intrusion attempts, three arrests, and zero copper or equipment loss after the first 30 days (when one perimeter breach occurred during a thunderstorm-related power event we've since hardened against).
+A hyperscaler-tenant general contractor building three data centers across 140 acres in eastern Loudoun County asked us to cover all three simultaneously. Eight Mobile Surveillance Units deployed in 6 business days, with 24/7 SOC coverage and integration into their existing access control system. Eighteen-month coverage: 89 deterred intrusion attempts, three arrests, and zero copper or equipment loss after the first 30 days (when one perimeter breach occurred during a thunderstorm-related power event we've since hardened against).
 
 ## Virginia compliance and procurement
 

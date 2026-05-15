@@ -84,7 +84,7 @@ Internal links to add after publishing:
 
 /industries/construction-site-security/
 
-/products/mobile-surveillance-trailers
+/products/mobile-surveillance-unit
 
 /construction-live-monitoring/
 

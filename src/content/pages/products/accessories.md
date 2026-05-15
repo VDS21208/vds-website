@@ -23,7 +23,7 @@ heroStats:
 - Ships from MD
 heroImage: ''
 faq:
-- q: Can I retrofit LPR onto a Swift Deploy I already have?
+- q: Can I retrofit LPR onto a Mobile Surveillance Unit I already have?
   a: Yes. Factory and field-retrofit LPR perform to the same 95%+ accuracy and sub-3-second alert spec.
 - q: Do you ship parts to customers who do not run a VDS lease?
   a: Yes — we sell parts and accessories to the broader market. Compatibility documentation provided on request.
@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Talk to an Engineer
   url: /contact-us
 schemaType: Product
-internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /products/boundary-guard-pro, /products/solar-camera-poles, /platform
+internalLinks: /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /products/solar-powered-surveillance-kit, /platform
 canonical: https://visiondetectionsystems.com/products/accessories
 ogTitle: The parts that make a deployment last past month 18.
 ogDescription: Anti-tamper kits, battery upgrades, LPR add-ons, signage, K-rail mounts, and the parts that make a deployment last past month 18.
@@ -62,7 +62,7 @@ Seven years of deployments tell us where field failures actually come from. The 
 
 **Additional batteries.** Battery bank upgrades for sites with shading, high cellular draw, or extreme cold cycles.
 
-**LPR add-on.** Retrofit LPR onto Swift Deploy and Solar Pole units. 95%+ accuracy, sub-3-second alerts.
+**LPR add-on.** Retrofit LPR onto Mobile Surveillance Unit and Solar Pole units. 95%+ accuracy, sub-3-second alerts.
 
 **Signage.** Warning, surveillance, and trespass signage — printed, posted, and rated for outdoor multi-year exposure.
 

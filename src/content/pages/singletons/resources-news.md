@@ -57,7 +57,7 @@ The downloadable press kit includes:
 
 - Company fact sheet (founded 2017, Pikesville MD HQ, 500+ deployments across 30+ states, 24/7 US SOC)
 - Executive bios and headshots (high-resolution)
-- Product photography (Sky Guard MSU, Swift Deploy, Boundary Guard Pro, Solar Camera Pole) — high-resolution, on-site and studio
+- Product photography (Mobile Surveillance Unit, Mobile Surveillance Unit, Mobile Surveillance Unit, Solar-Powered Surveillance Kit) — high-resolution, on-site and studio
 - Logo files (light and dark background variants, vector and raster)
 - Boilerplate company description (50-word and 100-word versions)
 

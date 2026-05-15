@@ -14,8 +14,8 @@ heroCTAPrimary:
   label: Request a Quote
   url: /request-a-quote
 heroCTASecondary:
-  label: See Sky Guard MSU
-  url: /products/sky-guard-mobile-surveillance-trailer
+  label: See Mobile Surveillance Unit
+  url: /products/mobile-surveillance-unit
 heroStats:
 - 500+ deployments
 - 30+ states
@@ -30,9 +30,9 @@ faq:
 - q: Is the hardware NDAA compliant?
   a: Yes — Section 889 compliant, assembled in Pikesville, MD. No prohibited components. Documentation provided on request for federal, defense, and critical infrastructure procurement.
 - q: What does a typical deployment cost?
-  a: Swift Deploy Trailer from $1,500/mo. Sky Guard MSU from $2,200/mo lease or $38,000 purchase. Most multi-unit construction sites run $4,000-$8,000/mo all-in with SOC monitoring — versus $25,000-$40,000/mo for manned guards.
+  a: Mobile Surveillance Unit from $1,500/mo. Mobile Surveillance Unit from $2,200/mo lease or $38,000 purchase. Most multi-unit construction sites run $4,000-$8,000/mo all-in with SOC monitoring — versus $25,000-$40,000/mo for manned guards.
 - q: How long does deployment take?
-  a: One person, no tools, under 20 minutes for Swift Deploy. Sky Guard MSU is comparable. We handle delivery, siting, and commissioning. Live in AI VisionStream the same day.
+  a: One person, no tools, under 20 minutes for Mobile Surveillance Unit. Mobile Surveillance Unit is comparable. We handle delivery, siting, and commissioning. Live in AI VisionStream the same day.
 - q: Can I keep cameras live if a site loses power?
   a: Yes. Every mobile unit runs on solar with 36-48+ hour battery reserve. The cameras, the analytics, and the SOC link stay live through power outages, which is when most incidents happen.
 finalCTAHeading: Get a site-specific quote in 24 hours.
@@ -66,7 +66,7 @@ Active deterrence with human verification does. So does sub-3-second alerting. S
 
 ## What "integrated" actually means.
 
-**Hardware.** Sky Guard MSU pairs thermal LWIR, 500ft ground radar, 4K multi-sensor, LPR, and active deterrence on a 22ft mast running on 600W of solar with 48+ hour battery reserve. Swift Deploy Trailer hits site in under 20 minutes, deployed by one person with no tools. Boundary Guard Pro covers 500+ linear feet of fence line with no blind spots.
+**Hardware.** Mobile Surveillance Unit pairs thermal LWIR, 500ft ground radar, 4K multi-sensor, LPR, and active deterrence on a 22ft mast running on 600W of solar with 48+ hour battery reserve. Mobile Surveillance Unit hits site in under 20 minutes, deployed by one person with no tools. Mobile Surveillance Unit covers 500+ linear feet of fence line with no blind spots.
 
 **Cloud VMS.** AI VisionStream runs on AWS, US-only data residency, TLS 1.3 in transit, AES-256 at rest, RBAC and MFA standard, immutable 12-month audit log. ONVIF and RTSP compliant — bring your existing cameras or buy ours. LPR accuracy above 95% with alerts in under three seconds.
 
@@ -74,7 +74,7 @@ Active deterrence with human verification does. So does sub-3-second alerting. S
 
 ## Proven ROI, not projected.
 
-A national general contractor running a $28M Mid-Atlantic project deployed two Swift Deploy Trailers and three Solar Camera Poles. In 12 months:
+A national general contractor running a $28M Mid-Atlantic project deployed two Mobile Surveillance Units and three Solar-Powered Surveillance Kit. In 12 months:
 
 - 73% theft reduction
 - $0 insurance claims filed
@@ -89,4 +89,4 @@ NDAA Section 889 compliant. AWS Cloud Partner. US-only AWS regions. Assembled in
 
 ## How we engage.
 
-Lease from $1,500/mo (Swift Deploy) or $2,200/mo (Sky Guard). Purchase Sky Guard MSU from $38,000. Mix and match a
+Lease from $1,500/mo (Mobile Surveillance Unit) or $2,200/mo (Mobile Surveillance Unit). Purchase Mobile Surveillance Unit from $38,000. Mix and match a

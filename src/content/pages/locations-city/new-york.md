@@ -1,5 +1,5 @@
 ---
-url: /locations/products/mobile-surveillance-trailersnew-york
+url: /locations/products/mobile-surveillance-unitnew-york
 collection: locations-city
 pageType: City Detail
 parent: /locations/mobile-surveillance-trailers
@@ -37,8 +37,8 @@ finalCTAButtons:
 - label: Request a NYC quote
   url: /contact-us/
 schemaType: LocalBusiness
-internalLinks: /locations/mobile-surveillance-trailers, /locations/new-york, /products/sky-guard-mobile-surveillance-trailer, /industries/construction-security, /industries/retail-orc, /compliance/post-act
-canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailersnew-york
+internalLinks: /locations/mobile-surveillance-trailers, /locations/new-york, /products/mobile-surveillance-unit, /industries/construction-security, /industries/retail-orc, /compliance/post-act
+canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-unitnew-york
 ogTitle: Mobile surveillance trailers in New York, NY
 ogDescription: Mobile surveillance trailers across NYC, Long Island, and Westchester. POST Act compliant, no facial recognition, private property only. 24/7 SOC.
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg
@@ -72,7 +72,7 @@ We do not currently operate in Connecticut except for active-customer redeployme
 
 ## A NYC-area deployment
 
-A high-rise general contractor running a 38-story tower in Long Island City switched to VDS after their previous vendor's footage was subpoenaed in an unrelated city-funded matter and the discovery process disrupted their job-site workflow for six weeks. We deployed two Sky Guard MSUs ($4,400/mo combined) with explicit private-property-only retention terms in the MSA and a documented chain-of-custody process for legitimate subpoenas. SOC handled 14 trespass escalations in the first 60 days and the project's after-hours theft losses dropped to zero.
+A high-rise general contractor running a 38-story tower in Long Island City switched to VDS after their previous vendor's footage was subpoenaed in an unrelated city-funded matter and the discovery process disrupted their job-site workflow for six weeks. We deployed two Mobile Surveillance Units ($4,400/mo combined) with explicit private-property-only retention terms in the MSA and a documented chain-of-custody process for legitimate subpoenas. SOC handled 14 trespass escalations in the first 60 days and the project's after-hours theft losses dropped to zero.
 
 ## Local compliance note
 

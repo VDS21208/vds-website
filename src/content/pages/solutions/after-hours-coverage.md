@@ -9,7 +9,7 @@ metaDescription: After-hours surveillance for parking lots and garages. Thermal 
 announcementBar: ''
 h1: After-Hours Surveillance for Parking Lots and Garages
 heroEyebrow: SOLUTION · PARKING · AFTER-HOURS COVERAGE
-heroSubhead: The overwhelming majority of parking lot crime — break-ins, encampments, vehicle thefts, assaults — occurs between 10pm and 5am, when staff has gone home and the lot is dark. VDS deploys Swift Deploy with thermal, LPR, and AI VisionStream time-of-day rules that auto-arm after hours, backed by a 24/7 US SOC.
+heroSubhead: The overwhelming majority of parking lot crime — break-ins, encampments, vehicle thefts, assaults — occurs between 10pm and 5am, when staff has gone home and the lot is dark. VDS deploys Mobile Surveillance Unit with thermal, LPR, and AI VisionStream time-of-day rules that auto-arm after hours, backed by a 24/7 US SOC.
 heroCTAPrimary:
   label: Quote After-Hours Coverage
   url: /request-a-quote
@@ -21,7 +21,7 @@ heroStats:
 heroImage: ''
 faq:
 - q: How does this work in a multi-level parking structure?
-  a: Each level gets its own Swift Deploy or pole-mount camera tied into the same SOC. AI VisionStream maintains separate zone rules per level. Entry and exit get LPR.
+  a: Each level gets its own Mobile Surveillance Unit or pole-mount camera tied into the same SOC. AI VisionStream maintains separate zone rules per level. Entry and exit get LPR.
 - q: Does the SOC handle encampment events differently than theft?
   a: Yes. Encampment protocol is verification, audio talk-down with property-specific scripting (some properties prefer outreach language, others prefer trespass language), LE notification only on refusal or threat. Theft protocol is immediate LE dispatch.
 - q: Can we replace our overnight guard?
@@ -36,7 +36,7 @@ finalCTAButtons:
 - label: Quote My Property
   url: /contact-us/
 schemaType: Article
-internalLinks: /products/swift-deploy-surveillance-trailer, /products/sky-guard-mobile-surveillance-trailer, /features/platform, /solutions/parking, /solutions/catalytic-converter-theft-prevention
+internalLinks: /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /features/platform, /solutions/parking, /solutions/catalytic-converter-theft-prevention
 canonical: https://visiondetectionsystems.com/solutions/parking/after-hours-coverage
 ogTitle: After-Hours Surveillance for Parking Lots and Garages
 ogDescription: After-hours surveillance for parking lots and garages. Thermal cameras, LPR, time-of-day arming, 24/7 US SOC response. <60s intervention.
@@ -66,7 +66,7 @@ Standard solutions — overnight guards, fixed CCTV with morning review — are 
 
 The deployment is built around the time-of-day threat profile:
 
-**Swift Deploy with thermal and LPR.** Thermal LWIR sees a person on the lot through low light, dense fog, and structure shadow. LPR captures every plate in and out, with state and confidence metadata.
+**Mobile Surveillance Unit with thermal and LPR.** Thermal LWIR sees a person on the lot through low light, dense fog, and structure shadow. LPR captures every plate in and out, with state and confidence metadata.
 
 **AI VisionStream time-of-day rules.** Zones automatically arm at the close of business and disarm at the start of the morning shift. Different rules per zone (employee parking armed earlier than customer parking, structured garage levels armed independently). Vehicle and pedestrian behaviors that would be normal at 2pm trigger verification at 2am.
 
@@ -78,16 +78,16 @@ The deployment is built around the time-of-day threat profile:
 
 | Property type | Configuration | Monthly |
 |---|---|---|
-| Single open lot (<3 acres) | 1× Swift Deploy + LPR | $1,500 |
-| Structured garage (1-3 levels) | 2-3× Swift Deploy + LPR at entry/exit | $3,000-$4,500 |
-| Park-and-ride (large) | 1× Sky Guard MSU + 1-2× Swift Deploy + LPR | $3,700-$5,200 |
-| Event parking (temporary) | Swift Deploy rapid-deploy, 30-90 day terms | Custom |
+| Single open lot (<3 acres) | 1× Mobile Surveillance Unit + LPR | $1,500 |
+| Structured garage (1-3 levels) | 2-3× Mobile Surveillance Unit + LPR at entry/exit | $3,000-$4,500 |
+| Park-and-ride (large) | 1× Mobile Surveillance Unit + 1-2× Mobile Surveillance Unit + LPR | $3,700-$5,200 |
+| Event parking (temporary) | Mobile Surveillance Unit rapid-deploy, 30-90 day terms | Custom |
 
 All deployments include 24/7 US SOC, AI VisionStream with time-of-day rules, and 90-day evidence retention.
 
 ## What it looks like working
 
-A 1,400-stall park-and-ride had 28 vehicle break-ins, 4 catalytic converter thefts, and an encampment problem driving tenant complaints from the adjacent commercial buildings. VDS deployed 1 Sky Guard MSU and 2 Swift Deploys with LPR at the entry and exit. In the next 12 months: **vehicle break-ins down 81% (28 to 5), 0 catalytic converter thefts (down from 4), encampment events resolved via after-hours talk-down (average 7 events/month down to <1).**
+A 1,400-stall park-and-ride had 28 vehicle break-ins, 4 catalytic converter thefts, and an encampment problem driving tenant complaints from the adjacent commercial buildings. VDS deployed 1 Mobile Surveillance Unit and 2 Mobile Surveillance Units with LPR at the entry and exit. In the next 12 months: **vehicle break-ins down 81% (28 to 5), 0 catalytic converter thefts (down from 4), encampment events resolved via after-hours talk-down (average 7 events/month down to <1).**
 
 ## Pricing
 

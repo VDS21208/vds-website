@@ -45,19 +45,19 @@
         "label": "Security Guard Booths",
         "url": "/products/guard-booths",
         "type": "link",
-        "notes": ""
+        "notes": "Manned guard booth solutions"
       },
       {
         "label": "Medical & Cooling Stations",
         "url": "/products/medical-cooling-stations",
         "type": "link",
-        "notes": ""
+        "notes": "Mobile medical and cooling units"
       },
       {
         "label": "Light Trailers",
         "url": "/products/light-trailers",
         "type": "link",
-        "notes": ""
+        "notes": "Mobile lighting trailers"
       },
       {
         "label": "Accessories & Add-Ons",
@@ -69,7 +69,7 @@
         "label": "License Plate Recognition",
         "url": "/products/license-plate-recognition",
         "type": "link",
-        "notes": ""
+        "notes": "LPR-equipped trailers"
       }
     ],
     "featured": [
@@ -109,7 +109,7 @@
         "label": "Analytics & detection",
         "url": "/platform/ai-video-analytics",
         "type": "link",
-        "notes": ""
+        "notes": "Object, person, vehicle detection"
       },
       {
         "label": "SOC operations",
@@ -135,7 +135,7 @@
         "label": "Cloud video surveillance",
         "url": "/platform/cloud-video-surveillance",
         "type": "link",
-        "notes": ""
+        "notes": "Cloud video storage + playback"
       },
       {
         "label": "License plate recognition",
@@ -147,7 +147,7 @@
         "label": "Alerts & reporting",
         "url": "/platform/alerts-reporting",
         "type": "link",
-        "notes": ""
+        "notes": "Real-time alerts and incident reports"
       },
       {
         "label": "API & SDK access",
@@ -217,13 +217,13 @@
         "label": "Auto dealerships",
         "url": "/industries/automotive-dealership-security",
         "type": "link",
-        "notes": "Auto dealers \u00b7 catalytic + inventory protection"
+        "notes": "Catalytic + inventory protection"
       },
       {
         "label": "Parking & garages",
         "url": "/industries/parking-lot-garage-security",
         "type": "link",
-        "notes": "Parking and garages \u00b7 LPR + LE dispatch"
+        "notes": "LPR + law-enforcement dispatch"
       },
       {
         "label": "Government & public safety",
@@ -243,37 +243,37 @@
         "label": "Oil & gas",
         "url": "/industries/oil-gas-security",
         "type": "link",
-        "notes": ""
+        "notes": "Remote pipeline + facility coverage"
       },
       {
         "label": "Events & temporary",
         "url": "/industries/event-security",
         "type": "link",
-        "notes": "Special events \u00b7 short-term rapid deployment"
+        "notes": "Short-term rapid deployment"
       },
       {
         "label": "Healthcare / hospitality",
         "url": "/industries/hospitality-healthcare-security",
         "type": "link",
-        "notes": ""
+        "notes": "Hotels, hospitals, campuses"
       },
       {
         "label": "School & campus",
         "url": "/industries/school-campus-security",
         "type": "link",
-        "notes": ""
+        "notes": "K-12 and university perimeters"
       },
       {
         "label": "Critical infrastructure",
         "url": "/industries/critical-infrastructure-security",
         "type": "link",
-        "notes": "Critical infrastructure \u00b7 NERC + CFATS ready"
+        "notes": "NERC + CFATS ready"
       },
       {
         "label": "Commercial property",
         "url": "/industries/commercial-property-security",
         "type": "link",
-        "notes": ""
+        "notes": "Multi-tenant + property mgmt"
       },
       {
         "label": "Insurance carriers",
@@ -325,7 +325,7 @@
         "label": "About VDS",
         "url": "/about-us",
         "type": "link",
-        "notes": "Our company, mission, and leadership"
+        "notes": "Our company and mission"
       },
       {
         "label": "Trust center",
@@ -337,7 +337,7 @@
         "label": "NDAA Section 889",
         "url": "/about-us/ndaa-compliance",
         "type": "link",
-        "notes": "NDAA Section 889 compliance details"
+        "notes": "NDAA Section 889 details"
       },
       {
         "label": "Why VDS exists \u2192",
@@ -363,19 +363,19 @@
         "label": "Our plant (Pikesville, MD)",
         "url": "/about-us/our-plant",
         "type": "link",
-        "notes": "Pikesville, MD US-assembly facility"
+        "notes": "Pikesville, MD US-assembly plant"
       },
       {
         "label": "Sustainability",
         "url": "/about-us/sustainability",
         "type": "link",
-        "notes": "Solar autonomy and carbon footprint"
+        "notes": "Solar autonomy + carbon"
       },
       {
         "label": "Awards & recognition",
         "url": "/about-us/awards",
         "type": "link",
-        "notes": "Awards, certifications, recognitions"
+        "notes": "Awards and certifications"
       },
       {
         "label": "Careers",
@@ -465,25 +465,25 @@
         "label": "Construction theft guide",
         "url": "/guides/construction-theft-prevention",
         "type": "link",
-        "notes": ""
+        "notes": "Stopping copper + equipment theft"
       },
       {
         "label": "NDAA compliance guide",
         "url": "/guides/ndaa-compliance",
         "type": "link",
-        "notes": ""
+        "notes": "NDAA Section 889 buying guide"
       },
       {
         "label": "Utility substation guide",
         "url": "/guides/utility-substation-security",
         "type": "link",
-        "notes": ""
+        "notes": "Substation perimeter playbook"
       },
       {
         "label": "Retail / ORC guide",
         "url": "/guides/retail-orc",
         "type": "link",
-        "notes": ""
+        "notes": "Organized retail crime defense"
       },
       {
         "label": "Webinars",
@@ -547,31 +547,31 @@
         "label": "Become a dealer",
         "url": "/partners/become-a-dealer",
         "type": "link",
-        "notes": ""
+        "notes": "Join the VDS dealer network"
       },
       {
         "label": "White label program",
         "url": "/partners/white-label",
         "type": "link",
-        "notes": ""
+        "notes": "White-label program"
       },
       {
         "label": "Dealer resources",
         "url": "/partners/resources",
         "type": "link",
-        "notes": ""
+        "notes": "Sales tools and collateral"
       },
       {
         "label": "Financing",
         "url": "/partners/financing",
         "type": "link",
-        "notes": ""
+        "notes": "Customer financing options"
       },
       {
         "label": "Find a dealer \u2192",
         "url": "/partners/find-a-dealer",
         "type": "link",
-        "notes": ""
+        "notes": "Locate a local dealer"
       }
     ],
     "supporting": [
@@ -579,7 +579,7 @@
         "label": "Integrations directory",
         "url": "/integrations",
         "type": "link",
-        "notes": ""
+        "notes": "Integrations directory"
       },
       {
         "label": "Specifiers (A&E portal)",
@@ -591,25 +591,25 @@
         "label": "Insurance carriers",
         "url": "/industries/insurance-carriers",
         "type": "link",
-        "notes": ""
+        "notes": "Insurance channel buyers"
       },
       {
         "label": "API & SDK access",
         "url": "/platform/api-sdk-access",
         "type": "link",
-        "notes": ""
+        "notes": "Developer + integrator API/SDK"
       },
       {
         "label": "VDS + Genetec",
         "url": "/integrations/genetec",
         "type": "link",
-        "notes": ""
+        "notes": "Genetec Security Center integration"
       },
       {
         "label": "VDS + Milestone",
         "url": "/integrations/milestone",
         "type": "link",
-        "notes": ""
+        "notes": "Milestone XProtect integration"
       }
     ],
     "featured": [

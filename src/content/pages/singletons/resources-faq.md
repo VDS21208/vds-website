@@ -39,20 +39,20 @@ tags: mobile surveillance, VDS
 
 ## Products
 
-**1. What is the difference between Sky Guard MSU, Swift Deploy, and Boundary Guard Pro?**
-Sky Guard MSU ($2,200/mo) is the static deployment unit optimized for multi-month coverage at a single site — utility substations, long-cycle construction, fixed perimeter applications. Swift Deploy ($1,500/mo) is the redeployable mobile unit for project-based sites and rotating coverage; it ships with the lowest deployment time in the lineup. Boundary Guard Pro ($1,800/mo) is the line-of-detection unit for linear perimeters — fences, yard boundaries, rail spurs, pipeline right-of-way. All three feed into the same Cloud VMS and are monitored by the same SOC.
+**1. What is the difference between Mobile Surveillance Unit, Mobile Surveillance Unit, and Mobile Surveillance Unit?**
+Mobile Surveillance Unit ($2,200/mo) is the static deployment unit optimized for multi-month coverage at a single site — utility substations, long-cycle construction, fixed perimeter applications. Mobile Surveillance Unit ($1,500/mo) is the redeployable mobile unit for project-based sites and rotating coverage; it ships with the lowest deployment time in the lineup. Mobile Surveillance Unit ($1,800/mo) is the line-of-detection unit for linear perimeters — fences, yard boundaries, rail spurs, pipeline right-of-way. All three feed into the same Cloud VMS and are monitored by the same SOC.
 
 **2. Can the units run without grid power?**
-Yes. All three units are solar-autonomous with battery storage sized for multi-day sustained operation in worst-case low-light conditions. Sky Guard has the largest battery and solar array; Swift Deploy is sized for typical mid-Atlantic and Southeast conditions. We size the unit to the site latitude and shading profile during the assessment.
+Yes. All three units are solar-autonomous with battery storage sized for multi-day sustained operation in worst-case low-light conditions. Mobile Surveillance Unit has the largest battery and solar array; Mobile Surveillance Unit is sized for typical mid-Atlantic and Southeast conditions. We size the unit to the site latitude and shading profile during the assessment.
 
 **3. What cameras do the units carry?**
-Each unit carries a dual-spectrum array: a daylight PTZ with optical zoom, a fixed wide-angle visible-light camera, and a thermal imager for low-light and obscured-condition detection. Boundary Guard Pro adds line-of-detection radar for long linear perimeters.
+Each unit carries a dual-spectrum array: a daylight PTZ with optical zoom, a fixed wide-angle visible-light camera, and a thermal imager for low-light and obscured-condition detection. Mobile Surveillance Unit adds line-of-detection radar for long linear perimeters.
 
 **4. Is the VMS proprietary or camera-agnostic?**
 Camera-agnostic. The Cloud VMS supports our hardware, the customer's existing IP cameras, and most major manufacturers. We commonly deploy alongside existing fixed-camera systems rather than replacing them.
 
 **5. What is the deployment time?**
-Swift Deploy: roughly 27 minutes from trailer drop to first frame on a typical site. Sky Guard MSU: a single day per site including site survey, positioning, solar orientation, and SOC commissioning. Boundary Guard Pro: typically two days for a 1,500-foot linear run including calibration.
+Mobile Surveillance Unit: roughly 27 minutes from trailer drop to first frame on a typical site. Mobile Surveillance Unit: a single day per site including site survey, positioning, solar orientation, and SOC commissioning. Mobile Surveillance Unit: typically two days for a 1,500-foot linear run including calibration.
 
 ## Deployment
 
@@ -63,10 +63,10 @@ Minimal. We need vehicle access, a level positioning area, and unobstructed sky 
 Cellular by default on a redundant multi-carrier modem. If the site has Wi-Fi or wired uplink available we will use it as primary with cellular as failover. We do not require customer network access for the unit to operate.
 
 **8. Can the unit be repositioned?**
-Swift Deploy: yes, easily, by design. Sky Guard MSU: yes but typically as a planned move at month-end with SOC coordination. Boundary Guard Pro: yes but reconfiguration of the line-of-detection geometry adds a half-day per move.
+Mobile Surveillance Unit: yes, easily, by design. Mobile Surveillance Unit: yes but typically as a planned move at month-end with SOC coordination. Mobile Surveillance Unit: yes but reconfiguration of the line-of-detection geometry adds a half-day per move.
 
 **9. What is the typical deployment footprint?**
-Swift Deploy occupies roughly a single parking space. Sky Guard MSU occupies approximately a 12x16 ft positioning area. Solar Camera Poles take a 4x4 ft anchor footprint.
+Mobile Surveillance Unit occupies roughly a single parking space. Mobile Surveillance Unit occupies approximately a 12x16 ft positioning area. Solar-Powered Surveillance Kit take a 4x4 ft anchor footprint.
 
 **10. Can you deploy across multiple sites under one contract?**
 Yes. Most customers with three or more sites operate under a master services agreement with site-specific schedules.
@@ -86,7 +86,7 @@ Standard term is 12 months. Multi-year contracts (24 or 36 months) carry a modes
 Yes, with 30 days notice and an early-termination payment that varies by remaining term. We do not hold customers to a deployment that is not working.
 
 **15. Do you offer financing or capex purchase?**
-The standard model is subscription. For customers with a hard capex preference, we offer a buyout structure on Sky Guard MSU. Swift Deploy is subscription-only because its value proposition is the redeployability.
+The standard model is subscription. For customers with a hard capex preference, we offer a buyout structure on Mobile Surveillance Unit. Mobile Surveillance Unit is subscription-only because its value proposition is the redeployability.
 
 ## Monitoring
 

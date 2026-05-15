@@ -24,11 +24,11 @@ heroStats:
 heroImage: ''
 faq:
 - q: How much does a mobile surveillance trailer cost?
-  a: VDS mobile surveillance trailers rent from $1,500 to $2,200 per month depending on configuration. Purchase prices start at $38,000 for the Sky Guard MSU. Pricing includes the trailer, AI VisionStream platform access, and the option to add 24/7 SOC monitoring at $399 per site per month.
-- q: What is the difference between the Sky Guard MSU, Swift Deploy, and Boundary Guard Pro?
-  a: Sky Guard MSU ($2,200/mo) is the flagship — thermal LWIR, 500ft ground radar, 4K cameras, LPR, and active deterrence in one solar-autonomous unit. Swift Deploy ($1,500/mo) is the most popular — HD PTZ with 30x zoom, deploys in under 20 minutes by one person. Boundary Guard Pro ($1,800/mo) covers 500+ linear feet of fence-line with no blind spots.
+  a: VDS mobile surveillance trailers rent from $1,500 to $2,200 per month depending on configuration. Purchase prices start at $38,000 for the Mobile Surveillance Unit. Pricing includes the trailer, AI VisionStream platform access, and the option to add 24/7 SOC monitoring at $399 per site per month.
+- q: What is the difference between the Mobile Surveillance Unit, Mobile Surveillance Unit, and Mobile Surveillance Unit?
+  a: Mobile Surveillance Unit ($2,200/mo) is the flagship — thermal LWIR, 500ft ground radar, 4K cameras, LPR, and active deterrence in one solar-autonomous unit. Mobile Surveillance Unit ($1,500/mo) is the most popular — HD PTZ with 30x zoom, deploys in under 20 minutes by one person. Mobile Surveillance Unit ($1,800/mo) covers 500+ linear feet of fence-line with no blind spots.
 - q: Do you offer rental or only purchase?
-  a: Both. Rentals start at $1,500 per month with a 3-month minimum term. Purchase pricing for the Sky Guard MSU starts at $38,000. Most customers start with rental and switch to purchase after 24+ months of operation.
+  a: Both. Rentals start at $1,500 per month with a 3-month minimum term. Purchase pricing for the Mobile Surveillance Unit starts at $38,000. Most customers start with rental and switch to purchase after 24+ months of operation.
 - q: How long is the minimum rental term?
   a: Three months for standard rental. We offer shorter terms (1-2 months) for events and seasonal use, priced per-week.
 - q: What does the monthly rental include?
@@ -40,13 +40,13 @@ faq:
 - q: Do I need power or internet at the site?
   a: No. VDS trailers are solar-autonomous with 36-48+ hour battery backup. Connectivity is via multi-carrier cellular (Verizon, AT&T, T-Mobile, FirstNet) with optional Starlink satellite failover for remote sites.
 - q: How many cameras come on each trailer?
-  a: 'Sky Guard MSU: 4K multi-sensor camera (multiple lenses) + LWIR thermal + radar. Swift Deploy: HD PTZ with 30x optical zoom, dual-spectrum night vision. Boundary Guard Pro: multi-camera linear configuration covering 500+ linear feet.'
+  a: 'Mobile Surveillance Unit: 4K multi-sensor camera (multiple lenses) + LWIR thermal + radar. Mobile Surveillance Unit: HD PTZ with 30x optical zoom, dual-spectrum night vision. Mobile Surveillance Unit: multi-camera linear configuration covering 500+ linear feet.'
 - q: What happens if a trailer is vandalized or stolen?
   a: Active deterrence (strobes, audio talk-down) is triggered before damage. Tamper sensors alert the SOC. GPS tracking on every unit. Insurance is included in rental; purchase customers add a comprehensive policy.
 - q: Can the trailer move with the project?
   a: Yes. Trailers are designed for redeployment. We handle the move logistics in-house. Typical redeployment within 24-72 hours of request.
 - q: How long is the battery autonomy on cloudy days?
-  a: 'Sky Guard MSU: 48+ hours. Swift Deploy: 36+ hours. Both rated to -20°F and 120°F. In extended cloudy conditions, optional grid hookup, generator, or fuel cell can supplement solar.'
+  a: 'Mobile Surveillance Unit: 48+ hours. Mobile Surveillance Unit: 36+ hours. Both rated to -20°F and 120°F. In extended cloudy conditions, optional grid hookup, generator, or fuel cell can supplement solar.'
 - q: What is AI VisionStream?
   a: AI VisionStream is VDS's cloud video management system (VMS). It ingests video from VDS trailers and any third-party ONVIF/RTSP camera, runs AI analytics (intrusion zones, virtual tripwires, loitering, crowd, LPR, time-of-day rules), and routes alerts to your team or our 24/7 US SOC. Hosted on AWS US-only data residency.
 - q: Does VDS work with the cameras I already have?
@@ -76,11 +76,11 @@ faq:
 - q: Is VDS available on , GSA, or other cooperative purchasing contracts?
   a: Yes. VDS is available through . GSA Schedule pending. State contracts available in MD, VA, TX, FL, PA (COSTARS). Contact procurement@visiondetectionsystems.com for cooperative purchasing inquiries.
 - q: Does VDS work for construction sites?
-  a: 'Yes. Construction is VDS''s largest industry. The hero case study: a $28M Mid-Atlantic project saved $340,800 in 12 months using 2 Swift Deploy trailers + 3 Solar Camera Poles — 73% theft reduction, zero insurance claims.'
+  a: 'Yes. Construction is VDS''s largest industry. The hero case study: a $28M Mid-Atlantic project saved $340,800 in 12 months using 2 Mobile Surveillance Unit trailers + 3 Solar-Powered Surveillance Kit — 73% theft reduction, zero insurance claims.'
 - q: Can VDS protect utility substations and meet NERC CIP-014?
-  a: Yes. Sky Guard MSU is configured for substation deployment with thermal LWIR + radar + 4K cameras + LPR. NDAA Section 889 compliance and immutable audit log support NERC CIP-014 documentation requirements.
+  a: Yes. Mobile Surveillance Unit is configured for substation deployment with thermal LWIR + radar + 4K cameras + LPR. NDAA Section 889 compliance and immutable audit log support NERC CIP-014 documentation requirements.
 - q: Do you serve retailers facing organized retail crime (ORC)?
-  a: Yes. We deploy Swift Deploy trailers in retail parking lots with LPR to capture getaway vehicle plates. NRF reports 18% YoY shoplifting growth with 67% of retailers identifying transnational ORC group involvement since 2024.
+  a: Yes. We deploy Mobile Surveillance Unit trailers in retail parking lots with LPR to capture getaway vehicle plates. NRF reports 18% YoY shoplifting growth with 67% of retailers identifying transnational ORC group involvement since 2024.
 - q: Is VDS appropriate for municipal or government use?
   a: Yes — for private-property and government-facility security (parks, motor pools, public works yards, evidence storage exteriors). VDS is not a Flock-style public-surveillance ALPR network — we secure your facilities, not citizen movement.
 - q: Do you support events and short-term deployments?
@@ -94,7 +94,7 @@ faq:
 - q: How is VDS different from Pro-Vigil or Stealth Monitoring?
   a: Pro-Vigil and Stealth (now ECAM) are monitoring services. VDS owns the hardware, the AI platform, and the SOC end-to-end. Single-vendor accountability across the entire surveillance stack.
 - q: Is VDS cheaper than security guards?
-  a: 'Yes. A single 24/7 guard FTE costs $60,000-$110,000 per year in 2026. A VDS Sky Guard MSU plus SOC is approximately $31,000 per year — and the trailer captures evidence guards do not. Documented ROI: a $28M Mid-Atlantic GC cut security costs from $32,400/mo to $4,000/mo.'
+  a: 'Yes. A single 24/7 guard FTE costs $60,000-$110,000 per year in 2026. A VDS Mobile Surveillance Unit plus SOC is approximately $31,000 per year — and the trailer captures evidence guards do not. Documented ROI: a $28M Mid-Atlantic GC cut security costs from $32,400/mo to $4,000/mo.'
 - q: What is the difference between mobile surveillance trailers and fixed cameras?
   a: Fixed cameras are wired, permanent, and require power + network. Mobile trailers are solar-autonomous, redeployable, and operational in under 20 minutes. For project-based sites (construction, events), trailers eliminate install lead-times and follow the work.
 finalCTAHeading: Have a question we didn't cover?
@@ -122,15 +122,15 @@ Every answer below is sourced from VDS field operations across 30+ states and 50
 
 ### How much does a mobile surveillance trailer cost?
 
-VDS mobile surveillance trailers rent from $1,500 to $2,200 per month depending on configuration. Purchase prices start at $38,000 for the Sky Guard MSU. Pricing includes the trailer, AI VisionStream platform access, and the option to add 24/7 SOC monitoring at $399 per site per month.
+VDS mobile surveillance trailers rent from $1,500 to $2,200 per month depending on configuration. Purchase prices start at $38,000 for the Mobile Surveillance Unit. Pricing includes the trailer, AI VisionStream platform access, and the option to add 24/7 SOC monitoring at $399 per site per month.
 
-### What is the difference between the Sky Guard MSU, Swift Deploy, and Boundary Guard Pro?
+### What is the difference between the Mobile Surveillance Unit, Mobile Surveillance Unit, and Mobile Surveillance Unit?
 
-Sky Guard MSU ($2,200/mo) is the flagship — thermal LWIR, 500ft ground radar, 4K cameras, LPR, and active deterrence in one solar-autonomous unit. Swift Deploy ($1,500/mo) is the most popular — HD PTZ with 30x zoom, deploys in under 20 minutes by one person. Boundary Guard Pro ($1,800/mo) covers 500+ linear feet of fence-line with no blind spots.
+Mobile Surveillance Unit ($2,200/mo) is the flagship — thermal LWIR, 500ft ground radar, 4K cameras, LPR, and active deterrence in one solar-autonomous unit. Mobile Surveillance Unit ($1,500/mo) is the most popular — HD PTZ with 30x zoom, deploys in under 20 minutes by one person. Mobile Surveillance Unit ($1,800/mo) covers 500+ linear feet of fence-line with no blind spots.
 
 ### Do you offer rental or only purchase?
 
-Both. Rentals start at $1,500 per month with a 3-month minimum term. Purchase pricing for the Sky Guard MSU starts at $38,000. Most customers start with rental and switch to purchase after 24+ months of operation.
+Both. Rentals start at $1,500 per month with a 3-month minimum term. Purchase pricing for the Mobile Surveillance Unit starts at $38,000. Most customers start with rental and switch to purchase after 24+ months of operation.
 
 ### How long is the minimum rental term?
 
@@ -156,7 +156,7 @@ No. VDS trailers are solar-autonomous with 36-48+ hour battery backup. Connectiv
 
 ### How many cameras come on each trailer?
 
-Sky Guard MSU: 4K multi-sensor camera (multiple lenses) + LWIR thermal + radar. Swift Deploy: HD PTZ with 30x optical zoom, dual-spectrum night vision. Boundary Guard Pro: multi-camera linear configuration covering 500+ linear feet.
+Mobile Surveillance Unit: 4K multi-sensor camera (multiple lenses) + LWIR thermal + radar. Mobile Surveillance Unit: HD PTZ with 30x optical zoom, dual-spectrum night vision. Mobile Surveillance Unit: multi-camera linear configuration covering 500+ linear feet.
 
 ### What happens if a trailer is vandalized or stolen?
 
@@ -168,7 +168,7 @@ Yes. Trailers are designed for redeployment. We handle the move logistics in-hou
 
 ### How long is the battery autonomy on cloudy days?
 
-Sky Guard MSU: 48+ hours. Swift Deploy: 36+ hours. Both rated to -20°F and 120°F. In extended cloudy conditions, optional grid hookup, generator, or fuel cell can supplement solar.
+Mobile Surveillance Unit: 48+ hours. Mobile Surveillance Unit: 36+ hours. Both rated to -20°F and 120°F. In extended cloudy conditions, optional grid hookup, generator, or fuel cell can supplement solar.
 
 ## AI VisionStream Platform
 
@@ -236,15 +236,15 @@ Yes. VDS is available through . GSA Schedule pending. State contracts available 
 
 ### Does VDS work for construction sites?
 
-Yes. Construction is VDS's largest industry. The hero case study: a $28M Mid-Atlantic project saved $340,800 in 12 months using 2 Swift Deploy trailers + 3 Solar Camera Poles — 73% theft reduction, zero insurance claims.
+Yes. Construction is VDS's largest industry. The hero case study: a $28M Mid-Atlantic project saved $340,800 in 12 months using 2 Mobile Surveillance Unit trailers + 3 Solar-Powered Surveillance Kit — 73% theft reduction, zero insurance claims.
 
 ### Can VDS protect utility substations and meet NERC CIP-014?
 
-Yes. Sky Guard MSU is configured for substation deployment with thermal LWIR + radar + 4K cameras + LPR. NDAA Section 889 compliance and immutable audit log support NERC CIP-014 documentation requirements.
+Yes. Mobile Surveillance Unit is configured for substation deployment with thermal LWIR + radar + 4K cameras + LPR. NDAA Section 889 compliance and immutable audit log support NERC CIP-014 documentation requirements.
 
 ### Do you serve retailers facing organized retail crime (ORC)?
 
-Yes. We deploy Swift Deploy trailers in retail parking lots with LPR to capture getaway vehicle plates. NRF reports 18% YoY shoplifting growth with 67% of retailers identifying transnational ORC group involvement since 2024.
+Yes. We deploy Mobile Surveillance Unit trailers in retail parking lots with LPR to capture getaway vehicle plates. NRF reports 18% YoY shoplifting growth with 67% of retailers identifying transnational ORC group involvement since 2024.
 
 ### Is VDS appropriate for municipal or government use?
 
@@ -274,4 +274,4 @@ Pro-Vigil and Stealth (now ECAM) are monitoring services. VDS owns the hardware,
 
 ### Is VDS cheaper than security guards?
 
-Yes. A single 24/7 guard FTE costs $60,000-$110,000 per year in 2026. A VDS Sky Guard MSU plus SOC is approximately $31,000 per year — and the trailer captures evidence guards do not. Documented ROI: a $28M Mid-Atlant
+Yes. A single 24/7 guard FTE costs $60,000-$110,000 per year in 2026. A VDS Mobile Surveillance Unit plus SOC is approximately $31,000 per year — and the trailer captures evidence guards do not. Documented ROI: a $28M Mid-Atlant

@@ -41,7 +41,7 @@ finalCTAButtons:
 - label: Request a procurement package
   url: /contact-us/
 schemaType: Service
-internalLinks: /products/swift-deploy-surveillance-trailer, /products/sky-guard-mobile-surveillance-trailer, /products/solar-camera-poles, /products/boundary-guard-pro, /compliance/ndaa, /procurement/, /procurement/gsa, /platform/soc
+internalLinks: /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /products/solar-powered-surveillance-kit, /products/mobile-surveillance-unit, /compliance/ndaa, /procurement/, /procurement/gsa, /platform/soc
 canonical: https://visiondetectionsystems.com/industries/public-safety-law-enforcement-surveillance
 ogTitle: Public Safety & Law Enforcement Surveillance
 ogDescription: Mobile surveillance for government property — parks, motor pools, public works yards. NDAA Section 889 compliant.  & GSA cooperative purchasing.

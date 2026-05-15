@@ -26,7 +26,7 @@ faq:
 - q: Will the audio talk-down actually work?
   a: Yes, in the large majority of cases. A live human voice, naming the suspect's clothing and stating LE has been dispatched, ends the attempt before the cut begins.
 - q: We have a 600-vehicle dealer lot. How many units?
-  a: Typically 3-5 Swift Deploy units depending on lot geometry. Site walk confirms coverage.
+  a: Typically 3-5 Mobile Surveillance Unit units depending on lot geometry. Site walk confirms coverage.
 - q: Does the system distinguish staff from intruders?
   a: Yes. Authorized staff hours and badge integration suppress alerts during normal operations.
 - q: Can the LPR feed go to local law enforcement?
@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Get a Quote
   url: /contact-us/
 schemaType: Article
-internalLinks: /products/swift-deploy-surveillance-trailer, /products/sky-guard-mobile-surveillance-trailer, /platform/platform, /platform/soc, /industries/automotive-dealership-security, /industries/warehouse-logistics-security, /industries/hospitality-healthcare-security, /industries/hospitality-healthcare-security, /industries/commercial-property-security
+internalLinks: /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /platform/platform, /platform/soc, /industries/automotive-dealership-security, /industries/warehouse-logistics-security, /industries/hospitality-healthcare-security, /industries/hospitality-healthcare-security, /industries/commercial-property-security
 canonical: https://visiondetectionsystems.com/use-cases/catalytic-converter-theft-prevention
 ogTitle: Catalytic converter theft prevention for dealer lots and fleet parking.
 ogDescription: Stop catalytic converter theft in 90 seconds or less. Thermal + PTZ + 24/7 US SOC audio talk-down before the cut completes
@@ -62,16 +62,16 @@ Static cameras catch the silhouette of the cut. They don't stop it.
 
 ## How VDS prevents catalytic converter theft
 
-The window to intervene is short — under 90 seconds per vehicle. VDS detection has to fire in seconds and response has to be immediate. Swift Deploy units in the lot run dual-spectrum night vision and AI VisionStream rules tuned for crouching, loitering between vehicles, and unauthorized after-hours pedestrian movement. Thermal imaging is the unlock — a person crouched behind a vehicle is invisible to a standard PTZ at 2am but glows on thermal.
+The window to intervene is short — under 90 seconds per vehicle. VDS detection has to fire in seconds and response has to be immediate. Mobile Surveillance Unit units in the lot run dual-spectrum night vision and AI VisionStream rules tuned for crouching, loitering between vehicles, and unauthorized after-hours pedestrian movement. Thermal imaging is the unlock — a person crouched behind a vehicle is invisible to a standard PTZ at 2am but glows on thermal.
 
 The moment the rule fires, the SOC operator has live video on screen. Live audio talk-down through the unit's speaker: "You are on camera, law enforcement has been dispatched, leave the lot immediately." In the majority of cases this ends the incident before the saw starts. LPR on the same unit captures the getaway vehicle plate, which is handed to the responding officers in real time.
 
 ## Recommended VDS configuration
 
-- **Swift Deploy units across the lot** — $1,500/mo each. HD PTZ + dual-spectrum night vision + AI analytics + LPR. One unit typically covers a 200-vehicle dealer row.
+- **Mobile Surveillance Unit units across the lot** — $1,500/mo each. HD PTZ + dual-spectrum night vision + AI analytics + LPR. One unit typically covers a 200-vehicle dealer row.
 - **AI VisionStream rules** — crouching detection, after-hours pedestrian, loitering between vehicles, vehicle stopped on lot perimeter for >2 minutes.
 - **24/7 US SOC** — live audio talk-down, plate capture handed to dispatched officers.
-- **Optional Sky Guard MSU** at lot perimeter for thermal long-range coverage on larger fleet yards.
+- **Optional Mobile Surveillance Unit** at lot perimeter for thermal long-range coverage on larger fleet yards.
 
 ## Industries most affected
 

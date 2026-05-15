@@ -28,7 +28,7 @@ faq:
 - q: What's the fastest you can deploy?
   a: Same-day in Baltimore. Next-day in DC, Philadelphia, and Richmond. 2–4 days for most other listed metros. Faster on existing customer redeployments.
 - q: Do you bill per city or per unit?
-  a: Per unit, per month. Sky Guard MSU $2,200/mo, Swift Deploy $1,500/mo, Boundary Guard Pro $1,800/mo. Lead time and travel are included.
+  a: Per unit, per month. Mobile Surveillance Unit $2,200/mo, Mobile Surveillance Unit $1,500/mo, Mobile Surveillance Unit $1,800/mo. Lead time and travel are included.
 - q: Can I see units in another customer's deployment before signing?
   a: Yes. We arrange site walks at active customer deployments in most listed metros. Ask your deployment engineer.
 finalCTAHeading: Find a unit in your city
@@ -37,7 +37,7 @@ finalCTAButtons:
 - label: Find my city
   url: /request-a-quote/
 schemaType: LocalBusiness
-internalLinks: /locations/products/mobile-surveillance-trailersbaltimore, /locations/products/mobile-surveillance-trailersnew-york, /locations/products/mobile-surveillance-trailerswashington-dc, /locations/products/mobile-surveillance-trailersphiladelphia, /locations/products/mobile-surveillance-trailersrichmond, /locations/products/mobile-surveillance-trailersmiami, /locations/products/mobile-surveillance-trailersdallas, /locations/products/mobile-surveillance-trailerslos-angeles, /locations/products/mobile-surveillance-trailerschicago, /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /products/boundary-guard-pro
+internalLinks: /locations/products/mobile-surveillance-unitbaltimore, /locations/products/mobile-surveillance-unitnew-york, /locations/products/mobile-surveillance-unitwashington-dc, /locations/products/mobile-surveillance-unitphiladelphia, /locations/products/mobile-surveillance-unitrichmond, /locations/products/mobile-surveillance-unitmiami, /locations/products/mobile-surveillance-unitdallas, /locations/products/mobile-surveillance-unitlos-angeles, /locations/products/mobile-surveillance-unitchicago, /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /products/mobile-surveillance-unit
 canonical: https://visiondetectionsystems.com/locations/mobile-surveillance-trailers
 ogTitle: Mobile surveillance trailers, city by city
 ogDescription: Find mobile surveillance trailer rentals in your city. VDS operates in 30+ states with 500+ deployments and 24/7 US-based SOC monitoring.

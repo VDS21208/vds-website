@@ -1,5 +1,5 @@
 ---
-url: /locations/products/mobile-surveillance-trailersphoenix
+url: /locations/products/mobile-surveillance-unitphoenix
 collection: locations-city
 pageType: City Detail
 parent: /locations/mobile-surveillance-trailers
@@ -37,8 +37,8 @@ finalCTAButtons:
 - label: Request a Phoenix quote
   url: /contact-us/
 schemaType: LocalBusiness
-internalLinks: /locations/mobile-surveillance-trailers, /locations/arizona, /products/sky-guard-mobile-surveillance-trailer, /products/boundary-guard-pro, /industries/construction-security, /industries/data-center-security, /industries/copper-theft-prevention
-canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailersphoenix
+internalLinks: /locations/mobile-surveillance-trailers, /locations/arizona, /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /industries/construction-security, /industries/data-center-security, /industries/copper-theft-prevention
+canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-unitphoenix
 ogTitle: Mobile surveillance trailers in Phoenix, AZ
 ogDescription: Mobile surveillance trailers across Phoenix metro — TSMC fab, Chandler/Mesa data centers, suburban housing, copper theft hotspot. Rated to 120F solar.
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg
@@ -72,7 +72,7 @@ Heat note: VDS units are rated to 120F. Battery thermal management is engineered
 
 ## A Phoenix-area deployment
 
-A semiconductor-supplier general contractor running a 60-acre north Phoenix supplier campus signed three Sky Guard MSUs at $2,200/mo each plus two Boundary Guard Pro at $1,800/mo to cover materials laydown after three separate copper-theft incidents in two weeks. We deployed within 88 hours of contract sign. In the first 90 days the SOC handled 53 verified perimeter escalations, Phoenix PD made four arrests on a recurring crew, and the GC's recorded theft losses dropped from a six-figure run rate to zero. The deployment has since extended to two additional supplier campuses.
+A semiconductor-supplier general contractor running a 60-acre north Phoenix supplier campus signed three Mobile Surveillance Units at $2,200/mo each plus two Mobile Surveillance Unit at $1,800/mo to cover materials laydown after three separate copper-theft incidents in two weeks. We deployed within 88 hours of contract sign. In the first 90 days the SOC handled 53 verified perimeter escalations, Phoenix PD made four arrests on a recurring crew, and the GC's recorded theft losses dropped from a six-figure run rate to zero. The deployment has since extended to two additional supplier campuses.
 
 ## Local compliance note
 

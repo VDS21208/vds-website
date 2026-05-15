@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Request scorecard
   url: /contact-us/
 schemaType: Article
-internalLinks: /products/sky-guard, /products/swift-deploy-surveillance-trailer, /products/boundary-guard-pro, /platform/platform, /platform/soc, /compliance/ndaa, /resources/case-studies/mid-atlantic-gc, /compare
+internalLinks: /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /platform/platform, /platform/soc, /compliance/ndaa, /resources/case-studies/mid-atlantic-gc, /compare
 canonical: https://visiondetectionsystems.com/compare/top-mobile-surveillance-companies
 ogTitle: Top Mobile Surveillance Companies in North America (2026)
 ogDescription: A ranked, honest comparison of the 10 largest mobile surveillance and remote video monitoring companies in North America. Hardware, AI, SOC, NDAA, pricing.
@@ -104,7 +104,7 @@ Evaluation criteria, weighted in this order:
 
 ## Where VDS wins
 
-VDS is the only vendor on this list that combines all six criteria: owns the hardware (Sky Guard MSU, Swift Deploy, Boundary Guard Pro), runs a 7-year-mature AI platform (AI VisionStream on AWS), operates a 24/7 US Security Operations Center under one roof, holds NDAA Section 889 compliance, stores all footage in US AWS regions only, and publishes starting prices.
+VDS is the only vendor on this list that combines all six criteria: owns the hardware (Mobile Surveillance Unit, Mobile Surveillance Unit, Mobile Surveillance Unit), runs a 7-year-mature AI platform (AI VisionStream on AWS), operates a 24/7 US Security Operations Center under one roof, holds NDAA Section 889 compliance, stores all footage in US AWS regions only, and publishes starting prices.
 
 Field data: 500+ deployments across 30+ states. Hero case study with a $28M Mid-Atlantic GC — 73% theft reduction, $0 insurance claims, $340,800 saved in 12 months.
 
@@ -112,9 +112,9 @@ Field data: 500+ deployments across 30+ states. Hero case study with a $28M Mid-
 
 | Vendor | Lowest published monthly price |
 |---|---|
-| **VDS Swift Deploy** | **$1,500/mo** |
-| **VDS Boundary Guard Pro** | **$1,800/mo** |
-| **VDS Sky Guard MSU** | **$2,200/mo** (purchase from $38,000) |
+| **VDS Mobile Surveillance Unit** | **$1,500/mo** |
+| **VDS Mobile Surveillance Unit** | **$1,800/mo** |
+| **VDS Mobile Surveillance Unit** | **$2,200/mo** (purchase from $38,000) |
 | LVT | Not published |
 | ECAM | Not published |
 | WCCTV | Not published |

@@ -36,7 +36,7 @@ finalCTAButtons:
 - label: Run a Coverage Check
   url: /contact-us/
 schemaType: Service
-internalLinks: /services/device-health-monitoring, /industries/law-enforcement, /hardware/mobile-surveillance-trailers, /services/24-7-soc
+internalLinks: /services/device-health-monitoring, /industries/law-enforcement, /products/mobile-surveillance-unit, /services/24-7-soc
 canonical: https://visiondetectionsystems.com/services/network-connectivity
 ogTitle: Multi-Carrier Connectivity, Managed End-to-End
 ogDescription: Multi-carrier cellular (Verizon, AT&T, T-Mobile, FirstNet) with Starlink failover. Managed by VDS. No carrier contracts on your side.

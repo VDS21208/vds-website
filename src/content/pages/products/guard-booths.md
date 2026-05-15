@@ -4,12 +4,12 @@ collection: products
 pageType: Product Detail
 parent: /products
 status: Launch
-seoTitle: Security Guard Booths — Steel, HVAC, Bullet-Resistant | VDS
-metaDescription: Heavy-gauge steel guard booths with HVAC and bullet-resistant options. Pairs with VDS hardware and AI VisionStream for manned or unmanned access points.
+seoTitle: Security Booth — Compact Mobile Climate-Controlled Booth | VDS
+metaDescription: Compact, mobile, climate-controlled security booth for access control and on-site supervision. Heavy-gauge steel, HVAC standard, bullet-resistant options. Pairs with VDS surveillance hardware.
 announcementBar: Assembled in Pikesville, MD.
-h1: Guard booths built for the climate and the threat profile.
+h1: Security Booth
 heroEyebrow: Site Infrastructure
-heroSubhead: Heavy-gauge steel construction, HVAC standard, bullet-resistant options available. Use them manned, unmanned with VDS hardware, or both.
+heroSubhead: A compact, mobile, climate-controlled booth for access control and on-site supervision. Heavy-gauge steel construction, HVAC standard, bullet-resistant options available. Use them manned, unmanned with VDS hardware, or both.
 heroCTAPrimary:
   label: Request a Quote
   url: /request-a-quote
@@ -21,7 +21,7 @@ heroStats:
 - HVAC standard
 - Bullet-resistant option
 - Pairs with VDS hardware
-heroImage: ''
+heroImage: /assets/products/security-booth.png''
 faq:
 - q: How are these delivered?
   a: Fully assembled on a flatbed for sizes that permit. Larger units arrive in panels and are assembled on site.
@@ -39,9 +39,9 @@ finalCTAButtons:
 - label: Talk to an Engineer
   url: /contact-us
 schemaType: Product
-internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /platform, /platform/soc, /industries/construction-site-security, /industries/critical-infrastructure
+internalLinks: /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /platform, /platform/soc, /industries/construction-site-security, /industries/critical-infrastructure
 canonical: https://visiondetectionsystems.com/products/guard-booths
-ogTitle: Guard booths built for the climate and the threat profile.
+ogTitle: Security Booth — Mobile Climate-Controlled Booth | VDS
 ogDescription: Heavy-gauge steel guard booths with HVAC and bullet-resistant options. Pairs with VDS hardware and AI VisionStream for manned or unmanned access points.
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg
 ogType: product

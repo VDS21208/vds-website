@@ -84,7 +84,7 @@ Internal links to add after publishing:
 
 /industries/construction-site-security/
 
-/products/mobile-surveillance-trailers
+/products/mobile-surveillance-unit
 
 /construction-live-monitoring/
 
@@ -136,7 +136,7 @@ Continuous monitoring coverage is essential. Insurers require 24/7 surveillance 
 
 Professional monitoring services with documented response protocols are mandatory. Insurance underwriters distinguish between passive recording systems and active monitoring with human verification. Systems that alert trained operators who can assess threats, contact authorities, and document incidents provide the risk mitigation insurers value.
 
-Proper equipment positioning and environmental controls matter significantly. Cameras must cover entry points, equipment storage areas, and material stockpiles with adequate lighting for night visibility. [Mobile surveillance trailers](/products/mobile-surveillance-trailers) often meet these requirements more effectively than fixed cameras because they can be repositioned as project phases change.
+Proper equipment positioning and environmental controls matter significantly. Cameras must cover entry points, equipment storage areas, and material stockpiles with adequate lighting for night visibility. [Mobile surveillance trailers](/products/mobile-surveillance-unit) often meet these requirements more effectively than fixed cameras because they can be repositioned as project phases change.
 
 Evidence retention and retrieval procedures are required for discount qualification. Insurers need assurance that footage will be available for claims investigation, typically requiring 30-90 days of storage with established procedures for extracting and providing video evidence.
 

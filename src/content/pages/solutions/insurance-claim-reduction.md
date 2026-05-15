@@ -36,7 +36,7 @@ finalCTAButtons:
 - label: Run the Numbers
   url: /contact-us/
 schemaType: Article
-internalLinks: /resources/case-studies/mid-atlantic-gc, /solutions/copper-theft-prevention, /solutions/construction/equipment-theft, /products/sky-guard-mobile-surveillance-trailer, /compliance/ndaa
+internalLinks: /resources/case-studies/mid-atlantic-gc, /solutions/copper-theft-prevention, /solutions/construction/equipment-theft, /products/mobile-surveillance-unit, /compliance/ndaa
 canonical: https://visiondetectionsystems.com/solutions/construction/insurance-claim-reduction
 ogTitle: Cut Construction Insurance Premiums by Documenting Theft Prevention
 ogDescription: Documented theft prevention earns 8-15% builder's risk premium reductions. VDS provides the evidence package insurers credit
@@ -91,7 +91,7 @@ You hand this to your broker at renewal. They hand it to the underwriter. The un
 
 | Component | Role | Monthly |
 |---|---|---|
-| Sky Guard MSU or Swift Deploy | Detection + recording | $1,500-$2,200 each |
+| Mobile Surveillance Unit or Mobile Surveillance Unit | Detection + recording | $1,500-$2,200 each |
 | 24/7 US SOC | Verified intervention + dispatch logs | Included |
 | AI VisionStream | 90-day retention + audit export | Included |
 | Monthly evidence report | Underwriter-ready PDF | Included |

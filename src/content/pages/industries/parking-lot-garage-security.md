@@ -5,11 +5,11 @@ pageType: Industry Detail
 parent: /industries
 status: Launch
 seoTitle: Parking Lot & Garage Security
-metaDescription: Solar-powered surveillance for parking operators. Center-of-lot Sky Guard MSU plus perimeter Solar Camera Poles. 24/7 US SOC. No trenching required.
+metaDescription: Solar-powered surveillance for parking operators. Center-of-lot Mobile Surveillance Unit plus perimeter Solar-Powered Surveillance Kit. 24/7 US SOC. No trenching required.
 announcementBar: ''
 h1: Parking Lot & Garage Security
 heroEyebrow: For parking operators and property owners
-heroSubhead: 'Sky Guard MSU at the center of the lot, Solar Camera Poles around the perimeter, AI VisionStream LPR on entries and exits. 24/7 US Security Operations Center with sub-60-second response. Built for the operator-managed model: LAZ, ABM, ParkMobile-class.'
+heroSubhead: 'Mobile Surveillance Unit at the center of the lot, Solar-Powered Surveillance Kit around the perimeter, AI VisionStream LPR on entries and exits. 24/7 US Security Operations Center with sub-60-second response. Built for the operator-managed model: LAZ, ABM, ParkMobile-class.'
 heroCTAPrimary:
   label: Get a lot quote
   url: /request-a-quote
@@ -24,7 +24,7 @@ heroStats:
 heroImage: ''
 faq:
 - q: Can you deploy in a multi-level garage?
-  a: Yes. Solar Camera Poles are designed for open-air lots and rooftop levels; lower levels use the same cameras on standard pole mounts with cellular or wired backhaul depending on existing infrastructure. We size during the assessment.
+  a: Yes. Solar-Powered Surveillance Kit are designed for open-air lots and rooftop levels; lower levels use the same cameras on standard pole mounts with cellular or wired backhaul depending on existing infrastructure. We size during the assessment.
 - q: We move between contracts. What's the term commitment?
   a: Standard term is 12 months on the monthly service. We have an account-level program for portfolio operators with rolling site activations and de-activations.
 - q: Does this integrate with our PARCS / gate-control system?
@@ -32,17 +32,17 @@ faq:
 - q: What happens if there's an assault in the lot?
   a: The SOC operator dispatches LE within 60 seconds of detection, holds the live feed for responding officers, and produces an evidence-grade timeline for the property owner and law enforcement. This is what supports the property owner's premises liability defense.
 - q: What's the per-lot cost?
-  a: Most lots run $3,700-$5,500 per month depending on size and configuration (one Sky Guard plus 2-4 Solar Camera Poles is typical). Portfolio pricing past 5 lots.
+  a: Most lots run $3,700-$5,500 per month depending on size and configuration (one Mobile Surveillance Unit plus 2-4 Solar-Powered Surveillance Kit is typical). Portfolio pricing past 5 lots.
 finalCTAHeading: Price your lot
 finalCTABody: Send us the lot address, footprint, and current configuration. We'll respond within 24 hours with a sized configuration and monthly pricing.
 finalCTAButtons:
 - label: Get a lot quote
   url: /contact-us/
 schemaType: Service
-internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/solar-camera-poles, /platform/lpr, /platform/soc, /pricing
+internalLinks: /products/mobile-surveillance-unit, /products/solar-powered-surveillance-kit, /platform/lpr, /platform/soc, /pricing
 canonical: https://visiondetectionsystems.com/industries/parking-lot-garage-security
 ogTitle: Parking Lot & Garage Security
-ogDescription: Solar-powered surveillance for parking operators. Center-of-lot Sky Guard MSU plus perimeter Solar Camera Poles. 24/7 US SOC. No trenching required.
+ogDescription: Solar-powered surveillance for parking operators. Center-of-lot Mobile Surveillance Unit plus perimeter Solar-Powered Surveillance Kit. 24/7 US SOC. No trenching required.
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg
 ogType: website
 robots: index, follow
@@ -149,7 +149,7 @@ resolve correctly on the new site before publishing.
 
 ### Surface Lot Coverage
 
-<p>One Swift Deploy Trailer covers up to 300ft of surface lot with full-color night vision and AI analytics. Reposition as lot usage patterns shift.</p>
+<p>One Mobile Surveillance Unit covers up to 300ft of surface lot with full-color night vision and AI analytics. Reposition as lot usage patterns shift.</p>
 
 
 

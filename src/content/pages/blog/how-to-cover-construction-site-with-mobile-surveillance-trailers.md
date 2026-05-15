@@ -31,7 +31,7 @@ finalCTAButtons:
 - label: See How It Compares
   url: /compare
 schemaType: Article
-internalLinks: /industries/construction-site-security, /products/mobile-surveillance-trailers, /request-a-quote
+internalLinks: /industries/construction-site-security, /products/mobile-surveillance-unit, /request-a-quote
 canonical: https://visiondetectionsystems.com/resources/blog/how-to-cover-construction-site-with-mobile-surveillance-trailers
 ogTitle: How to Cover Your Construction Site with Mobile Surveillance Trailers
 ogDescription: Mobile surveillance trailers secure construction sites fast. Learn where to place trailers, what to cover first, how to handle night risk
@@ -84,7 +84,7 @@ High-value assets sit in open-air zones (laydown yards, containers, staging area
 
 Access points shift, creating new entry routes and escape routes
 
-Mobile surveillance trailers are designed for rapid deployment and relocation so coverage stays aligned to the jobsite as it evolves. For the core solution overview, use /products/products/mobile-surveillance-trailers.
+Mobile surveillance trailers are designed for rapid deployment and relocation so coverage stays aligned to the jobsite as it evolves. For the core solution overview, use /products/products/mobile-surveillance-unit.
 
 
 

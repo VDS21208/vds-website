@@ -5,11 +5,11 @@ pageType: About Sub-page
 parent: /about-us
 status: Launch
 seoTitle: Our Plant — Pikesville, MD Assembly | VDS
-metaDescription: Every VDS unit is assembled, programmed, and inspected in Pikesville, Maryland. Inside the facility that builds Sky Guard, Swift Deploy
+metaDescription: Every VDS unit is assembled, programmed, and inspected in Pikesville, Maryland. Inside the facility that builds Mobile Surveillance Unit, Mobile Surveillance Unit
 announcementBar: ''
 h1: We build it here.
 heroEyebrow: Our Plant — Pikesville, MD
-heroSubhead: Every Sky Guard MSU, Swift Deploy, Boundary Guard Pro, solar pole, and guard booth is assembled, programmed, and inspected at our Maryland facility before it ships.
+heroSubhead: Every Mobile Surveillance Unit, Mobile Surveillance Unit, Mobile Surveillance Unit, solar pole, and guard booth is assembled, programmed, and inspected at our Maryland facility before it ships.
 heroCTAPrimary:
   label: Schedule a Plant Tour
   url: /request-a-quote
@@ -34,10 +34,10 @@ finalCTAButtons:
 - label: Schedule a Plant Tour
   url: /about-us/careers/
 schemaType: Organization
-internalLinks: /about-us, /about-us/mission, /about-us/why-vision-detection-systems, /careers, /compliance/ndaa, /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer
+internalLinks: /about-us, /about-us/mission, /about-us/why-vision-detection-systems, /careers, /compliance/ndaa, /products/mobile-surveillance-unit, /products/mobile-surveillance-unit
 canonical: https://visiondetectionsystems.com/about-us/our-plant
 ogTitle: We build it here.
-ogDescription: Every VDS unit is assembled, programmed, and inspected in Pikesville, Maryland. Inside the facility that builds Sky Guard, Swift Deploy
+ogDescription: Every VDS unit is assembled, programmed, and inspected in Pikesville, Maryland. Inside the facility that builds Mobile Surveillance Unit, Mobile Surveillance Unit
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg
 ogType: website
 robots: index, follow

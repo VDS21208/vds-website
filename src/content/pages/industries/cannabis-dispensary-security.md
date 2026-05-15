@@ -30,7 +30,7 @@ faq:
 - q: Can a state inspector pull the audit log?
   a: Yes. The immutable 12-month audit log is exportable on demand. Every access event is timestamped and attributed.
 - q: What about cultivation facilities in rural locations without grid power?
-  a: Sky Guard is solar-autonomous. The default deployment doesn't require grid power, fiber, or even paved road access.
+  a: Mobile Surveillance Unit is solar-autonomous. The default deployment doesn't require grid power, fiber, or even paved road access.
 - q: Can the SOC coordinate with our armed response contract?
   a: Yes. Most deployments route to the operator's preferred armed response provider for verified after-hours events. Local PD as fallback or primary, per your preference.
 finalCTAHeading: Compliance, deterrence, and dispatch — covered.
@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Get a License-Aligned Quote
   url: /contact-us/
 schemaType: Article
-internalLinks: /products/sky-guard | /products/swift-deploy-surveillance-trailer | /products/boundary-guard-pro | /platform/platform | /compliance
+internalLinks: /products/mobile-surveillance-unit | /products/mobile-surveillance-unit | /products/mobile-surveillance-unit | /platform/platform | /compliance
 canonical: https://visiondetectionsystems.com/industries/cannabis-dispensary-security
 ogTitle: Dispensary Parking, Cultivation Perimeters, and After-Hours Coverage Built for a State-Licensed
 ogDescription: Mobile surveillance for dispensary parking lots, cultivation perimeters, and after-hours coverage. State license compliance, 24/7 US SOC
@@ -60,9 +60,9 @@ Inside the dispensary, interior coverage is typically handled by a state-aligned
 
 ## Recommended VDS configuration
 
-**Dispensary parking lot:** Sky Guard MSU at $2,200/mo or Swift Deploy at $1,500/mo. AI LPR on every entry — every customer plate, every loiterer, every getaway vehicle in a known-target environment. PTZ coverage of the entrance approach and rear access.
+**Dispensary parking lot:** Mobile Surveillance Unit at $2,200/mo or Mobile Surveillance Unit at $1,500/mo. AI LPR on every entry — every customer plate, every loiterer, every getaway vehicle in a known-target environment. PTZ coverage of the entrance approach and rear access.
 
-**Cultivation facility perimeter:** Sky Guard plus Boundary Guard Pro at $1,800/mo. 500 feet of AI fence-line detection per unit. Person-vs-vehicle classification — no alert on wildlife crossing the perimeter, every alert on a person at 3 AM.
+**Cultivation facility perimeter:** Mobile Surveillance Unit plus Mobile Surveillance Unit at $1,800/mo. 500 feet of AI fence-line detection per unit. Person-vs-vehicle classification — no alert on wildlife crossing the perimeter, every alert on a person at 3 AM.
 
 **After-hours dispensary:** SOC operator profile shifts at close — audio talk-down available, alert thresholds adjusted, escalation routes to local PD or armed response.
 
@@ -82,4 +82,4 @@ For multi-state operators, AI VisionStream unifies the entire footprint into one
 
 ## What it replaces
 
-A monitored alarm and an outdoor camera that nobody watches is the most common cannabis exterior setup. A Sky Guard plus mon
+A monitored alarm and an outdoor camera that nobody watches is the most common cannabis exterior setup. A Mobile Surveillance Unit plus mon

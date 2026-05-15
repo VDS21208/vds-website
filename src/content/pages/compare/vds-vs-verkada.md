@@ -92,7 +92,7 @@ This page covers where Verkada genuinely wins, where VDS wins, and the architect
 
 **Camera-agnostic VMS.** Our platform accepts any ONVIF-compliant camera. Axis, Hanwha, Bosch, Avigilon, your existing fleet — we ingest the stream and run our analytics on top. Verkada's platform only runs Verkada cameras. If you already own $400K of cameras, that matters.
 
-**Outdoor and mobile.** Verkada has no solar-autonomous outdoor trailer. We do — Sky Guard MSU, Swift Deploy, and Boundary Guard Pro, all assembled in Pikesville MD. If your security perimeter includes a construction site, a parking field, a yard, a remote substation, or a job site without power, we cover it and Verkada doesn't.
+**Outdoor and mobile.** Verkada has no solar-autonomous outdoor trailer. We do — Mobile Surveillance Unit, Mobile Surveillance Unit, and Mobile Surveillance Unit, all assembled in Pikesville MD. If your security perimeter includes a construction site, a parking field, a yard, a remote substation, or a job site without power, we cover it and Verkada doesn't.
 
 **24/7 in-house SOC.** Verkada is a software-plus-camera company. Monitoring is on you or your guard provider. VDS includes a Pikesville, Maryland-staffed SOC with <60-second escalation, 97% false-alarm reduction, audio talk-down on every trailer, and LE dispatch with live video pushed to the responding officer.
 
@@ -103,7 +103,7 @@ This page covers where Verkada genuinely wins, where VDS wins, and the architect
 ## Cost and TCO over 36 months (24-camera enterprise site)
 
 - **Verkada:** ~$15,000 hardware avg + ~$799/camera/yr license × 24 × 3 = $57,528 license + $15,000 = **$72,528** (hardware-low estimate; real-world deployments often run higher with multi-tier licensing).
-- **VDS equivalent outdoor coverage:** 2 Sky Guard MSU at $2,200/mo × 36 = **$158,400** if you actually need mobile/outdoor — but if it's purely indoor enterprise, Verkada is the right tool. This is not always our deal.
+- **VDS equivalent outdoor coverage:** 2 Mobile Surveillance Unit at $2,200/mo × 36 = **$158,400** if you actually need mobile/outdoor — but if it's purely indoor enterprise, Verkada is the right tool. This is not always our deal.
 
 We will tell you when Verkada is the right answer. For pure indoor corporate, it often is. For anything with an outdoor or mobile component, VDS wins on TCO and operational fit.
 

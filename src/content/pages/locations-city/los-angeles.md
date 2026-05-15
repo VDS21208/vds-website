@@ -1,5 +1,5 @@
 ---
-url: /locations/products/mobile-surveillance-trailerslos-angeles
+url: /locations/products/mobile-surveillance-unitlos-angeles
 collection: locations-city
 pageType: City Detail
 parent: /locations/mobile-surveillance-trailers
@@ -37,8 +37,8 @@ finalCTAButtons:
 - label: Request an LA quote
   url: /contact-us/
 schemaType: LocalBusiness
-internalLinks: /locations/mobile-surveillance-trailers, /locations/california, /products/boundary-guard-pro, /industries/construction-security, /industries/cannabis, /industries/port-logistics, /industries/film-event, /compliance/ccpa
-canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailerslos-angeles
+internalLinks: /locations/mobile-surveillance-trailers, /locations/california, /products/mobile-surveillance-unit, /industries/construction-security, /industries/cannabis, /industries/port-logistics, /industries/film-event, /compliance/ccpa
+canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-unitlos-angeles
 ogTitle: Mobile surveillance trailers in Los Angeles, CA
 ogDescription: Mobile surveillance trailers in LA metro. Ports of LA/Long Beach, film/event production, cannabis, auto dealers. CCPA and SB 1186 compliant
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg
@@ -70,7 +70,7 @@ We cover Los Angeles, Orange, San Bernardino, Riverside, and Ventura counties fr
 
 ## An LA-area deployment
 
-A licensed cannabis cultivation operator running a 40,000 sq ft facility in the Inland Empire signed two Boundary Guard Pro units ($3,600/mo combined) after a previous static-camera vendor's footage was challenged in a state licensing audit for retention-period gaps. We deployed with documented 90-day retention, written CCPA-compliant data handling terms, and full audit trail logging. SOC handled 14 perimeter escalations across the first year and the customer's next state audit cleared the surveillance record requirement on the first pass.
+A licensed cannabis cultivation operator running a 40,000 sq ft facility in the Inland Empire signed two Mobile Surveillance Unit units ($3,600/mo combined) after a previous static-camera vendor's footage was challenged in a state licensing audit for retention-period gaps. We deployed with documented 90-day retention, written CCPA-compliant data handling terms, and full audit trail logging. SOC handled 14 perimeter escalations across the first year and the customer's next state audit cleared the surveillance record requirement on the first pass.
 
 ## Local compliance note
 

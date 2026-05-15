@@ -37,7 +37,7 @@ finalCTAButtons:
 - label: Get an Illinois quote
   url: /contact-us/
 schemaType: LocalBusiness
-internalLinks: /industries/retail-orc, /compliance/bipa, /procurement/omnia-, /products/swift-deploy-surveillance-trailer
+internalLinks: /industries/retail-orc, /compliance/bipa, /procurement/omnia-, /products/mobile-surveillance-unit
 canonical: https://visiondetectionsystems.com/locations/illinois
 ogTitle: Mobile surveillance for Chicago retail loss and construction
 ogDescription: Mobile surveillance for Chicago metro ORC response, construction, transit-adjacent projects, and ComEd infrastructure. 5-7 day deployment across Illinois.
@@ -74,7 +74,7 @@ O'Hare pre-stage covers most of the metro in 24 hours from yard release.
 
 ## An Illinois-area deployment
 
-A national retailer's Chicago metro distribution center was logging an average of nine after-hours intrusion attempts per month, with three escalating to successful entry and goods loss. Two Sky Guard MSUs and one Boundary Guard Pro fixed deployment went in over 6 business days. Eight-month coverage: 71 deterred entries (SOC voice-down triggered), four arrests via SOC-dispatched Cook County Sheriff, zero successful intrusions after week three. Retailer extended to two additional Midwest DCs.
+A national retailer's Chicago metro distribution center was logging an average of nine after-hours intrusion attempts per month, with three escalating to successful entry and goods loss. Two Mobile Surveillance Units and one Mobile Surveillance Unit fixed deployment went in over 6 business days. Eight-month coverage: 71 deterred entries (SOC voice-down triggered), four arrests via SOC-dispatched Cook County Sheriff, zero successful intrusions after week three. Retailer extended to two additional Midwest DCs.
 
 ## Illinois compliance and procurement
 

@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Talk to Our Channel Team
   url: /contact-us/
 schemaType: Service
-internalLinks: /case-studies, /platform/soc, /about-us/trust-center, /try-vds-pilot, /products/sky-guard-mobile-surveillance-trailer
+internalLinks: /case-studies, /platform/soc, /about-us/trust-center, /try-vds-pilot, /products/mobile-surveillance-unit
 canonical: https://visiondetectionsystems.com/industries/insurance-carriers
 ogTitle: Insurance Carrier Partnerships
 ogDescription: Carrier-program partnerships for risk engineering teams and brokers. VDS provides the documented monitoring evidence carriers use to credit premiums on
@@ -105,7 +105,7 @@ Insureds remain the contracting customer of VDS. The carrier or broker drives re
 
 ## The data behind the case
 
-A $28M Mid-Atlantic GC project deployed Sky Guard MSU under SOC monitoring. Twelve-month outcomes documented:
+A $28M Mid-Atlantic GC project deployed Mobile Surveillance Unit under SOC monitoring. Twelve-month outcomes documented:
 
 - 73% reduction in theft and vandalism incidents versus the customer's prior-project baseline
 - Zero insurance claims filed across the deployment window

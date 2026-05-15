@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Get Campus Pricing
   url: /schedule-a-demo/
 schemaType: Article
-internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /products/boundary-guard-pro, /procurement/cooperative-contracts, /platform/soc, /industries
+internalLinks: /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /procurement/cooperative-contracts, /platform/soc, /industries
 canonical: https://visiondetectionsystems.com/industries/school-campus-security
 ogTitle: Security for K-12 and Higher-Ed Campuses
 ogDescription: Mobile surveillance for school parking lots, athletic complexes, stadium parking, and campus construction zones. NDAA compliant, FERPA-aware, 24/7 US SOC.
@@ -78,10 +78,10 @@ Higher-ed use cases:
 
 ## Recommended configuration
 
-- **Single elementary or middle school parking lot:** one Sky Guard MSU at $2,200/mo, redeployable to athletic complexes for evening events.
-- **High school with athletic complex and bus depot:** two Sky Guard MSUs plus Boundary Guard Pro at $1,800/mo with LPR — 95%+ read in under 3 seconds, tied to a banned-vehicle watchlist.
-- **Active campus construction zone:** Swift Deploy at $1,500/mo for the contract duration.
-- **University stadium event coverage:** seasonal deployment, Sky Guard MSUs scoped to home schedule.
+- **Single elementary or middle school parking lot:** one Mobile Surveillance Unit at $2,200/mo, redeployable to athletic complexes for evening events.
+- **High school with athletic complex and bus depot:** two Mobile Surveillance Units plus Mobile Surveillance Unit at $1,800/mo with LPR — 95%+ read in under 3 seconds, tied to a banned-vehicle watchlist.
+- **Active campus construction zone:** Mobile Surveillance Unit at $1,500/mo for the contract duration.
+- **University stadium event coverage:** seasonal deployment, Mobile Surveillance Units scoped to home schedule.
 
 Retention configured at 30, 60, or 90 days based on district or university policy.
 

@@ -65,7 +65,7 @@ Use them to write specs, defend budgets, and shorten vendor evaluation from mont
 
 **[Temporary Surveillance Guide](/guides/temporary-surveillance)** — When to rent vs buy. Break-even analysis at 14 months.
 
-**[2026 Mobile Surveillance Pricing Guide](/guides/pricing-guide-2026)** — Sky Guard MSU at $2,200/mo, Swift Deploy at $1,500/mo, Boundary Guard Pro at $1,800/mo. and GSA cooperative pricing included.
+**[2026 Mobile Surveillance Pricing Guide](/guides/pricing-guide-2026)** — Mobile Surveillance Unit at $2,200/mo, Mobile Surveillance Unit at $1,500/mo, Mobile Surveillance Unit at $1,800/mo. and GSA cooperative pricing included.
 
 **[ROI Calculator](/guides/roi-calculator)** — Enter site value, incident frequency, and insurance deductible. Get a 12-month and 36-month payback projection.
 

@@ -31,7 +31,7 @@ finalCTAButtons:
 - label: See How It Compares
   url: /compare
 schemaType: Article
-internalLinks: /products/mobile-surveillance-trailers, /compare/vds-vs-fixed-cameras, /request-a-quote
+internalLinks: /products/mobile-surveillance-unit, /compare/vds-vs-fixed-cameras, /request-a-quote
 canonical: https://visiondetectionsystems.com/resources/blog/remote-surveillance-trailer-vs-fixed-cameras
 ogTitle: 'Remote Surveillance Trailer vs Installed Cameras: Which Is Right for Your Site?'
 ogDescription: 'Remote surveillance trailer vs fixed cameras: compare deployment speed, cost drivers, monitoring, and best-fit use cases for construction, parking lots'

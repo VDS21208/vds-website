@@ -1,5 +1,5 @@
 ---
-url: /locations/products/mobile-surveillance-trailersdallas
+url: /locations/products/mobile-surveillance-unitdallas
 collection: locations-city
 pageType: City Detail
 parent: /locations/mobile-surveillance-trailers
@@ -37,8 +37,8 @@ finalCTAButtons:
 - label: Request a DFW quote
   url: /contact-us/
 schemaType: LocalBusiness
-internalLinks: /locations/mobile-surveillance-trailers, /locations/texas, /products/boundary-guard-pro, /industries/construction-security, /industries/data-center, /industries/auto-dealer-security, /industries/oil-gas-security
-canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailersdallas
+internalLinks: /locations/mobile-surveillance-trailers, /locations/texas, /products/mobile-surveillance-unit, /industries/construction-security, /industries/data-center, /industries/auto-dealer-security, /industries/oil-gas-security
+canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-unitdallas
 ogTitle: Mobile surveillance trailers in Dallas, TX
 ogDescription: Mobile surveillance trailers across DFW. Largest construction market in Texas, Plano data center corridor, auto dealer clusters, oil & gas HQ operations
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg
@@ -70,7 +70,7 @@ We cover Dallas, Tarrant, Collin, Denton, and Rockwall counties from the Texas s
 
 ## A DFW-area deployment
 
-A Plano-area data center general contractor running a multi-phase build signed four Boundary Guard Pro units ($7,200/mo combined) for perimeter coverage of an active construction zone with high-value mechanical equipment on site. SOC handled 28 perimeter escalations across the first 8 months — including two verified copper-theft attempts that were interrupted before tools entered the zone. The customer added a fifth unit in month 6.
+A Plano-area data center general contractor running a multi-phase build signed four Mobile Surveillance Unit units ($7,200/mo combined) for perimeter coverage of an active construction zone with high-value mechanical equipment on site. SOC handled 28 perimeter escalations across the first 8 months — including two verified copper-theft attempts that were interrupted before tools entered the zone. The customer added a fifth unit in month 6.
 
 ## Local compliance note
 

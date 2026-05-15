@@ -38,7 +38,7 @@ finalCTAButtons:
 - label: Download the guide
   url: /request-a-quote/
 schemaType: Article
-internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /products/boundary-guard-pro, /guides/temporary-surveillance, /contact-us
+internalLinks: /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /guides/temporary-surveillance, /contact-us
 canonical: https://visiondetectionsystems.com/guides/event-security
 ogTitle: Event Security Playbook
 ogDescription: Festival, fair, and event surveillance. Parking lot coverage, vendor zone monitoring, and crowd flow analytics. 3-day to 3-month rentals.
@@ -78,7 +78,7 @@ Not all event hours carry equal risk. Effective coverage matches the threat curv
 
 Event coverage doesn't fit a monthly subscription cleanly. The guide breaks down four rental profiles:
 
-- **3-day weekend festival:** Sky Guard MSU rental ~$1,800 per unit, includes deployment, monitoring, and teardown.
+- **3-day weekend festival:** Mobile Surveillance Unit rental ~$1,800 per unit, includes deployment, monitoring, and teardown.
 - **2-week county fair:** ~$3,200 per unit, full SOC coverage all 14 days.
 - **6-week summer concert series:** ~$5,400 per unit, weekend-active SOC.
 - **3-month seasonal venue:** $2,200/mo standard rate kicks in, lower effective daily cost.
@@ -100,5 +100,5 @@ Event producers, festival operations directors, fair board security committees, 
 
 ## Related products
 
-- **[Sky Guard MSU](/products/sky-guard-mobile-surveillance-trailer)** — $2,200/mo, rental rates for events. Primary event deployment unit.
-- **[Swift Deploy](/products/swift-deplo
+- **[Mobile Surveillance Unit](/products/mobile-surveillance-unit)** — $2,200/mo, rental rates for events. Primary event deployment unit.
+- **[Mobile Surveillance Unit](/products/swift-deplo

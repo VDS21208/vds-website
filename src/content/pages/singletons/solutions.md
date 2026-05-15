@@ -24,7 +24,7 @@ heroStats:
 heroImage: ''
 faq:
 - q: Is pricing on these pages current?
-  a: Yes. Rates are reviewed quarterly. Configurations beyond the standard SKUs (Sky Guard MSU, Swift Deploy Trailer, Boundary Guard Pro) are quoted on a per-site basis.
+  a: Yes. Rates are reviewed quarterly. Configurations beyond the standard SKUs (Mobile Surveillance Unit, Mobile Surveillance Unit, Mobile Surveillance Unit) are quoted on a per-site basis.
 - q: Do you publish these numbers because you're cheap or because you're confident?
   a: Confident. Our SOC operators, NDAA-compliant hardware, and integrated VMS are priced against the full-stack alternative (separate hardware vendor + separate VMS + separate monitoring service), not against the cheapest trailer on Craigslist.
 - q: Can I get a custom TCO model for my site?

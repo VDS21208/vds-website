@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Get a Facility Assessment
   url: /platform/
 schemaType: Article
-internalLinks: /products/sky-guard | /products/solar-camera-poles | /products/boundary-guard-pro | /platform/platform | /compliance | /about-us/trust-center
+internalLinks: /products/mobile-surveillance-unit | /products/solar-powered-surveillance-kit | /products/mobile-surveillance-unit | /platform/platform | /compliance | /about-us/trust-center
 canonical: https://visiondetectionsystems.com/industries/data-center-security
 ogTitle: Data Center Perimeter, Fence-Line, and Construction-Phase Surveillance Aligned With  and
 ogDescription: Mobile surveillance for data center perimeters, fence lines, and construction phases.  and ISO 27001 aligned. NDAA-compliant, US-only AWS, audit log.
@@ -60,11 +60,11 @@ Construction phase is the highest-risk window. The site is large, the equipment 
 
 ## Recommended VDS configuration
 
-**Construction-phase perimeter (typically 12-24 months):** Sky Guard MSU at $2,200/mo and Swift Deploy at $1,500/mo. Solar-autonomous — operates before site power is energized. Boundary Guard Pro at $1,800/mo for 500-foot fence-line coverage on the active build perimeter.
+**Construction-phase perimeter (typically 12-24 months):** Mobile Surveillance Unit at $2,200/mo and Mobile Surveillance Unit at $1,500/mo. Solar-autonomous — operates before site power is energized. Mobile Surveillance Unit at $1,800/mo for 500-foot fence-line coverage on the active build perimeter.
 
-**Operational fence-line and approach roads:** Solar Camera Poles for fixed long-term placement. Boundary Guard Pro on the exterior fence. AI LPR on every approach road and gate.
+**Operational fence-line and approach roads:** Solar-Powered Surveillance Kit for fixed long-term placement. Mobile Surveillance Unit on the exterior fence. AI LPR on every approach road and gate.
 
-**Employee parking and transformer yards:** Sky Guard with PTZ coverage and LPR. Captures every plate, supports access correlation with the badge system.
+**Employee parking and transformer yards:** Mobile Surveillance Unit with PTZ coverage and LPR. Captures every plate, supports access correlation with the badge system.
 
 **Multi-site campus or multi-region operator:** AI VisionStream unifies the entire footprint. RBAC by site and by role. MFA on every account. Immutable 12-month audit log — every access, every export, attributed and timestamped.
 

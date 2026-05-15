@@ -26,7 +26,7 @@ faq:
 - q: Will dumpers come back if they get talked down once?
   a: Rarely. Audio talk-down combined with plate capture and code enforcement citation creates a strong deterrent. Repeat offense rates after the first intervention are below 10% in our case data.
 - q: We have a 5-acre vacant lot with multiple entry points. How does this work?
-  a: Two Swift Deploy units typically cover a multi-entry vacant lot. We design coverage based on a site walk.
+  a: Two Mobile Surveillance Unit units typically cover a multi-entry vacant lot. We design coverage based on a site walk.
 - q: Can the LPR data go to municipal code enforcement?
   a: Yes. SOC operators export plate, timestamp, and video evidence packages directly to your code enforcement contact.
 - q: What if the dumper has obscured plates?
@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Get a Quote
   url: /contact-us/
 schemaType: Article
-internalLinks: /products/swift-deploy-surveillance-trailer, /platform/platform, /platform/soc, /industries/construction-site-security, /industries/community-safety, /industries/commercial-property-security, /industries/community-safety
+internalLinks: /products/mobile-surveillance-unit, /platform/platform, /platform/soc, /industries/construction-site-security, /industries/community-safety, /industries/commercial-property-security, /industries/community-safety
 canonical: https://visiondetectionsystems.com/use-cases/illegal-dumping-prevention
 ogTitle: Illegal dumping prevention for construction, municipal, and commercial property.
 ogDescription: Stop illegal dumping at construction sites, vacant lots, and alley dumpsters. LPR captures every plate, SOC audio talk-down ends 90%+ of incidents
@@ -62,16 +62,16 @@ The pattern is repetitive. Once a site is identified as a "free" dump location, 
 
 ## How VDS prevents illegal dumping
 
-The intervention is two-stage: deterrent and identification. Swift Deploy at the site entrance runs LPR with 95%+ accuracy in under 3 seconds — every vehicle that enters is logged with timestamp, plate, and direction. AI VisionStream rules trigger on vehicles entering during off-hours, vehicles stopping for more than 4 minutes, and vehicles backing up to dumpsters or open ground.
+The intervention is two-stage: deterrent and identification. Mobile Surveillance Unit at the site entrance runs LPR with 95%+ accuracy in under 3 seconds — every vehicle that enters is logged with timestamp, plate, and direction. AI VisionStream rules trigger on vehicles entering during off-hours, vehicles stopping for more than 4 minutes, and vehicles backing up to dumpsters or open ground.
 
 The SOC operator pulls live video the moment a rule fires. Audio talk-down through the unit's speaker: "You are being recorded on private property. Your license plate has been logged and reported to local authorities. Leave the site now." In our case data, this ends the attempt in roughly 9 out of 10 cases before the load is dropped. When it doesn't, the LPR record and video are handed to local code enforcement or police for citation.
 
 ## Recommended VDS configuration
 
-- **Swift Deploy at the site entrance** — $1,500/mo. HD PTZ + LPR + AI analytics. Captures every plate in and out.
+- **Mobile Surveillance Unit at the site entrance** — $1,500/mo. HD PTZ + LPR + AI analytics. Captures every plate in and out.
 - **AI VisionStream rules** — after-hours vehicle entry, vehicle stopped >4min, backing up to dumpster, time-of-day arming.
 - **24/7 US SOC** — live audio talk-down, citation evidence package, code enforcement coordination.
-- **Optional second Swift Deploy** for sites with multiple entry points or large undeveloped lots.
+- **Optional second Mobile Surveillance Unit** for sites with multiple entry points or large undeveloped lots.
 
 ## Industries most affected
 
@@ -79,4 +79,4 @@ The SOC operator pulls live video the moment a rule fires. Audio talk-down throu
 
 ## ROI math
 
-A property with one to two dumping incidents per month at $800 average cleanup is losing $9,600 to $19,200 per year. A single Swift Deploy at $18,000/year prevents the recurring cleanup,
+A property with one to two dumping incidents per month at $800 average cleanup is losing $9,600 to $19,200 per year. A single Mobile Surveillance Unit at $18,000/year prevents the recurring cleanup,

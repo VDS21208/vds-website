@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Get a Quote
   url: /schedule-a-demo/
 schemaType: Article
-internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/boundary-guard-pro, /platform/soc, /privacy-by-design, /industries/hospitality-hotel-security, /industries
+internalLinks: /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /platform/soc, /privacy-by-design, /industries/hospitality-hotel-security, /industries
 canonical: https://visiondetectionsystems.com/industries/hospitality-healthcare-security
 ogTitle: Exterior Security for Healthcare and Hospitality Sites
 ogDescription: Exterior perimeter and parking lot surveillance for hospitals, behavioral health, and adjacent hospitality sites. HIPAA-aware retention. 24/7 US SOC.
@@ -75,9 +75,9 @@ Typical use cases:
 
 ## Recommended configuration
 
-- **Large parking deck or multi-lot campus:** two to four Sky Guard MSUs at $2,200/mo each, positioned for cross-coverage on access lanes and pedestrian routes.
-- **ER approach or loading dock:** one Sky Guard MSU plus Boundary Guard Pro at $1,800/mo with LPR — 95%+ read in under 3 seconds, tied to a vehicle watchlist your security team manages.
-- **Behavioral health perimeter:** Swift Deploy units at $1,500/mo along the fence line, exterior-facing only.
+- **Large parking deck or multi-lot campus:** two to four Mobile Surveillance Units at $2,200/mo each, positioned for cross-coverage on access lanes and pedestrian routes.
+- **ER approach or loading dock:** one Mobile Surveillance Unit plus Mobile Surveillance Unit at $1,800/mo with LPR — 95%+ read in under 3 seconds, tied to a vehicle watchlist your security team manages.
+- **Behavioral health perimeter:** Mobile Surveillance Unit units at $1,500/mo along the fence line, exterior-facing only.
 
 Retention configured at 30 days default for HIPAA-adjacent zones, extendable to 60 or 90 days for incident-response storage with privacy-officer sign-off.
 

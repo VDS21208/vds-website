@@ -22,7 +22,7 @@ heroImage: ''
 faq:
 - q: How do I verify your NDAA compliance claim?
   a: We provide a signed compliance statement with bill-of-materials traceability for every order. Federal and utility customers can request our full vendor documentation under NDA.
-- q: What happens if a Sky Guard MSU goes down at 2 AM?
+- q: What happens if a Mobile Surveillance Unit goes down at 2 AM?
   a: The SOC sees the disconnect in real time. A technician is dispatched from our Maryland facility or one of our regional service partners. Service-contracted units typically resolve within 24 hours for hardware failures and within 2 hours for cellular or software issues.
 - q: Can I use my existing cameras with AI VisionStream?
   a: Yes, if they meet our NDAA-compliance baseline and support standard streaming protocols (RTSP, ONVIF). The platform is camera-agnostic by design. We will audit your existing inventory during the consult.
@@ -53,7 +53,7 @@ This is not a feature comparison page. These are the eight structural decisions 
 
 We manufacture the hardware, operate the cloud VMS, and staff the SOC. One company, three layers, one accountable owner.
 
-**Proof:** Sky Guard MSU, Swift Deploy, Boundary Guard Pro, solar camera poles, guard booths, cooling stations, and light trailers are assembled by VDS in Pikesville, MD. AI VisionStream runs on AWS under our control. The SOC operates from our facility, staffed by VDS employees.
+**Proof:** Mobile Surveillance Unit, Mobile Surveillance Unit, Mobile Surveillance Unit, solar camera poles, guard booths, cooling stations, and light trailers are assembled by VDS in Pikesville, MD. AI VisionStream runs on AWS under our control. The SOC operates from our facility, staffed by VDS employees.
 
 ## 2. In-house US Security Operations Center
 
@@ -83,7 +83,7 @@ Pikesville, MD assembly plant. Quality control, programming, and integration don
 
 We do not mark up someone else's hardware. We design and build our own.
 
-**Proof:** Sky Guard MSU and Swift Deploy chassis, mast assemblies, solar integration, control electronics, and firmware are VDS-built. Cameras and solar panels are sourced from named, NDAA-compliant vendors and integrated by VDS engineers. The warranty is ours — not a passthrough.
+**Proof:** Mobile Surveillance Unit and Mobile Surveillance Unit chassis, mast assemblies, solar integration, control electronics, and firmware are VDS-built. Cameras and solar panels are sourced from named, NDAA-compliant vendors and integrated by VDS engineers. The warranty is ours — not a passthrough.
 
 ## 7. Transparent, all-inclusive pricing
 

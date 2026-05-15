@@ -99,7 +99,7 @@ The short version: if you're a city council member, an HOA board, or a private p
 
 ## Cost and TCO
 
-Flock contracts run roughly $2,500-$3,000 per camera per year, multi-year commit, paid upfront annually. A 20-camera city deployment is $50,000-$60,000/year before installation. VDS Sky Guard rents at $2,200/mo all-in, no upfront, month-to-month after the initial 90-day term. Different model, different commitment shape.
+Flock contracts run roughly $2,500-$3,000 per camera per year, multi-year commit, paid upfront annually. A 20-camera city deployment is $50,000-$60,000/year before installation. VDS Mobile Surveillance Unit rents at $2,200/mo all-in, no upfront, month-to-month after the initial 90-day term. Different model, different commitment shape.
 
 ## Switching from Flock (or migrating away after a council vote)
 

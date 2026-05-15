@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Get a Quote
   url: /contact-us/
 schemaType: Article
-internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /platform/platform, /platform/soc, /industries/construction-site-security, /industries/retail-shopping-center-security, /industries/school-campus-security, /industries/community-safety, /industries/community-safety, /industries/commercial-property-security
+internalLinks: /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /platform/platform, /platform/soc, /industries/construction-site-security, /industries/retail-shopping-center-security, /industries/school-campus-security, /industries/community-safety, /industries/community-safety, /industries/commercial-property-security
 canonical: https://visiondetectionsystems.com/use-cases/vandalism-prevention
 ogTitle: Vandalism prevention for construction, retail, schools, and public property.
 ogDescription: Stop graffiti, broken windows, and sabotage before they happen. AI loitering detection, thermal night vision, 24/7 US SOC audio talk-down
@@ -62,7 +62,7 @@ Vandalism is a loitering crime. Suspects approach, assess the site, position the
 
 ## How VDS prevents vandalism
 
-VDS targets the loiter window. AI VisionStream loitering detection rules fire when a person remains in a zone for more than a threshold (typically 60 to 120 seconds) during after-hours periods. Thermal imaging on Sky Guard MSU detects the suspect in low light or behind cover. Swift Deploy PTZ pulls in tight on the activity zone — most-vandalized corners, loading docks, rear walls, dumpster enclosures.
+VDS targets the loiter window. AI VisionStream loitering detection rules fire when a person remains in a zone for more than a threshold (typically 60 to 120 seconds) during after-hours periods. Thermal imaging on Mobile Surveillance Unit detects the suspect in low light or behind cover. Mobile Surveillance Unit PTZ pulls in tight on the activity zone — most-vandalized corners, loading docks, rear walls, dumpster enclosures.
 
 The SOC operator sees the live alert in seconds and initiates audio talk-down: "You are being recorded. Police have been dispatched. Leave the property now." This ends the attempt in the majority of cases before the spray, the rock, or the tool comes out. When it doesn't, plate capture and live video go to dispatched officers, and the incident package goes to your insurance and law enforcement contacts.
 
@@ -70,7 +70,7 @@ Repeat offender identification is part of the value. VDS preserves evidence acro
 
 ## Recommended VDS configuration
 
-- **Sky Guard MSU or Swift Deploy at most-vandalized corners** — $2,200 or $1,500/mo. Site walk identifies the 2-3 highest-priority positions.
+- **Mobile Surveillance Unit or Mobile Surveillance Unit at most-vandalized corners** — $2,200 or $1,500/mo. Site walk identifies the 2-3 highest-priority positions.
 - **AI VisionStream rules** — loitering detection, after-hours zones, person-on-site, repeat-vehicle alerts.
 - **24/7 US SOC** — audio talk-down, LE dispatch, insurance coordination, repeat offender pattern tracking.
 - **Cloud VMS retention** — 30 days standard, 90+ days for evidence on active investigations.
@@ -81,4 +81,4 @@ Repeat offender identification is part of the value. VDS preserves evidence acro
 
 ## ROI math
 
-A school with monthly graffiti incidents at $800 cleanup runs $9,600/year plus paint, plus staff time, plus parent complaints. A single Swift Deploy at $18,000/year prevents the recurring damage, the cluster pattern, and 
+A school with monthly graffiti incidents at $800 cleanup runs $9,600/year plus paint, plus staff time, plus parent complaints. A single Mobile Surveillance Unit at $18,000/year prevents the recurring damage, the cluster pattern, and 

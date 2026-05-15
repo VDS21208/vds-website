@@ -104,10 +104,10 @@ VDS is a smaller, more focused operation. We own the hardware, the VMS, the anal
 
 ECAM monitoring runs $400-$1,200 per site per month for service only. Hardware and installation are separate, typically through an authorized integrator network with their own markups. All-in monthlies often land $1,400-$2,800/mo per site for fixed coverage, plus capex on the camera installation.
 
-VDS Sky Guard at $2,200/mo includes the trailer, every camera on it, the LTE, the VMS, the SOC, the audio talk-down, and the LE dispatch workflow. No installer line item.
+VDS Mobile Surveillance Unit at $2,200/mo includes the trailer, every camera on it, the LTE, the VMS, the SOC, the audio talk-down, and the LE dispatch workflow. No installer line item.
 
 ## Switching from Stealth / ECAM
 
 1. **Identify the multi-vendor stack.** ECAM monitoring contract, separate installer maintenance contract, separate platform license. Map all three.
-2. **Replace the stack with one VDS contract.** Sky Guard for mobile/perimeter coverage, ONVIF ingest where you want to keep existing fixed cameras.
+2. **Replace the stack with one VDS contract.** Mobile Surveillance Unit for mobile/perimeter coverage, ONVIF ingest where you want to keep existing fixed cameras.
 3. **Brand-update the signage

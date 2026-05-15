@@ -1,5 +1,5 @@
 ---
-url: /locations/products/mobile-surveillance-trailerswashington-dc
+url: /locations/products/mobile-surveillance-unitwashington-dc
 collection: locations-city
 pageType: City Detail
 parent: /locations/mobile-surveillance-trailers
@@ -38,7 +38,7 @@ finalCTAButtons:
   url: /contact-us/
 schemaType: LocalBusiness
 internalLinks: /locations/mobile-surveillance-trailers, /locations/washington-dc, /locations/virginia, /locations/maryland, /compliance/ndaa-889, /compliance/gsa-schedule, /industries/federal
-canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailerswashington-dc
+canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-unitwashington-dc
 ogTitle: Mobile surveillance trailers in Washington, DC
 ogDescription: NDAA Section 889 compliant mobile surveillance trailers in DC, Northern Virginia, and suburban Maryland. GSA Schedule active. Federal procurement ready.
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg

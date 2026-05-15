@@ -1,5 +1,5 @@
 ---
-url: /locations/products/mobile-surveillance-trailersrichmond
+url: /locations/products/mobile-surveillance-unitrichmond
 collection: locations-city
 pageType: City Detail
 parent: /locations/mobile-surveillance-trailers
@@ -37,8 +37,8 @@ finalCTAButtons:
 - label: Request a Richmond quote
   url: /contact-us/
 schemaType: LocalBusiness
-internalLinks: /locations/mobile-surveillance-trailers, /locations/virginia, /products/boundary-guard-pro, /industries/government, /industries/university-campus, /compliance/ndaa-889
-canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailersrichmond
+internalLinks: /locations/mobile-surveillance-trailers, /locations/virginia, /products/mobile-surveillance-unit, /industries/government, /industries/university-campus, /compliance/ndaa-889
+canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-unitrichmond
 ogTitle: Mobile surveillance trailers in Richmond, VA
 ogDescription: Mobile surveillance trailers in Richmond, VA. Virginia state procurement ready, Capitol corridor coverage, VCU and Port of Virginia adjacent
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg
@@ -70,7 +70,7 @@ We cover the City of Richmond, Henrico, Chesterfield, Hanover, and Goochland cou
 
 ## A Richmond-area deployment
 
-A Virginia state agency running a multi-building campus upgrade selected VDS after a competitive RFP. Two Boundary Guard Pro units ($3,600/mo combined) deployed at the perimeter of the active construction zone. The deployment integrated with the agency's existing badge access system and the SOC handled 19 perimeter escalations across the first 6 months. Average SOC dispatch acknowledgment: 41 seconds. Zero footage data was shared outside the agency without written agency authorization.
+A Virginia state agency running a multi-building campus upgrade selected VDS after a competitive RFP. Two Mobile Surveillance Unit units ($3,600/mo combined) deployed at the perimeter of the active construction zone. The deployment integrated with the agency's existing badge access system and the SOC handled 19 perimeter escalations across the first 6 months. Average SOC dispatch acknowledgment: 41 seconds. Zero footage data was shared outside the agency without written agency authorization.
 
 ## Local compliance note
 

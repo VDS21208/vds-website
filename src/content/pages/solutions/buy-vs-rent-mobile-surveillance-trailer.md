@@ -41,7 +41,7 @@ finalCTAButtons:
 - label: Get Both Quotes
   url: /contact-us/
 schemaType: Article
-internalLinks: /solutions, /solutions/mobile-surveillance-trailer-cost, /solutions/mobile-surveillance-trailer-rental-cost, /products/sky-guard-mobile-surveillance-trailer
+internalLinks: /solutions, /solutions/mobile-surveillance-trailer-cost, /solutions/mobile-surveillance-trailer-rental-cost, /products/mobile-surveillance-unit
 canonical: https://visiondetectionsystems.com/solutions/buy-vs-rent-mobile-surveillance-trailer
 ogTitle: 'Buy vs Rent a Mobile Surveillance Trailer: The Decision Framework'
 ogDescription: Buy a mobile surveillance trailer at $38K or rent at $2,200/mo. Break-even hits at 24 months. Full decision framework with capex/opex math from VDS.
@@ -58,7 +58,7 @@ This page exists because every procurement conversation eventually lands on this
 
 ## The headline math
 
-At the Sky Guard MSU rate ($2,200/mo rental, $38,000 purchase):
+At the Mobile Surveillance Unit rate ($2,200/mo rental, $38,000 purchase):
 
 | Month | Cumulative Rental Cost | Purchase + Platform/SOC |
 |---|---|---|
@@ -117,7 +117,7 @@ VDS purchases include 1-year warranty standard. Extended warranty ($1,800/yr) co
 
 ## Cash flow comparison (5-year)
 
-**Rental (Sky Guard with SOC, 5 years):**
+**Rental (Mobile Surveillance Unit with SOC, 5 years):**
 - Year 1: $31,188
 - Year 2: $31,188
 - Year 3: $29,376 (long-term rate kicks in)
@@ -125,7 +125,7 @@ VDS purchases include 1-year warranty standard. Extended warranty ($1,800/yr) co
 - Year 5: $29,376
 - **Total: $150,504**
 
-**Purchase (Sky Guard with platform + SOC, 5 years):**
+**Purchase (Mobile Surveillance Unit with platform + SOC, 5 years):**
 - Year 1: $50,196 ($38K + $12.2K opex)
 - Year 2: $14,196 (opex only)
 - Year 3: $15,996 (opex + warranty)

@@ -1,5 +1,5 @@
 ---
-url: /locations/products/mobile-surveillance-trailersnashville
+url: /locations/products/mobile-surveillance-unitnashville
 collection: locations-city
 pageType: City Detail
 parent: /locations/mobile-surveillance-trailers
@@ -37,8 +37,8 @@ finalCTAButtons:
 - label: Request a Nashville quote
   url: /contact-us/
 schemaType: LocalBusiness
-internalLinks: /locations/mobile-surveillance-trailers, /locations/tennessee, /products/sky-guard-mobile-surveillance-trailer, /industries/construction-security, /industries/healthcare-security, /industries/data-center-security
-canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailersnashville
+internalLinks: /locations/mobile-surveillance-trailers, /locations/tennessee, /products/mobile-surveillance-unit, /industries/construction-security, /industries/healthcare-security, /industries/data-center-security
+canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-unitnashville
 ogTitle: Mobile surveillance trailers in Nashville, TN
 ogDescription: Mobile surveillance trailers across Nashville metro — downtown high-rise, Music Row, Vanderbilt expansion, data center growth, healthcare HQs
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg
@@ -70,7 +70,7 @@ We cover Davidson, Williamson, Wilson, Rutherford, Sumner, and Cheatham counties
 
 ## A Nashville-area deployment
 
-A general contractor running a 28-story SoBro mixed-use tower signed two Sky Guard MSUs at $2,200/mo each after a copper-theft incident on a neighboring project. We deployed within 76 hours of contract sign. In the first 60 days the SOC handled 18 verified perimeter escalations, average dispatch acknowledgment under 60 seconds, and Metro Nashville PD made one arrest on a recurring trespass attempt. The GC has since added a third unit at a Murfreesboro data center build.
+A general contractor running a 28-story SoBro mixed-use tower signed two Mobile Surveillance Units at $2,200/mo each after a copper-theft incident on a neighboring project. We deployed within 76 hours of contract sign. In the first 60 days the SOC handled 18 verified perimeter escalations, average dispatch acknowledgment under 60 seconds, and Metro Nashville PD made one arrest on a recurring trespass attempt. The GC has since added a third unit at a Murfreesboro data center build.
 
 ## Local compliance note
 

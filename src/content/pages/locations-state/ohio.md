@@ -37,7 +37,7 @@ finalCTAButtons:
 - label: Get an Ohio quote
   url: /resources/case-studies/
 schemaType: LocalBusiness
-internalLinks: /industries/warehouse-logistics-security, /industries/utility-substation-security, /procurement/, /products/boundary-guard-pro
+internalLinks: /industries/warehouse-logistics-security, /industries/utility-substation-security, /procurement/, /products/mobile-surveillance-unit
 canonical: https://visiondetectionsystems.com/locations/ohio
 ogTitle: Mobile surveillance for Ohio's logistics and semiconductor boom
 ogDescription: Mobile surveillance for Ohio's Intel chip plant construction, Columbus-Cincinnati logistics hubs, and AEP utility infrastructure
@@ -60,9 +60,9 @@ We pre-stage inventory near Columbus for statewide same-week coverage.
 
 **Semiconductor and large-scale construction.** Intel New Albany and the surrounding supplier ecosystem. Multi-unit perimeter deployments on construction footprints measured in hundreds of acres. We're active on suppliers and adjacent infrastructure builds.
 
-**Logistics and warehousing.** Rickenbacker, CVG, and the I-70/I-71 corridor warehouses. Cargo theft, after-hours intrusion, and yard equipment theft are the drivers. Boundary Guard Pro for yard perimeters and Swift Deploy for dock-area mobile coverage.
+**Logistics and warehousing.** Rickenbacker, CVG, and the I-70/I-71 corridor warehouses. Cargo theft, after-hours intrusion, and yard equipment theft are the drivers. Mobile Surveillance Unit for yard perimeters and Mobile Surveillance Unit for dock-area mobile coverage.
 
-**Utilities.** AEP and Duke Energy Ohio substations and transmission projects. Sky Guard MSU for active construction phases, Boundary Guard Pro for permanent monitoring on critical-asset substations.
+**Utilities.** AEP and Duke Energy Ohio substations and transmission projects. Mobile Surveillance Unit for active construction phases, Mobile Surveillance Unit for permanent monitoring on critical-asset substations.
 
 ## Coverage and lead time
 
@@ -74,7 +74,7 @@ Columbus pre-stage covers Cincinnati in 4 hours and Cleveland in 3.
 
 ## An Ohio-area deployment
 
-A logistics 3PL operating two cross-dock facilities in the Rickenbacker corridor was losing roughly $7,500/month between trailer break-ins, fuel theft from yard tractors, and after-hours intrusion attempts. Three Sky Guard MSUs and one Boundary Guard Pro fixed deployment went in over 7 business days. Six-month coverage: 28 deterred entries, two arrests via SOC-dispatched Pickaway County Sheriff, zero successful trailer or fuel theft incidents. 3PL added a Cincinnati site to the contract.
+A logistics 3PL operating two cross-dock facilities in the Rickenbacker corridor was losing roughly $7,500/month between trailer break-ins, fuel theft from yard tractors, and after-hours intrusion attempts. Three Mobile Surveillance Units and one Mobile Surveillance Unit fixed deployment went in over 7 business days. Six-month coverage: 28 deterred entries, two arrests via SOC-dispatched Pickaway County Sheriff, zero successful trailer or fuel theft incidents. 3PL added a Cincinnati site to the contract.
 
 ## Ohio compliance and procurement
 

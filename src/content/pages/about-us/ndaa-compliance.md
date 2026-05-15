@@ -24,7 +24,7 @@ heroStats:
 heroImage: ''
 faq:
 - q: Are all VDS products NDAA compliant, or just specific models?
-  a: 'All currently-shipping models: Sky Guard MSU, Swift Deploy, and Boundary Guard Pro. All have been Part A and Part B compliant since 2022.'
+  a: 'All currently-shipping models: Mobile Surveillance Unit, Mobile Surveillance Unit, and Mobile Surveillance Unit. All have been Part A and Part B compliant since 2022.'
 - q: What about VDS-installed third-party cameras integrated into the VMS?
   a: The VMS is camera-agnostic. If a customer integrates a third-party camera, NDAA compliance of that camera is the customer's responsibility. VDS will flag known prohibited brands during integration scoping.
 - q: Do you provide attestations for state or local government procurement?
@@ -37,7 +37,7 @@ finalCTAButtons:
 - label: Request attestation [/contact-us]
   url: /about-us/trust-center/
 schemaType: AboutPage
-internalLinks: /about-us/trust-center, /products/sky-guard, /products/swift-deploy-surveillance-trailer, /products/boundary-guard-pro, /contact-us
+internalLinks: /about-us/trust-center, /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /contact-us
 canonical: https://visiondetectionsystems.com/about-us/ndaa-compliance
 ogTitle: NDAA Section 889 Compliance
 ogDescription: VDS mobile units are fully compliant with NDAA Section 889 Parts A and B. Bill-of-materials traceability, supplier attestations
@@ -139,7 +139,7 @@ resolve correctly on the new site before publishing.
 
 ### Hardware Supply Chain
 
-<p>VDS maintains a fully audited hardware supply chain free from all Section 889-restricted manufacturers. Our mobile surveillance trailers, <a href="/products/solar-camera-poles">solar camera poles</a>, and fixed surveillance units contain no components from Huawei, ZTE, Hikvision, Dahua, or Hytera. Written attestation letters documenting supply chain compliance are available on request for all procurement programs.</p>
+<p>VDS maintains a fully audited hardware supply chain free from all Section 889-restricted manufacturers. Our mobile surveillance trailers, <a href="/products/solar-powered-surveillance-kit">solar camera poles</a>, and fixed surveillance units contain no components from Huawei, ZTE, Hikvision, Dahua, or Hytera. Written attestation letters documenting supply chain compliance are available on request for all procurement programs.</p>
 
 <p>Camera sensors, video processors, cellular modems, and connectivity modules are sourced exclusively from compliant suppliers with documented component traceability. All surveillance hardware is assembled in our Maryland facility under controlled manufacturing processes that maintain compliance integrity throughout production and deployment.</p>
 
@@ -167,13 +167,13 @@ resolve correctly on the new site before publishing.
 
 <table>
 
-<tr><td><strong>Swift Deploy Surveillance Trailer</strong></td><td>NDAA Section 889 Compliant ✓</td></tr>
+<tr><td><strong>Mobile Surveillance Unit</strong></td><td>NDAA Section 889 Compliant ✓</td></tr>
 
-<tr><td><strong>Sky Guard Mobile Surveillance Trailer</strong></td><td>NDAA Section 889 Compliant ✓</td></tr>
+<tr><td><strong>Mobile Surveillance Unit Mobile Surveillance Trailer</strong></td><td>NDAA Section 889 Compliant ✓</td></tr>
 
-<tr><td><strong>Boundary Guard Pro</strong></td><td>NDAA Section 889 Compliant ✓</td></tr>
+<tr><td><strong>Mobile Surveillance Unit</strong></td><td>NDAA Section 889 Compliant ✓</td></tr>
 
-<tr><td><strong>Solar Camera Poles</strong></td><td>NDAA Section 889 Compliant ✓</td></tr>
+<tr><td><strong>Solar-Powered Surveillance Kit</strong></td><td>NDAA Section 889 Compliant ✓</td></tr>
 
 <tr><td><strong>AI VisionStream Platform</strong></td><td>NDAA Section 889 Compliant ✓</td></tr>
 
@@ -191,7 +191,7 @@ resolve correctly on the new site before publishing.
 
 ## Federal and State Procurement Programs
 
-<p>VDS actively participates in federal and state procurement programs with full NDAA compliance documentation. Our GSA schedule participation provides federal agencies with pre-vetted pricing and compliance verification, streamlining procurement processes for <a href="/products/mobile-surveillance-trailers">mobile surveillance trailers</a> and monitoring services.</p>
+<p>VDS actively participates in federal and state procurement programs with full NDAA compliance documentation. Our GSA schedule participation provides federal agencies with pre-vetted pricing and compliance verification, streamlining procurement processes for <a href="/products/mobile-surveillance-unit">mobile surveillance trailers</a> and monitoring services.</p>
 
 <p>State contract vehicles and cooperative purchasing agreements receive the same compliance documentation and pricing transparency, enabling state and local agencies to leverage federal-level procurement efficiency while meeting their own compliance requirements. Procurement teams receive dedicated support for compliance questions, technical specifications, and program requirements throughout the evaluation and award process.</p>
 

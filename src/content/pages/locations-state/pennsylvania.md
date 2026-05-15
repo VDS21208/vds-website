@@ -26,9 +26,9 @@ faq:
 - q: Are you on COSTARS?
   a: Yes, on the active contract for our category. COSTARS is the procurement path most PA municipalities and school districts use.
 - q: Do you cover Marcellus well pads?
-  a: Yes. Solar-autonomous Sky Guard MSU is the standard for off-grid pad deployments. Customer crews can move units between pads on rotation.
+  a: Yes. Solar-autonomous Mobile Surveillance Unit is the standard for off-grid pad deployments. Customer crews can move units between pads on rotation.
 - q: Can you support PA borough downtown camera programs?
-  a: Yes. Boundary Guard Pro fixed-mount units on existing poles or our own poles, monitored 24/7 from our SOC.
+  a: Yes. Mobile Surveillance Unit fixed-mount units on existing poles or our own poles, monitored 24/7 from our SOC.
 - q: How does PA State Police dispatch work from your SOC?
   a: Same as any other jurisdiction. SOC operators verify the incident, dispatch via the customer's pre-configured response plan, and document the call.
 finalCTAHeading: Marcellus to Philadelphia, well pad to borough downtown
@@ -37,7 +37,7 @@ finalCTAButtons:
 - label: Get a PA quote
   url: /contact-us/
 schemaType: LocalBusiness
-internalLinks: /industries/oil-and-gas, /industries/community-safety, /procurement/costars, /products/sky-guard-mobile-surveillance-trailer
+internalLinks: /industries/oil-and-gas, /industries/community-safety, /procurement/costars, /products/mobile-surveillance-unit
 canonical: https://visiondetectionsystems.com/locations/pennsylvania
 ogTitle: Mobile surveillance for Pennsylvania construction, energy, and infrastructure
 ogDescription: Mobile surveillance for Pennsylvania construction, Marcellus oil & gas, PPL and FirstEnergy infrastructure, and municipal contracts
@@ -58,11 +58,11 @@ Pikesville is 100 miles from Philadelphia, 240 from Pittsburgh. East-PA deployme
 
 ## Industries we protect in Pennsylvania
 
-**Construction.** Philadelphia and Pittsburgh metro commercial, Lehigh Valley industrial and logistics, Harrisburg-area state and government construction. Standard Sky Guard MSU perimeter with copper and equipment theft as the driver.
+**Construction.** Philadelphia and Pittsburgh metro commercial, Lehigh Valley industrial and logistics, Harrisburg-area state and government construction. Standard Mobile Surveillance Unit perimeter with copper and equipment theft as the driver.
 
-**Oil & gas (Marcellus).** Northern and western PA Marcellus Shale operations — well pads, compressor stations, water management facilities. Sky Guard MSU solar-autonomous deployment is the standard for remote, off-grid sites.
+**Oil & gas (Marcellus).** Northern and western PA Marcellus Shale operations — well pads, compressor stations, water management facilities. Mobile Surveillance Unit solar-autonomous deployment is the standard for remote, off-grid sites.
 
-**Utilities and municipal.** PPL, FirstEnergy, and Duquesne Light substation work. PA municipal contracts under COSTARS for police-adjacent surveillance, parking enforcement, and event coverage. Many PA boroughs run our Boundary Guard Pro fixed units for downtown camera coverage.
+**Utilities and municipal.** PPL, FirstEnergy, and Duquesne Light substation work. PA municipal contracts under COSTARS for police-adjacent surveillance, parking enforcement, and event coverage. Many PA boroughs run our Mobile Surveillance Unit fixed units for downtown camera coverage.
 
 ## Coverage and lead time
 
@@ -75,7 +75,7 @@ Pikesville inventory covers most of PA in same-week. Limited pre-stage near Harr
 
 ## A Pennsylvania-area deployment
 
-A Marcellus E&P operator running 11 well pads across Susquehanna and Bradford counties was losing roughly $8,500/month to copper line and equipment theft, with most incidents at pads in 30-90 day post-completion before production equipment was secured. Four Sky Guard MSUs deployed in 9 business days to the four highest-loss pads on a rotation basis. Twelve-month coverage: 36 deterred entries, two arrests via SOC-dispatched PA State Police, zero successful theft incidents on covered pads. Operator added two more units to expand rotation.
+A Marcellus E&P operator running 11 well pads across Susquehanna and Bradford counties was losing roughly $8,500/month to copper line and equipment theft, with most incidents at pads in 30-90 day post-completion before production equipment was secured. Four Mobile Surveillance Units deployed in 9 business days to the four highest-loss pads on a rotation basis. Twelve-month coverage: 36 deterred entries, two arrests via SOC-dispatched PA State Police, zero successful theft incidents on covered pads. Operator added two more units to expand rotation.
 
 ## Pennsylvania compliance and procurement
 

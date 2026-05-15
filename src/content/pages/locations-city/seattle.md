@@ -1,5 +1,5 @@
 ---
-url: /locations/products/mobile-surveillance-trailersseattle
+url: /locations/products/mobile-surveillance-unitseattle
 collection: locations-city
 pageType: City Detail
 parent: /locations/mobile-surveillance-trailers
@@ -37,8 +37,8 @@ finalCTAButtons:
 - label: Request a Seattle quote
   url: /contact-us/
 schemaType: LocalBusiness
-internalLinks: /locations/mobile-surveillance-trailers, /locations/washington, /products/sky-guard-mobile-surveillance-trailer, /industries/construction-security, /industries/retail-orc, /industries/port-logistics
-canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-trailersseattle
+internalLinks: /locations/mobile-surveillance-trailers, /locations/washington, /products/mobile-surveillance-unit, /industries/construction-security, /industries/retail-orc, /industries/port-logistics
+canonical: https://visiondetectionsystems.com/locations/products/mobile-surveillance-unitseattle
 ogTitle: Mobile surveillance trailers in Seattle, WA
 ogDescription: Mobile surveillance trailers across Seattle metro — downtown, South Lake Union, Eastside tech campuses, Bellevue retail, Port of Seattle
 ogImage: https://visiondetectionsystems.com/assets/og-default.jpg
@@ -72,7 +72,7 @@ We cover King, Pierce, Snohomish, and Kitsap counties from a Northwest staging h
 
 ## A Seattle-area deployment
 
-A tech-campus general contractor running a 12-acre Bellevue construction site signed two Sky Guard MSUs at $2,200/mo each after their previous vendor's cellular-only unit went offline during a tooling-theft incident. We deployed within 80 hours of contract sign. In the first 90 days the SOC handled 26 verified perimeter escalations, Bellevue PD made one arrest on a repeat trespasser, and the project's after-hours theft losses dropped to zero. The GC has since standardized on VDS across its Eastside portfolio.
+A tech-campus general contractor running a 12-acre Bellevue construction site signed two Mobile Surveillance Units at $2,200/mo each after their previous vendor's cellular-only unit went offline during a tooling-theft incident. We deployed within 80 hours of contract sign. In the first 90 days the SOC handled 26 verified perimeter escalations, Bellevue PD made one arrest on a repeat trespasser, and the project's after-hours theft losses dropped to zero. The GC has since standardized on VDS across its Eastside portfolio.
 
 ## Local compliance note
 

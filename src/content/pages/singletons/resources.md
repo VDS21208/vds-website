@@ -44,7 +44,7 @@ This hub is the documentation layer for everything VDS deploys, monitors, and bi
 
 ## Case studies
 
-Verified outcomes from named deployments. Each case study includes the threat profile, the hardware configuration, the SOC response model, and the dollar value of avoided loss across the measurement window. Anchor study: a $28M Mid-Atlantic GC that cut theft 73% and saved $340,800 in 12 months with two Swift Deploy units and three Solar Camera Poles.
+Verified outcomes from named deployments. Each case study includes the threat profile, the hardware configuration, the SOC response model, and the dollar value of avoided loss across the measurement window. Anchor study: a $28M Mid-Atlantic GC that cut theft 73% and saved $340,800 in 12 months with two Mobile Surveillance Unit units and three Solar-Powered Surveillance Kit.
 
 **[Browse all case studies](/resources/case-studies)**
 
@@ -56,7 +56,7 @@ Technical analysis on the questions security directors and operations leaders ac
 
 ## Video library
 
-Six-minute product walkthroughs, a SOC operator floor tour, deployment time-lapses (Swift Deploy: 27 minutes from trailer drop to first frame), and customer testimonials shot on site. No actors, no stock footage.
+Six-minute product walkthroughs, a SOC operator floor tour, deployment time-lapses (Mobile Surveillance Unit: 27 minutes from trailer drop to first frame), and customer testimonials shot on site. No actors, no stock footage.
 
 **[Watch the videos](/resources/videos)**
 

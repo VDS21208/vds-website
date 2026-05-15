@@ -54,7 +54,7 @@ notes: Public-facing description of the dealer portal. Actual assets live behind
 
 **VDS company overview deck** (PowerPoint, Keynote, Google Slides). 18 slides covering the company, the integrated stack, the SOC, the case data, and the pricing tiers. Co-branded version available with your logo on the title slide and section dividers.
 
-**Product spec sheets** — Sky Guard MSU, Swift Deploy, Boundary Guard Pro. Each one is a 2-page PDF with photography, specifications, deployment requirements, and the standard service plan. Co-branded versions available.
+**Product spec sheets** — Mobile Surveillance Unit, Mobile Surveillance Unit, Mobile Surveillance Unit. Each one is a 2-page PDF with photography, specifications, deployment requirements, and the standard service plan. Co-branded versions available.
 
 **Vertical solution briefs** — construction, perimeter, lot and yard, energy and infrastructure, public sector adjacent. Each one is a 4-page PDF mapping the platform to vertical-specific use cases.
 

@@ -38,7 +38,7 @@ finalCTAButtons:
 - label: Download the guide
   url: /request-a-quote/
 schemaType: Article
-internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /products/boundary-guard-pro, /guides/pricing-guide-2026, /guides/event-security, /guides/construction-theft-prevention, /contact-us
+internalLinks: /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /guides/pricing-guide-2026, /guides/event-security, /guides/construction-theft-prevention, /contact-us
 canonical: https://visiondetectionsystems.com/guides/temporary-surveillance
 ogTitle: Temporary Surveillance Guide
 ogDescription: When to rent mobile surveillance vs commit to annual contract. Break-even math, short-term rates, and 30-day to 6-month deployment playbook.
@@ -84,14 +84,14 @@ Rental is the right answer when:
 
 (Full table in the PDF. Rates per unit.)
 
-- **3-day weekend deployment** — $1,800 flat (Sky Guard MSU)
-- **14-day deployment** — $3,200 flat (Sky Guard MSU)
-- **30-day rental** — $3,400/month (Sky Guard MSU)
-- **90-day rental** — $2,900/month (Sky Guard MSU)
-- **6-month rental** — $2,500/month (Sky Guard MSU)
-- **12-month contract** — $2,200/month (Sky Guard MSU)
+- **3-day weekend deployment** — $1,800 flat (Mobile Surveillance Unit)
+- **14-day deployment** — $3,200 flat (Mobile Surveillance Unit)
+- **30-day rental** — $3,400/month (Mobile Surveillance Unit)
+- **90-day rental** — $2,900/month (Mobile Surveillance Unit)
+- **6-month rental** — $2,500/month (Mobile Surveillance Unit)
+- **12-month contract** — $2,200/month (Mobile Surveillance Unit)
 
-Swift Deploy and Boundary Guard Pro rate cards in the full guide.
+Mobile Surveillance Unit and Mobile Surveillance Unit rate cards in the full guide.
 
 ## Free excerpt: the mixed-portfolio strategy
 
@@ -109,4 +109,4 @@ Project managers running multi-phase work, event producers, retail asset protect
 
 ## Related products
 
-- **[Sky Guard MSU](/products/sky-guard-mobile-surveillance-trailer)** — $2,200/mo contra
+- **[Mobile Surveillance Unit](/products/mobile-surveillance-unit)** — $2,200/mo contra

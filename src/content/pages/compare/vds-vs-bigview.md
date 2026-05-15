@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Request a pilot
   url: /contact-us/
 schemaType: Article
-internalLinks: /platform/platform, /products/sky-guard, /platform/soc, /compliance/ndaa, /resources/case-studies/mid-atlantic-gc, /compare
+internalLinks: /platform/platform, /products/mobile-surveillance-unit, /platform/soc, /compliance/ndaa, /resources/case-studies/mid-atlantic-gc, /compare
 canonical: https://visiondetectionsystems.com/compare/vds-vs-bigview
 ogTitle: VDS vs. BIGView
 ogDescription: BIGView leans AI-forward branding. VDS runs a 7-year-mature AI platform on AWS US-only, with a 24/7 SOC and 500+ deployments. Side-by-side comparison.
@@ -63,7 +63,7 @@ The .ai TLD is a marketing signal. It is not a product signal. AI in mobile surv
 | Domain | visiondetectionsystems.com | bigview.ai |
 | Headquarters | Pikesville, Maryland | United States |
 | Year founded | 2017 — 7 years of platform iteration | Newer entrant |
-| Owns the hardware | Yes — Sky Guard, Swift Deploy, Boundary Guard Pro | Yes |
+| Owns the hardware | Yes — Mobile Surveillance Unit, Mobile Surveillance Unit, Mobile Surveillance Unit | Yes |
 | Solar autonomous | Yes | Yes |
 | AI platform name | AI VisionStream | BIGView AI |
 | Camera-agnostic (ONVIF/RTSP) | Yes | Confirm |
@@ -97,7 +97,7 @@ The .ai TLD is a marketing signal. It is not a product signal. AI in mobile surv
 
 **Documented data governance.** US AWS regions only. TLS 1.3. AES-256. RBAC. MFA. 12-month immutable audit log. NDAA Section 889 in writing. These are the things insurance underwriters and federal buyers ask for. We answer them in writing on day one.
 
-**Published pricing.** Swift Deploy from $1,500/mo. Boundary Guard Pro from $1,800/mo. Sky Guard from $2,200/mo. Sky Guard purchase from $38,000. No quote-wall on the platform.
+**Published pricing.** Mobile Surveillance Unit from $1,500/mo. Mobile Surveillance Unit from $1,800/mo. Mobile Surveillance Unit from $2,200/mo. Mobile Surveillance Unit purchase from $38,000. No quote-wall on the platform.
 
 **Customer outcome data.** $28M Mid-Atlantic GC project — 73% theft reduction, $0 insurance claims, $340,800 saved in 12 months. That is the conversation we want the comparison to land on.
 
@@ -105,9 +105,9 @@ The .ai TLD is a marketing signal. It is not a product signal. AI in mobile surv
 
 | Product | VDS published | BIGView |
 |---|---|---|
-| Solar mobile unit, monthly | From $1,500/mo (Swift Deploy) | Confirm |
-| Premium MSU monthly | From $2,200/mo (Sky Guard) | Confirm |
-| Purchase | From $38,000 (Sky Guard) | Confirm |
+| Solar mobile unit, monthly | From $1,500/mo (Mobile Surveillance Unit) | Confirm |
+| Premium MSU monthly | From $2,200/mo (Mobile Surveillance Unit) | Confirm |
+| Purchase | From $38,000 (Mobile Surveillance Unit) | Confirm |
 | AI platform | Included | Confirm bundle |
 | 24/7 SOC | Included | Confirm scope |
 

@@ -38,7 +38,7 @@ finalCTAButtons:
 - label: Book deployment review
   url: /pricing/
 schemaType: Article
-internalLinks: /products/sky-guard-mobile-surveillance-trailer, /products/swift-deploy-surveillance-trailer, /products/boundary-guard-pro, /guides/pricing-guide-2026, /guides/construction-theft-prevention, /resources/case-studies/mid-atlantic-gc, /contact-us
+internalLinks: /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /products/mobile-surveillance-unit, /guides/pricing-guide-2026, /guides/construction-theft-prevention, /resources/case-studies/mid-atlantic-gc, /contact-us
 canonical: https://visiondetectionsystems.com/guides/roi-calculator
 ogTitle: Mobile Surveillance ROI Calculator
 ogDescription: Calculate 12-month and 36-month ROI for solar-autonomous mobile surveillance with 24/7 SOC monitoring. Free, no email required.
@@ -95,7 +95,7 @@ This is not a sales calculator that always returns a positive number. It runs yo
 - Break-even month
 
 **Recommended configuration**
-- Suggested unit mix (Sky Guard MSU, Swift Deploy, Boundary Guard Pro)
+- Suggested unit mix (Mobile Surveillance Unit, Mobile Surveillance Unit, Mobile Surveillance Unit)
 - Suggested SOC coverage tier
 - or GSA pricing path (if applicable)
 

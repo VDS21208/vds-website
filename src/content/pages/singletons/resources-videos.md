@@ -14,7 +14,7 @@ heroCTAPrimary:
   label: Watch the SOC tour
   url: /request-a-quote
 heroCTASecondary:
-  label: Watch a Swift Deploy time-lapse
+  label: Watch a Mobile Surveillance Unit time-lapse
   url: /request-a-quote
 heroStats:
 - 20+ videos
@@ -42,10 +42,10 @@ tags: mobile surveillance, VDS
 ### Product demos
 Six-to-eight-minute walkthroughs of each product, narrated by the engineer who designed it. Covers the camera array, the solar and battery configuration, the network stack, the deployment procedure, and the failure modes.
 
-- **Sky Guard MSU: Full walkthrough** — 8 minutes
-- **Swift Deploy: From trailer drop to first frame in 27 minutes** — 9 minutes
-- **Boundary Guard Pro: Configuration and field calibration** — 7 minutes
-- **Solar Camera Pole: Installation in 45 minutes** — 6 minutes
+- **Mobile Surveillance Unit: Full walkthrough** — 8 minutes
+- **Mobile Surveillance Unit: From trailer drop to first frame in 27 minutes** — 9 minutes
+- **Mobile Surveillance Unit: Configuration and field calibration** — 7 minutes
+- **Solar-Powered Surveillance Kit: Installation in 45 minutes** — 6 minutes
 
 ### SOC walkthrough
 - **Inside the VDS SOC: Operator floor tour** — 11 minutes. A SOC supervisor walks through the operator console, the alert workflow, the audio talk-down protocol, and the LE dispatch coordination.
@@ -60,9 +60,9 @@ Recorded on customer sites. No script provided to the interviewee — the questi
 - **Logistics yard manager: Drop-trailer protection** — 10 minutes
 
 ### Deployment time-lapses
-- **Swift Deploy at a 4-acre construction site: 27 minutes condensed to 90 seconds** — 90 seconds
-- **Sky Guard MSU at a utility substation: First-light deployment** — 2 minutes
-- **Solar Camera Pole installation, three-pole array** — 3 minutes
+- **Mobile Surveillance Unit at a 4-acre construction site: 27 minutes condensed to 90 seconds** — 90 seconds
+- **Mobile Surveillance Unit at a utility substation: First-light deployment** — 2 minutes
+- **Solar-Powered Surveillance Kit installation, three-pole array** — 3 minutes
 
 ### Capability deep-dives
 - **Thermal vs. visible-light: When each is decisive** — 7 minutes

@@ -32,14 +32,14 @@ faq:
 - q: Can I lease just the cameras, not the trailer?
   a: That's a platform-only deployment with customer-supplied cameras — see [Subscription Plans](/pricing/subscription-plans). Different product.
 - q: Can I lease-to-own?
-  a: Yes, on Sky Guard MSU. Standard lease-to-own runs 36 months at $2,200/mo with a $500 buyout at end of term. Other trailers quote-based.
+  a: Yes, on Mobile Surveillance Unit. Standard lease-to-own runs 36 months at $2,200/mo with a $500 buyout at end of term. Other trailers quote-based.
 finalCTAHeading: Lease a trailer
 finalCTABody: Quote in one business day. Trailer on site in 5-10 business days. Cancel any month after 90 days.
 finalCTAButtons:
 - label: Get a Lease Quote
   url: /contact-us/
 schemaType: WebPage
-internalLinks: /pricing, /pricing/purchase-options, /pricing/subscription-plans, /products/mobile-surveillance-trailers, /platform/soc
+internalLinks: /pricing, /pricing/purchase-options, /pricing/subscription-plans, /products/mobile-surveillance-unit, /platform/soc
 canonical: https://visiondetectionsystems.com/pricing/leasing-rentals
 ogTitle: Lease a Trailer Without Surprise Charges
 ogDescription: VDS trailer leasing terms — 3-month minimum, month-to-month after, includes platform, SOC optional. Short-term event rentals and multi-year fleet leases.

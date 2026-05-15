@@ -39,7 +39,7 @@ finalCTAButtons:
 - label: Get a Site Assessment
   url: /contact-us/
 schemaType: Article
-internalLinks: /products/sky-guard | /products/solar-camera-poles | /products/boundary-guard-pro | /platform/platform | /compliance/ndaa | /about-us/trust-center
+internalLinks: /products/mobile-surveillance-unit | /products/solar-powered-surveillance-kit | /products/mobile-surveillance-unit | /platform/platform | /compliance/ndaa | /about-us/trust-center
 canonical: https://visiondetectionsystems.com/industries/critical-infrastructure-security
 ogTitle: Surveillance Infrastructure for Water, Telecom, and Transmission Sites Where Compliance Is Not
 ogDescription: Mobile surveillance for water, telecom, and transmission corridor sites. NDAA Section 889, US-only AWS, immutable audit log. NERC CIP and TSA-aligned.
@@ -60,9 +60,9 @@ NERC CIP-014 requires physical security plans for high-impact assets. TSA Securi
 
 ## Recommended VDS configuration
 
-**Remote substations and pump stations:** Sky Guard MSU at $2,200/mo. Solar-autonomous — runs through a week of overcast without grid power. 30-foot mast clears tree lines and equipment yards. NDAA Section 889 compliant cameras throughout.
+**Remote substations and pump stations:** Mobile Surveillance Unit at $2,200/mo. Solar-autonomous — runs through a week of overcast without grid power. 30-foot mast clears tree lines and equipment yards. NDAA Section 889 compliant cameras throughout.
 
-**Transmission and pipeline corridor:** Solar Camera Poles for fixed long-term placement at access roads, valve stations, and right-of-way crossings. Boundary Guard Pro at $1,800/mo for 500-foot fence-line detection at fenced substations and treatment plants.
+**Transmission and pipeline corridor:** Solar-Powered Surveillance Kit for fixed long-term placement at access roads, valve stations, and right-of-way crossings. Mobile Surveillance Unit at $1,800/mo for 500-foot fence-line detection at fenced substations and treatment plants.
 
 **Multi-site rollout:** AI VisionStream platform unifies the entire footprint. One dashboard, role-based access by site and by user, MFA enforced, every action logged.
 

@@ -29,14 +29,14 @@ faq:
 - q: Why are you recommending competitors?
   a: Because pretending we can serve Canada well today would waste your time and ours. If you need Canadian operations now, Zedcor, A&B, SureSite, Spotter, or LotCop will serve you better than we would.
 - q: Is VDS hardware different in Canada?
-  a: 'The hardware itself runs in cold weather (Sky Guard MSU rated to -20F). The gap is the back-end: data residency, SOC language coverage, and provincial compliance. Hardware is the easy part.'
+  a: 'The hardware itself runs in cold weather (Mobile Surveillance Unit rated to -20F). The gap is the back-end: data residency, SOC language coverage, and provincial compliance. Hardware is the easy part.'
 finalCTAHeading: Two ways to work with VDS in Canada today
 finalCTABody: Cross-border programs are live now. Direct Canadian deployments are on the roadmap. Tell us which you need.
 finalCTAButtons:
 - label: Talk to sales about cross-border
   url: /contact-us/
 schemaType: Article
-internalLinks: /locations, /locations/canada/toronto, /locations/canada/vancouver, /guides/mobile-surveillance-canada, /products/sky-guard-mobile-surveillance-trailer, /company/about
+internalLinks: /locations, /locations/canada/toronto, /locations/canada/vancouver, /guides/mobile-surveillance-canada, /products/mobile-surveillance-unit, /company/about
 canonical: https://visiondetectionsystems.com/locations/canada
 ogTitle: Canada
 ogDescription: VDS operates in 30+ US states. Canadian deployments are planned. Honest guidance for Canadian buyers today, plus US/Canada cross-border programs.

@@ -12,10 +12,10 @@
 - [NDAA Section 889](https://visiondetectionsystems.com/about-us/ndaa-compliance): Federal procurement compliance
 
 ## Products
-- [Mobile surveillance trailers](https://visiondetectionsystems.com/products/mobile-surveillance-trailers)
-- [Sky Guard MSU](https://visiondetectionsystems.com/products/sky-guard-mobile-surveillance-trailer)
-- [Swift Deploy](https://visiondetectionsystems.com/products/swift-deploy-surveillance-trailer)
-- [Boundary Guard Pro](https://visiondetectionsystems.com/products/boundary-guard-pro)
+- [Mobile surveillance trailers](https://visiondetectionsystems.com/products/mobile-surveillance-unit)
+- [Mobile Surveillance Unit](https://visiondetectionsystems.com/products/mobile-surveillance-unit)
+- [Mobile Surveillance Unit](https://visiondetectionsystems.com/products/mobile-surveillance-unit)
+- [Mobile Surveillance Unit](https://visiondetectionsystems.com/products/mobile-surveillance-unit)
 
 ## Platform
 - [AI VisionStream](https://visiondetectionsystems.com/platform)
