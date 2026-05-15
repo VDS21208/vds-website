@@ -203,38 +203,7 @@ export default defineConfig({
       makeCollection("pricing", "💰 Pricing", "src/content/pages/pricing"),
       makeCollection("singletons", "🔑 Singletons (Home / Platform / etc.)", "src/content/pages/singletons"),
       makeCollection("resources", "📦 Resources", "src/content/pages/resources"),
-      {
-        name: "nav",
-        label: "🧭 Site Navigation",
-        path: "src/data",
-        format: "json" as const,
-        match: { include: "nav" },
-        fields: [
-          {
-            type: "object",
-            name: "sections",
-            label: "Nav Sections",
-            list: true,
-            ui: { itemProps: (s: any) => ({ label: s?.label || "Section" }) },
-            fields: [
-              { type: "string", name: "label", label: "Section Label" },
-              { type: "string", name: "url", label: "Section URL" },
-              {
-                type: "object",
-                name: "primary",
-                label: "Primary Links",
-                list: true,
-                ui: { itemProps: (l: any) => ({ label: l?.label || "Link" }) },
-                fields: [
-                  { type: "string", name: "label" },
-                  { type: "string", name: "url" },
-                  { type: "string", name: "notes", label: "Subtitle (mega menu description)" },
-                ],
-              },
-            ],
-          },
-        ],
-      },
+      
     ],
   },
 });
